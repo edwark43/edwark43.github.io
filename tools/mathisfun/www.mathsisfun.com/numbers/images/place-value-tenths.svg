@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="254.2"
+   height="174.6"
+   version="1.1"
+   id="svg53"
+   sodipodi:docname="place-value-tenths.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata57">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview55"
+     showgrid="false"
+     inkscape:current-layer="svg53"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs5">
+    <marker
+       id="id01"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         style="stroke:black;stroke-width:0.43pt"
+         d="M -4.3,0 -6.4,2.1 1.1,0 -6.4,-2.1 Z"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id019308"
+       inkscape:stockid="id019308">
+      <path
+         style="stroke:#204a87;stroke-width:0.43pt;stroke-opacity:1;fill-opacity:1;fill:#204a87"
+         d="M -4.3,0 -6.4,2.1 1.1,0 -6.4,-2.1 Z"
+         id="path914" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id012346"
+       inkscape:stockid="id012346">
+      <path
+         style="stroke:#204a87;stroke-width:0.43pt;stroke-opacity:1;fill-opacity:1;fill:#204a87"
+         d="M -4.3,0 -6.4,2.1 1.1,0 -6.4,-2.1 Z"
+         id="path917" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id017259"
+       inkscape:stockid="id017259">
+      <path
+         style="stroke:#204a87;stroke-width:0.43pt;stroke-opacity:1;fill-opacity:1;fill:#204a87"
+         d="M -4.3,0 -6.4,2.1 1.1,0 -6.4,-2.1 Z"
+         id="path920" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id016800"
+       inkscape:stockid="id016800">
+      <path
+         style="stroke:#204a87;stroke-width:0.43pt;stroke-opacity:1;fill-opacity:1;fill:#204a87"
+         d="M -4.3,0 -6.4,2.1 1.1,0 -6.4,-2.1 Z"
+         id="path923" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id018808"
+       inkscape:stockid="id018808">
+      <path
+         style="stroke:#204a87;stroke-width:0.43pt;stroke-opacity:1;fill-opacity:1;fill:#204a87"
+         d="M -4.3,0 -6.4,2.1 1.1,0 -6.4,-2.1 Z"
+         id="path926" />
+    </marker>
+  </defs>
+  <rect
+     x="0.002"
+     y="93.0734"
+     rx="8.8"
+     width="254.2"
+     height="81.5"
+     style="overflow:visible;fill:#b3defd;stroke-width:1.81"
+     id="rect7" />
+  <circle
+     cx="149.602"
+     cy="75.7734"
+     r="17.1177"
+     style="overflow:visible;fill:#ffff99;stroke-width:1.07px"
+     id="circle9" />
+  <ellipse
+     cx="213.902"
+     cy="116.473"
+     rx="33.5"
+     ry="33.1"
+     style="overflow:visible;fill:#59b3ff;stroke-width:1.07px"
+     id="ellipse11" />
+  <g
+     transform="matrix(0.323558,-0.012499,-0.004841,-0.835434,-17.6585,484.814)"
+     id="g19">
+    <path
+       style="overflow:visible;fill:#ef2929;fill-opacity:0.92;stroke-width:7.68"
+       d="m 600.2,395.1 c -40.2,-9.2 -81.8,-6.8 -122.7,-7.4 -62.3,0.6 -124.3,7.5 -186.3,13.3 -42.3,2.6 -84.9,4 -127.2,1.3 -12.7,-0.9 -25.2,-4 -37.2,-8.4 2.6,6.4 10.1,6.5 15.9,8.6 27.2,6.6 55.5,5.1 83.3,5.2 40.8,-0.1 81.4,-3.3 122,-7.8 56.4,-5.6 113.1,-9.3 169.8,-8 28.7,0 57.7,1 85.8,7.3 1.8,0 -3.1,-3.4 -3.4,-4.2 z"
+       id="path13" />
+    <path
+       style="overflow:visible;fill:#ef2929;fill-opacity:0.92;stroke-width:7.68"
+       d="m 561.9,379.5 c -0.4,-1 -0.4,-1.2 0.6,-0.6 3.6,1.3 7.1,2.7 10.6,4.1 6,2.1 12.3,3.5 18.3,5.5 4.9,1.6 9.8,3.5 15,4.2 2.6,0.4 5.2,0.7 7.8,1.2 -1.6,1.1 -3.1,2.3 -4.7,3.4 -5.5,-0.8 -11.1,-1.5 -16.4,-3.4 -6.6,-2.3 -13.3,-4.2 -20,-6.1 -4.3,-1.2 -8.4,-3.2 -12.6,-4.7 -1.7,-0.7 -3.5,-1.2 -4.8,-2.4 -0.8,-1.1 0.1,-1.1 1,-1.1 1.7,0 3.4,0 5.1,0 z"
+       id="path15" />
+    <path
+       style="overflow:visible;fill:#ef2929;fill-opacity:0.92;stroke-width:7.68"
+       d="m 558.3,402.7 c 0,-1.3 1.4,-2 2.4,-2.4 3.9,-1.5 8.2,-1.9 12.3,-2.6 6.4,-1 12.8,-1.6 19.3,-2 5,-0.4 10,-0.7 15,-0.4 1.8,0.1 3.5,0.2 5.3,0.4 -1.5,1.2 -3,2.4 -4.5,3.5 -4.5,-0.3 -9,-0.5 -13.6,-0.2 -6.2,0.5 -12.4,0.8 -18.5,1.6 -1.5,0.2 -2.9,0.4 -4.4,0.6 0.6,0 2.5,-0.4 2.3,-0.3 -2.9,0.4 -5.8,1 -8.6,1.8 -0.6,0.1 -0.6,-0.4 -1.3,-0.2 -1.9,0 -3.8,0 -5.7,0 z"
+       id="path17" />
+  </g>
+  <text
+     x="42.202"
+     y="169.173"
+     style="font-size:17.8px;font-family:'Comic Sans MS';overflow:visible;opacity:0.85;fill:#ef2929;stroke-width:1.07px"
+     id="text21">10x Smaller</text>
+  <text
+     x="54.902"
+     y="76.3734"
+     style="font-size:48px;font-family:'Comic Sans MS';overflow:visible;fill:#013397;stroke-width:1.07px"
+     id="text23">327.4</text>
+  <text
+     x="131.602"
+     y="126.273"
+     style="font-size:26.7px;font-family:'Comic Sans MS';overflow:visible;fill:#4b6d9e;stroke-width:1.07px"
+     id="text25">1s</text>
+  <text
+     x="77.902"
+     y="126.273"
+     style="font-size:26.7px;font-family:'Comic Sans MS';overflow:visible;fill:#4b6d9e;stroke-width:1.07px"
+     id="text27">10s</text>
+  <text
+     x="11.102"
+     y="126.273"
+     style="font-size:26.7px;font-family:'Comic Sans MS';overflow:visible;fill:#496c9d;stroke-width:1.07px"
+     id="text29">100s</text>
+  <path
+     style="overflow:visible;fill:#013397;stroke:#204a87;stroke-width:1.52;marker-end:url(#id016800)"
+     d="m 144.102,102.173 -14.2,-15.7996"
+     id="path31" />
+  <path
+     style="overflow:visible;fill:#013397;stroke:#204a87;stroke-width:1.52;marker-end:url(#id017259)"
+     d="m 95.602,102.473 -1.3,-17.5996"
+     id="path33" />
+  <path
+     style="overflow:visible;fill:#013397;stroke:#204a87;stroke-width:1.52;marker-end:url(#id012346)"
+     d="m 42.002,103.973 13.9,-18.7996"
+     id="path35" />
+  <path
+     style="overflow:visible;fill:#013397;stroke:#204a87;stroke-width:1.52;marker-end:url(#id018808)"
+     d="m 192.702,104.873 -14.5,-20.9996"
+     id="path37" />
+  <text
+     x="196.202"
+     y="111.473"
+     style="font-style:italic;font-size:21.4px;font-family:'Comic Sans MS';overflow:visible;fill:#000000;stroke-width:1.07px"
+     id="text39">1</text>
+  <text
+     x="187.502"
+     y="134.073"
+     style="font-style:italic;font-size:21.4px;font-family:'Comic Sans MS';overflow:visible;fill:#000000;stroke-width:1.07px"
+     id="text41">10</text>
+  <path
+     style="overflow:visible;fill:#fb0003;stroke:#204a87;stroke-width:1.6;marker-end:url(#id019308)"
+     d="m 150.402,21.0734 v 40"
+     id="path43" />
+  <text
+     x="89.002"
+     y="15.3734"
+     style="font-size:19.6px;font-family:'Comic Sans MS';overflow:visible;fill:#204a87;stroke-width:1.07px"
+     id="text45">Decimal Point</text>
+  <text
+     x="215.002"
+     y="120.573"
+     style="font-style:italic;font-size:18.7px;font-family:'Comic Sans MS';overflow:visible;fill:#000000;stroke-width:1.07px"
+     id="text47">ths</text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.6"
+     d="m 187.002,114.973 h 27"
+     id="path49" />
+</svg>

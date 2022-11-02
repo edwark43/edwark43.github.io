@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="298.385"
+   height="74.4619"
+   version="1.1"
+   id="svg46"
+   sodipodi:docname="inequality-transitive.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview48"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg46" />
+  <defs
+     id="defs8">
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id01">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#fb8b00;stroke:#fb8b00;stroke-width:1pt"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id02">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#fb8b00;stroke:#fb8b00;stroke-width:1pt"
+         id="path5" />
+    </marker>
+  </defs>
+  <g
+     transform="translate(-1820.71,-1251.04)"
+     id="g10" />
+  <rect
+     x="13.0925"
+     y="0"
+     ry="12.7"
+     width="259.9"
+     height="25.5"
+     style="overflow:visible;fill:#ffffc4;fill-opacity:1;stroke-width:3.1"
+     id="rect12" />
+  <rect
+     x="13.0925"
+     y="48.9619"
+     ry="12.7"
+     width="259.9"
+     height="25.5"
+     style="overflow:visible;fill:#daeffe;fill-opacity:1;stroke-width:3.1"
+     id="rect14" />
+  <path
+     d="m 118.393,28.1619 v 17.2"
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:0.73"
+     id="path16" />
+  <path
+     d="m 156.879,28.1619 v 8.6157"
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:0.729999"
+     id="path18" />
+  <path
+     d="m 223.393,28.1619 v 17.2"
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:0.73"
+     id="path20" />
+  <text
+     x="113.793"
+     y="20.4619"
+     style="font-size:21.2px;font-family:'Trebuchet MS';overflow:visible;fill:#0000ff;stroke-width:1px"
+     id="text22">a</text>
+  <path
+     d="M 3.1925,36.7619 H 295.193"
+     style="fill:#fdca01;fill-opacity:0.75;stroke:#fb8b00;stroke-width:1.62;marker-start:url(#id01);marker-end:url(#id02)"
+     id="path24" />
+  <text
+     x="150.662"
+     y="20.4619"
+     style="font-size:21.2px;font-family:'Trebuchet MS';overflow:visible;fill:#0000ff;stroke-width:1px"
+     id="text26">b</text>
+  <text
+     x="218.792"
+     y="20.4619"
+     style="font-size:21.2px;font-family:'Trebuchet MS';overflow:visible;fill:#0000ff;stroke-width:1px"
+     id="text28">c</text>
+  <text
+     x="130.98"
+     y="21.6882"
+     style="font-size:27.1px;font-family:'Trebuchet MS';overflow:visible;fill:#c4a000;stroke-width:7.45"
+     id="text30">&lt;</text>
+  <text
+     x="184.253"
+     y="22.097"
+     style="font-size:27.1px;font-family:'Trebuchet MS';overflow:visible;fill:#c4a000;stroke-width:7.45"
+     id="text32">&lt;</text>
+  <text
+     x="112.993"
+     y="69.3619"
+     style="font-size:21.2px;font-family:'Trebuchet MS';overflow:visible;fill:#0000ff;stroke-width:1px"
+     id="text34">a</text>
+  <text
+     x="217.992"
+     y="69.3619"
+     style="font-size:21.2px;font-family:'Trebuchet MS';overflow:visible;fill:#0000ff;stroke-width:1px"
+     id="text36">c</text>
+  <text
+     x="164.727"
+     y="70.997"
+     style="font-size:27.1px;font-family:'Trebuchet MS';overflow:visible;fill:#c4a000;stroke-width:7.45"
+     id="text38">&lt;</text>
+  <text
+     x="24.9925"
+     y="20.4619"
+     style="font-size:21.2px;font-family:'Trebuchet MS';overflow:visible;fill:#0000ff;stroke-width:1px"
+     id="text40">If:</text>
+  <text
+     x="23.8925"
+     y="69.3619"
+     style="font-size:21.2px;font-family:'Trebuchet MS';overflow:visible;fill:#0000ff;stroke-width:1px"
+     id="text42">Then:</text>
+</svg>

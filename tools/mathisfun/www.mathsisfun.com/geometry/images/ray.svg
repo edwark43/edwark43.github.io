@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="357.3" height="85.1" version="1.1">
+<defs>
+<marker id="id2" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(0.4,0,0,0.4,2.96,0.4)" style="stroke:black; stroke-width:1pt;" d="m -2.5,-1 c 0,2.8 -2.2,5 -5,5 -2.8,0 -5,-2.2 -5,-5 0,-2.8 2.2,-5 5,-5 2.8,0 5,2.2 5,5 z"/>
+</marker>
+</defs>
+<g transform="translate(-486.229,-795.095)">
+<g transform="matrix(0.17,0,0,0.17,573.875,749.104)">
+<path style="fill:#ff0000; stroke:#421313; stroke-width:10.69;" d="m -361.2,390.3 c -0.5,0 -1,0.4 -1,0.8 v 1.1 h -102.5 c -0.4,0 -0.8,0.3 -0.8,0.6 v 0.5 c -24.9,2.3 -44.8,50.7 -44.8,110 0,59.3 19.9,107.7 44.8,110 0,0.3 0.4,0.6 0.8,0.6 h 102.5 v 0.7 c 0,0.5 0.5,0.8 1,0.8 h 349.3 c 0.5,0 1,-0.4 1,-0.8 V 391.1 c 0,-0.5 -0.4,-0.8 -1,-0.8 z"/>
+<path style="fill:#ff0000; stroke:#421313; stroke-width:10.69;" d="m -32.3,329.3 c -0.6,0 -1,0.4 -1,1 v 0.8 c -33,3.7 -59.3,79.4 -59.3,172.2 0,92.8 26.4,168.6 59.3,172.2 0,0.5 0.4,0.9 1,0.9 H 139.9 c 0.6,0 1,-0.4 1,-1 V 330.3 c 0,-0.6 -0.4,-1 -1,-1 z"/>
+<ellipse cx="100" cy="488.1" rx="142.9" ry="184.3" transform="matrix(0.432799,0,0,0.935138,98.3776,46.4718)" style="fill:#ffff00; stroke:#421313; stroke-width:10.69;"/>
+<rect x="-286.5" y="369.7" ry="1" width="130.1" height="32.6" style="fill:#560000; stroke:#421313; stroke-width:6.8;"/>
+</g>
+<path style="opacity:0.16; fill:#ffff00; stroke-width:1.82;" d="m 843.2,795.1 -245.3,9.3 v 0.4 c -0.1,-0 -0.3,-0 -0.4,-0 -5.8,0 -10.5,13.1 -10.5,29.3 0,16.2 4.7,29.3 10.5,29.3 0.1,0 0.3,0 0.4,-0 v 0.6 h 0.3 l 245.4,16.2 z"/>
+<path style="marker-start:url(#id1); marker-end:url(#id2); fill:none; fill-opacity:0.75; stroke:black; stroke-width:1.38;" d="M 597.2,834.4 H 840.3"/>
+<text x="677.2" y="828.1" style="font-family:Arial; font-size:21.3px; color:black; overflow:visible; fill:black; stroke-width:0.17px;">Ray</text>
+</g>
+</svg>

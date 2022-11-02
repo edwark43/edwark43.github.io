@@ -1,0 +1,112 @@
+lvl 0
+
+clr 0x000000
+thk 3
+alp 100
+char 10 31 (
+char 20 29 3
+char 39 31 x
+line 55 10 58 9~to 60 8~to 63 7~to 65 9~to 64 13~to 61 14~to 59 16~to 56 17~to 60 17~to 62 18~to 65 19
+char 68 30 +
+char 89 31 2
+char 108 31 x
+char 131 30 -
+char 150 30 8
+char 167 29 )
+char 185 29 (
+char 194 30 x
+char 215 30 +
+char 236 32 5
+char 255 26 )
+start
+
+clr 0x00F000
+char 439 69 x
+char 358 70 x
+line 375 52 377 50~to 380 48~to 383 50~to 383 54~to 380 56~to 377 58~to 380 57~to 383 56~to 385 57
+char 282 70 x
+line 299 48 302 46~to 304 45~to 307 44~to 308 47~to 307 49~to 304 51~to 307 52~to 308 54~to 305 56~to 303 57
+clr 0x00F000
+clr 0x000000
+char 346 101 3
+char 365 104 x
+line 381 82 383 82~to 386 81~to 388 82~to 388 84~to 387 87~to 384 88~to 382 89~to 384 88~to 387 89~to 389 90
+char 419 99 +
+char 438 102 2
+char 456 101 x
+char 504 99 -
+char 522 102 8
+char 133 131 *
+char 453 132 x
+char 505 129 +
+char 522 133 5
+clr 0x0000F0
+line 178 140 560 141
+clr 0xF0D000
+thk 35
+alp 20
+line 493 124 497 124~to 501 124~to 505 123~to 508 123~to 512 122~to 516 122~to 520 122~to 524 122~to 528 122~to 531 122~to 535 122~to 538 122~to 541 123~to 544 123
+thk 3
+alp 100
+lvl 1
+
+bubble 281 113 170 35 Now multiply by 5
+lvl 0
+
+clr 0xF0D000
+char 492 170 -
+char 507 169 4
+char 525 170 0
+char 413 169 +
+char 431 171 1
+char 443 169 0
+char 462 170 x
+char 337 169 1
+char 349 172 5
+char 367 172 x
+line 383 150 387 150~to 389 149~to 392 150~to 391 152~to 388 155~to 386 156~to 383 156~to 387 156~to 389 157~to 392 158
+clr 0x6A5AC0
+thk 35
+alp 20
+line 434 123 439 124~to 443 124~to 448 125~to 453 125~to 456 125~to 461 125~to 465 125~to 468 126~to 472 126~to 475 126~to 479 126
+lvl 1
+
+bubble 264 113 170 35 Now multiply by x
+lvl 0
+
+thk 3
+alp 100
+char 417 199 -
+char 440 200 8
+char 459 202 x
+char 334 199 +
+char 351 201 2
+char 370 200 x
+line 388 181 390 180~to 393 179~to 395 180~to 394 184~to 393 186~to 390 188~to 393 187~to 396 187~to 399 189
+char 265 198 3
+char 286 200 x
+line 303 173 305 171~to 308 170~to 310 171~to 311 173~to 309 176~to 307 177~to 310 177~to 312 179~to 311 182~to 309 184~to 305 184~to 303 183
+clr 0x0000F0
+line 179 213 560 213
+lvl 1
+
+bubble 94 198 130 35 Now add
+lvl 0
+
+clr 0x000000
+char 494 237 -
+char 507 236 4
+char 525 237 0
+char 417 238 +
+char 440 239 2
+char 459 239 x
+char 321 239 +
+char 340 241 1
+char 353 241 7
+char 371 241 x
+line 386 221 388 220~to 391 219~to 394 219~to 395 222~to 394 224~to 392 225~to 389 227~to 393 227~to 395 228~to 398 229
+char 269 238 3
+char 289 241 x
+line 304 221 307 219~to 309 218~to 312 219~to 311 222~to 309 224~to 312 225~to 312 229~to 309 230~to 307 230
+clr 0x0000F0
+line 179 251 562 252

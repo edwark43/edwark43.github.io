@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="546.3" height="173.5" version="1.0" style="font-size:14.2px; fill:black; stroke-width:0.5px;">
+<defs>
+	<marker id="aa19" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:none; stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<linearGradient id="aa2">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa1">
+		<stop offset="0" style="stop-color:white; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0.34;"/>
+	</linearGradient>
+	<radialGradient id="aa20" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa21" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa22" xlink:href="#aa2" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa23" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa24" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa25" xlink:href="#aa2" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa3">
+		<stop offset="0" style="stop-color:white; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0.34;"/>
+	</linearGradient>
+	<linearGradient id="aa4">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa5">
+		<stop offset="0" style="stop-color:white; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0.34;"/>
+	</linearGradient>
+	<linearGradient id="aa6">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa7">
+		<stop offset="0" style="stop-color:white; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0.34;"/>
+	</linearGradient>
+	<linearGradient id="aa8">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa9">
+		<stop offset="0" style="stop-color:white; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0.34;"/>
+	</linearGradient>
+	<linearGradient id="aa10">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa11">
+		<stop offset="0" style="stop-color:white; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0.34;"/>
+	</linearGradient>
+	<linearGradient id="aa12">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa13">
+		<stop offset="0" style="stop-color:white; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0.34;"/>
+	</linearGradient>
+	<linearGradient id="aa14">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa15">
+		<stop offset="0" style="stop-color:white; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0.34;"/>
+	</linearGradient>
+	<linearGradient id="aa16">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa17">
+		<stop offset="0" style="stop-color:white; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0.34;"/>
+	</linearGradient>
+	<linearGradient id="aa18">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+</defs>
+<path style="fill:none; stroke:#ccff42; stroke-width:35; stroke-opacity:0.32; stroke-linecap:round;" d="m 35,78.4 c 1.7,-1.3 52.2,-33.5 83.5,-39.9 31.3,-6.3 52.2,-16.3 134.4,-18.1 82.2,-1.9 275.7,-0.6 275.7,-0.6"/>
+<path style="fill:#19aeff; fill-opacity:0.23; stroke-width:0.5;" d="m 272.6,138.5 c 6.3,-5.1 19.8,-5.5 28,1.2 8.2,6.7 13,10.6 12.1,17.9 -0.9,7.3 -4.5,13.6 -23.6,14.1 -19.1,0.4 -23.5,-9.9 -24.8,-16.4 -1.3,-6.4 2,-11.6 8.3,-16.8 z"/>
+<path style="fill:#19aeff; fill-opacity:0.23; stroke-width:0.5;" d="m 269.9,97.8 c 6.3,-5.1 19.8,-5.5 28,1.2 8.2,6.7 13,10.6 12.1,17.9 -0.9,7.3 -4.5,13.6 -23.6,14.1 -19.1,0.4 -23.5,-9.9 -24.8,-16.4 -1.3,-6.4 2,-11.6 8.4,-16.8 z"/>
+<path style="fill:#19aeff; fill-opacity:0.23; stroke-width:0.5;" d="m 272.2,44.7 c 6.3,-5.1 19.8,-5.5 28,1.2 8.2,6.7 13,10.6 12.1,17.9 -0.9,7.3 -4.5,13.6 -23.6,14.1 -19.1,0.4 -23.5,-9.9 -24.8,-16.4 -1.3,-6.4 2,-11.6 8.3,-16.8 z"/>
+<path style="fill:#19aeff; fill-opacity:0.23; stroke-width:0.5;" d="m 270.6,3.9 c 6.3,-5.1 19.8,-5.5 28,1.2 8.2,6.7 13,10.6 12.1,17.9 -0.9,7.3 -4.5,13.6 -23.6,14.1 -19.1,0.4 -23.5,-9.9 -24.8,-16.4 -1.3,-6.4 2,-11.6 8.4,-16.8 z"/>
+<path style="fill:#19aeff; fill-opacity:0.23; stroke-width:0.5;" d="m 137.9,113.9 c 6.3,-5.1 19.8,-5.5 28,1.2 8.2,6.7 13,10.6 12.1,17.9 -0.9,7.3 -4.5,13.6 -23.6,14.1 -19.1,0.4 -23.5,-9.9 -24.8,-16.4 -1.3,-6.4 2,-11.6 8.3,-16.8 z"/>
+<path style="fill:#19aeff; fill-opacity:0.23; stroke-width:0.5;" d="m 140.6,30 c 6.3,-5.1 19.8,-5.5 28,1.2 8.2,6.7 13,10.6 12.1,17.9 -0.9,7.3 -4.5,13.6 -23.6,14.1 -19.1,0.4 -23.5,-9.9 -24.8,-16.4 -1.3,-6.4 2,-11.6 8.3,-16.8 z"/>
+<path style="fill:#19aeff; fill-opacity:0.23; stroke-width:0.5;" d="m 8.6,70.7 c 6.3,-5.1 19.8,-5.5 28,1.2 8.2,6.7 13,10.6 12.1,17.9 -0.9,7.3 -4.5,13.6 -23.6,14.1 -19.1,0.4 -23.5,-9.9 -24.8,-16.4 -1.3,-6.4 2,-11.6 8.3,-16.8 z"/>
+<path style="marker-end:url(#aa19); fill:none; stroke:black; stroke-width:1.3;" d="m 49.5,81.2 79.5,-34.5"/>
+<path style="marker-end:url(#aa19); fill:none; stroke:black; stroke-width:1.3;" d="m 49,91 79.5,34.5"/>
+<path style="marker-end:url(#aa19); fill:none; stroke:black; stroke-width:1; stroke-dasharray:4, 4;" d="m 317.6,20.4 h 37.2"/>
+<path style="marker-end:url(#aa19); fill:none; stroke:black; stroke-width:1.3;" d="m 181.9,37.9 82.3,-14.4"/>
+<path style="marker-end:url(#aa19); fill:none; stroke:black; stroke-width:1.3;" d="m 182.3,43 82.3,14.4"/>
+<g id="aa26" transform="matrix(0.133816,0,0,0.133816,4.99,72.421)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-198.5,-444.043)" style="fill-opacity:0.38; stroke-width:1;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-201.5,-446.043)" style="fill-opacity:0.38; stroke-width:1;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-203.5,-447.405)" style="fill:#0200ff; stroke-width:1;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-203.5,-447.405)" style="fill:url(#aa20); stroke-width:1;"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-902.12,424.491)" style="opacity:0.5; fill:url(#aa21); stroke-width:1;"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,63.1296,53.9567)" style="opacity:0.81; fill:url(#aa22); stroke-width:1;"/>
+</g>
+<g id="aa27" transform="matrix(0.133816,0,0,0.133816,-3.92,71.507)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-24.5,-444.043)" style="fill-opacity:0.38; stroke-width:1;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-27.5,-446.043)" style="fill-opacity:0.38; stroke-width:1;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:#ff0013; stroke-width:1;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:url(#aa23); stroke-width:1;"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-728.12,424.491)" style="opacity:0.5; fill:url(#aa24); stroke-width:1;"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,237.13,53.9567)" style="opacity:0.81; fill:url(#aa25); stroke-width:1;"/>
+</g>
+<path style="marker-end:url(#aa19); fill:none; stroke:black; stroke-width:1.3;" d="m 181.9,131.8 82.3,-14.4"/>
+<path style="marker-end:url(#aa19); fill:none; stroke:black; stroke-width:1.3;" d="m 182.3,137 82.3,14.4"/>
+<path style="fill:none; stroke:black; stroke-width:1.08;" d="m 80.9,45.5 h 14.3"/>
+<text x="84.3" y="42.8" style="font-family:Arial;">2</text>
+<text x="84.1" y="58.9" style="font-family:Arial;">5</text>
+<path style="fill:none; stroke:black; stroke-width:1.08;" d="m 80.9,124.5 h 14.3"/>
+<text x="84.1" y="121.8" style="font-family:Arial;">3</text>
+<text x="84.1" y="137.9" style="font-family:Arial;">5</text>
+<path style="fill:none; stroke:black; stroke-width:1.08;" d="m 217.1,13.6 h 14.3"/>
+<text x="220.8" y="10.9" style="font-family:Arial;">1</text>
+<text x="220.5" y="27" style="font-family:Arial;">4</text>
+<path style="fill:none; stroke:black; stroke-width:1.08;" d="m 217.1,65.5 h 14.3"/>
+<text x="220.3" y="62.8" style="font-family:Arial;">3</text>
+<text x="220.5" y="78.8" style="font-family:Arial;">4</text>
+<path style="fill:none; stroke:black; stroke-width:1.08;" d="m 217.1,108.2 h 14.3"/>
+<text x="220.5" y="105.5" style="font-family:Arial;">2</text>
+<text x="220.5" y="121.5" style="font-family:Arial;">4</text>
+<path style="fill:none; stroke:black; stroke-width:1.08;" d="m 217.1,160.2 h 14.3"/>
+<text x="220.5" y="157.5" style="font-family:Arial;">2</text>
+<text x="220.5" y="173.5" style="font-family:Arial;">4</text>
+<path style="fill:none; stroke:black; stroke-width:1.08;" d="m 370,20 h 14.3"/>
+<text x="373.5" y="17.4" style="font-family:Arial;">2</text>
+<text x="373.2" y="33.4" style="font-family:Arial;">5</text>
+<text x="388.4" y="27.6" style="font-family:Arial; font-size:23.3px;">×</text>
+<path style="fill:none; stroke:black; stroke-width:1.08;" d="m 406.5,20 h 14.3"/>
+<text x="409.8" y="17.4" style="font-family:Arial;">1</text>
+<text x="409.7" y="33.4" style="font-family:Arial;">4</text>
+<path style="fill:none; stroke:black; stroke-width:1.08;" d="m 452.6,18.8 h 18.6"/>
+<text x="458.2" y="15.1" style="font-family:Arial;">2</text>
+<text x="454.2" y="32.1" style="font-family:Arial;">20</text>
+<text x="430.8" y="27.4" style="font-family:Arial; font-size:23.3px;">=</text>
+<path style="fill:none; stroke:black; stroke-width:1.08;" d="m 504.2,18.8 h 18.6"/>
+<text x="509.8" y="15.1" style="font-family:Arial;">1</text>
+<text x="505.8" y="32.1" style="font-family:Arial;">10</text>
+<text x="482.4" y="27.4" style="font-family:Arial; font-size:23.3px;">=</text>
+<use transform="translate(1.83015,12.8111)" xlink:href="#aa26" x="0" y="0"/>
+<use transform="translate(59.7849,-18.6065)" xlink:href="#aa26" x="0" y="0"/>
+<use transform="translate(132.991,-30.1974)" xlink:href="#aa26" x="0" y="0"/>
+<use transform="translate(199.486,-57.0397)" xlink:href="#aa26" x="0" y="0"/>
+<use transform="translate(263.847,-17.9965)" xlink:href="#aa26" x="0" y="0"/>
+<use transform="translate(128.721,43.3136)" xlink:href="#aa26" x="0" y="0"/>
+<use transform="translate(131.771,56.7347)" xlink:href="#aa26" x="0" y="0"/>
+<use transform="translate(197.351,36.298)" xlink:href="#aa26" x="0" y="0"/>
+<use transform="translate(262.322,39.3482)" xlink:href="#aa26" x="0" y="0"/>
+<use transform="translate(265.372,81.4418)" xlink:href="#aa26" x="0" y="0"/>
+<use transform="translate(264.762,66.8005)" xlink:href="#aa26" x="0" y="0"/>
+<use transform="translate(132.076,58.2598)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(143.667,50.6342)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(1.2201,15.5563)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(12.8111,8.23568)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(47.2789,36.603)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(133.906,-41.7884)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(133.601,-26.2322)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(145.802,-32.3327)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(182.405,-19.8266)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(180.27,76.5613)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(262.627,-68.0207)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(261.712,-52.4643)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(275.133,-58.8698)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(264.152,-9.45578)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(276.963,-17.0814)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(263.237,43.9237)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(274.217,34.4679)" xlink:href="#aa27" x="0" y="0"/>
+<use transform="translate(265.372,84.797)" xlink:href="#aa27" x="0" y="0"/>
+</svg>

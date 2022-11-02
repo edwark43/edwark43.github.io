@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="400.799"
+   height="300.899"
+   version="1.0"
+   id="svg106"
+   sodipodi:docname="triangle-3-4-5-circle.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview108"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg106"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-center="true" />
+  <defs
+     id="defs2" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#f57900;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-variation-settings:normal;opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000;stop-opacity:1"
+     d="M 0.5,300.399 H 400.499"
+     id="path1412" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#f57900;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-variation-settings:normal;opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000;stop-opacity:1"
+     d="m 0.5,0.399 v 300"
+     id="path1494" />
+  <circle
+     style="color:#000000;overflow:visible;fill:#19aeff;fill-opacity:1;stroke:#f57900;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000;font-variation-settings:normal;opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-opacity:1"
+     id="path1520"
+     cx="100.5"
+     cy="200.399"
+     r="99.4996" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#f57900;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 0.5,0.4 400.499,300.399"
+     id="path1755" />
+  <text
+     x="105.763"
+     y="260.393"
+     style="color:#000000;font-size:33.9px;font-family:Arial;overflow:visible;fill:#204a87;stroke-width:0.53px"
+     id="text954">1</text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#00008b;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 100.5,200.399 v 100"
+     id="path1129" />
+</svg>

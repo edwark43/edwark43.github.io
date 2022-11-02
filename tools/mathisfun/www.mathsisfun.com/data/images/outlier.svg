@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="88.1"
+   version="1.1"
+   id="svg82"
+   sodipodi:docname="outlier.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata86">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview84"
+     showgrid="false"
+     inkscape:current-layer="svg82" />
+  <defs
+     id="defs8">
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id01">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:black;stroke-width:1pt"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id02">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ff6600;stroke:#ff6600;stroke-width:1pt"
+         id="path5" />
+    </marker>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     id="path12"
+     style="fill:none;stroke:#000000;stroke-width:1.02"
+     d="m 4.163,40.91 v 24.9" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path14"
+     style="fill:none;stroke:#0000ff;stroke-width:0.34px"
+     d="m 30.163,40.91 v 24.9" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path16"
+     style="fill:none;stroke:#0000ff;stroke-width:0.34px"
+     d="m 56.063,40.91 v 24.9" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path18"
+     style="fill:none;stroke:#0000ff;stroke-width:0.34px"
+     d="m 82.063,40.91 v 24.9" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path20"
+     style="fill:none;stroke:#0000ff;stroke-width:0.34px"
+     d="m 108.063,40.91 v 24.9" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path22"
+     style="fill:none;stroke:#0000ff;stroke-width:0.34px"
+     d="m 133.963,40.91 v 24.9" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path24"
+     style="fill:none;stroke:#0000ff;stroke-width:0.34px"
+     d="m 159.963,40.91 v 24.9" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path26"
+     style="fill:none;stroke:#0000ff;stroke-width:0.34px"
+     d="m 185.863,40.91 v 24.9" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path28"
+     style="fill:none;stroke:#0000ff;stroke-width:0.34px"
+     d="m 211.863,40.91 v 24.9" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path30"
+     style="fill:none;stroke:#0000ff;stroke-width:0.34px"
+     d="m 237.763,40.91 v 24.9" />
+  <text
+     id="text32"
+     style="color:#000000;font-size:16.4px;font-family:Verdana;overflow:visible;fill:#0000ff;stroke-width:0.7px"
+     y="86.21"
+     x="26.763">1</text>
+  <text
+     id="text34"
+     style="color:#000000;font-size:16.4px;font-family:Verdana;overflow:visible;fill:#0000ff;stroke-width:0.7px"
+     y="86.21"
+     x="52.263">2</text>
+  <text
+     id="text36"
+     style="color:#000000;font-size:16.4px;font-family:Verdana;overflow:visible;fill:#0000ff;stroke-width:0.7px"
+     y="86.21"
+     x="78.063">3</text>
+  <text
+     id="text38"
+     style="color:#000000;font-size:16.4px;font-family:Verdana;overflow:visible;fill:#0000ff;stroke-width:0.7px"
+     y="86.21"
+     x="104.163">4</text>
+  <text
+     id="text40"
+     style="color:#000000;font-size:16.4px;font-family:Verdana;overflow:visible;fill:#0000ff;stroke-width:0.7px"
+     y="86.11"
+     x="129.763">5</text>
+  <text
+     id="text42"
+     style="color:#000000;font-size:16.4px;font-family:Verdana;overflow:visible;fill:#0000ff;stroke-width:0.7px"
+     y="86.21"
+     x="155.763">6</text>
+  <text
+     id="text44"
+     style="color:#000000;font-size:16.4px;font-family:Verdana;overflow:visible;fill:#0000ff;stroke-width:0.7px"
+     y="86.21"
+     x="181.563">7</text>
+  <text
+     id="text46"
+     style="color:#000000;font-size:16.4px;font-family:Verdana;overflow:visible;fill:#0000ff;stroke-width:0.7px"
+     y="86.21"
+     x="207.563">8</text>
+  <text
+     id="text48"
+     style="color:#000000;font-size:16.4px;font-family:Verdana;overflow:visible;fill:#0000ff;stroke-width:0.7px"
+     y="86.21"
+     x="233.463">9</text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path50"
+     style="fill:none;stroke:#0000ff;stroke-width:0.34px"
+     d="m 263.763,40.91 v 24.9" />
+  <text
+     id="text52"
+     style="color:#000000;font-size:16.4px;font-family:Verdana;overflow:visible;fill:#0000ff;stroke-width:0.7px"
+     y="86.21"
+     x="254.263">10</text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path54"
+     style="fill:#0000ff;fill-opacity:0.75;stroke:#0000ff;stroke-width:1.3;marker-end:url(#id01)"
+     d="m 3.463,54.91 h 294" />
+  <text
+     id="text56"
+     style="color:#000000;font-size:23.700001px;font-family:Verdana;overflow:visible;fill:#000000;stroke-width:0.7px"
+     y="87.71"
+     x="-1.63701">0</text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path58"
+     style="fill:#ff6600;stroke:#ff6600;stroke-width:1.67;marker-end:url(#id02)"
+     d="m 249.363,23.31 v 21" />
+  <text
+     id="text60"
+     style="color:#000000;font-style:italic;font-size:24px;font-family:Verdana;overflow:visible;fill:#ff6600;stroke-width:0.7px"
+     y="21.11"
+     x="206.663">Outlier</text>
+  <circle
+     id="circle62"
+     style="color:#000000;overflow:visible;fill:#ff6600;fill-opacity:0.67;stroke:#ff6600;stroke-width:2.46;stroke-linejoin:round"
+     r="4.25949"
+     cy="54.81"
+     cx="43.963" />
+  <circle
+     id="circle64"
+     style="color:#000000;overflow:visible;fill:#ff6600;fill-opacity:0.67;stroke:#ff6600;stroke-width:2.46;stroke-linejoin:round"
+     r="4.25949"
+     cy="54.81"
+     cx="59.263" />
+  <circle
+     id="circle66"
+     style="color:#000000;overflow:visible;fill:#ff6600;fill-opacity:0.67;stroke:#ff6600;stroke-width:2.46;stroke-linejoin:round"
+     r="4.25949"
+     cy="54.81"
+     cx="71.163" />
+  <circle
+     id="circle68"
+     style="color:#000000;overflow:visible;fill:#ff6600;fill-opacity:0.67;stroke:#ff6600;stroke-width:2.46;stroke-linejoin:round"
+     r="4.25949"
+     cy="54.81"
+     cx="81.063" />
+  <circle
+     id="circle70"
+     style="color:#000000;overflow:visible;fill:#ff6600;fill-opacity:0.67;stroke:#ff6600;stroke-width:2.46;stroke-linejoin:round"
+     r="4.25949"
+     cy="54.81"
+     cx="87.263" />
+  <circle
+     id="circle72"
+     style="color:#000000;overflow:visible;fill:#ff6600;fill-opacity:0.67;stroke:#ff6600;stroke-width:2.46;stroke-linejoin:round"
+     r="4.25949"
+     cy="54.81"
+     cx="101.063" />
+  <circle
+     id="circle74"
+     style="color:#000000;overflow:visible;fill:#ff6600;fill-opacity:0.67;stroke:#ff6600;stroke-width:2.46;stroke-linejoin:round"
+     r="4.25949"
+     cy="54.81"
+     cx="114.063" />
+  <circle
+     id="circle76"
+     style="color:#000000;overflow:visible;fill:#ff6600;fill-opacity:0.67;stroke:#ff6600;stroke-width:2.46;stroke-linejoin:round"
+     r="4.25949"
+     cy="54.81"
+     cx="136.163" />
+  <circle
+     id="circle78"
+     style="color:#000000;overflow:visible;fill:#ff6600;fill-opacity:0.67;stroke:#ff6600;stroke-width:2.46;stroke-linejoin:round"
+     r="4.25949"
+     cy="54.81"
+     cx="249.763" />
+</svg>

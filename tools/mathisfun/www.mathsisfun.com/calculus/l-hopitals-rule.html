@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/calculus/l-hopitals-rule.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:48:57 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>L'Hopital's Rule</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.">
+<style>
+.lim {
+	display: inline-table;
+	text-align: center;
+	vertical-align: middle;
+	margin: 0 4px 0 2px;
+	border-collapse: collapse;
+}
+.lim em {
+	display: table-row;
+	text-align: center;
+	font-style: inherit;
+}
+.lim strong {
+	display: table-row;
+	text-align: center;
+	font-weight: inherit;
+	font-size: 80%;
+	line-height: 9px;
+}
+</style>
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+<h1 class="center">L'Hôpital's Rule</h1>
+
+<p><span class="center">L'Hôpital's Rule</span> can help us calculate a <a href="limits.html">limit</a> that may otherwise be hard or impossible.</p>
+	<div class="words">
+		<p><span class="center">L'Hôpital is pronounced "lopital"</span>. He was a  French mathematician from the 1600s.</p>
+	</div>
+	<p>&nbsp;</p>
+	<p>It says that  the <b>limit</b> when we divide one function by another is the same after we take the <a href="derivatives-introduction.html">derivative</a> of each function (with some special conditions shown later).</p>
+	<p>In symbols we can write:</p>
+	<p class="center large"><span class="lim"><em>lim</em><strong>x→c</strong></span><span class="intbl"><em>f(x)</em><strong>g(x)</strong></span> = <span class="lim"><em>lim</em><strong>x→c</strong></span><span class="intbl"><em>f’(x)</em><strong>g’(x)</strong></span></p>
+	<!-- limx->c f(x)/g(x) = limx->c f'(x)/g'(x) -->
+	
+	<p class="center"><i>The limit as x approaches c of "f-of−x over g-of−x" equals the<br>
+the	limit as x approaches c of "f-dash-of−x over g-dash-of−x"</i></p>
+	<p>All we did is add  that little dash mark <span class="hilite">&nbsp;’&nbsp;</span> on each function, which means to take the derivative.</p>
+	<div class="example">
+		<h3>Example:
+			
+
+
+
+<div class="center large"><span class="lim"><em>lim</em><strong>x→2</strong></span><span class="intbl"><em>x<sup>2</sup>+x−6</em><strong>x<sup>2</sup>−4</strong></span></div>
+			<!-- limx->2 x^2~+x&minus;6/x^2~&minus;4 --></h3>
+		<p>At <b>x=2</b> we would normally get:</p>
+		<p class="center large"><span class="intbl"><em>2<sup>2</sup>+2−6</em><strong>2<sup>2</sup>−4</strong></span> = <span class="intbl"><em>0</em><strong>0</strong></span></p>
+		<!---&minus; 2^2~+2&minus;6/2^2~&minus;4 = 0/0 ---->
+		
+		<p>Which is <a href="../numbers/dividing-by-zero.html">indeterminate</a>, so we are stuck. Or are we?</p>
+		<p>Let's try <span class="center">L'Hôpita</span>l!</p>
+		<p>Differentiate both top and bottom (see <a href="derivatives-rules.html">Derivative Rules</a>):</p>
+		<p class="center large"><span class="lim"><em>lim</em><strong>x→2</strong></span><span class="intbl"><em>x<sup>2</sup>+x−6</em><strong>x<sup>2</sup>−4</strong></span> = <span class="lim"><em>lim</em><strong>x→2</strong></span><span class="intbl"><em>2x+1−0</em><strong>2x−0</strong></span></p>
+<!-- limx->2 x^2~+x&minus;6/x^2~&minus;4 = limx->2 2x+1-0/2x-0 -->
+		<p>Now we just substitute <b>x=2</b> to get our answer:</p>
+		<p class="center large"><span class="lim"><em>lim</em><strong>x→2</strong></span><span class="intbl"><em>2x+1−0</em><strong>2x−0</strong></span> = <span class="intbl"><em>5</em><strong>4</strong></span></p>
+<!-- limx->2 2x+1-0/2x-0 = 5/4 -->
+    <p>Here is the graph, notice the "hole" at x=2:</p>
+		<p class="center"><img src="images/x2pxm6etc.svg" alt="(x^2+x-6)/(x^2-4)" height="330" width="570"></p>
+		
+<p><i>Note: we can also get this answer by factoring, see <a href="limits-evaluating.html">Evaluating Limits</a></i>.</p>
+	</div>
+	<!-- limx->2 x^2~+x&minus;6/x^2~&minus;4 = limx->2 2x+1-0/2x-0 = 5/4  -->
+	<div class="example">
+		<h3>Example:
+			
+
+
+
+<div class="center large"><span class="lim"><em>lim</em><strong>x→∞</strong></span><span class="intbl"><em>e<sup>x</sup></em><strong>x<sup>2</sup></strong></span></div>
+			<!-- limx->INF e^x/x^2 --></h3>
+		<p>Normally this is the result:</p>
+		<p class="center large"><span class="lim"><em>lim</em><strong>x→∞</strong></span><span class="intbl"><em>e<sup>x</sup></em><strong>x<sup>2</sup></strong></span> = <span class="intbl"><em>∞</em><strong>∞</strong></span></p>
+		<!-- limx->INF e^x/x^2 = INF/INF -->
+		<p>Both head to infinity. Which is  indeterminate.</p>
+		<p>But let's differentiate both top and bottom (note that the derivative of e<sup>x</sup> is e<sup>x</sup>):</p>
+		<p class="center large"><span class="lim"><em>lim</em><strong>x→∞</strong></span><span class="intbl"><em>e<sup>x</sup></em><strong>x<sup>2</sup></strong></span> = <span class="lim"><em>lim</em><strong>x→∞</strong></span><span class="intbl"><em>e<sup>x</sup></em><strong>2x</strong></span></p>
+		<!-- limx->INF e^x/x^2 = limx->INF e^x/2x  -->
+		<p>Hmmm, still not solved, both tending towards infinity. But we can use it again:</p>
+		<p class="center large"><span class="lim"><em>lim</em><strong>x→∞</strong></span><span class="intbl"><em>e<sup>x</sup></em><strong>x<sup>2</sup></strong></span> = <span class="lim"><em>lim</em><strong>x→∞</strong></span><span class="intbl"><em>e<sup>x</sup></em><strong>2x</strong></span> = <span class="lim"><em>lim</em><strong>x→∞</strong></span><span class="intbl"><em>e<sup>x</sup></em><strong>2</strong></span></p>
+		<p><!-- limx->INF e^x/x^2 = limx->INF e^x/2x  = limx->INF e^x/2  --> 
+			Now we have:</p>
+		<p class="center large"><span class="lim"><em>lim</em><strong>x→∞</strong></span><span class="intbl"><em>e<sup>x</sup></em><strong>2</strong></span> = ∞</p>
+		<!-- limx->INF e^x/2 = INF/0 = INF --> 
+<p>It has shown us that e<sup>x</sup> grows much faster than x<sup>2</sup>.</p>
+	</div>
+	<h2>Cases</h2>
+	<p>We have already seen a <span class="intbl"><em>0</em><strong>0</strong></span>  and   <span class="intbl"><em>∞</em><strong>∞</strong></span> example. Here are all the indeterminate forms that <span class="center">L'Hopital's Rule</span> may be able to help with:</p>
+	<p class="center large"><span class="intbl"><em>0</em><strong>0</strong></span> &nbsp; &nbsp; <span class="intbl"><em>∞</em><strong>∞</strong></span> &nbsp; &nbsp; 0×∞ &nbsp; &nbsp; 1<sup>∞</sup> &nbsp; &nbsp; 0<sup>0</sup> &nbsp; &nbsp; ∞<sup>0</sup> &nbsp; &nbsp; ∞−∞</p>
+	<!-- 0/0 &nbsp; INF/INF &nbsp; 0*INF &nbsp; 1^INF &nbsp; 0^0 &nbsp; INF^0 &nbsp; INF-INF -->
+	
+	
+	<h2 id="cond">Conditions</h2>
+	<h3>Differentiable</h3>
+	<p>For a limit approaching c, the original functions must be differentiable either side of c, but  not necessarily at c.</p>
+	<p>Likewise g’(x) is not equal to zero either side of c.</p>
+	<h3>The Limit Must Exist</h3>
+	This limit must exist:
+	
+
+
+
+<p class="center large"><span class="lim"><em>lim</em><strong>x→c</strong></span><span class="intbl"><em>f’(x)</em><strong>g’(x)</strong></span></p>
+	<!-- limx->c f'(x)/g'(x) -->
+	<p>Why? Well a good example is functions that never settle to a value.</p>
+<div class="example">
+		<h3>Example:
+			
+
+
+
+<div class="center large"><span class="lim"><em>lim</em><strong>x→∞</strong></span><span class="intbl"><em>x+cos(x)</em><strong>x</strong></span></div>
+			<!-- limx->INF x+cos(x)/x --></h3>
+		<p>Which is a <span class="intbl"><em>∞</em><strong>∞</strong></span> case. Let's differentiate top and bottom:</p>
+		<p class="center large"><span class="lim"><em>lim</em><strong>x→∞</strong></span><span class="intbl"><em>1−sin(x)</em><strong>1</strong></span></p>
+		<!-- limx->INF 1-sin(x)/1  -->
+		<p>And because it  just wiggles up and down it never approaches any value.</p>
+		<p>So that new limit does not exist!</p>
+		<p><b>And so <span class="center">L'Hôpita</span>l's Rule is not usable in this case.</b></p>
+		<p>BUT we can do this:</p>
+<p class="center large"><span class="lim"><em>lim</em><strong>x→∞</strong></span><span class="intbl"><em>x+cos(x)</em><strong>x</strong></span> = <span class="lim"><em>lim</em><strong>x→∞</strong></span>(1 + <span class="intbl"><em>cos(x)</em><strong>x</strong></span>)</p>
+<!-- limx->INF x+cos(x)/x = limx->INF (1 + cos(x)/x ) = 1 -->
+<p>As x goes to infinity then <span class="intbl"><em>cos(x)</em><strong>x</strong></span> tends to between   <span class="intbl"><em>−1</em><strong>∞</strong></span> and   <span class="intbl"><em>+1</em><strong>∞</strong></span>, and both tend to zero.</p>
+<p>And we are left with just the "1", so:</p>
+
+<p class="center large"><span class="lim"><em>lim</em><strong>x→∞</strong></span><span class="intbl"><em>x+cos(x)</em><strong>x</strong></span> = <span class="lim"><em>lim</em><strong>x→∞</strong></span>(1 + <span class="intbl"><em>cos(x)</em><strong>x</strong></span>) = 1</p>
+<!-- limx->INF x+cos(x)/x = limx->INF (1 + cos(x)/x ) = 1 -->
+
+	</div>
+	<p>&nbsp;</p>
+
+<div class="related">  
+  <a href="limits.html">Limits (An Introduction)</a>   
+  <a href="index.html">Calculus Index</a>
+</div>
+	<!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2021 MathsIsFun.com</div>
+
+</div>
+
+
+
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/calculus/l-hopitals-rule.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:48:57 GMT -->
+</html>

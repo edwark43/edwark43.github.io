@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97.6" height="74" version="1.0" style="fill:black;">
+<defs>
+	<linearGradient id="aa2">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa1">
+		<stop offset="0" style="stop-color:white; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0.34;"/>
+	</linearGradient>
+	<radialGradient id="aa19" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa20" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa21" xlink:href="#aa2" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa22" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa23" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa24" xlink:href="#aa2" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa25" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa26" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa27" xlink:href="#aa2" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa28" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa29" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa30" xlink:href="#aa2" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa3">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa4">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa5">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa6">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa7">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa8">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa9">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa10">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa11">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa12">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa13">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa14">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa15">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa16">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa17">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa18">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+</defs>
+<g transform="translate(1651.03,-530.674)">
+	<path style="fill:#19aeff; fill-opacity:0.23; stroke-width:1;" d="m -1633.8,538.4 c 12.7,-10.3 39.7,-11.1 56.1,2.3 16.4,13.4 25.9,21.2 24.1,35.8 -1.8,14.6 -8.9,27.2 -47.2,28.1 -38.3,0.9 -47,-19.9 -49.6,-32.7 -2.6,-12.9 4,-23.3 16.7,-33.5 z"/>
+	<g transform="matrix(0.267632,0,0,0.267632,-1661.32,565.576)">
+		<circle cx="254" cy="500.4" r="41" transform="translate(-24.5,-444.043)" style="fill-opacity:0.38;"/>
+		<circle cx="254" cy="500.4" r="41" transform="translate(-27.5,-446.043)" style="fill-opacity:0.38;"/>
+		<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:#ff0013;"/>
+		<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:url(#aa19);"/>
+		<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-728.12,424.491)" style="opacity:0.5; fill:url(#aa20);"/>
+		<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,237.13,53.9567)" style="opacity:0.81; fill:url(#aa21);"/>
+	</g>
+	<g transform="matrix(0.267632,0,0,0.267632,-1641.74,562.138)">
+		<circle cx="254" cy="500.4" r="41" transform="translate(-198.5,-444.043)" style="fill-opacity:0.38;"/>
+		<circle cx="254" cy="500.4" r="41" transform="translate(-201.5,-446.043)" style="fill-opacity:0.38;"/>
+		<circle cx="254" cy="500.4" r="41" transform="translate(-203.5,-447.405)" style="fill:#0200ff;"/>
+		<circle cx="254" cy="500.4" r="41" transform="translate(-203.5,-447.405)" style="fill:url(#aa22);"/>
+		<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-902.12,424.491)" style="opacity:0.5; fill:url(#aa23);"/>
+		<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,63.1296,53.9567)" style="opacity:0.81; fill:url(#aa24);"/>
+	</g>
+	<g transform="matrix(0.267632,0,0,0.267632,-1663.46,537.1)">
+		<circle cx="254" cy="500.4" r="41" transform="translate(-24.5,-444.043)" style="fill-opacity:0.38;"/>
+		<circle cx="254" cy="500.4" r="41" transform="translate(-27.5,-446.043)" style="fill-opacity:0.38;"/>
+		<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:#ff0013;"/>
+		<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:url(#aa25);"/>
+		<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-728.12,424.491)" style="opacity:0.5; fill:url(#aa26);"/>
+		<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,237.13,53.9567)" style="opacity:0.81; fill:url(#aa27);"/>
+	</g>
+	<g transform="matrix(0.267632,0,0,0.267632,-1639.48,550.948)">
+		<circle cx="254" cy="500.4" r="41" transform="translate(-24.5,-444.043)" style="fill-opacity:0.38;"/>
+		<circle cx="254" cy="500.4" r="41" transform="translate(-27.5,-446.043)" style="fill-opacity:0.38;"/>
+		<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:#ff0013;"/>
+		<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:url(#aa28);"/>
+		<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-728.12,424.491)" style="opacity:0.5; fill:url(#aa29);"/>
+		<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,237.13,53.9567)" style="opacity:0.81; fill:url(#aa30);"/>
+	</g>
+	<circle cx="-1628.4" cy="551.6" r="10.6907" style="fill:white; stroke-width:2.38;"/>
+</g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="366.3" height="213.7" version="1.1">
+<defs/>
+<g transform="matrix(3.75869,0,0,3.75869,-68.3434,-551.084)">
+<path style="color:black; overflow:visible; fill:none; stroke:#013397; stroke-width:0.47;" d="m 33.9,147.2 15.4,25 -15.4,25 -15.3,-25 z"/>
+<path style="color:black; overflow:visible; fill:none; stroke:#ff9900; stroke-width:0.43;" d="m 43.7,190.6 24.9,-12.5 25,12.5 -25,12.5 z"/>
+<path style="color:black; overflow:visible; fill:none; stroke:#c17d11; stroke-width:0.41;" d="m 72.1,155.7 27.3,3.1 15.4,22.7 -27.3,-3.1 z"/>
+</g>
+</svg>

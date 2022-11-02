@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/geometry/ellipse-perimeter.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:00:07 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Perimeter of Ellipse</title>
+<script language="JavaScript" type="text/javascript">reSpell=[["center","centre"],["favorite","favourite"]];</script>
+
+  
+    <style>
+      
+      .bgwhite {border: 4px solid white; background-color:white;}
+      
+   .tall {display:inline-block;  margin: -4% 0.1% 4% 0%; transform: scaleY(2.3) translateX(20%) translateY(-5%);}   
+  
+  .intgl {display:inline-block;  margin: -4% 0 4% -1%; transform:scaleY(1.2) translateX(20%) translateY(25%);}  
+	.intgl .to {text-align:center; width:2em; font: 0.8em Verdana; margin: 0 0 -10px 8px;} 
+	.intgl .symb {font: 180% Georgia;}
+	.intgl .symb:before { content: "\222B";} 
+	.intgl .from {text-align:center; width:2em; font: 0.8em Verdana; overflow:visible; }
+  
+      table {border-spacing: 0px;}
+      td, th {  border: 1px solid hsla(240,100%,70%,0.3) }
+      
+</style> 
+  
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">Perimeter of an Ellipse</h1>
+
+<p>On the <a href="ellipse.html">Ellipse</a> page we looked at the definition and some of the simple properties of the ellipse, but here we look at how to more accurately calculate its perimeter.</p>
+
+
+<h2>Perimeter</h2>
+
+<p>Rather strangely, the perimeter of an ellipse is <b>very difficult to calculate</b>!</p>
+      <p>There are many formulas, here are  some interesting ones. (Also see <a href="#tool">Calculation Tool</a> below.)</p>
+
+
+<h2>First Measure Your Ellipse!</h2>
+
+<p class="center"><img src="images/ellipse-axes.svg" alt="ellipse major and minor axes" height="143" width="287"></p>
+      <p class="center"><b>a</b> and <b>b</b> are measured <b>from the  center</b>, so they are like "radius" measures.</p>
+<p>&nbsp;</p>
+
+<h3>Approximation 1</h3>
+      <p>This approximation is within about 5% of the true value, so long as <b>a</b> is not more than 3 times longer than <b>b</b> (in other words, the ellipse  is not too "squashed"):</p>
+<div class="center large">p ≈ 2<span class="times">π</span> <span class="tall">√</span><span class="intbl"><span class="overline"><em>a<sup>2</sup>+b<sup>2</sup></em><strong>2</strong></span></span></div>
+<!-- p APR 2 PI SQR(a^2+b^2/2) -->
+  
+  
+
+<h3>Approximation 2</h3>
+            <p>The famous Indian mathematician <b>Ramanujan</b> came up with this better approximation:</p>
+            <p class="center "><img src="images/ellipse-perim-2.gif" class="bgwhite" alt="ellipse perimeter approx pi [ 3(a+b) - sqrt((3a+b)(a+3b))]" height="41" width="310"></p>
+
+<h3>Approximation 3</h3>
+            <p><b>Ramanujan</b> also came up with this one. First we calculate "h":</p>
+<div class="center large">h = <span class="intbl"><em>(a − b)<sup>2</sup></em><strong>(a + b)<sup>2</sup></strong></span></div>
+<!-- h = (a-b)^2/(a+b)^2 -->
+  
+            <p>Then use it here:</p>
+  <div class="center large">p ≈ <span class="times">π</span>(a+b) <span class="tall">(</span> 1 + <span class="intbl"><em>3h</em><strong>10 + <span style="font-size:110%;">√</span>(4−3h)</strong></span> <span class="tall">)</span></div>
+<!-- p APR PI(a+b) 1+3h/10+SQR(4-3h) -->
+
+
+<h3>Infinite Series 1</h3>
+            <p>This is an  <b>exact formula</b>, but it needs an "infinite series" of calculations to be exact, so in practice we still only get an approximation.</p>
+            <p>First we  calculate <span class="large">e</span>  (the "<a href="eccentricity.html">eccentricity</a>", <b>not</b> <a href="../numbers/e-eulers-number.html">Euler's number "e"</a>):</p>
+<div class="center large">e = <span class="intbl"><em><span style="font-size:120%;">√</span><span class="overline">a<sup>2</sup> − b<sup>2</sup></span></em><strong>a</strong></span></div>
+<!-- e = SQR(a^2-b^2)/a -->
+  
+
+            <p>Then use this "infinite sum" formula:</p>
+            <p class="center"><img src="images/ellipse-perim-4.gif" alt="ellipse perimeter approx 2a pi [ 1 - sigma i=1 to infinity of ( (2i)!^2/(i!2^i)^4 times e^21/(2i-1))]" class="bgwhite" height="51" width="295"></p>
+            <p>Which may look complicated, but expands like this:</p>
+            <p class="center"><img src="images/ellipse-perim-5.gif" alt="ellipse perimeter approx 2a pi [ 1 - (1/2)^2 e^2 - (1x3/2x4)^2 e^4 /3 - (1x3x5/2x4x6)^2 e^6 /5 - ... ]" class="bgwhite" height="51" width="497"></p>
+      <p>The terms continue on  infinitely, and unfortunately we must calculate a lot of terms to get a reasonably close answer.</p>
+
+<h3>Infinite Series 2</h3>
+            <p>But my favorite <b>exact formula</b> (because it gives a very close answer after only a few terms) is as follows:</p>
+      <p>First we calculate "h":</p>
+<div class="center large">h = <span class="intbl"><em>(a − b)<sup>2</sup></em><strong>(a + b)<sup>2</sup></strong></span></div>
+<p></p>
+            
+            <p>Then use this "infinite sum" formula:</p>
+            <p class="center"><img src="images/ellipse-perim-7.gif" alt="ellipse perimeter approx pi(a+b) sigma n=0 to infinity of (0.5 choose n)^2 h^n " class="bgwhite" height="54" width="219"></p>
+<p class="center">(Note: the <img src="images/combinations-half-n.gif" style="vertical-align:middle;" alt="combinations-half-n" class="bgwhite" height="30" width="25"> is the              <a href="../combinatorics/combinations-permutations.html">Binomial Coefficient</a>
+              with half-integer <a href="../numbers/factorial.html">factorials</a> ... wow!)</p>
+            <p>It may look a bit scary, but it expands to this series of calculations:</p>
+            <p class="center"><img src="images/ellipse-perim-8.gif" alt="ellipse perimeter approx pi(a+b) (1 + (1/4)h + (1/64)h^2 + (1/256)h^3 + ...)" class="bgwhite" height="43" width="372"></p>
+      <p>The more terms we calculate, the more accurate it becomes (the next term is 25<b>h</b><sup>4</sup>/16384, which is getting quite small, and the next is 49<b>h</b><sup>5</sup>/65536, then 441<b>h</b><sup>6</sup>/1048576, then 1089<b>h</b><sup>7</sup>/4194304)</p>
+
+
+<h2>The Perfect Formula</h2>
+
+<p>There is a perfect formula using an <a href="../calculus/integration-introduction.html">integral</a>:</p>
+  <div class="center larger">p = 4a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="intgl">
+  <div class="to"><span class="intbl"><span class="times">π</span>/2</span></div>
+  <div class="symb"></div>
+  <div class="from">0</div>
+</div> √(1 − e<sup>2</sup> sin<sup>2</sup> θ) dθ</div>
+<p class="center"><i>(Note: e is the eccentricity from above)</i></p>
+<p>But calculating it needs an infinite amount of terms ("Infinite Series 1" above).</p>
+
+
+<h2>Comparing</h2>
+
+<p>Just for fun, I calculate the perimeter using the three approximation formulas, and the two exact formulas (but only the <b>first four terms, including the "1"</b>, so it is still just an approximation)  for selected values of <b>a</b> and <b>b</b>:</p>
+
+	<table width="100%">
+<tbody>
+<tr>
+  <td style="text-align:right;"><br>
+</td>
+  <td>&nbsp;</td>
+  <td><b>Circle</b></td>
+<td><br>
+</td>
+  <td><br>
+</td>
+  <td><br>
+</td>
+  <td><b>Lines</b></td></tr>
+<tr valign="middle">
+  <td style="text-align:right;">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td><img src="images/ellipse-10-10.gif" alt="ellipse 10 10" height="56" width="58"></td>
+  <td><img src="images/ellipse-10-5.gif" alt="ellipse 10 5" height="30" width="58"></td>
+  <td><img src="images/ellipse-10-3.gif" alt="ellipse 10 3" height="20" width="58"></td>
+  <td><img src="images/ellipse-10-1.gif" alt="ellipse 10 1" height="8" width="58"></td>
+  <td><img src="images/ellipse-10-0.gif" alt="ellipse 10 0" height="5" width="57"></td>
+</tr>
+<tr>
+  <td style="text-align:right;"><b>a:</b></td>
+  <td>&nbsp;</td>
+  <td><b>10</b></td>
+<td><b>10</b></td>
+<td><b>10</b></td>
+<td><b>10</b></td>
+<td><b>10</b></td></tr>
+<tr>
+  <td style="text-align:right;"><b>b:</b></td>
+  <td>&nbsp;</td>
+  <td><b>10</b></td>
+<td><b>5</b></td>
+<td><b>3</b></td>
+<td><b>1</b></td>
+<td><b>0</b></td></tr>
+<tr>
+  <td style="text-align:right;"><b>Approx 1:</b></td>
+  <td>&nbsp;</td>
+  <td>62.832</td>
+<td>49.673</td>
+<td>46.385</td>
+<td>44.65</td>
+<td>44.429</td></tr>
+<tr>
+  <td style="text-align:right;"><b>Approx 2:</b></td>
+  <td>&nbsp;</td>
+  <td>62.832</td>
+<td>48.442</td>
+<td>43.857</td>
+<td>40.606</td>
+<td>39.834</td></tr>
+<tr>
+  <td style="text-align:right;"><b>Approx 3:</b></td>
+  <td>&nbsp;</td>
+  <td>62.832</td>
+<td>48.442</td>
+<td>43.859</td>
+<td>40.639</td>
+<td>39.984</td></tr>
+<tr>
+  <td style="text-align:right;"><b>Series 1:</b></td>
+  <td>&nbsp;</td>
+  <td>62.832</td>
+<td>48.876</td>
+<td>45.174</td>
+<td>43.204</td>
+<td>42.951</td></tr>
+<tr>
+  <td style="text-align:right;"><b>Series 2:</b></td>
+  <td>&nbsp;</td>
+  <td>62.832</td>
+<td>48.442</td>
+<td>43.859</td>
+<td>40.623</td>
+<td>39.884</td></tr>
+<tr>
+  <td style="text-align:right;"><b>Exact*:</b></td>
+  <td>&nbsp;</td>
+  <td><b>20<span class="times">π</span></b></td>
+<td><br>
+</td>
+  <td><br>
+</td>
+  <td><br>
+</td>
+  <td><b>40</b></td></tr>
+</tbody></table>
+            <p><br>
+<b>* Exact:</b></p>
+<ul>
+                          <li>When <b>a=b</b>, the ellipse is a circle, and the perimeter is <b>2<span class="times">π</span>a</b> (62.832... in our example).</li>
+                          <li>When <b>b=0</b> (the shape is really two lines back and forth) the  perimeter is <b>4a</b> (40 in our example).</li>
+  </ul>
+            <p>They all get the perimeter of the circle correct, but only <b>Approx 2 and 3</b> and <b>Series 2</b> get close to the value of 40 for the extreme case of b=0.</p>
+
+
+<h2><a id="tool"></a>Ellipse Perimeter Calculations Tool</h2>
+
+<p>This tool does the calculations from above, but with more terms for the Series.</p>
+ <div class="script" style="height: 360px;">
+   images/ellipse-perim.js
+  </div>
+<p>&nbsp;</p>
+
+<div class="related">            
+  <a href="ellipse.html">Ellipse</a>            
+  <a href="index.html">Geometry Index</a> 
+</div>
+      <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2022 Rod Pierce</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/geometry/ellipse-perimeter.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:00:10 GMT -->
+</html>

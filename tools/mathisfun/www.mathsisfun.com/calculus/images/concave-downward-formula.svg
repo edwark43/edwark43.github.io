@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="468.5" height="42.6" version="1.1">
+<defs>
+</defs>
+<g transform="translate(-906.424,-2368.82)">
+<rect x="906.4" y="2368.8" ry="21.3" width="468.5" height="42.6" style="color:black; overflow:visible; fill:#fce94f; fill-opacity:0.31; stroke-width:0.5px;"/>
+<text x="1104.5" y="2403" style="font-family:Georgia; font-size:45.7px; font-style:italic; color:black; overflow:visible; fill:#8f5902; stroke-width:1.53px;">≥</text>
+<g transform="matrix(1.64685,0,0,1.64685,-24.466,-1314.7)">
+<text x="579.6" y="2255.4" style="font-family:Georgia; font-size:17.3px; font-style:italic; color:black; overflow:visible; fill:#0197fd; stroke-width:0.58px;">f(</text>
+<text x="671.5" y="2255.4" style="font-family:Georgia; font-size:17.3px; font-style:italic; color:black; overflow:visible; fill:#0197fd; stroke-width:0.58px;">)</text>
+<text x="611.8" y="2255.4" style="font-family:Georgia; font-size:17.3px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:0.58px;">+</text>
+<text x="592.9" y="2255.4" style="font-family:Georgia; font-size:17.3px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:0.5px;">ta</text>
+<text x="627.5" y="2255.4" style="font-family:Georgia; font-size:17.3px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:0.58px;">(1-t)b</text>
+</g>
+<g transform="matrix(1.64685,0,0,1.64685,217.512,-1282.15)">
+<text x="629.7" y="2236.3" style="font-family:Georgia; font-size:17.3px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:0.58px;">(1-t)</text>
+<text x="569" y="2236.3" style="font-family:Georgia; font-size:17.3px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:0.58px;">t</text>
+<text x="666.2" y="2236.3" style="font-family:Georgia; font-size:17.3px; font-style:italic; color:black; overflow:visible; fill:#0197fd; stroke-width:0.58px;">f(b)</text>
+<text x="612.2" y="2236.3" style="font-family:Georgia; font-size:17.3px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:0.58px;">+</text>
+<text x="577.6" y="2236.3" style="font-family:Georgia; font-size:17.3px; font-style:italic; color:black; overflow:visible; fill:#0197fd; stroke-width:0.58px;">f(a)</text>
+</g>
+</g>
+</svg>

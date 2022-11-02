@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/calculus/differential-equations-solution-guide.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:24 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Differential Equations Solution Guide</title>
+  
+<style>
+  
+  .totop {float:right; margin: 0 0 5px 10px;}
+  
+  </style>  
+  
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.">
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">Differential Equations Solution Guide</h1><br>
+<div class="def">
+    <p>A <a href="differential-equations.html">Differential Equation</a> is
+      an equation with a <a href="../sets/function.html">function</a> and
+      one or more of its <a href="derivatives-introduction.html">derivatives</a>:</p>
+    <p class="center"><img src="images/diff-eq-1.svg" alt="differential equation y + dy/dx = 5x" height="123" width="188"><br>
+Example: an equation with the function <b>y</b> and its derivative <b> <span class="intbl"> <em>dy</em> <strong>dx</strong> </span></b>  &nbsp;</p>
+  </div><br>
+<p>In our world things change, and <b>describing how they change</b> often ends up as a Differential Equation.</p>
+  <p>Real world examples where
+    Differential Equations are used include population growth, electrodynamics, heat
+    flow, planetary movement,  economic systems and much more!</p>
+
+
+<h2>Solving</h2>
+
+<p>A Differential Equation can be  a very natural way of describing something.</p>
+  <div class="example">
+
+<h3>Example: Population Growth</h3>
+    <p>This short equation says that a population "N" increases  (at any instant) as the growth rate times the population at that instant:</p>
+    <p class="center large"><span class="intbl"><em>dN</em><strong>dt</strong></span> = rN</p>
+  </div>
+  <p>But it is  not very useful as it is.</p>
+  <p>We need to
+    <b>solve</b> it!</p>
+  <p>We <b>solve</b> it when we discover <b>the function</b> <b>y</b> (or
+  set of functions y) that satisfies the equation, and then it can be used successfully.</p>
+  <div class="example">
+
+<h3>Example: continued</h3>
+    <p>Our example is <b>solved</b> with this equation:</p>
+<p class="center larger">N(t) = N<sub>0</sub>e<sup>rt</sup></p>
+<p>What does it say? Let's use it to see:</p>
+<p>With <b>t</b> in months, a population that starts at 1000 (<b>N<sub>0</sub></b>) and a growth rate of 10% per month (<b>r</b>) we get:</p>
+<ul>
+  <li>N(1 month) = 1000e<sup>0.1x1</sup> = <b>1105</b></li>
+  <li>N(6 months) = 1000e<sup>0.1x6</sup> = <b>1822</b></li>
+  <li>etc</li>
+</ul>
+  </div>
+  <p>&nbsp;</p>
+  <p>There is <b>no magic way to solve</b> all  Differential Equations.</p>
+  <p class="history">But over the millennia great minds have been  building on each others work and have discovered different methods (possibly long and complicated methods!) of solving <b>some</b> types of Differential Equations.</p>
+  <p id="top-of-page">So let’s take a
+    look at some  different <b>types of Differential Equations</b> and how to solve them:</p>
+
+
+<h2 id="separation">Separation of Variables</h2>
+
+<div class="center80">
+    <p style="float:right; margin: 0 0 5px 10px;"><img src="images/diff-eq-sep-var-a.svg" alt="Separation of Variables" height="152" width="129"></p>
+    <p><a href="separation-variables.html">Separation of Variables</a> can be used when:</p>
+<ul>
+<li>All the y terms (including dy) can be moved to one side
+      of the equation, and</li>
+<li>All the x terms (including dx) to the other side.</li>
+</ul>
+  <p>If that is the case, we can then integrate and simplify to get the the
+    solution.</p>
+<div style="clear:both"></div>
+  </div>
+
+
+<h2 id="first-order">First Order Linear</h2>
+
+<div class="center80">
+  <p><a href="differential-equations-first-order-linear.html">First Order Linear Differential Equations</a> are of this type:</p>
+<div class="center large">
+  <span class="intbl"><em>dy</em><strong>dx</strong></span> + P(x)y = Q(x)
+</div>
+    <div><a href="#homogeneous"><br>
+</a></div>Where <b>P(x)</b> and <b>Q(x)</b> are functions of x.
+<p>They are "First Order" when there is only <b> <span class="intbl"> <em>dy</em> <strong>dx</strong> </span></b> (not <b> <span class="intbl"> <em>d<sup>2</sup>y</em> <strong>dx<sup>2</sup></strong> </span></b> or <b> <span class="intbl"> <em>d<sup>3</sup>y</em> <strong>dx<sup>3</sup></strong> </span></b> , etc.)</p>
+  <p>Note: a <b>non-linear</b> differential equation is often hard to solve, but we can sometimes approximate it with a linear differential equation to
+  find an easier solution.</p>
+  </div>
+
+
+<h2 id="homogeneous">Homogeneous Equations</h2>
+
+<div class="center80">
+<p><a href="differential-equations-homogeneous.html">Homogeneous Differential Equations</a> look like this:</p>
+<div class="center large">
+ <span class="intbl"> <em>dy</em> <strong>dx</strong> </span> = F (&nbsp;<span class="intbl"> <em>y</em> <strong>x</strong></span> )
+</div>
+    <div><a href="#bernoulli"><br>
+</a></div>We can solve them by using a change of variables:
+<p class="center large">v = <span class="intbl"> <em>y</em> <strong>x</strong> </span></p>
+  <p>which can then be solved using <a href="separation-variables.html">Separation of Variables</a> .</p>
+  </div>
+
+
+<h2 id="bernoulli">Bernoulli Equation</h2>
+
+<div class="center80">
+<p><a href="differential-equations-bernoulli.html">Bernoull Equations</a> are of this general form:</p>
+<p class="center"><span class="large"><span class="intbl"><em>dy</em><strong>dx</strong></span> + P(x)y = Q(x)y<sup>n</sup></span><br>
+where n is any Real Number but not 0 or 1</p>
+<ul>
+    <li>When n = 0 the equation can be solved as a First Order Linear
+      Differential Equation.</li>
+    <li>When n = 1 the equation can be solved using Separation of
+      Variables.</li>
+</ul>    <p>For other values of n we can solve it by substituting&nbsp; <span class="large">u = y<sup>1−n</sup></span> and turning it into a linear differential equation (and then solve that).</p>
+  </div>
+
+
+<h2 id="second">Second Order Equation</h2>
+
+<div class="center80">
+<p><a href="differential-equations-second-order.html">Second Order (homogeneous)</a> are of the type:</p>
+<div>
+<div class="center large">
+<span class="intbl"></span><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx</strong></span> + P(x)<span class="intbl"> <em>dy</em> <strong>dx</strong></span> + Q(x)y = 0
+</div>    </div>
+    <a href="#undetermined"></a>
+  <p>Notice there is a second derivative&nbsp; <span class="intbl"><em>d<sup>2</sup>y</em> dx<sup>2</sup></span></p>
+<p>The
+<b>    general</b> second order equation looks like this</p>
+<p class="large center">&nbsp;a(x)<span class="intbl"><em>d<sup>2</sup>y</em> dx<sup>2</sup></span> + b(x)<span class="intbl"><em>dy</em> dx</span> + c(x)y = Q(x)</p>
+  <p>There are many distinctive cases among these
+  equations.</p>
+  <p>They are classified as homogeneous (Q(x)=0), non-homogeneous,
+    autonomous, constant coefficients, undetermined coefficients etc.</p>
+  <p>For <b>non-homogeneous</b> equations the <b>general
+    solution</b> is the sum of:</p>
+  <ul>
+<li>the solution to the corresponding homogeneous
+    equation, and</li>
+<li>the particular solution of the
+    non-homogeneous equation</li></ul>
+  </div>
+
+
+<h2 id="undetermined">Undetermined Coefficients</h2>
+
+<div class="center80">
+  <p>The
+<a href="differential-equations-undetermined-coefficients.html">Undetermined
+  Coefficients</a> method works for a non-homogeneous equation like this:</p>
+  <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + P(x)<span class="intbl"><em>dy</em><strong>dx</strong></span> + Q(x)y
+    = f(x)</p>
+  <p>where f(x) is a <b>polynomial, exponential, sine,  cosine or a linear combination of those</b>. (For a more general version see Variation of Parameters below)</p>This method also involves making a <b>guess</b>!
+  </div>
+
+
+<h2 id="variation">Variation of Parameters</h2>
+
+<div class="center80">
+  <p><a href="differential-equations-variation-parameters.html">Variation
+    of Parameters</a>  is a little messier but works on a wider range of functions than the previous <b>Undetermined
+    Coefficients</b>.</p></div>
+
+
+<h2 id="exact">Exact Equations and Integrating Factors</h2>
+
+<div class="center80">
+<p><a href="differential-equations-exact-factors.html">Exact Equations and Integrating Factors</a> can be used for a first-order  differential equation like this:</p>
+<p class="center large">M(x, y)dx + N(x, y)dy = 0</p>
+<p>that must have some special  function <span class="large">I(x, y)</span> whose <a href="derivatives-partial.html">partial derivatives</a> can be put in place of M and N like this:</p>
+<div>
+<p class="center large"><span class="intbl"><em>∂I</em><strong>∂x</strong></span>dx + <span class="intbl"><em>∂I</em><strong>∂y</strong></span>dy = 0</p>
+        </div>Our job is to find that magical function I(x, y) if it exists.
+  </div>
+
+
+<h2>Ordinary Differential Equations (ODEs) vs Partial Differential Equations (PDEs)</h2>
+
+<p>All of the methods so far  are known as <b>Ordinary Differential Equations</b> (ODE's).</p>
+  <div class="words">
+    <p>The term <b>ordinary</b> is used in contrast with the term <i>partial</i> to indicate derivatives with respect to only one independent variable.</p>
+  </div>
+  <p>Differential Equations with unknown multi-variable functions and their
+    partial derivatives are a different type and require separate methods to
+    solve them.</p>
+  <p>They are called <b>Partial Differential Equations</b> (PDE's), and
+    sorry, but we don't have any page on this topic yet.</p>
+  <p>&nbsp;</p><br>
+
+<div class="related">  
+  <a href="index.html">Calculus Index</a>
+</div>
+  <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2021 MathsIsFun.com</div>
+
+</div>
+
+
+
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/calculus/differential-equations-solution-guide.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:24 GMT -->
+</html>

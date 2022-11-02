@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="269.1" height="116.4" version="1.1">
+<defs>
+<marker id="id01" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<g transform="translate(-309.308,-386.53)">
+<rect x="1265" y="815.4" width="46.1" height="25.6" style="color:black; fill:#6a00d6; fill-opacity:0.48; stroke:black; stroke-width:2.25;" transform="matrix(0.994802,0.101831,-0.913513,0.406809,0,0)"/>
+<rect x="1084.7" y="808.1" width="46.1" height="25.6" style="color:black; fill:#6a00d6; fill-opacity:0.48; stroke:black; stroke-width:2.25; stroke-linejoin:round;" transform="matrix(0.994802,0.101831,-0.913513,0.406809,0,0)"/>
+<rect x="518.3" y="343.7" width="46.2" height="42.8" style="color:black; fill:#6a00d6; fill-opacity:0.48; stroke:black; stroke-width:1.59;" transform="matrix(0.994716,0.102665,0,1,0,0)"/>
+<rect x="502.4" y="618.5" width="25.5" height="42.8" style="color:black; fill:#6a00d6; fill-opacity:0.48; stroke:black; stroke-width:1.66;" transform="matrix(0.91237,-0.409366,0,1,0,0)"/>
+<rect x="1130.3" y="668.6" width="46.1" height="25.6" style="color:black; overflow:visible; fill:#a043ff; fill-opacity:0.82; stroke:black; stroke-width:2.25;" transform="matrix(0.994802,0.101831,-0.913513,0.406809,0,0)"/>
+<rect x="607.6" y="661.9" width="25.5" height="42.8" style="color:black; overflow:visible; fill:#a043ff; fill-opacity:0.82; stroke:black; stroke-width:1.66;" transform="matrix(0.91237,-0.409366,0,1,0,0)"/>
+<rect x="484.3" y="361.3" width="46.2" height="42.8" style="color:black; overflow:visible; fill:#a043ff; fill-opacity:0.82; stroke:black; stroke-width:1.59;" transform="matrix(0.994716,0.102665,0,1,0,0)"/>
+<rect x="343" y="361.1" width="46.2" height="42.8" style="color:black; fill:#6a00d6; fill-opacity:0.48; stroke:black; stroke-width:1.59; stroke-linejoin:round;" transform="matrix(0.994716,0.102665,0,1,0,0)"/>
+<rect x="348.5" y="549.5" width="25.5" height="42.8" style="color:black; fill:#6a00d6; fill-opacity:0.48; stroke:black; stroke-width:1.66; stroke-linejoin:round;" transform="matrix(0.91237,-0.409366,0,1,0,0)"/>
+<rect x="1006.2" y="721.5" width="46.1" height="25.6" style="color:black; overflow:visible; fill:#a043ff; fill-opacity:0.82; stroke:black; stroke-width:2.25; stroke-linejoin:round;" transform="matrix(0.994802,0.101831,-0.913513,0.406809,0,0)"/>
+<rect x="399.1" y="574.6" width="25.5" height="42.8" style="color:black; overflow:visible; fill:#a043ff; fill-opacity:0.82; stroke:black; stroke-width:1.66; stroke-linejoin:round;" transform="matrix(0.91237,-0.409366,0,1,0,0)"/>
+<rect x="319.3" y="373.7" width="46.2" height="42.8" style="color:black; overflow:visible; fill:#a043ff; fill-opacity:0.82; stroke:black; stroke-width:1.59; stroke-linejoin:round;" transform="matrix(0.994716,0.102665,0,1,0,0)"/>
+<path style="marker-end:url(#id01); fill:none; fill-opacity:0.75; stroke:black; stroke-width:2.38;" d="m 401.1,430.2 h 39.7"/>
+<text x="307.9" y="497.8" style="font-family:'Comic Sans MS'; font-size:18.6px; color:black; overflow:visible; fill:#993300; stroke-width:1.4px;">12 Edges</text>
+<text x="478.3" y="497.8" style="font-family:'Comic Sans MS'; font-size:18.6px; color:black; overflow:visible; fill:#993300; stroke-width:1.4px;">24 Edges</text>
+</g>
+</svg>

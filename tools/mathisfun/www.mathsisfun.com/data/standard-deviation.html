@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/data/standard-deviation.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:38:14 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+<!-- #BeginEditable "doctitle" -->
+<title>Standard Deviation and Variance</title>
+<script language="JavaScript" type="text/javascript">reSpell=[["millimeters","millimetres"]];</script>
+<style type="text/css">
+.lg {
+	font-size: 150%;
+transform: translateY(10%)
+}
+</style>
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">Standard Deviation and Variance</h1>
+
+<p class="center"><i>Deviation just means how far from the normal</i></p>
+
+
+<h2><b><a name="Top" id="Top"></a></b>Standard Deviation</h2>
+
+<p>The Standard Deviation  is a measure of how spread
+        out numbers are.</p>
+      <p>Its symbol is <b class="larger">σ</b> (the greek letter sigma)</p>
+      <p>The formula is easy: it is the<b> square root</b> of the <b>Variance.</b> So now you ask, "What is the Variance?"</p>
+
+
+<h2>Variance</h2>
+
+<p>The Variance  is defined as:</p>
+      <div class="def">
+        <p class="center larger">The average of the <b>squared</b> differences from the Mean.</p>
+      </div>
+      <p>To calculate the variance follow these steps:</p>
+      <ul>
+        <div class="bigul">
+          <li>Work out the <a href="../mean.html">Mean</a> (the simple average
+            of the numbers)</li>
+          <li>Then for each number: subtract the Mean and  square the result
+            (the <i>squared difference</i>).</li>
+          <li>Then work out the average of those squared differences. (<a href="#WhySquare">Why
+            Square?</a>)</li>
+        </div>
+      </ul>
+
+
+<h2>Example</h2>
+
+<p>You and your friends have just measured the heights of your dogs
+  (in millimeters):</p>
+<p class="center"><img src="images/statistics-dogs-graph.gif" alt="dogs on graph shoulder heights" style="max-width:100%" height="204" width="612"></p>
+      <p>The heights (at the shoulders) are: 600mm, 470mm, 170mm, 430mm
+        and 300mm.</p>
+      <p>Find out the Mean, the Variance, and the Standard Deviation.</p>
+      <p>Your first step is to find the Mean:</p>
+
+<h3>Answer:</h3>
+      <table style="border: 0; margin:auto;">
+        <tbody>
+<tr>
+          <td><span class="larger">Mean</span></td>
+          <td style="text-align:center; width:40px;"><span class="larger">=</span></td>
+          <td class="larger"><span class="intbl"><em>600 + 470 + 170 + 430 + 300</em><strong>5</strong></span></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td style="text-align:center; width:40px;"><span class="larger">=</span></td>
+          <td class="larger"><span class="intbl"><em>1970</em><strong>5</strong></span></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td style="text-align:center; width:40px;"><span class="larger">=</span></td>
+          <td class="larger">394</td>
+        </tr>
+      </tbody></table>
+  <p>so the mean (average) height is 394 mm. Let's plot this on the chart:</p>
+<p class="center"><img src="images/statistics-dogs-mean.gif" alt="dogs on graph: mean" style="max-width:100%" height="207" width="619"></p>
+      <p>Now we calculate each dog's difference from the Mean:</p>
+  <p class="center"><img src="images/statistics-dogs-deviation.gif" alt="dogs on graph: deviation" style="max-width:100%" height="165" width="618"></p>
+      <p>To calculate the Variance, take each difference, square it, and
+        then average the result:</p>
+      <table style="border: 0; margin:auto;">
+        <tbody>
+<tr>
+          <td colspan="3" class="larger" nowrap="nowrap"><b>Variance</b></td>
+        </tr>
+        <tr>
+          <td class="larger" nowrap="nowrap">σ<sup>2</sup></td>
+          <td class="larger" align="center" width="40">=</td>
+          <td class="larger"><span class="intbl"><em>206<sup>2</sup> + 76<sup>2</sup> + (−224)<sup>2</sup> + 36<sup>2</sup> + (−94)<sup>2</sup></em><strong>5</strong></span></td>
+        </tr>
+        <tr>
+          <td class="larger">&nbsp;</td>
+          <td class="larger" align="center">=</td>
+          <td class="larger"><span class="intbl"><em>42436 + 5776 + 50176 + 1296 + 8836</em><strong>5</strong></span></td>
+        </tr>
+        <tr>
+          <td class="larger">&nbsp;</td>
+          <td class="larger" align="center">=</td>
+          <td class="larger"><span class="intbl"><em>108520</em><strong>5</strong></span></td>
+        </tr>
+        <tr>
+          <td class="larger">&nbsp;</td>
+          <td class="larger" align="center">=</td>
+          <td class="larger">21704</td>
+        </tr>
+      </tbody></table>
+      <p>So the Variance is <b>21,704</b></p>
+      <p>And the Standard Deviation is just the square root of Variance,
+        so:</p>
+      <table style="border: 0; margin:auto;">
+        <tbody>
+<tr>
+          <td colspan="3"><span class="center larger"><b>Standard Deviation</b></span></td>
+        </tr>
+        <tr>
+          <td><span class="center larger">σ </span></td>
+          <td class="larger" align="center" width="40">=</td>
+          <td><span class="center larger">√21704 </span></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td class="larger" align="center">=</td>
+          <td><span class="center larger"> 147.32...</span></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td class="larger" align="center">=</td>
+          <td><span class="center larger"><b>147</b> <i>(to the nearest mm)</i></span></td>
+        </tr>
+      </tbody></table>
+      <p>&nbsp;</p>
+      <p>And the good thing about the Standard Deviation is that it is useful.
+        Now we can show which heights are within one Standard Deviation
+        (147mm) of the Mean:</p>
+<p class="center"><img src="images/statistics-standard-deviation.gif" alt="dogs on graph: standard deviation" style="max-width:100%" height="208" width="621"></p>
+      <p>So, using the Standard Deviation we have a "standard"
+        way of knowing what is normal, and what is extra large or extra
+        small.</p>
+      <p>Rottweilers <b>are</b> tall dogs. And Dachshunds <b>are</b> a bit
+        short, right?</p>
+
+
+<h2>Using</h2>
+
+<p style="float:right; margin: 0 0 5px 10px;"><img src="images/normal-distrubution-1sd.svg" alt="normal distrubution 1 sd = 68%" height="144" width="300"></p>
+<p>We can expect about 68% of values to be within plus-or-minus
+1 standard deviation.</p>
+      <p>Read <a href="standard-normal-distribution.html">Standard Normal Distribution</a> to learn more.</p>
+      <p>Also try the <a href="standard-deviation-calculator.html">Standard Deviation Calculator</a>.</p>
+
+
+<h2>But ... there is a small change with <b>Sample</b> Data</h2>
+
+<p>Our example has been for a <b>Population</b> (the 5 dogs are the only dogs we are interested in).</p>
+      <p>But if the  data is  a <b>Sample</b> (a selection taken from a bigger Population), then the calculation changes!</p>
+      <div class="def">
+  <p class="larger">When you have "N" data values that are:</p>
+  <div class="bigul">
+    <ul>
+      <li><b>The Population</b>: divide by <b>N</b> when calculating Variance (like we did)</li>
+      <li><b>A Sample</b>: divide by <b>N-1</b> when calculating Variance</li>
+      </ul>
+  </div>
+      </div>
+<p><span class="center">All  other calculations stay the same, including how we calculated the mean.</span></p>
+<div class="example">
+        <p>Example: if our 5 dogs are just a <b>sample</b> of a bigger population of dogs, we  divide by <b>4 instead of 5</b> like this:</p>
+        <div class="so">Sample Variance = 108,520 / <span class="hilite"><b>4</b></span> = <b>27,130</b></div>
+        <div class="so">Sample Standard Deviation = √27,130 = <b>165</b> (to the nearest mm) </div>
+</div>
+<p>Think of it as a "correction" when your data is only a sample.</p>
+
+
+<h2>Formulas</h2>
+
+<p>Here are the two formulas,   explained at <a href="standard-deviation-formulas.html">Standard Deviation Formulas</a> if you want to know more:</p>
+      <table style="border: 0; margin:auto;">
+        <tbody>
+<tr>
+          <td style="text-align:right;">
+<p>The "<b>Population</b> Standard Deviation":</p></td>
+          <td style="text-align:right;">&nbsp;</td>
+          <td><img src="images/standard-deviation-formula.svg" alt="square root of [ (1/N) times Sigma i=1 to N of (xi - mu)^2 ]" height="59" width="200"></td>
+        </tr>
+        <tr>
+          <td style="text-align:right;">The "<b>Sample</b> Standard Deviation<b>":</b></td>
+          <td style="text-align:right;">&nbsp;</td>
+          <td><img src="images/standard-deviation-sample.svg" alt="square root of [ (1/(N-1)) times Sigma i=1 to N of (xi - xbar)^2 ]" height="58" width="210"></td>
+        </tr>
+      </tbody></table>
+      <p class="center">Looks complicated, but the important change is to<br>
+divide by <b>N-1</b> (instead of <b>N</b>) when calculating a Sample Standard Deviation.</p>
+      <p class="center larger">&nbsp;</p>
+      <p>&nbsp;</p>
+      <div class="center80">
+
+<h3><b><a name="WhySquare" id="WhySquare"></a>*Footnote: Why <i>square</i> the differences?</b></h3>
+        <p>If we just add up the differences from the mean ...  the negatives  cancel the positives:</p>
+        <table style="border: 0; margin:auto;">
+          <tbody>
+<tr>
+            <td><img src="images/standard-deviation-why-a.gif" alt="standard deviation why a" height="92" width="118"></td>
+            <td>&nbsp;</td>
+            <td><span class="intbl"><em>4 + 4 − 4 − 4</em><strong>4</strong></span> = <span class="hilite">0</span></td>
+          </tr>
+        </tbody></table>
+        <p>So that won't work. How about we use <a href="../numbers/absolute-value.html">absolute values</a>?</p>
+        <table style="border: 0; margin:auto;">
+          <tbody>
+<tr>
+            <td><img src="images/standard-deviation-why-a.gif" alt="standard deviation why a" height="92" width="118"></td>
+            <td>&nbsp;</td>
+            <td><span class="intbl">
+              <em>|4| + |4| + |−4| + |−4|</em><strong>4</strong></span> = <span class="intbl">
+              <em>4 + 4 + 4 + 4</em>
+              <strong>4</strong>
+            </span> = <span class="hilite">4</span></td>
+          </tr>
+        </tbody></table>
+        <p>That looks good (and is the <a href="mean-deviation.html">Mean Deviation</a>), but what about this case:</p>
+        <table style="border: 0; margin:auto;">
+          <tbody>
+<tr>
+            <td><img src="images/standard-deviation-why-b.gif" alt="standard deviation why b" height="125" width="118"></td>
+            <td>&nbsp;</td>
+            <td><span class="intbl">
+              <em>|7| + |1| + |−6| + |−2|</em><strong>4</strong></span> = <span class="intbl">
+              <em>7 + 1 + 6 + 2</em>
+              <strong>4</strong>
+            </span> = <span class="hilite">4</span></td>
+          </tr>
+        </tbody></table>
+        <p>Oh No! It also gives a value of 4,
+Even though the differences are  more spread out.</p>
+        <p>So let us try squaring each difference (and taking the  square root at the end):</p>
+        <table style="border: 0; margin:auto;">
+          <tbody>
+<tr>
+            <td><img src="images/standard-deviation-why-a.gif" alt="standard deviation why a" height="92" width="118"></td>
+            <td>&nbsp;</td>
+            <td>
+<span class="lg">√(</span><span class="intbl">
+              <em>4<sup>2</sup> + 4<sup>2</sup> + (-4)<sup>2</sup> + (-4)<sup>2</sup></em><strong>4</strong></span><span class="lg">)</span> = <span class="lg">√(</span><span class="intbl">
+              <em>64</em>
+              <strong>4</strong>
+            </span><span class="lg">)</span> = <span class="hilite">4</span></td>
+          </tr>
+          <tr>
+            <td><img src="images/standard-deviation-why-b.gif" alt="standard deviation why b" height="125" width="118"></td>
+            <td>&nbsp;</td>
+            <td><span class="lg">√(</span><span class="intbl">
+              <em>7<sup>2</sup> + 1<sup>2</sup> + (-6)<sup>2</sup> + (-2)<sup>2</sup></em>
+              <strong>4</strong></span><span class="lg">)</span> = <span class="lg">√(</span><span class="intbl">
+              <em>90</em>
+              <strong>4</strong>
+            </span><span class="lg">)</span> = <span class="hilite">4.74...</span></td>
+          </tr>
+        </tbody></table>
+        <p>That is nice! The  Standard Deviation is bigger when  the differences are more spread out  ... just what we want.</p>
+        <p>In fact this method is a similar idea to  <a href="../algebra/distance-2-points.html">distance between points</a>, just applied in a different way.</p>
+        <p>And it is  easier to use algebra on squares and square roots than absolute values, which makes the standard deviation easy to use in other areas of mathematics.</p>
+        <p><a href="#Top">Return to Top</a></p>
+      </div><p>&nbsp;</p>
+      <div class="questions">699, 1472, 1473, 3068, 3069, 3070, 3071, 1474, 3804, 3805</div>
+
+<div class="related">  
+  <a href="standard-deviation-formulas.html">Standard Deviation Formulas</a>  
+  <a href="standard-deviation-calculator.html">Standard Deviation Calculator</a>  
+  <a href="standard-normal-distribution.html">Standard Normal Distribution</a>  
+  <a href="../accuracy-precision.html">Accuracy and Precision</a>  
+  <a href="../mean.html">Mean</a>  
+  <a href="index.html#stats">Probability and Statistics</a>
+</div>
+      <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2021 MathsIsFun.com</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/data/standard-deviation.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:38:16 GMT -->
+</html>

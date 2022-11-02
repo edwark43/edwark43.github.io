@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="304.3" height="255.2" version="1.1">
+<defs>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#005c94; stroke:#005c94; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"/>
+</marker>
+<marker id="id2" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ff4141; stroke:#ff4141; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"/>
+</marker>
+</defs>
+<g transform="translate(-116.69843,-962.8725)">
+<g transform="matrix(0.55,0,0,0.55,354.56457,427.63197)">
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1115.1 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1068 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1021 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,974 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1350.1 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1256.1 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1209.1 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1162.1 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -255.4,1303.1 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -116,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -163,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -210.1,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m 119,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m 25,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -22,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -69,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m 72,1348.4 0,-374.4"/>
+</g>
+<ellipse cx="320.8" cy="1184.5" rx="42.3" ry="33.5" style="overflow:visible; fill:#b3defd; stroke-width:3;"/>
+<path style="marker-end:; overflow:visible; fill:#b3defd; stroke-width:3;" d="m 315.7,1164.3 c -0.2,-2.4 -0.6,-4.8 -0.4,-7.2 0,-2.8 0.4,-5.5 1.5,-8.1 1.4,-4.2 4.1,-8.1 4.5,-12.6 0.2,-2.2 0.1,-4.4 -0,-6.6 1.2,-0.6 2.5,-1.2 3.7,-1.8 0.3,4.3 0.4,8.9 -1.3,13 -1.1,2.8 -2.5,5.5 -3.5,8.3 -1.3,3 -1.3,6.4 -1.2,9.6 -0,1.2 0.5,2.7 0.3,3.8 -1.2,0.6 -2.4,1.1 -3.6,1.7 z"/>
+<path style="overflow:visible; fill:#b3defd; stroke-width:3;" d="m 315.1,1136.5 c 0.5,-0.3 0.9,-0.8 1.3,-1.2 -0.7,0.7 -1.5,1.5 -2.2,2.2 1.1,-1 2,-2.3 2.5,-3.7 0.7,-1.6 1.4,-3.2 1.8,-5 0.2,-1.5 0.4,-3 0.2,-4.5 1.2,-0.6 2.5,-1.3 3.7,-1.9 0.3,1.7 0.3,3.4 -0,5.1 -0.2,2.5 -1.4,4.7 -2.3,7 -0.6,1.2 -1.3,2.4 -2.3,3.2 -0.9,0.9 -1.8,1.9 -2.9,2.6 -0.4,0.4 -0.4,0.2 -0.3,-0.2 0.2,-1.2 0.3,-2.4 0.5,-3.6 z"/>
+<path style="overflow:visible; fill:#b3defd; stroke-width:3;" d="m 324.1,1122.4 c 1.5,3 3.8,5.7 6.2,7.9 1.6,1.4 3.3,2.7 5.1,3.9 -0.9,1 -1.8,2.1 -2.7,3.1 -2.9,-2 -5.7,-4.2 -7.9,-6.9 -1.5,-1.7 -2.9,-3.6 -3.9,-5.6 0,-0.2 0.4,-0.3 0.6,-0.5 0.9,-0.7 1.8,-1.3 2.7,-2 z"/>
+<path style="overflow:visible; fill:#0197fd; stroke:#0197fd; stroke-width:2.12;" d="m 260.1,1083.6 122.7,-68.8"/>
+<circle cx="382.8" cy="1014.8" r="2.5332606" style="overflow:visible; fill:#f0a513; stroke:#fdca01; stroke-width:2.12;"/>
+<text x="384.7" y="998.3" transform="scale(0.99222531,1.0078356)" style="font-family:'Comic Sans MS'; font-size:22.8px; overflow:visible; fill:#f0a513; stroke-width:4.5;">A</text>
+<text x="252.6" y="1067.5" transform="scale(0.99222531,1.0078356)" style="font-family:'Comic Sans MS'; font-size:22.8px; overflow:visible; fill:#f0a513; stroke-width:4.5;">B</text>
+<g transform="matrix(0.47060554,0,0,0.47060554,-562.38635,160.50796)">
+<text x="1645.4" y="1808" style="font-family:'Comic Sans MS'; font-size:48.5px; overflow:visible; fill:#013397; stroke-width:2.2;">y</text>
+<text x="1663.9" y="1822.5" style="font-family:'Comic Sans MS'; font-size:32px; overflow:visible; fill:#013397; stroke-width:3;">A</text>
+</g>
+<g transform="matrix(0.47060554,0,0,0.47060554,-435.91825,171.8497)">
+<text x="1459.4" y="2046.1" style="font-family:'Comic Sans MS'; font-size:48.5px; overflow:visible; fill:#013397; stroke-width:2.2;">x</text>
+<text x="1482" y="2060.5" style="font-family:'Comic Sans MS'; font-size:32px; overflow:visible; fill:#013397; stroke-width:3;">B</text>
+</g>
+<g transform="matrix(0.47060554,0,0,0.47060554,-561.95834,123.84238)">
+<text x="1653.8" y="2047.3" style="font-family:'Comic Sans MS'; font-size:48.5px; overflow:visible; fill:#013397; stroke-width:2.2;">y</text>
+<text x="1672.3" y="2061.7" style="font-family:'Comic Sans MS'; font-size:32px; overflow:visible; fill:#013397; stroke-width:3;">B</text>
+</g>
+<g transform="matrix(0.47060554,0,0,0.47060554,-309.16944,285.12187)">
+<text x="1451.1" y="1806.8" style="font-family:'Comic Sans MS'; font-size:48.5px; overflow:visible; fill:#013397; stroke-width:2.2;">x</text>
+<text x="1473.6" y="1821.3" style="font-family:'Comic Sans MS'; font-size:32px; overflow:visible; fill:#013397; stroke-width:3;">A</text>
+</g>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#2e3436; stroke-width:1.41; stroke-dasharray:1.4, 2.8;" d="m 238.8,1014 140.8,0"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#2e3436; stroke-width:1.41; stroke-dasharray:1.4, 2.8;" d="m 239.8,1084 19,0"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#2e3436; stroke-width:1.41; stroke-dasharray:1.4, 2.8;" d="m 382.7,1118.8 0,-100.2"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#2e3436; stroke-width:1.41; stroke-dasharray:1.4, 2.8;" d="m 259.1,1116.6 0,-30.3"/>
+<circle cx="258.6" cy="1084.7" r="2.5332606" style="overflow:visible; fill:#f0a513; stroke:#fdca01; stroke-width:2.12;"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#2e3436; stroke-width:1.41; stroke-dasharray:1.4, 2.8;" d="m 238.4,1048.9 80.3,0"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#2e3436; stroke-width:1.41; stroke-dasharray:1.4, 2.8;" d="m 320.2,1117 0,-65.9"/>
+<circle cx="319.5" cy="1049.5" r="2.5332606" style="overflow:visible; fill:#121513; stroke:#121513; stroke-width:2.12;"/>
+<g transform="matrix(0.47060554,0,0,0.47060554,-635.8581,187.01412)">
+<text x="1965.9" y="2108.6" style="font-family:'Comic Sans MS'; font-size:48.5px; overflow:visible; fill:#013397; stroke-width:2.2;">x &#160;+ x</text>
+<text x="1988.4" y="2123" style="font-family:'Comic Sans MS'; font-size:32px; overflow:visible; fill:#013397; stroke-width:3;">A</text>
+<text x="2081.5" y="2123" style="font-family:'Comic Sans MS'; font-size:32px; overflow:visible; fill:#013397; stroke-width:3;">B</text>
+</g>
+<text x="316.1" y="1210.5" style="font-family:'Comic Sans MS'; font-size:18.8px; overflow:visible; fill:#013397; stroke-width:2.2;">2</text>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#013397; stroke-width:1.41;" d="m 286.6,1189.8 68.2,0"/>
+<text x="328.3" y="1056.1" transform="scale(0.99222531,1.0078356)" style="font-family:'Comic Sans MS'; font-size:22.8px; overflow:visible; fill:#121513; stroke-width:4.5;">M</text>
+<circle cx="320.6" cy="1118.3" r="2.5332606" style="overflow:visible; fill:#121513; stroke:#121513; stroke-width:2.12;"/>
+<circle cx="238.6" cy="1049" r="2.5332606" style="overflow:visible; fill:#121513; stroke:#121513; stroke-width:2.12;"/>
+<path style="overflow:visible; fill:#b3defd; stroke-width:3;" d="m 179.8,1046.9 c 5.9,-2.8 12.5,-3.9 19,-3.5 6.4,0.2 12.7,1.2 19,2.4 3.6,0.7 7.3,0.9 10.9,0.4 -0.5,1.3 -1,2.5 -1.6,3.8 -6,0.7 -11.9,-0.9 -17.8,-1.9 -5.5,-0.9 -11.1,-1.4 -16.6,-1.1 -4.7,0.4 -9.5,1.5 -13.6,3.9 0.3,-1.3 0.5,-2.7 0.8,-4 z"/>
+<path style="overflow:visible; fill:#b3defd; stroke-width:3;" d="m 216.2,1034.8 c 1.1,1 2.1,2.2 3.2,3.2 3.4,3.3 7.3,6.2 11.6,8.4 0.6,0.1 0.4,0.4 0.1,0.8 -0.7,0.9 -1.4,1.9 -2,2.8 -4.4,-2.2 -8.4,-5.1 -11.9,-8.5 -1.3,-1.2 -2.6,-2.4 -3.8,-3.7 0.9,-1 1.9,-2 2.8,-3 z"/>
+<path style="overflow:visible; fill:#b3defd; stroke-width:3;" d="m 212.4,1059.9 c 1.9,-2.8 4.4,-5.1 7.1,-7 3,-2.1 6.3,-3.8 9.5,-5.4 1.2,-0.6 2.4,-1.3 3.7,-1.9 -0.3,1.3 -0.6,2.7 -0.9,4 -3.8,2 -7.7,3.8 -11.3,6.2 -1.6,1.1 -3.1,2.2 -4.4,3.6 0.7,-0.7 1.5,-1.4 2.2,-2.1 -0.7,0.6 -1.3,1.3 -1.9,2 -1.3,0.2 -2.7,0.4 -4,0.6 z"/>
+<ellipse cx="159" cy="1042" rx="42.3" ry="33.5" style="overflow:visible; fill:#b3defd; stroke-width:3;"/>
+<text x="152.3" y="1067.4" style="font-family:'Comic Sans MS'; font-size:18.8px; overflow:visible; fill:#013397; stroke-width:2.2;">2</text>
+<text x="133" y="1034.9" style="font-family:'Comic Sans MS'; font-size:22.8px; overflow:visible; fill:#013397; stroke-width:2.2;">y &#160; y</text>
+<text x="139.5" y="1044.2" style="font-family:'Comic Sans MS'; font-size:15.1px; overflow:visible; fill:#013397; stroke-width:3;">A</text>
+<text x="174.4" y="1044.2" style="font-family:'Comic Sans MS'; font-size:15.1px; overflow:visible; fill:#013397; stroke-width:3;">B</text>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#013397; stroke-width:1.41;" d="m 128.6,1048.2 60.7,0"/>
+<text x="151.7" y="1039.8" style="font-family:'Comic Sans MS'; font-size:22.8px; overflow:visible; fill:#013397; stroke-width:2.2;">+</text>
+<path style="marker-end:url(#id1); fill:#005c94; fill-opacity:0.75; stroke:#005c94; stroke-width:1.48;" d="m 220.1,1118.2 196.9,0"/>
+<path style="marker-end:url(#id2); fill:#2e3436; fill-opacity:0.75; stroke:#ff4141; stroke-width:1.51;" d="m 238.7,1140.6 0,-170.2"/>
+<text x="403.8" y="1109.7" style="font-family:'Comic Sans MS'; font-size:26.4px; font-style:italic; overflow:visible; fill:#005c94; stroke-width:1px;">x</text>
+<text x="246.6" y="985.8" style="font-family:'Comic Sans MS'; font-size:26.4px; font-style:italic; overflow:visible; fill:#ff4141; stroke-width:1px;">y</text>
+</g>
+</svg>

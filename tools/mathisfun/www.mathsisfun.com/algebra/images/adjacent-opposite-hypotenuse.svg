@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="325.7"
+   height="189.8"
+   version="1.1"
+   style="font-family:'Comic Sans MS';font-size:22.5px;stroke-width:0.42px"
+   id="svg50"
+   sodipodi:docname="adjacent-opposite-hypotenuse.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata54">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview52"
+     showgrid="false"
+     inkscape:current-layer="svg50" />
+  <defs
+     id="defs14">
+    <marker
+       style="overflow:visible"
+       id="marker1565"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1;fill:#3465a4;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1563" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1495"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1;fill:#3465a4;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1493" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1425"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#ce5c00;stroke-width:1pt;stroke-opacity:1;fill:#ce5c00;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1423" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1367"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#ce5c00;stroke-width:1pt;stroke-opacity:1;fill:#ce5c00;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1365" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#c4a000;stroke-width:1pt;stroke-opacity:1;fill:#c4a000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path906" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#c4a000;stroke-width:1pt;stroke-opacity:1;fill:#c4a000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path903" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#edd400;stroke-width:1pt;stroke-opacity:1;fill:#edd400;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path909" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#edd400;stroke-width:1pt;stroke-opacity:1;fill:#edd400;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path912" />
+    </marker>
+    <marker
+       id="aa3"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path2" />
+    </marker>
+    <marker
+       id="aa4"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path5" />
+    </marker>
+    <marker
+       id="aa1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path11" />
+    </marker>
+  </defs>
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:1.66"
+     d="M 226.2,142.9 H 17.3 L 226,27.1 Z"
+     id="path16" />
+  <text
+     x="106.7"
+     y="127.2"
+     transform="scale(1.00031,0.999693)"
+     style="font-size:26px;stroke-width:2.53;fill:#edd400;"
+     id="text18">θ</text>
+  <path
+     style="marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);fill:none;stroke:#edd400;stroke-width:1.66;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 88.6,106.7 a 77.9,77.9 0 0 1 8.8,34"
+     id="path20" />
+  <path
+     style="fill:none;stroke:#3465a4"
+     d="m 16.2,178 v -26.4"
+     id="path22" />
+  <path
+     style="fill:none;stroke:#3465a4"
+     d="m 226.7,177.8 v -26.4"
+     id="path24" />
+  <path
+     style="marker-start:url(#marker1495);marker-end:url(#marker1565);fill:none;stroke:#3465a4;stroke-width:0.75"
+     d="M 223.7,163.3 H 18.4"
+     id="path26" />
+  <path
+     style="fill:none;stroke:#ce5c00"
+     d="m 11.9,139.6 -11.7,-21.5"
+     id="path28" />
+  <path
+     style="fill:none;stroke:#ce5c00"
+     d="m 223.7,21.7 -11.7,-21.5"
+     id="path30" />
+  <path
+     style="marker-start:url(#marker1367);marker-end:url(#marker1425);fill:none;stroke:#ce5c00;stroke-width:0.75"
+     d="M 214.2,11.5 7.6,126.4"
+     id="path32" />
+  <path
+     style="fill:none;stroke:#c4a000"
+     d="m 275,144.5 h -43.9"
+     id="path34" />
+  <path
+     style="fill:none;stroke:#c4a000"
+     d="m 274.7,28 h -43.9"
+     id="path36" />
+  <path
+     style="marker-end:url(#Arrow1Lend);fill:none;stroke:#c4a000;stroke-width:0.75"
+     d="m 260.4,104.7 v 38.6"
+     id="path38" />
+  <text
+     x="11.9"
+     y="104"
+     transform="rotate(-28.8695)"
+     style="fill:#ce5c00;stroke-width:1px"
+     id="text40">Hypotenuse</text>
+  <text
+     x="232"
+     y="93.1"
+     style="fill:#c4a000;stroke-width:1px"
+     id="text42">Opposite</text>
+  <text
+     x="86.7"
+     y="183.3"
+     style="fill:#3465a4;stroke-width:1px"
+     id="text44">Adjacent</text>
+  <path
+     style="fill:none;stroke:#204a87;stroke-width:1.66"
+     d="m 202.8,142.5 v -22.7 h 22.3"
+     id="path46" />
+  <path
+     style="marker-start:url(#Arrow1Lstart);fill:none;stroke:#c4a000;stroke-width:0.75"
+     d="M 260.4,28.8 V 71.7"
+     id="path48" />
+</svg>

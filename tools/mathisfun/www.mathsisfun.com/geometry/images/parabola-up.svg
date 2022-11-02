@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="153.27"
+   height="126.765"
+   version="1.1"
+   id="svg84"
+   sodipodi:docname="parabola-up.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata88">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview86"
+     showgrid="false"
+     inkscape:current-layer="svg84"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs10">
+    <circle
+       cx="0"
+       cy="0"
+       r="100"
+       style="stroke-width:0"
+       id="circle2" />
+    <marker
+       id="id3"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="id2"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id38025"
+       inkscape:stockid="id38025">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:#204a87;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#204a87"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3553"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id28901"
+       inkscape:stockid="id28901">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="stroke:#204a87;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#204a87"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3556"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <ellipse
+     id="ellipse12"
+     style="fill:#ff0000;stroke:#204a87;stroke-width:0.2px"
+     ry="0"
+     rx="1.1"
+     cy="-980.767"
+     cx="86.3003" />
+  <text
+     id="text14"
+     style="font-size:9.6px;font-family:'Comic Sans MS';fill:#000000;stroke-width:0.2px"
+     y="-998.467"
+     x="-2.89973" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path24"
+     d="M 21.9003,0.233292 C 75.7003,152.433 121.4,1.03329 121.4,1.03329"
+     style="fill:none;stroke:#729fcf;stroke-width:1.4" />
+  <text
+     id="text28"
+     style="font-size:16px;font-family:'Comic Sans MS';fill:#edd400;stroke-width:0.2"
+     y="55.3335"
+     x="81.7003">F=(0,a)</text>
+  <text
+     id="text32"
+     style="font-size:12.8px;font-family:'Comic Sans MS';fill:#000000;stroke-width:0.2px"
+     y="83.8335"
+     x="141.3">X</text>
+  <text
+     id="text36"
+     style="font-size:12.8px;font-family:'Comic Sans MS';fill:#000000;stroke-width:0.2px"
+     y="18.4331"
+     x="77.9003">Y</text>
+  <use
+     height="100%"
+     width="100%"
+     id="use40"
+     y="0"
+     x="0"
+     xlink:href="#id1"
+     transform="matrix(0.761904,0,0,0.761904,-392.179,-709.257)" />
+  <use
+     height="100%"
+     width="100%"
+     id="use42"
+     y="0"
+     x="0"
+     xlink:href="#id1"
+     transform="matrix(0.761904,0,0,0.761904,-392.179,-709.257)" />
+  <use
+     height="100%"
+     width="100%"
+     id="use44"
+     y="0"
+     x="0"
+     xlink:href="#id1"
+     transform="matrix(0.761904,0,0,0.761904,-392.179,-709.257)" />
+  <use
+     height="100%"
+     width="100%"
+     id="use46"
+     y="0"
+     x="0"
+     xlink:href="#id1"
+     transform="matrix(0.761904,0,0,0.761904,-392.179,-709.257)" />
+  <use
+     height="100%"
+     width="100%"
+     id="use48"
+     y="0"
+     x="0"
+     xlink:href="#id1"
+     transform="matrix(0.761904,0,0,0.761904,-432.581,-1138.09)" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path62"
+     d="M 72.1942,1.69673 72.0065,126.764"
+     style="fill:none;stroke:#204a87;stroke-width:0.860003;marker-start:url(#id28901)" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path70"
+     d="M 2.83642e-4,68.0333 151.6,67.9333"
+     style="font-size:64px;font-family:'Comic Sans MS';fill:none;stroke:#204a87;stroke-width:0.86;marker-end:url(#id38025)" />
+  <ellipse
+     id="ellipse78"
+     style="color:#000000;font-size:78.300003px;font-family:'Comic Sans MS';overflow:visible;fill:#fce94f;stroke:#2e3436;stroke-width:0.78"
+     transform="matrix(-0.006157,0.999981,-0.999981,-0.006172,0,0)"
+     ry="2.2"
+     rx="2.1"
+     cy="-72.4982"
+     cx="57.4146" />
+</svg>

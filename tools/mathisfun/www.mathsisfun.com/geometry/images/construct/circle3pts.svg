@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="300px" height="200px" xmlns="http://www.w3.org/2000/svg" style="stroke-width:2px;">
+<desc>SVG Output</desc>
+<g transform="translate(-100,-80)">
+<circle cx="150" cy="83" r="3" stroke-width='2' stroke='#ffcc66' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="302" cy="258" r="3" stroke-width='2' stroke='#ffcc66' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="370" cy="140" r="3" stroke-width='2' stroke='#ffcc66' fill='#8888ff' fill-opacity='0.5'  />
+<polyline points='150.00 83.000, 302.00 258.00, ' stroke-width='2' stroke='#8888ff' fill='#8888ff' fill-opacity='0.5'  />
+<path d="M 281.6 130.9 A 140 140 0 0 1 290 83" fill="none" stroke="#ffcc66" />
+<path d="M 150 223 A 140 140 0 0 1 197.9 214.6" fill="none" stroke="#ffcc66" />
+<path d="M 277.7 120.1 A 140 140 0 0 1 302 118" fill="none" stroke="#ffcc66" />
+<path d="M 164.1 233.7 A 140 140 0 0 1 170.4 210.1" fill="none" stroke="#ffcc66" />
+<polyline points='302.00 258.00, 370.00 140.00, ' stroke-width='2' stroke='#8888ff' fill='#8888ff' fill-opacity='0.5'  />
+<path d="M 302 168 A 90 90 0 0 1 271.2 173.4" fill="none" stroke="#ffcc66" />
+<path d="M 391.7 250.2 A 90 90 0 0 1 383.6 220" fill="none" stroke="#ffcc66" />
+<path d="M 292.1 185 A 90 90 0 0 1 281.4 155.6" fill="none" stroke="#ffcc66" />
+<path d="M 400.8 224.6 A 90 90 0 0 1 377.8 229.7" fill="none" stroke="#ffcc66" />
+<polyline points='166.00 223.00, 285.00 119.00, ' stroke-width='2' stroke='#8888ff' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="250" cy="150" r="3" stroke-width='2' stroke='#8888ff' fill='#8888ff' fill-opacity='0.5'  />
+<path d="M 370 152.1 A 120 120 0 0 0 370 150" fill="none" stroke="#ffcc66" />
+<polyline points='182.00 110.00, 386.00 228.00, ' stroke-width='2' stroke='#8888ff' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="250" cy="150" r="120" stroke-width='2' stroke='#8888ff' fill='none' fill-opacity='0.5'  />
+</g>
+</svg>

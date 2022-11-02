@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/data/binomial-distribution.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:42:27 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+<!-- #BeginEditable "doctitle" -->
+<title>The Binomial Distribution</title>
+<meta name="description" content="Bi means two (like a bicycle has two wheels), so this is about things with two results">
+<link rel="canonical" href="binomial-distribution.html">
+
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">The Binomial Distribution</h1>
+
+	<table style="border: 0; margin:auto;">
+    <tbody>
+<tr>
+      <td style="text-align:center;">
+<p class="center"><b>"Bi" means "two"</b> (like a bicycle has two wheels) ...<br>
+... so this is about things with <b>two results</b>.</p></td>
+      <td style="text-align:center;"><span class="center"><b><img src="images/bicycle.jpg" alt="bicycle" height="66" width="70"></b></span></td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">&nbsp;</td>
+      <td style="text-align:center;">&nbsp;</td>
+    </tr>
+  </tbody></table>
+
+<div class="example">
+    <p style="float:right; margin: 0 0 5px 10px;"><img src="images/head-tails-dollar.jpg" alt="head tails dollar" height="96" width="102"></p>
+    <p class="larger">Tossing a Coin:</p>
+    <ul>
+      <li>Did we get Heads            (H) or</li>
+      <li>Tails            (T)</li>
+    </ul>
+    <p>We say           the probability of the coin landing <b>H</b> is ½<br>
+And the probability of the coin          landing <b>T</b> is ½</p>
+  </div>
+
+<div class="example">
+    <p style="float:right; margin: 0 0 5px 10px;"><img src="../geometry/images/single-die.svg" alt="die" height="104" width="113"></p>
+    <p class="larger">Throwing a Die:</p>
+    <ul>
+      <li>Did we get a four ... ?</li>
+      <li>... or not?</li>
+    </ul>
+    <p>We say           the probability of a <b>four</b> is 1/6 (one of the six faces is a four)<br>
+And the probability of <b>not four</b> is          5/6 (five of the six faces are not a four)</p>
+    <p>Note that  a die has 6 sides but here we   look at only <b>two</b> cases: <b>"four: yes"</b> or <b>"four: no"</b></p>
+  </div>
+
+
+<h2>Let's Toss a Coin!</h2>
+
+<p>Toss a fair coin<b> three times</b> ... what is the chance of getting exactly <b>two Heads</b>?</p>
+  <p>Using <b>H</b> for heads and <b>T</b> for  Tails we may get any of these 8 <b class="hilite">outcomes</b>:</p>
+
+	<table style="border: 0; margin:auto;">
+    <tbody>
+<tr>
+      <td class="large">HHH</td>
+      <td>&nbsp;</td>
+      <td><img src="images/coin-head.svg" alt="coin head" height="70" width="70"> <img src="images/coin-head.svg" alt="coin head" height="70" width="70"> <img src="images/coin-head.svg" alt="coin head" height="70" width="70"></td>
+    </tr>
+    <tr>
+      <td class="large">HHT</td>
+      <td>&nbsp;</td>
+      <td><img src="images/coin-head.svg" alt="coin head" height="70" width="70"> <img src="images/coin-head.svg" alt="coin head" height="70" width="70"> <img src="images/coin-tail.svg" alt="coin tail" height="70" width="70"></td>
+    </tr>
+    <tr>
+      <td class="large">HTH</td>
+      <td>&nbsp;</td>
+      <td><img src="images/coin-head.svg" alt="coin head" height="70" width="70"> <img src="images/coin-tail.svg" alt="coin tail" height="70" width="70"> <img src="images/coin-head.svg" alt="coin head" height="70" width="70"></td>
+    </tr>
+    <tr>
+      <td class="large">HTT</td>
+      <td>&nbsp;</td>
+      <td><img src="images/coin-head.svg" alt="coin head" height="70" width="70"> <img src="images/coin-tail.svg" alt="coin tail" height="70" width="70"> <img src="images/coin-tail.svg" alt="coin tail" height="70" width="70"></td>
+    </tr>
+    <tr>
+      <td class="large">THH</td>
+      <td>&nbsp;</td>
+      <td><img src="images/coin-tail.svg" alt="coin tail" height="70" width="70"> <img src="images/coin-head.svg" alt="coin head" height="70" width="70"> <img src="images/coin-head.svg" alt="coin head" height="70" width="70"></td>
+    </tr>
+    <tr>
+      <td class="large">THT</td>
+      <td>&nbsp;</td>
+      <td><img src="images/coin-tail.svg" alt="coin tail" height="70" width="70"> <img src="images/coin-head.svg" alt="coin head" height="70" width="70"> <img src="images/coin-tail.svg" alt="coin tail" height="70" width="70"></td>
+    </tr>
+    <tr>
+      <td class="large">TTH</td>
+      <td>&nbsp;</td>
+      <td><img src="images/coin-tail.svg" alt="coin tail" height="70" width="70"> <img src="images/coin-tail.svg" alt="coin tail" height="70" width="70"> <img src="images/coin-head.svg" alt="coin head" height="70" width="70"></td>
+    </tr>
+    <tr>
+      <td class="large">TTT</td>
+      <td>&nbsp;</td>
+      <td><img src="images/coin-tail.svg" alt="coin tail" height="70" width="70"> <img src="images/coin-tail.svg" alt="coin tail" height="70" width="70"> <img src="images/coin-tail.svg" alt="coin tail" height="70" width="70"></td>
+    </tr>
+  </tbody></table>
+
+<h3>Which outcomes do we want?</h3>
+  <p>"Two Heads"  could be in any  order: "HHT", "THH" and "HTH" all have two Heads (and one Tail).</p>
+  <p>So <b>3 of the outcomes</b> produce "Two Heads".</p>
+
+<h3>What is the probability of each outcome?</h3>
+  <p>Each outcome is equally likely, and there are 8 of them, so each outcome has a probability of 1/8</p>
+  <p>So the  probability of <b class="hilite">event</b> "Two Heads" is:</p>
+
+	<table style="border: 0; margin:auto;">
+    <tbody>
+<tr>
+      <td style="text-align:center;">Number of<br>
+outcomes we want</td>
+      <td><span class="large">&nbsp; &nbsp;</span></td>
+      <td style="text-align:center;">Probability of<br>
+each  outcome</td>
+      <td style="text-align:center;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><span class="larger">3</span></td>
+      <td><span class="large">&nbsp; × &nbsp;</span></td>
+      <td style="text-align:center;"><span class="larger">1/8</span></td>
+      <td style="text-align:center;"><span class="larger">&nbsp; = &nbsp;3/8</span></td>
+    </tr>
+  </tbody></table>
+  <p>So the  chance of getting Two Heads is 3/8</p>
+  <div class="words">
+    <p>We used special  words:</p>
+    <ul>
+      <li><b>Outcome</b>: any result of three coin tosses (8 different possibilities)</li>
+      <li><b>Event</b>: "Two Heads" out of three coin tosses (3 outcomes have this)</li>
+    </ul>
+  </div>
+
+
+<h2>3 Heads, 2 Heads, 1 Head, None</h2>
+
+<p>The calculations are (P means "Probability of"):</p>
+  <ul>
+    <li>P(Three Heads) = P(<b>HHH</b>) = <b>1/8</b></li>
+    <li>P(Two Heads) = P(<b>HHT</b>) + P(<b>HTH</b>) + P(<b>THH</b>)  = 1/8 + 1/8 + 1/8 = <b>3/8</b></li>
+    <li>P(One Head) = P(<b>HTT</b>) + P(<b>THT</b>) + P(<b>TTH</b>)  = 1/8 + 1/8 + 1/8 = <b>3/8</b></li>
+    <li>P(Zero Heads) = P(<b>TTT</b>) = <b>1/8</b></li>
+  </ul>
+  <p>We can write this  in terms of  a <a href="random-variables.html">Random Variable</a> "X" = "The number of Heads from 3  tosses of a coin":</p>
+  <ul>
+    <li>P(X = 3) = 1/8</li>
+    <li>P(X = 2) = 3/8</li>
+    <li>P(X = 1) = 3/8</li>
+    <li>P(X = 0) = 1/8</li>
+  </ul>
+  <p>And this is what it looks like as  a graph:</p>
+  <p class="center"><img src="images/binomial-1.gif" alt="binomial 1" height="184" width="204"><br>
+<b>It is symmetrical!</b></p>
+
+
+<h2>Making a Formula</h2>
+
+<p>Now imagine we want  the chances of <b>5 heads in 9 tosses</b>: to list  all 512 outcomes  will take a long time!</p>
+  <p>So let's make a formula.</p>
+  <p>&nbsp;</p>
+  <p>In our previous example,  how can we get the values   1, 3, 3 and 1 ?</p>
+  <p style="float:left; margin: 0 10px 5px 0;"><img src="images/pascals-triangle.gif" alt="pascals triangle" height="199" width="219"></p>
+  <p>&nbsp;</p>
+  <p>Well, they are actually in <a href="../pascals-triangle.html">Pascal’s        Triangle</a>  !</p>
+  <p>&nbsp;</p>
+  <p>Can we make them using a formula?</p>
+  <p>Sure we can, and here it is:</p>
+  <p class="center"><img src="images/binomial-n-choose-k.png" alt="binomial n choose k = n! / k!(n-k)!" height="53" width="152"></p>
+
+  
+  <p>The formula may look scary but is easy to use. We only need two numbers:</p>
+  <ul>
+    <li>n = total number</li>
+    <li>k = number we want</li></ul>
+    <p>The "!" means "<a href="../numbers/factorial.html">factorial</a>",  for example 4! = 1×2×3×4 = 24</p>
+    <p>Note: it is often called <b>"n choose k" </b>and you can learn more <a href="../combinatorics/combinations-permutations.html">here</a>.</p> 
+
+  <p>Let's try it:</p>
+
+<div class="example">
+
+<h3>Example:  with 3 tosses, what are the chances of  2 Heads?</h3>
+    <p>We have <b>n=3</b> and <b>k=2</b>:</p>
+<div class="tbl">
+<div class="row"><span class="left"><span class="intbl"><em>n!</em><strong>k!(n-k)!</strong></span> =</span><span class="right"><span class="intbl"><em>3!</em><strong>2!(3-2)!</strong></span></span></div>
+<div class="row"><span class="left">=</span><span class="right"><span class="intbl"><em>3×2×1</em><strong>2×1 × 1</strong></span></span></div>
+<div class="row"><span class="left">=</span><span class="right"> 3</span></div>
+</div>
+    <p>So there are 3 outcomes that have "2 Heads"</p>
+    <p>(We knew that already, but we now have a formula for it.)</p>
+  </div>
+  <p>Let's use it for a harder question:</p>
+
+<div class="example">
+
+<h3>Example: with 9 tosses, what are the chances of  5 Heads?</h3>
+    <p>We have <b>n=9</b> and <b>k=5</b>:</p>
+    <div class="tbl">
+<div class="row"><span class="left"><span class="intbl"><em>n!</em><strong>k!(n-k)!</strong></span> =</span><span class="right"><span class="intbl"><em>9!</em><strong>5!(9-5)!</strong></span></span></div>
+<div class="row"><span class="left">=</span><span class="right"><span class="intbl"><em>9×8×7×6×5×4×3×2×1</em><strong>5×4×3×2×1 × 4×3×2×1</strong></span></span></div>
+<div class="row"><span class="left">=</span><span class="right">126</span></div>
+</div>
+<p>So 126 of the outcomes will have 5 heads</p>
+<p>&nbsp;</p>
+    <p>And for 9 tosses there are a total of 2<sup>9</sup> = 512  outcomes, so we get the probability:</p>
+    <p>&nbsp;</p>
+
+	<table style="border: 0; margin:auto;">
+      <tbody>
+<tr>
+        <td style="text-align:center;">Number of<br>
+outcomes we want</td>
+        <td>&nbsp;</td>
+        <td style="text-align:center;">Probability of<br>
+each outcome</td>
+        <td style="text-align:center;">&nbsp;</td>
+        <td style="text-align:center;">&nbsp;</td>
+      </tr>
+      <tr class="larger">
+        <td style="text-align:center;">126</td>
+        <td>&nbsp; × &nbsp;</td>
+        <td style="text-align:center;"><span class="intbl"><em>1</em><strong>512</strong></span></td>
+        <td style="text-align:center;">&nbsp; = &nbsp;</td>
+        <td style="text-align:center;"><span class="intbl"><em>126</em><strong>512</strong></span></td>
+      </tr>
+    </tbody></table>
+    <p>So:</p>
+    <p class="center larger">P(X=5)&nbsp; = &nbsp;<span class="intbl"><em>126</em><strong>512</strong></span>&nbsp;  = 0.24609375&nbsp;</p>
+    <p>About a <b>25% chance</b>.</p>
+    <p>(Easier than listing them all.)</p>
+  </div>
+
+
+<h2>Bias!</h2>
+
+<p>So far   the chances of success or failure have been <b>equally likely</b>.</p>
+  <p>But what if the coins are biased (land more on one side than another) or choices are not 50/50.</p>
+
+<div class="example">
+
+<h3>Example: You sell sandwiches. 70% of people choose chicken, the rest choose something else.</h3>
+
+<h3>What is the  probability of selling 2 chicken sandwiches to the next 3 customers?</h3>
+    <p>This is just like the heads and tails example, but with 70/30 instead of 50/50.</p>
+  </div>
+  <p>Let's draw a <a href="probability-tree-diagrams.html">tree diagram</a>:</p>
+  <p class="center"><img src="images/tree-chicken.svg" alt="tree chicken other" style="max-width:100%" height="280" width="479"></p>
+  <p class="center"><b>The "Two Chicken" cases are highlighted.</b></p>
+  <p>The probabilities for "two chickens" all work out to be <span class="hilite"><b>0.147</b></span>, because we are multiplying two 0.7s and one 0.3 in each case. In other words</p>
+  <p class="center larger">0.147 = 0.7 × 0.7 × 0.3</p>
+  <p>Or, using exponents:</p>
+  <p class="center larger">= 0.7<sup>2</sup> × 0.3<sup>1</sup></p>
+  <p>The <b>0.7</b> is the probability of each choice we want, call it <b>p</b></p>
+  <p>The <b>2</b> is the number of choices we want, call it <b>k</b></p>
+  <p>And we have (so far):</p>
+  <p class="center larger">= p<sup>k</sup> × 0.3<sup>1</sup></p>
+  <p>The <b>0.3</b> is the probability of the opposite choice, so it is: <b>1−p</b></p>
+  <p>The <b>1</b> is the  number of opposite choices, so it is: <b>n−k</b></p>
+<p>Which gives us:</p>
+  <p class="center larger">= <b>p<sup>k</sup>(1-p)<sup>(n-k)</sup></b></p>
+  <p>Where</p>
+  <ul>
+    <li><b>p</b> is the probability of each choice we want</li>
+    <li><b>k</b> is the the number of choices we want</li>
+    <li><b>n</b> is the total number of choices</li>
+  </ul>
+
+<div class="example">
+
+<h3>Example: (continued)</h3>
+    <ul>
+      <li>p = 0.7 (chance of chicken)</li>
+      <li>k = 2 (chicken choices)</li>
+      <li>n = 3 (total choices)</li>
+    </ul>
+    <p>So we get:</p>
+    <div class="tbl">
+  <div class="row"><span class="left">p<sup>k</sup>(1-p)<sup>(n-k)</sup> =</span><span class="right">0.7<sup>2</sup>(1-0.7)<sup>(3-2)</sup></span></div>
+<div class="row"><span class="left">=</span><span class="right">0.7<sup>2</sup>(0.3)<sup>(1)</sup></span></div>
+<div class="row"><span class="left">=</span><span class="right">0.7 × 0.7 × 0.3</span></div>
+<div class="row"><span class="left">=</span><span class="right">0.147</span></div>
+</div>
+    <p>which is  what we got before, but now using a formula</p>
+  </div>
+  <p>Now we know the probability of each outcome is 0.147</p>
+  <p>But we need to include that there are <b>three</b> such ways it can happen: (chicken, chicken, other) or (chicken, other, chicken) or (other, chicken, chicken)</p>
+
+<div class="example">
+
+<h3>Example: (continued)</h3>
+    <p>The total number of "two chicken" outcomes is:</p>
+    <div class="tbl">
+  <div class="row"><span class="left"><span class="intbl"><em>n!</em><strong>k!(n-k)!</strong></span> =</span><span class="right"><span class="intbl"><em>3!</em><strong>2!(3-2)!</strong></span></span></div>
+<div class="row"><span class="left">=</span><span class="right"><span class="intbl"><em>3×2×1</em><strong>2×1 × 1</strong></span></span></div>
+<div class="row"><span class="left">=</span><span class="right">3</span></div>
+</div>
+    <p>And we get:</p>
+
+	<table style="border: 0; margin:auto;">
+      <tbody>
+<tr>
+        <td style="text-align:center;">Number of<br>
+outcomes we want</td>
+        <td><span class="large">&nbsp; &nbsp;</span></td>
+        <td style="text-align:center;">Probability of<br>
+each outcome</td>
+        <td style="text-align:center;">&nbsp;</td>
+        <td style="text-align:center;">&nbsp;</td>
+      </tr>
+      <tr>
+        <td style="text-align:center;"><span class="larger">3</span></td>
+        <td><span class="large">&nbsp; × &nbsp;</span></td>
+        <td style="text-align:center;"><span class="larger">0.147</span><span class="larger"></span></td>
+        <td style="text-align:center;"><span class="larger">&nbsp; = &nbsp;</span></td>
+        <td style="text-align:center;"><span class="larger">0.441</span><span class="larger"></span></td>
+      </tr>
+    </tbody></table>
+    <p>&nbsp;</p>
+    <p>So the  probability of event "2 people out of 3 choose chicken" = <b>0.441</b></p>
+  </div>
+  <p>OK. That was a lot of work for something we knew already, but now we have a formula we can use for harder questions.</p>
+
+<div class="example">
+
+<h3>Example: Sam says "70% choose chicken, so 7 of the next 10 customers should choose chicken" ... what are the chances Sam is right?</h3>
+    <p>So we have:</p>
+    <ul>
+      <li>p = 0.7</li>
+      <li>n = 10</li>
+      <li>k = 7</li>
+    </ul>
+    <p>And we get:</p>
+    <div class="tbl">
+      <div class="row"><span class="left">p<sup>k</sup>(1-p)<sup>(n-k)</sup> =</span><span class="right">0.7<sup>7</sup>(1-0.7)<sup>(10-7)</sup></span></div>
+      <div class="row"><span class="left">=</span><span class="right">0.7<sup>7</sup>(0.3)<sup>(3)</sup></span></div>
+      <div class="row"><span class="left">=</span><span class="right"><b>0.0022235661</b></span></div>
+    </div>
+    <p>That is  the probability of each outcome.</p>
+    <p>&nbsp;</p>
+    <p>And the total number of those outcomes is:</p>
+    <div class="tbl">
+      <div class="row"><span class="left"><span class="intbl"><em>n!</em><strong>k!(n-k)!</strong></span>&nbsp; =</span><span class="right"><span class="intbl"><em>10!</em><strong>7!(10-7)!</strong></span></span></div>
+      <div class="row"><span class="left">=</span><span class="right"><span class="intbl"><em>10×9×8×7×6×5×4×3×2×1</em><strong>7×6×5×4×3×2×1 × 3×2×1</strong></span></span></div>
+      <div class="row"><span class="left">=</span><span class="right"><span class="intbl"><em>10×9×8</em><strong>3×2×1</strong></span></span></div>
+      <div class="row"><span class="left">=</span><span class="right"><b>120</b></span></div>
+    </div>
+    <p>And we get:</p>
+
+	<table style="border: 0; margin:auto;">
+      <tbody>
+<tr>
+        <td style="text-align:center;">Number of<br>
+outcomes we want</td>
+        <td><span class="large">&nbsp; &nbsp;</span></td>
+        <td style="text-align:center;">Probability of<br>
+each  outcome</td>
+        <td style="text-align:center;">&nbsp;</td>
+        <td style="text-align:center;">&nbsp;</td>
+      </tr>
+      <tr class="larger">
+        <td style="text-align:center;">120</td>
+        <td><span class="large">&nbsp; × &nbsp;</span></td>
+        <td style="text-align:center;">0.0022235661</td>
+        <td style="text-align:center;">&nbsp; = &nbsp;</td>
+        <td style="text-align:center;">0.266827932</td>
+      </tr>
+    </tbody></table>
+    <p>&nbsp;</p>
+    <p>So the  probability of 7  out of 10 choosing chicken is only about <b> 27%</b></p>
+    <p>&nbsp;</p>
+    <p>Moral of the story: even though the long-run average is 70%, don't expect  7 out of the next  10.</p>
+  </div>
+
+
+<h2>Putting it Together</h2>
+
+<p>Now we know how to calculate <b>how many</b>:</p>
+  <p class="center larger"><span class="intbl"><em>n!</em><strong>k!(n-k)!</strong></span></p>
+  <p>And the <b>probability of each</b>:</p>
+  <p class="center">p<sup>k</sup>(1-p)<sup>(n-k)</sup></p>
+  <p>When multiplied together we get:</p>
+  <div class="def">
+    <p>Probability of k out of n ways:</p>
+    <p class="center larger"><span class="larger">P(k out of n) = &nbsp;</span><span class="intbl"><em><span class="larger">n!</span></em><strong><span class="larger">k!(n-k)!</span></strong></span>&nbsp;<span class="larger">p<sup>k</sup>(1-p)<sup>(n-k)</sup></span></p>
+    <p class="center large">The  General Binomial Probability Formula</p>
+  </div>
+  <p>Important Notes:</p>
+  <ul>
+    <li>The trials are <a href="probability-events-independent.html">independent</a>,</li>
+    <li>There are only two possible    outcomes at each trial,</li>
+    <li>The probability of "success"    at each trial is constant.</li>
+  </ul>
+
+
+<h2>Quincunx</h2>
+
+<p style="float:left; margin: 0 10px 5px 0;"><a href="quincunx.html"><img src="images/quincunx.jpg" alt="quincunx" height="172" width="129"></a></p>
+  <p>&nbsp;</p>
+  <p>Have a play with the <a href="quincunx.html">Quincunx</a> (then read <a href="quincunx-explained.html">Quincunx Explained</a>) to see the Binomial Distribution in action.</p>
+  <div style="clear:both"></div>
+
+
+<h2>Throw the Die</h2>
+
+<p style="float:right; margin: 0 0 5px 10px;"><img src="../geometry/images/single-die.svg" alt="die" height="104" width="113"></p>
+  <p>A fair die is thrown four times.  Calculate the probabilities of getting:</p>
+  <ul>
+    <li>0 Twos</li>
+    <li>1 Two</li>
+    <li>2 Twos</li>
+    <li>3 Twos</li>
+    <li>4 Twos</li>
+  </ul>
+  <p>In this case <b>n=4</b>, <b>p = P(Two) = 1/6</b></p>
+  <p>X is the Random Variable ‘Number of  Twos from four throws’.</p>
+  <p>Substitute x = 0 to 4 into the  formula:</p>
+  <p class="center larger"><b>P(k out of n)</b> = &nbsp;<span class="intbl"><em>n!</em><strong>k!(n-k)!</strong></span> p<sup>k</sup>(1-p)<sup>(n-k)</sup></p>
+  <p>Like this (to 4 decimal  places):</p>
+  <ul>
+    <li>P(X = 0) = <span class="intbl"><em>4!</em><strong>0!4!</strong></span> × (1/6)<sup>0</sup>(5/6)<sup>4</sup> = 1  × 1  × (5/6)<sup>4</sup> = 0.4823</li>
+    <li>P(X = 1) = <span class="intbl"><em>4!</em><strong>1!3!</strong></span> × (1/6)<sup>1</sup>(5/6)<sup>3</sup> = 4  × (1/6)  × (5/6)<sup>3</sup> = 0.3858</li>
+    <li>P(X = 2) = <span class="intbl"><em>4!</em><strong>2!2!</strong></span> × (1/6)<sup>2</sup>(5/6)<sup>2</sup> = 6  × (1/6)<sup>2</sup> × (5/6)<sup>2</sup> = 0.1157</li>
+    <li>P(X = 3) = <span class="intbl"><em>4!</em><strong>3!1!</strong></span> × (1/6)<sup>3</sup>(5/6)<sup>1</sup> = 4  × (1/6)<sup>3</sup> × (5/6) = 0.0154</li>
+    <li>P(X = 4) = <span class="intbl"><em>4!</em><strong>4!0!</strong></span> × (1/6)<sup>4</sup>(5/6)<sup>0</sup> = 1  × (1/6)<sup>4</sup> × 1 = 0.0008</li>
+  </ul>
+  <p>Summary: "for the 4 throws, there is a 48% chance of no twos, 39% chance of 1 two, 12% chance of 2 twos, 1.5% chance of 3 twos, and a tiny 0.08% chance  of all throws being a two (but it still could happen!)"</p>
+  <p>This time the graph is not symmetrical:</p>
+  <p class="center"><img src="images/binomial-2.gif" alt="binomial 0 to 4 skewed" height="217" width="230"><br>
+<b>It is not symmetrical!</b></p>
+  <p class="center">It is <a href="skewness.html">skewed</a> because <b>p</b> is not 0.5</p>
+  <p>&nbsp;</p>
+  <p style="float:left; margin: 0 10px 5px 0;"><img src="../algebra/images/bike.jpg" alt="bike" height="100" width="154"></p>
+
+
+<h2>Sports Bikes</h2>
+
+<p>Your company makes sports bikes. 90% pass final inspection (and 10% fail and need to be fixed).</p>
+  <p>What is the expected <a href="../mean.html">Mean</a> and <a href="standard-deviation.html">Variance</a> of the 4 next inspections?</p>
+  <p>First, let's calculate all probabilities.</p>
+  <ul>
+    <li>n = 4,</li>
+    <li>p = P(Pass) = 0.9</li>
+  </ul>
+  <p>X is the Random Variable "Number of  passes from four inspections".</p>
+  <p>Substitute x = 0 to 4 into the  formula:</p>
+  <p class="center larger"><b>P(k out of n)</b> = &nbsp;<span class="intbl"><em>n!</em><strong>k!(n-k)!</strong></span> p<sup>k</sup>(1-p)<sup>(n-k)</sup></p>
+  <p>Like this:</p>
+  <ul>
+    <li>P(X = 0) = <span class="intbl"><em>4!</em><strong>0!4!</strong></span> × 0.9<sup>0</sup>0.1<sup>4</sup> = 1  × 1  × 0.0001 = 0.0001</li>
+    <li>P(X = 1) = <span class="intbl"><em>4!</em><strong>1!3!</strong></span> × 0.9<sup>1</sup>0.1<sup>3</sup> = 4  × 0.9  × 0.001 = 0.0036</li>
+    <li>P(X = 2) = <span class="intbl"><em>4!</em><strong>2!2!</strong></span> × 0.9<sup>2</sup>0.1<sup>2</sup> = 6  × 0.81 × 0.01 = 0.0486</li>
+    <li>P(X = 3) = <span class="intbl"><em>4!</em><strong>3!1!</strong></span> × 0.9<sup>3</sup>0.1<sup>1</sup> = 4  × 0.729  × 0.1 = 0.2916</li>
+    <li>P(X = 4) = <span class="intbl"><em>4!</em><strong>4!0!</strong></span> × 0.9<sup>4</sup>0.1<sup>0</sup> = 1  × 0.6561  × 1 = 0.6561</li>
+  </ul>
+  <p>Summary: "for the 4 next bikes, there is a tiny 0.01% chance of no passes, 0.36% chance of 1 pass, 5% chance of 2 passes, 29% chance of 3 passes, and a whopping 66% chance  they all pass the inspection."</p>
+
+
+<h2>Mean, Variance and Standard Deviation</h2>
+
+<p>Let's calculate the <a href="../mean.html">Mean</a>, <a href="standard-deviation.html">Variance and Standard Deviation</a> for the Sports Bike inspections.</p>
+  <p>There are (relatively) simple formulas for them. They are a little hard to prove, but they do work!</p>
+  <p>The mean, or "expected value", is:</p>
+  <p class="center larger">μ = np</p>
+
+<div class="example">
+    <p>For the sports bikes:</p>
+    <p class="center larger">μ = 4 × 0.9 = 3.6</p>
+    <p>So we can expect 3.6 bikes (out of 4) to pass the inspection.<br>
+Makes sense really ...  0.9 chance for each bike times 4 bikes equals 3.6</p>
+  </div>
+  <p>The formula for Variance is:</p>
+  <p class="center larger">Variance: σ<sup>2</sup> = np(1-p)</p>
+  <p>And Standard Deviation is the square root of variance:</p>
+  <p class="center larger">σ = √(np(1-p))</p>
+
+<div class="example">
+    <p>For the sports bikes:</p>
+    <p class="center larger">Variance: σ<sup>2</sup> = 4 × 0.9 × 0.1 = 0.36</p>
+    <p>Standard Deviation is:</p>
+    <p class="center larger">σ = √(0.36) = 0.6</p>
+  </div>
+  <p>&nbsp;</p>
+  <div class="center80">
+    <p>Note: we could also calculate them manually, by making a table like this:</p>
+    <div class="simple">
+
+	<table align="center">
+        <tbody>
+<tr valign="top">
+          <td><b>X</b></td>
+          <td><b> P(X)</b></td>
+          <td><b> X × P(X)</b></td>
+          <td><b> X<sup>2</sup> × P(X)</b></td>
+        </tr>
+        <tr valign="top">
+          <td><b>0</b></td>
+          <td>0.0001</td>
+          <td> 0</td>
+          <td> 0</td>
+        </tr>
+        <tr valign="top">
+          <td><b>1</b></td>
+          <td>0.0036</td>
+          <td> 0.0036</td>
+          <td>0.0036</td>
+        </tr>
+        <tr valign="top">
+          <td><b>2</b></td>
+          <td>0.0486</td>
+          <td> 0.0972</td>
+          <td> 0.1944 </td>
+        </tr>
+        <tr valign="top">
+          <td><b>3</b></td>
+          <td>0.2916</td>
+          <td> 0.8748</td>
+          <td> 2.6244</td>
+        </tr>
+        <tr valign="top">
+          <td><b>4</b></td>
+          <td>0.6561</td>
+          <td> 2.6244</td>
+          <td> 10.4976</td>
+        </tr>
+        <tr valign="top">
+          <td>&nbsp;</td>
+          <td><b>SUM:</b></td>
+          <td><b> 3.6</b></td>
+          <td><b>13.32</b></td>
+        </tr>
+      </tbody></table>
+    </div>
+    <p>The mean is the <b>Sum of (X × P(X))</b>:</p>
+    <p class="center larger">μ = 3.6</p>
+    <p>The variance is the <b>Sum of (X<sup>2</sup> × P(X))</b> minus <b>Mean<sup>2</sup></b>:</p>
+    <p class="center larger">Variance: σ<sup>2</sup> = 13.32 − 3.6<sup>2</sup> = 0.36</p>
+    Standard Deviation is:
+    
+
+
+
+
+
+
+<p class="center larger">σ = √(0.36) = 0.6</p>
+    And we got the same results as before (yay!) </div>
+  <div class="simple"></div>
+  <p>&nbsp;</p>
+
+
+<h2>Summary</h2>
+
+<ul class="larger">
+    <li>The General Binomial Probability Formula:
+      
+
+
+
+
+
+
+<p class="center larger">P(k out of n) = &nbsp;<span class="intbl"><em>n!</em><strong>k!(n-k)!</strong></span> p<sup>k</sup>(1-p)<sup>(n-k)</sup></p></li>
+    <li>Mean value of X: <span class="larger">μ = np</span></li>
+    <li>Variance of X: <span class="larger">σ<sup>2</sup> = np(1-p)</span></li>
+    <li>Standard Deviation of X: <span class="larger">σ = √(np(1-p))</span></li>
+  </ul>
+  <div class="questions"> 8815, 8816, 8820, 8821, 8828, 8829, 8609, 8610, 8612, 8613, 8614, 8615</div>
+
+<div class="related">
+  <a href="index.html">Data Index</a>
+</div>
+  <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2022 Rod Pierce</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/data/binomial-distribution.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:42:29 GMT -->
+</html>

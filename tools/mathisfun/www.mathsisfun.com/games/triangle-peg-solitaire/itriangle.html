@@ -1,0 +1,116 @@
+<script language="JavaScript" src="TriangLite.js" type="text/javascript"></script>
+
+ <img src="0.gif" style="display:none" /> <img src="1.gif" style="display:none" /> <img src="2.gif" style="display:none" /> <img src="3.gif" style="display:none" />
+			<table align="center" bgcolor="#ccffff" border="4" width="100%">
+				<tr>
+					<td align="middle">
+						<p>&nbsp; </p>
+						<table cellspacing="0" cellpadding="0" align="center" bgcolor="#008540" border="0">
+							<script language="JavaScript" type="text/javascript">
+<!-- Begin
+var IE=(navigator.appName=="Microsoft Internet Explorer");
+var i=0;
+
+document.write("<TR><TD COLSPAN="+(boardSide+1)+" bgColor=#ccffff></TD>");
+document.write("<TD bgColor=#ccffff><IMG SRC=\"UL.gif\" WIDTH="+20+" HEIGHT="+32+"></TD>");
+document.write("<TD bgColor=#ccffff><IMG SRC=\"UR.gif\" WIDTH="+20+" HEIGHT="+32+"></TD>");
+document.write("<TD COLSPAN="+(boardSide+1)+" bgColor=#ccffff></TD></TR>");
+
+for(var row=0;row<boardSide;++row)
+{
+	document.write("<TR><TD bgColor=#ccffff></TD>");
+	if (boardSide-row-1>0) document.write("<TD COLSPAN="+(boardSide-row-1)+" bgColor=#ccffff></TD>");
+	document.write("<TD bgColor=#ccffff><IMG SRC=\"UL.gif\" WIDTH="+20+" HEIGHT="+32+"></TD>");
+	for (var col=0;col<=row;++col)
+	{
+		if (!IE) {
+			document.write("<TD COLSPAN=2 WIDTH="+40+" ALIGN=CENTER><A HREF=\"#\" onMousedown='return move("+i+");' onMouseOver='return over("+i+");' onMouseOut='return out("+i+");'>");
+			document.write("<IMG SRC=\"2.gif\" BORDER=\"0\" WIDTH=\""+32+"\" HEIGHT=\""+32+"\" NAME=\"img"+i+"\"></TD>\n");
+		}
+		else {
+			document.write("<TD COLSPAN=2 WIDTH="+40+" ALIGN=CENTER><IMG SRC=\"2.gif\" BORDER=\"0\" WIDTH=\""+32+"\" HEIGHT=\""+32+"\" NAME=\"img"+i+"\" onMousedown='return move("+i+");' onMouseover='return over("+i+");' onMouseOut='return out("+i+");'></TD>\n");
+		}
+		i++;
+	}
+	document.write("<TD WIDTH="+20+" bgColor=#ccffff><IMG SRC=\"UR.gif\" WIDTH="+20+" HEIGHT="+32+"></TD>");
+	if (boardSide-row-1>0) document.write("<TD COLSPAN="+(boardSide-row-1)+" bgColor=#ccffff></TD>");
+	document.write("<TD WIDTH="+6+" bgColor=#ccffff></TD>");
+      document.write('</TR>');
+}
+
+document.write("<TR><TD bgColor=#ccffff><IMG SRC=\"BL.gif\" WIDTH="+6+" HEIGHT="+10+"></TD>");
+document.write("<TD COLSPAN="+(boardSide*2+2)+" bgColor=#008540 HEIGHT="+10+"><IMG SRC=\"B.gif\" HEIGHT="+10+"></TD>");
+document.write("<TD bgColor=#ccffff><IMG SRC=\"BR.gif\" WIDTH="+6+" HEIGHT="+10+"></TD></TR>");
+// End -->
+</script>
+						</table>
+						<noscript>
+						<font face="Verdana, Arial, Helvetica" color="red" size="2">You 
+						need to activate Javascript to play this game.</font>
+						</noscript>
+						<p>&nbsp; </p>
+						<form name="statusform" id="statusform">
+							<input readonly size="8" value=" " name="countmoves" />
+							&nbsp;&nbsp;&nbsp;&nbsp;
+							<input readonly size="8" value=" " name="countpeg" />
+						</form>
+						<form name="buttonsform" id="buttonsform">
+							<input onClick="window.help();" type="button" value="Help" />
+							&nbsp;&nbsp;
+							<input onClick="window.newGame();" type="button" value="Restart" />
+							&nbsp;&nbsp;
+							<input onClick="window.newstart();" type="button" value="Set Start" />
+							&nbsp;&nbsp;
+							<input onClick="window.back();" type="button" value="Back" />
+							&nbsp;&nbsp;
+							<input onClick="window.solve();" type="button" value="  Solve  " name="Solve" />
+							<table cellspacing="5" cellpadding="0" align="center" border="0">
+								<tr>
+									<td><b>Current Board:</b></td>
+									<td>&nbsp;&nbsp;</td>
+									<td><b>Demo Speed:</b></td>
+								</tr>
+								<tr>
+									<td><select onChange="window.changeBoard();" name="options">
+											<script language="JavaScript" type="text/javascript">
+<!-- Begin
+for(var i=4;i<9;i++)
+	document.write("<OPTION"+((i==boardSide)?" SELECTED":"")+">"+tno(i)+" Hole Board</OPTION>\n");
+// End -->
+</script>
+										</select></td>
+									<td></td>
+									<td><select onChange="window.changeSpeed();" name="demospeed">
+											<script language="JavaScript" type="text/javascript">
+<!-- Begin
+document.write("<OPTION"+((demoSpeed==0)?" SELECTED":"")+">Slow</OPTION>\n");
+document.write("<OPTION"+((demoSpeed==1)?" SELECTED":"")+">Normal</OPTION>\n");
+document.write("<OPTION"+((demoSpeed==2)?" SELECTED":"")+">Fast</OPTION>\n");
+document.write("<OPTION"+((demoSpeed==3)?" SELECTED":"")+">Faster</OPTION>\n");
+// End -->
+</script>
+										</select></td>
+								</tr>
+							</table>
+						</form>
+						<form name="messageform" id="messageform">
+							<textarea id="text" name="alertbox" rows="2" readonly style="OVERFLOW:hidden" cols="55"></textarea>
+						</form>
+						<p>&nbsp; </p>
+						<table width="100%" border="0">
+							<tr>
+								<td><p>
+										<center>
+											<font face="Verdana, Arial, Helvetica" color="#000080" size="-1"> Lite Version 1.1 ; Copyright &copy; 2005 by <a href="http://www.geocities.com/gibell.geo/">George 
+											Bell</a><br />
+											</font>
+										</center>
+									</p></td>
+							</tr>
+						</table></td>
+				</tr>
+			</table>
+
+
+
+			

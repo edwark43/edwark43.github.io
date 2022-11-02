@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="288.5"
+   height="113"
+   version="1.1"
+   id="svg46"
+   sodipodi:docname="range.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview48"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg46" />
+  <defs
+     id="defs8">
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id01">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#f57900;stroke:#f57900;stroke-width:1pt"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id02">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#f57900;stroke:#f57900;stroke-width:1pt"
+         id="path5" />
+    </marker>
+  </defs>
+  <path
+     d="M 18.6,0 V 30"
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:0.54"
+     id="path10" />
+  <path
+     d="M 49.7,0 V 30"
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:0.54"
+     id="path12" />
+  <path
+     d="M 81.2,0 V 30"
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:0.54"
+     id="path14" />
+  <path
+     d="M 112.8,0 V 30"
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:0.54"
+     id="path16" />
+  <path
+     d="M 144.3,0 V 30"
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:0.54"
+     id="path18" />
+  <path
+     d="M 175.8,0 V 30"
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:0.54"
+     id="path20" />
+  <path
+     d="M 207.3,0 V 30"
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:0.54"
+     id="path22" />
+  <path
+     d="M 238.8,0 V 30"
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:0.54"
+     id="path24" />
+  <text
+     x="45.2"
+     y="48.9"
+     style="font-family:Arial;font-size:19.7px;color:black;overflow:visible;fill:#0000ff;stroke-width:0.99px"
+     id="text26">3</text>
+  <text
+     x="76.7"
+     y="48.9"
+     style="font-family:Arial;font-size:19.7px;color:black;overflow:visible;fill:#0000ff;stroke-width:0.99px"
+     id="text28">4</text>
+  <text
+     x="139.3"
+     y="48.9"
+     style="font-family:Arial;font-size:19.7px;color:black;overflow:visible;fill:#0000ff;stroke-width:0.99px"
+     id="text30">6</text>
+  <text
+     x="170.5"
+     y="48.9"
+     style="font-family:Arial;font-size:19.7px;color:black;overflow:visible;fill:#0000ff;stroke-width:0.99px"
+     id="text32">7</text>
+  <text
+     x="233.5"
+     y="48.9"
+     style="font-family:Arial;font-size:19.7px;color:black;overflow:visible;fill:#0000ff;stroke-width:0.99px"
+     id="text34">9</text>
+  <path
+     d="M 270.3,0 V 30"
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:0.54"
+     id="path36" />
+  <path
+     d="M 0,16.7 H 288.5"
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:1.43"
+     id="path38" />
+  <text
+     x="101.1"
+     y="110.4"
+     style="font-family:Arial;font-size:21.3px;font-style:italic;color:black;overflow:visible;fill:#f57900;stroke-width:0.99px"
+     id="text40">9 − 3 = 6</text>
+  <path
+     d="M 49.7,62.2 H 238.4"
+     style="marker-start:url(#id01);marker-end:url(#id02);fill:none;fill-opacity:0.75;stroke:#f57900;stroke-width:1.33"
+     id="path42" />
+  <text
+     x="108"
+     y="86"
+     style="font-family:Arial;font-size:24.3px;font-style:italic;color:black;overflow:visible;fill:#f57900;stroke-width:0.99px"
+     id="text44">Range</text>
+  <text
+     x="106.7"
+     y="48.9"
+     style="color:#000000;font-size:19.7px;font-family:Arial;overflow:visible;fill:#0000ff;stroke-width:0.99px"
+     id="text877">5</text>
+  <text
+     x="202.7"
+     y="48.9"
+     style="color:#000000;font-size:19.7px;font-family:Arial;overflow:visible;fill:#0000ff;stroke-width:0.99px"
+     id="text879">8</text>
+</svg>

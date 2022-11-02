@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="313.8" height="168.5" version="1.1">
+<defs>
+</defs>
+<g transform="translate(2554.17,-2480.93)">
+<text x="-2397" y="2518.3" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:37.5px; overflow:visible; fill:#41ac41; stroke-width:4.73;">0, 20</text>
+<text x="-2461.8" y="2517.9" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:49.9px; overflow:visible; fill:#0197fd; stroke-width:4.73;">[</text>
+<text x="-2336.5" y="2519.6" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:49.9px; overflow:visible; fill:#0197fd; stroke-width:4.73;">]</text>
+<text x="-2522.3" y="2648.9" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:14.7px; overflow:visible; fill:#fdca01; stroke-width:4.73;">Include 0</text>
+<text x="-2520.9" y="2622.7" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:36.5px; overflow:visible; fill:#fdca01; stroke-width:4.73;">[</text>
+<text x="-2457.9" y="2623.3" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:36.5px; overflow:visible; fill:#ff9900; stroke-width:4.73;">(</text>
+<text x="-2453" y="2648.9" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:14.7px; overflow:visible; fill:#ff9900; stroke-width:4.73;">Not 0</text>
+<text x="-2346.6" y="2648.9" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:14.7px; overflow:visible; fill:#ff9900; stroke-width:4.73;">Not 20</text>
+<text x="-2336.1" y="2623.3" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:36.5px; overflow:visible; fill:#ff9900; stroke-width:4.73;">)</text>
+<text x="-2282.2" y="2622.7" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:36.5px; overflow:visible; fill:#fdca01; stroke-width:4.73;">]</text>
+<text x="-2276.7" y="2648.9" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:14.7px; overflow:visible; fill:#fdca01; stroke-width:4.73;">Include 20</text>
+<path style="overflow:visible; fill:none; stroke:#0197fd; stroke-width:3.43;" d="m -2470.6,2534.6 c -3.4,13.4 -18.8,22.8 -23.3,29.8 -4.3,5.4 -7.4,12 -10.5,18.4 -3.9,1.4 2,-5.6 2.3,-7.7 5.7,-12.4 15.8,-20.3 24.4,-29.6 2.5,-1.4 3.6,-9.5 7.1,-10.9 z"/>
+<path style="overflow:visible; fill:none; stroke:#0197fd; stroke-width:3.43;" d="m -2471.7,2538.5 c -2.7,6.9 -7.9,13.2 -6.4,21.5 1.5,8.3 5.5,15.5 9.5,22.4 -2,3.7 -3.2,-3.2 -4.7,-4.6 -4.7,-8.7 -9.3,-20.2 -4.3,-30.2 2.1,-2.6 2.8,-8.5 5.9,-9.1 z"/>
+<path style="overflow:visible; fill:none; stroke:#0197fd; stroke-width:3.43;" d="m -2479.1,2577.7 c 5.5,2.3 11.1,5 14.9,10.5 -1.9,2.7 -2.9,-4.5 -4.1,-6.6 -1.1,-4.2 -1.7,-8.6 -1.1,-12.9 2.9,-2.4 0.8,2.5 1.3,4.3 0.1,5.4 2.1,10.4 4.2,15.1 -1.1,5.2 -4.1,-3.2 -6.6,-3.6 -2,-3.2 -10.5,-2.8 -8.7,-6.8 v -0.1 z"/>
+<path style="overflow:visible; fill:none; stroke:#0197fd; stroke-width:3.43;" d="m -2506.9,2563.8 c 1.8,7.2 2.9,15.1 0.9,22.5 -2.6,-0.1 4.2,-6.6 6.6,-8.3 2.3,-1.1 8.2,-5 9,-3 -1.2,2.7 -5.4,1.9 -7.5,3.9 -4.7,2.8 -5.6,4.5 -8.8,8.6 -2.2,-1.2 1.1,-6.4 0.2,-9.2 0.4,-4.6 -1.5,-9.7 -1.5,-13.7 0.3,-0.3 0.8,-0.7 1.1,-0.9 z"/>
+<g style="fill:none; stroke:#0197fd;" transform="matrix(-0.381213,0,0,0.45364,-2882.3,1518.74)">
+<path style="overflow:visible; fill:none; stroke:#0197fd; stroke-width:8.25;" d="m -1466.9,2239.3 c -8.9,29.5 -49.4,50.2 -61,65.7 -11.4,11.9 -19.5,26.4 -27.6,40.5 -10.3,3.2 5.2,-12.3 6.1,-16.9 15.1,-27.2 41.4,-44.8 63.9,-65.2 6.5,-3 9.5,-21 18.5,-24.1 z"/>
+<path style="overflow:visible; fill:none; stroke:#0197fd; stroke-width:8.25;" d="m -1469.9,2248 c -7.1,15.1 -20.8,29.1 -16.7,47.3 3.8,18.3 14.3,34.2 25,49.3 -5.3,8.1 -8.3,-7.1 -12.3,-10 -12.3,-19.2 -24.4,-44.6 -11.3,-66.5 5.6,-5.7 7.4,-18.8 15.4,-20.1 z"/>
+<path style="overflow:visible; fill:none; stroke:#0197fd; stroke-width:8.25;" d="m -1489.2,2334.4 c 14.3,5.1 29.1,11.1 39.1,23.1 -4.9,6 -7.6,-9.9 -10.7,-14.5 -2.8,-9.2 -4.4,-18.9 -2.9,-28.5 7.6,-5.3 2.1,5.5 3.4,9.5 0.3,12 5.4,22.9 10.9,33.2 -3,11.4 -10.8,-7 -17.3,-7.8 -5.2,-7.1 -27.6,-6.1 -22.7,-14.9 l 0.1,-0.1 z"/>
+<path style="overflow:visible; fill:none; stroke:#0197fd; stroke-width:8.25;" d="m -1562.1,2303.8 c 4.7,15.9 7.7,33.4 2.3,49.5 -6.8,-0.3 10.9,-14.6 17.3,-18.2 6.1,-2.4 21.6,-10.9 23.7,-6.6 -3.2,6 -14.1,4.3 -19.8,8.7 -12.4,6.1 -14.7,10 -23,19 -5.9,-2.7 2.9,-14 0.6,-20.4 1.1,-10.1 -4,-21.3 -3.9,-30.1 0.8,-0.6 2.2,-1.5 2.8,-2 z"/>
+</g>
+</g>
+</svg>

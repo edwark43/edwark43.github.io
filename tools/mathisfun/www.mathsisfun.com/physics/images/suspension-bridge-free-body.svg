@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="131.6" height="177.4" version="1.1">
+<defs>
+<marker id="id3" style="overflow:visible;" orient="auto">
+<path transform="scale(-0.6)" style="fill:#204a87; stroke:#204a87; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 C 7,-1.6 7,1.6 8.7,4 Z"/>
+</marker>
+<marker id="id2" style="overflow:visible;" orient="auto">
+<path transform="scale(-0.6)" style="fill:#19aeff; stroke:#19aeff; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 C 7,-1.6 7,1.6 8.7,4 Z"/>
+</marker>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="scale(-0.6)" style="fill:#19aeff; stroke:#19aeff; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 C 7,-1.6 7,1.6 8.7,4 Z"/>
+</marker>
+</defs>
+<rect x="51" y="0.4" width="29.6" height="14.4" style="color:black; overflow:visible; fill:none; stroke:black; stroke-width:0.72;"/>
+<path style="marker-end:url(#id1); fill:#19aeff; stroke:#19aeff; stroke-width:4.1;" d="M 81.8,7.6 128.1,87.8"/>
+<path style="marker-end:url(#id2); fill:#19aeff; stroke:#19aeff; stroke-width:4.1;" d="M 49.8,7.6 3.5,87.8"/>
+<path style="marker-end:url(#id3); fill:#204a87; stroke:#204a87; stroke-width:4.1;" d="M 65.8,177.4 V 12.5"/>
+</svg>

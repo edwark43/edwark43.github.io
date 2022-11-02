@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="194.7" height="157.5" version="1.1">
+<defs>
+<linearGradient id="id1">
+<stop offset="0" style="stop-color:white; stop-opacity:0.26;"/>
+<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+</linearGradient>
+<marker id="id2" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#fd3301; stroke:#fd3301; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<radialGradient id="id3" r="31.0686" fx="1117.37" fy="914.699" cx="1117.4" cy="914.7" gradientTransform="matrix(1.48744,0,0,0.702841,-1324.77,658.663)" xlink:href="#id1" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g transform="translate(-973.765,-825.385)">
+<text x="972.2" y="844.6" transform="scale(1.00131,0.99869)" style="font-family:Arial; font-size:26px; color:black; overflow:visible; fill:#fd3301; stroke-width:0.9;">vertex</text>
+<path style="color:black; marker-end:url(#id2); overflow:visible; fill:#fd3301; stroke:#fd3301; stroke-width:3.35;" d="m 1013.6,852.3 19.5,44.3"/>
+<path style="fill:#748e6b; stroke:black; stroke-width:1px;" d="m 1037.3,903 99.7,30.6 30.6,-89.6 z"/>
+<path style="fill:#3a8053; stroke:black; stroke-width:1px;" d="m 1150.7,981.7 -13.8,-48.1 30.6,-89.6 z"/>
+<ellipse cx="337.2" cy="1301.6" rx="46.2" ry="21.8" transform="matrix(0.925327,-0.379169,0.601566,0.798823,0,0)" style="color:black; overflow:visible; fill:url(#id3); stroke-width:7.29;"/>
+<path style="fill:#85563c; stroke:black; stroke-width:1px;" d="m 1037.3,903 113.4,78.7 -13.8,-48.1 -99.7,-30.6"/>
+<text x="391.8" y="1310.6" transform="matrix(0.893004,-0.455142,0.567812,0.830416,0,0)" style="font-family:Arial; font-size:26.3px; color:black; overflow:visible; fill:#ffffa5; stroke-width:0.92;">Face</text>
+<text x="628.1" y="1238.6" transform="matrix(0.912838,-0.406939,0.403274,0.915707,0,0)" style="font-family:Arial; font-size:26.5px; color:black; overflow:visible; fill:#121513; stroke-width:0.96;">edge</text>
+</g>
+</svg>

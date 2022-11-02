@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/calculus/bifurcation.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:31 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Bifurcation</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents.">
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">Bifurcation</h1>
+
+<p class="center"><img src="images/path-fork.jpg" alt="path fork" height="122" width="600"><br>
+Bifurcation means splitting into two parts: "bi" (two), and "furca" (fork).</p>
+<p>As some functions evolve they suddenly split into two!</p>
+<p>First we will need a function:</p>
+<p class="center larger"><b>rx(1−x)</b> is a good one.</p>
+<p><b>x</b> is the input value, and <b>r</b> is a value we want to investigate.</p>
+<p>We will calculate the function over and over again, each time using the result as the new x value.</p>
+<p>Let us try <b>r=2</b>, and start with <b>x=0.2</b>:</p>
+<p class="center large">2 × 0.2(1−0.2) = 2 × 0.2 × 0.8 = <b>0.32</b></p>
+<p class="center">Now with the new <b>x</b> value: 2 × 0.32 × 0.68 = <b>0.4352</b><br>
+And once again: 2 × 0.4352 × 0.5648 = <b>0.49160...</b><br>
+And again: 2 × 0.49160... × 0.50840... = <b>0.49986...</b><br>
+And again: 2 × 0.49986... × 0.50014... = <b>0.50000...</b></p>
+<p>We see it is settling to <b>0.5</b></p>
+<p>But is not always so simple. Try some other <b>r</b> values here:</p>
+<div class="script" style="height: 340px;">
+  images/bifurc.js?mode=simple
+  </div>
+<p>What do you notice?</p>
+<ul>
+<li>How about when r is around <b>3.2</b> ? It jumps between <b>two</b> values.</li>
+<li>And around r = <b>3.5</b> it jumps between <b>four</b> values.</li>
+<li>And what is the story around  r = <b>3.7</b> ? It seems like complete <b>chaos</b>.</li>
+<li>But then try around <b>3.84</b>: it briefly settles down, then goes crazy again.</li></ul>
+<p>We need to investigate more!</p>
+<p>So try here. Same idea as above, but a lower plot keeps track of the last few values achieved at each r-value. It needs your help to make the plot:</p>
+  <div class="script" style="height: 600px;">
+  images/bifurc.js?mode=both
+  </div>
+  <p>Here is a closer look at it, notice the "forks" (where the name bifurcation comes from), and also notice how it goes from order to chaos and sometimes back again:</p>
+<p class="center"><img src="images/bifurc.gif" alt="Bifurcation Plot" height="253" width="360"></p>
+<p>The change between order and chaos is also seen in nature.</p>
+<p>For example populations of animals can be steady, or show this "one year many, next year few" pattern, or be just very chaotic.</p>
+  <p style="float:right; margin: 0 0 5px 10px;"><img src="images/drips.svg" alt="drips" height="401" width="274"></p>
+
+
+<h2>Dripping Taps</h2>
+
+<p>Get a tap dripping.</p>
+<p>It can be steady (drip, drip, drip), but at a different flow rate you may get a "double drip" (like when <b>r</b> is around <b>3.2</b> above).</p>
+<p>Change the flow again and the drips can seem random.</p>
+<p>Like in these photos:</p>
+
+
+<h2>Mandelbrot Set</h2>
+
+<p>There is a relationship between the bifurcation diagram and the <a href="../numbers/mandelbrot.html">Mandelbrot set</a>. You may like to investigate that!</p>
+
+
+<h2>More</h2>
+
+<p>There are more types of bifurcation in mathematics!</p>
+<p>And there is a whole lot more to learn in this really interesting subject called Dynamical Systems.</p>
+<p><br></p>
+
+<div class="related">  
+  <a href="index.html">Calculus Index</a>
+</div>
+      <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2022 Rod Pierce</div>
+
+</div>
+
+
+
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/calculus/bifurcation.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:31 GMT -->
+</html>

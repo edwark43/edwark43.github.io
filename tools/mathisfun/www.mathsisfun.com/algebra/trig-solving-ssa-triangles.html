@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Main.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/algebra/trig-solving-ssa-triangles.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:02:53 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<!-- #BeginEditable "doctitle" -->
+	<title>Solving SSA Triangles</title>
+	<meta name="Description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents.">
+	<script language="JavaScript" type="text/javascript">
+		Author = 'Gates, Les and Pierce, Rod';
+	</script>
+	<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta http-equiv="pics-label" content="(PICS-1.1 &quot;http://www.classify.org/safesurf/&quot; L gen true for &quot;http://www.mathsisfun.com&quot; r (SS~~000 1))">
+<link rel="stylesheet" type="text/css" href="../style3.css">
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun"></a></div>
+	<div id="gtran">
+<script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus">
+<script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort">
+<script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search">
+<script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+				<h1 align="center">Solving SSA Triangles</h1>
+				<p align="center"><i>"SSA" means "Side, Side, Angle"</i></p>
+				<table align="center" width="85%" border="0">
+					<tbody>
+<tr>
+						<td><img src="images/triangle-ssa.svg" alt="SSA Triangle"></td>
+						<td>
+							<p>"<i>SSA</i>" is when we know two sides and an angle that is <b>not</b> the angle between the sides.</p>
+						</td>
+					</tr>
+				</tbody></table>
+				<p>&nbsp;</p>
+				<table align="center" width="90%">
+					<tbody>
+<tr>
+						<td>
+							<p>To solve an SSA triangle</p>
+							<ul>
+								<li>use <a href="trig-sine-law.html">The Law of Sines</a> first to calculate one of the other two angles; </li>
+								<li>then use <a href="../proof180deg.html">the three angles add to 180°</a> to find the other angle; </li>
+								<li>finally use The Law of Sines again to find the unknown side.</li>
+							</ul>
+						</td>
+					</tr>
+				</tbody></table>
+				<p>&nbsp;</p>
+				<div class="example">
+					<h3>Example 1</h3>
+					<p> <img src="images/trig-ssaex1a.gif" alt="trig SSA example" height="115" width="181"></p>
+					<p>In this triangle we know</p>
+					<ul>
+						<li>angle B = 31°</li>
+						<li>b = 8 </li>
+						<li>and c = 13 </li>
+					</ul>
+					<p>&nbsp;</p>
+					<p>In this case, we can use <a href="trig-sine-law.html">The Law of Sines</a> first to find angle <b>C</b>:</p>
+					<div class="so">sin(C)/c = sin(B)/b</div>
+					<div class="so">sin(C)/13 = sin(31°)/8</div>
+					<div class="so"> sin(C) = (13×sin(31°))/8</div>
+					<div class="so"> sin(C) = 0.8369...</div>
+					<div class="so"> C = sin<sup>−1</sup>(0.8369...)</div>
+					<div class="so"> C = 56.818...° </div>
+					<div class="so"> C = <b>56.8°</b> to one decimal place (*see below)</div>
+					<p> Next, we can use <a href="../proof180deg.html">the three angles add to 180°</a> to find angle A:</p>
+					<div class="so">A = 180° − 31° − 56.818...°</div>
+					<div class="so">A = 92.181...° = <b>92.2°</b> to one decimal place</div>
+					<p> Now we can use The Law of Sines again to find a:</p>
+					<div class="so">a/sin(A) = b/sin(B) </div>
+					<div class="so"> a/sin(92.181...°) = 8/sin(31°)</div>
+					<p class="indent50px">Notice that we didn't use A = 92.2°, that angle is rounded to 1 decimal place. It's much better to use the unrounded number 92.181...° which should still be on our calculator from the last calculation. </p>
+					<div class="so"> a = (sin(92.181...°) × 8)/sin(31°)</div>
+					<div class="so"> a = <b>15.52</b> to 2 decimal places</div>
+					<p> So, we have completely solved the triangle ... </p>
+					<p class="large">... or have we?</p>
+				</div>
+				<p>* Back when we calculated:</p>
+				<div class="indent50px">
+					<p>C = sin<sup>−1</sup>(0.8369...)
+						<br> C = 56.818...° </p>
+				</div>
+				<div class="indent50px"> </div>
+				<p>We didn't think that <b>sin<sup>−1</sup>(0.8369...)</b> might have two answers (see <a href="trig-sine-law.html">Law of Sines</a>)</p>
+				<p class="larger" align="center">The other answer for C is <b>180° − 56.818...°</b></p>
+				<p>Here you can see why we have two possible answers:</p>
+				<p align="center"><img src="images/trig-ssaex1b.svg" alt="trig SSA example"></p>
+				<p align="center">By swinging side "8" left and right we can
+					<br> join up with side "a" in two possible locations.</p>
+				<p>So let's go back and continue our example:</p>
+				<div class="example">
+					<p>The other possible angle is: </p>
+					<div class="so">C = 180° − 56.818...°</div>
+					<div class="so">C = <b>123.2°</b> to one decimal place</div>
+					<p> With a new value for C we will have new values for angle <b>A</b> and side <b>a</b></p>
+					<p>Use "the three angles add to 180°" to find angle A:</p>
+					<div class="so">A = 180° − 31° − 123.181...°</div>
+					<div class="so">A = 25.818...°</div>
+					<div class="so">A = <b>25.8°</b> to one decimal place</div>
+					<p> Now we can use The Law of Sines again to find a:</p>
+					<div class="so">a/sin(A) = b/sin(B) </div>
+					<div class="so">a/sin(25.818...°) = 8/sin(31°)</div>
+					<div class="so">a = (sin(25.818...°)×8)/sin(31°)</div>
+					<div class="so">a = <b>6.76</b> to 2 decimal places</div>
+					<p>&nbsp;</p>
+					<p>So the two sets of answers are:</p>
+					<p class="center larger">C = &nbsp;56.8°, A = 92.2°, a = 15.52<b></b></p>
+					<p class="center larger">C = 123.2°, A = 25.8°, a = 6.76</p>
+				</div>
+				<p>&nbsp;</p>
+				<div class="example">
+					<h3>Example 2</h3>
+					<p> <img src="images/trig-ssaex2.gif" alt="trig SSA example" height="101" width="211"></p>
+					<p>This is also an SSA triangle.</p>
+					<p>In this triangle we know angle M = 125°, m = 12.4 and l = 7.6</p>
+					<p>We will use The Law of Sines to find angle L first:</p>
+					<div class="so">sin(L)/l = sin(M)/m</div>
+					<div class="so">sin(L)/7.6 = sin(125°)/12.4</div>
+					<div class="so"> sin(L) = (7.6×sin(125°))/12.4</div>
+					<div class="so">sin(L) = 0.5020...</div>
+					<div class="so">L = 30.136...°</div>
+					<div class="so">L = <b>30.1°</b> to one decimal place</div>
+					<p>Next, we will use "the three angles add to 180°" to find angle N:</p>
+					<div class="so">N = 180° − 125° − 30.136...°</div>
+					<div class="so">N = 24.863...°</div>
+					<div class="so">N = <b>24.9°</b> to one decimal place</div>
+					<p> Now we will use The Law of Sines again to find n:</p>
+					<div class="so">n/sin(N) = m/sin(M) </div>
+					<div class="so"> n/sin(24.863...°) = 12.4/sin(125°)</div>
+					<div class="so"> n = (sin(24.863...°)×12.4)/sin(125°)</div>
+					<div class="so">n = <b>6.36</b> to 2 decimal places</div>
+				</div>
+				<p style="float:left; margin: 0 10px 5px 0;">&nbsp;</p>
+				<span style="float:left; margin: 0 10px 5px 0;"><img src="images/trig-ssaex2b.svg" alt="trig SSA example"></span>
+				<p><b>Note</b> there is only one answer in this case. The "12.4" line only joins up one place.</p>
+				<p>The other <i>possible</i> answer for L is 149.9°. But that is <b>impossible</b> because we already have M = 125° and a triangle can't have two angles greater than 90°.</p>
+				<h2>Conclusion:</h2>
+				<p class="larger" align="center">When solving a <i>"Side, Side, Angle"</i> triangle we need to
+					<br> check if there could be another possible answer! </p>
+				<p>&nbsp;</p>
+				<div class="questions">
+					<script type="text/javascript">
+						getQ(267, 3960, 1529, 1549, 268, 1550, 1563, 2376, 2377, 3959);
+					</script>&nbsp; </div>
+				<div class="related"> <a href="trig-solving-practice.html">Triangle Solving Practice</a> <a href="trig-sine-law.html">The Law of Sines</a> <a href="trig-cosine-law.html">The Law of Cosines</a> <a href="trig-solving-triangles.html">Solving Triangles</a> <a href="trigonometry-index.html">Trigonometry Index</a> <a href="index.html">Algebra Index</a> </div>
+				<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright © 2017 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+
+
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/algebra/trig-solving-ssa-triangles.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:02:53 GMT -->
+</html>

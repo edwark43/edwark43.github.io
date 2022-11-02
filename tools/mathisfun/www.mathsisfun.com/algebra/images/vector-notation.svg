@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="169.8"
+   height="72.2"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="vector-notation.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg28" />
+  <defs
+     id="defs8">
+    <marker
+       id="id1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path2" />
+    </marker>
+    <marker
+       id="id2"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#0e232e;stroke:#0e232e;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id18177"
+       inkscape:stockid="id18177">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#204a87;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#204a87"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path905" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id23131"
+       inkscape:stockid="id23131">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#204a87;stroke:#204a87;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path1023" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       inkscape:stockid="id181773736"
+       id="id181773736">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#005c94;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path1244" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       inkscape:stockid="id231311243"
+       id="id231311243">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path1247" />
+    </marker>
+  </defs>
+  <path
+     style="fill:none;stroke:#005c94;stroke-width:3.23;marker-end:url(#id181773736)"
+     d="m 19.48,18 128.7,34.2"
+     id="path10" />
+  <text
+     x="-0.420049"
+     y="20.2"
+     style="color:#000000;fill:#ba00ff;font-family:Trebuchet MS;font-size:20px;font-style:oblique;overflow:visible;stroke-width:1px"
+     id="text12">A</text>
+  <text
+     x="156.808"
+     y="62.8362"
+     style="color:#000000;font-style:oblique;font-size:20px;font-family:'Trebuchet MS';overflow:visible;fill:#ba00ff;stroke-width:1px"
+     id="text14">B</text>
+  <text
+     x="82.0352"
+     y="22.8672"
+     style="color:#000000;font-style:oblique;font-size:20px;font-family:'Trebuchet MS';overflow:visible;fill:#005c94;stroke-width:1px"
+     id="text16">= AB</text>
+  <path
+     style="fill:none;stroke:#005c94;stroke-width:1.5;marker-end:url(#id231311243);stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 100.818,3.53276 c 0.5,-0.1 24.5,0 24.5,0"
+     id="path18" />
+  <text
+     x="63.4801"
+     y="22.9"
+     style="color:#000000;fill:#005c94;font-family:Trebuchet MS;font-size:28px;font-weight:bold;overflow:visible;stroke-width:1px"
+     id="text20">a</text>
+  <text
+     x="3.28514"
+     y="42.1983"
+     style="color:#000000;font-size:18px;font-family:'Trebuchet MS';overflow:visible;fill:#999999;stroke-width:1px"
+     id="text22">tail</text>
+  <text
+     x="107.08"
+     y="71.7"
+     style="color:#000000;fill:#999999;font-family:Trebuchet MS;font-size:18px;overflow:visible;stroke-width:1px"
+     id="text24">head</text>
+</svg>

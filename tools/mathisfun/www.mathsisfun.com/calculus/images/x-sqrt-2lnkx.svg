@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="563.922"
+   height="340"
+   version="1.1"
+   id="svg7486"
+   sodipodi:docname="x-sqrt-2lnkx.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata7492">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7490" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview7488"
+     showgrid="false"
+     inkscape:current-layer="svg7486" />
+  <desc
+     id="desc7304">SVG Output</desc>
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.941831;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect8055"
+     width="563.922"
+     height="340"
+     x="0"
+     y="0" />
+  <polyline
+     points="3.9798 340.00, 3.9798 0.0000, "
+     id="polyline7306"
+     style="fill:#ddeeff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="16.973 340.00, 16.973 0.0000, "
+     id="polyline7308"
+     style="fill:#ddeeff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <text
+     x="24.2489"
+     y="309.766"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke:none"
+     id="text7310">-0.5</text>
+  <polyline
+     points="29.966 340.00, 29.966 0.0000, "
+     id="polyline7312"
+     style="fill:#ddeeff;fill-opacity:0.5;stroke:#0000ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="42.959 340.00, 42.959 0.0000, "
+     id="polyline7314"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="55.952 340.00, 55.952 0.0000, "
+     id="polyline7316"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="68.946 340.00, 68.946 0.0000, "
+     id="polyline7318"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="81.939 340.00, 81.939 0.0000, "
+     id="polyline7320"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <text
+     x="89.2147"
+     y="309.766"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke:none"
+     id="text7322">0</text>
+  <polyline
+     points="94.932 340.00, 94.932 0.0000, "
+     id="polyline7324"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#0000ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="107.93 340.00, 107.93 0.0000, "
+     id="polyline7326"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="120.92 340.00, 120.92 0.0000, "
+     id="polyline7328"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="133.91 340.00, 133.91 0.0000, "
+     id="polyline7330"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="146.90 340.00, 146.90 0.0000, "
+     id="polyline7332"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <text
+     x="154.181"
+     y="309.766"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke:none"
+     id="text7334">0.5</text>
+  <polyline
+     points="159.90 340.00, 159.90 0.0000, "
+     id="polyline7336"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#0000ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="172.89 340.00, 172.89 0.0000, "
+     id="polyline7338"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="185.88 340.00, 185.88 0.0000, "
+     id="polyline7340"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="198.88 340.00, 198.88 0.0000, "
+     id="polyline7342"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="211.87 340.00, 211.87 0.0000, "
+     id="polyline7344"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <text
+     x="219.147"
+     y="309.766"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke:none"
+     id="text7346">1</text>
+  <polyline
+     points="224.86 340.00, 224.86 0.0000, "
+     id="polyline7348"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#0000ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="237.86 340.00, 237.86 0.0000, "
+     id="polyline7350"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="250.85 340.00, 250.85 0.0000, "
+     id="polyline7352"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="263.84 340.00, 263.84 0.0000, "
+     id="polyline7354"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="276.84 340.00, 276.84 0.0000, "
+     id="polyline7356"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <text
+     x="284.113"
+     y="309.766"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke:none"
+     id="text7358">1.5</text>
+  <polyline
+     points="289.83 340.00, 289.83 0.0000, "
+     id="polyline7360"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#0000ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="302.82 340.00, 302.82 0.0000, "
+     id="polyline7362"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="315.82 340.00, 315.82 0.0000, "
+     id="polyline7364"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="328.81 340.00, 328.81 0.0000, "
+     id="polyline7366"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="341.80 340.00, 341.80 0.0000, "
+     id="polyline7368"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <text
+     x="349.079"
+     y="309.766"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke:none"
+     id="text7370">2</text>
+  <polyline
+     points="354.79 340.00, 354.79 0.0000, "
+     id="polyline7372"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#0000ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="367.79 340.00, 367.79 0.0000, "
+     id="polyline7374"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="380.78 340.00, 380.78 0.0000, "
+     id="polyline7376"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="393.77 340.00, 393.77 0.0000, "
+     id="polyline7378"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="406.77 340.00, 406.77 0.0000, "
+     id="polyline7380"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <text
+     x="414.044"
+     y="309.766"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke:none"
+     id="text7382">2.5</text>
+  <polyline
+     points="419.76 340.00, 419.76 0.0000, "
+     id="polyline7384"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#0000ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="432.75 340.00, 432.75 0.0000, "
+     id="polyline7386"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="445.75 340.00, 445.75 0.0000, "
+     id="polyline7388"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="458.74 340.00, 458.74 0.0000, "
+     id="polyline7390"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="471.73 340.00, 471.73 0.0000, "
+     id="polyline7392"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <text
+     x="479.01"
+     y="309.766"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke:none"
+     id="text7394">3</text>
+  <polyline
+     points="484.73 340.00, 484.73 0.0000, "
+     id="polyline7396"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#0000ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="497.72 340.00, 497.72 0.0000, "
+     id="polyline7398"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="510.71 340.00, 510.71 0.0000, "
+     id="polyline7400"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="523.71 340.00, 523.71 0.0000, "
+     id="polyline7402"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="536.70 340.00, 536.70 0.0000, "
+     id="polyline7404"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <text
+     x="543.976"
+     y="309.766"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke:none"
+     id="text7406">3.5</text>
+  <polyline
+     points="549.69 340.00, 549.69 0.0000, "
+     id="polyline7408"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#0000ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="562.69 340.00, 562.69 0.0000, "
+     id="polyline7410"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="94.932 340.00, 94.932 0.0000, "
+     id="polyline7412"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#ff0000;stroke-width:1.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 334.75, 550.00 334.75, "
+     id="polyline7414"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 321.75, 550.00 321.75, "
+     id="polyline7416"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 308.76, 550.00 308.76, "
+     id="polyline7418"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <text
+     y="300.766"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none"
+     id="text7420"
+     x="1.23256">0</text>
+  <polyline
+     points="0.0000 295.77, 550.00 295.77, "
+     id="polyline7422"
+     style="fill:#0000ff;fill-opacity:0.5;stroke:#0000ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 282.77, 550.00 282.77, "
+     id="polyline7424"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 269.78, 550.00 269.78, "
+     id="polyline7426"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 256.79, 550.00 256.79, "
+     id="polyline7428"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 243.79, 550.00 243.79, "
+     id="polyline7430"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <text
+     y="235.8"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none"
+     id="text7432"
+     x="1.23256">0.5</text>
+  <polyline
+     points="0.0000 230.80, 550.00 230.80, "
+     id="polyline7434"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#0000ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 217.81, 550.00 217.81, "
+     id="polyline7436"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 204.81, 550.00 204.81, "
+     id="polyline7438"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 191.82, 550.00 191.82, "
+     id="polyline7440"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 178.83, 550.00 178.83, "
+     id="polyline7442"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <text
+     y="170.835"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none"
+     id="text7444"
+     x="1.23256">1</text>
+  <polyline
+     points="0.0000 165.83, 550.00 165.83, "
+     id="polyline7446"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#0000ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 152.84, 550.00 152.84, "
+     id="polyline7448"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 139.85, 550.00 139.85, "
+     id="polyline7450"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 126.86, 550.00 126.86, "
+     id="polyline7452"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 113.86, 550.00 113.86, "
+     id="polyline7454"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <text
+     y="105.869"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none"
+     id="text7456"
+     x="1.23256">1.5</text>
+  <polyline
+     points="0.0000 100.87, 550.00 100.87, "
+     id="polyline7458"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#0000ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 87.876, 550.00 87.876, "
+     id="polyline7460"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 74.883, 550.00 74.883, "
+     id="polyline7462"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 61.890, 550.00 61.890, "
+     id="polyline7464"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 48.896, 550.00 48.896, "
+     id="polyline7466"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <text
+     y="40.9033"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none"
+     id="text7468"
+     x="1.23256">2</text>
+  <polyline
+     points="0.0000 35.903, 550.00 35.903, "
+     id="polyline7470"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#0000ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 22.910, 550.00 22.910, "
+     id="polyline7472"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 9.9170, 550.00 9.9170, "
+     id="polyline7474"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 -3.0762, 550.00 -3.0762, "
+     id="polyline7476"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#8888ff;stroke-width:0.5"
+     transform="translate(1.23256)" />
+  <polyline
+     points="0.0000 295.77, 550.00 295.77, "
+     id="polyline7478"
+     style="fill:#ff0000;fill-opacity:0.5;stroke:#0000ff;stroke-width:2"
+     transform="translate(1.23256)" />
+  <path
+     style="fill:none;fill-opacity:0.5;stroke:#00008b;stroke-width:1.5"
+     d="m 226.28,295.254 c 0.131,-2.341 0.27,-10.124 0.51,-12.442 3.395,-32.78 17.369,-63.397 30.709,-93.202 28.732,-61.483 60.111,-121.6785 90.016,-182.59081 1.574,-3.17719 3.146,-6.35511 4.717,-9.53359"
+     id="polyline7480"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csccc" />
+  <path
+     style="fill:none;fill-opacity:0.5;stroke:#ffa500;stroke-width:1.5"
+     d="m 161.425,295.488 c 0.251,-3.022 0.469,-9.383 1.014,-12.331 3.734,-20.19 13.792,-38.752 22.364,-57.263 30.535,-61.514 61.381,-122.884 90.429,-185.123 7.055,-15.001 14.053,-30.0287 21,-45.08"
+     id="polyline7482"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csccc" />
+  <path
+     style="fill:none;fill-opacity:0.5;stroke:#ff0000;stroke-width:1.5"
+     d="m 128.556,295.698 c 0.566,-2.377 1.644,-8.844 2.659,-12.722 3.891,-14.86 12.794,-28.49 19.305,-42.365 40.35,-80.153 76.673,-162.2552 111.712,-244.8435"
+     id="polyline7484"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cscc" />
+  <text
+     xml:space="preserve"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:25px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     x="154.9"
+     y="144.401"
+     id="text8042"><tspan
+       sodipodi:role="line"
+       id="tspan8040"
+       x="154.9"
+       y="144.401">k=4</tspan></text>
+  <text
+     xml:space="preserve"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:25px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     x="221.309"
+     y="170.656"
+     id="text8046"><tspan
+       sodipodi:role="line"
+       id="tspan8044"
+       x="221.309"
+       y="170.656">k=2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:25px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00008b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     x="267.641"
+     y="191.506"
+     id="text8050"><tspan
+       sodipodi:role="line"
+       id="tspan8048"
+       x="267.641"
+       y="191.506">k=1</tspan></text>
+</svg>

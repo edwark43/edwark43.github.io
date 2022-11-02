@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="152.3"
+   height="83.4"
+   version="1.1"
+   style="font-family:'Comic Sans MS';font-size:20px;stroke-width:1px"
+   id="svg28"
+   sodipodi:docname="lhs-rhs.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg28" />
+  <defs
+     id="defs8">
+    <marker
+       id="id2"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ff4141;stroke:#ff4141;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       id="id1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5" />
+    </marker>
+  </defs>
+  <rect
+     x="98"
+     y="50.9"
+     ry="16.3"
+     width="40.4"
+     height="32.5"
+     style="fill:#ffcece;fill-opacity:1;stroke-width:3.81"
+     id="rect10" />
+  <rect
+     x="0"
+     y="50.9"
+     ry="16.3"
+     width="78.1"
+     height="32.5"
+     style="fill:#d3e2ff;stroke-width:5.3"
+     id="rect12" />
+  <text
+     x="10.9776"
+     y="74.3603"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#005c94"
+     id="text14">2x + 3</text>
+  <text
+     x="106.479"
+     y="73.5017"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#ff4141"
+     id="text16">15</text>
+  <text
+     x="81.9588"
+     y="75.2776"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#f57900"
+     id="text18">=</text>
+  <text
+     x="8.45517"
+     y="15.4603"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#005c94;font-size:20px"
+     id="text20">LHS</text>
+  <text
+     x="113.755"
+     y="15.6793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#ff4141"
+     id="text22">RHS</text>
+  <path
+     style="marker-end:url(#id1);fill:none;stroke:#005c94;stroke-width:1.4;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 24.2,18.1 c 0,0 0.4,21.6 6.4,16.8 6.3,-5.1 6.2,7.7 6.4,11.8"
+     id="path24" />
+  <path
+     style="marker-end:url(#id2);fill:none;stroke:#ff4141;stroke-width:1.4;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 131,17.9 c 0,0 -0.5,21.7 -6.4,16.8 -7.3,-5.6 -6.3,8.8 -6.4,11.8"
+     id="path26" />
+</svg>

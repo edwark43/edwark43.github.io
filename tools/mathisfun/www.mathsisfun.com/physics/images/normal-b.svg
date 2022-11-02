@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="129.2" height="129.2" version="1.1">
+<defs>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:black; stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<rect x="0" y="0" width="129.2" height="129.2" style="color:black; overflow:visible; fill:white; stroke-width:0.85;"/>
+<path style="color:black; overflow:visible; fill:none; stroke:#f8e4ff; stroke-width:9; stroke-linecap:round;" d="M 29.5,-36.1 A 57.2,81.3 0 0 1 66.1,50 57.2,81.3 0 0 1 15.9,120.9"/>
+<path style="color:black; overflow:visible; fill:none; stroke:#999999; stroke-width:1.36; stroke-linecap:round;" d="m 31.7,-39.5 a 60.3,84.5 0 0 1 38.6,89.4 60.3,84.5 0 0 1 -53,73.6"/>
+<g transform="matrix(0.308371,0.327735,-0.327735,0.308371,672.97,-138.21)">
+<path style="fill:none; stroke:#0084c8; stroke-width:1.9; stroke-dasharray:1.9, 1.9;" d="M -678.9,1140.2 -490,1458.8"/>
+<path style="fill:none; stroke:#0084c8; stroke-width:1.9; stroke-dasharray:1.9, 1.9;" d="m -743.7,1394 318.6,-189"/>
+</g>
+<g transform="matrix(0.45,0,0,0.45,-267.41,-1267.72)">
+<path style="fill:none; stroke:#0084c8; stroke-width:1.9;" d="m 774.3,2957.1 -7.3,25.3"/>
+<path style="fill:none; stroke:#0084c8; stroke-width:1.9;" d="m 749.3,2950.9 25.3,7.3"/>
+</g>
+<text x="100.1" y="58.6" style="font-family:Verdana; text-align:center; text-anchor:middle; font-size:12.4px; color:black; overflow:visible; fill:#0084c8; stroke-width:0.45px;">Right</text>
+<path style="color:black; marker-start:url(#id1); overflow:visible; fill:none; stroke:black; stroke-width:1.35;" d="m 65.3,69.4 -242,-170.5"/>
+<text x="33.3" y="11" transform="rotate(37.6598)" style="font-family:Verdana; font-size:18px; color:black; overflow:visible; fill:black; stroke-width:0.45px;">Ray</text>
+<text x="100.1" y="70.5" style="font-family:Verdana; text-align:center; text-anchor:middle; font-size:12.4px; color:black; overflow:visible; fill:#0084c8; stroke-width:0.45px;">Angle</text>
+</svg>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="207.5"
+   height="207.5"
+   version="1.1"
+   style="font-family:Arial;stroke-width:1.52;font-size:35px"
+   id="svg70"
+   sodipodi:docname="infinite-series-1-4n.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview72"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg70" />
+  <defs
+     id="defs2" />
+  <rect
+     x="0.8"
+     y="0.8"
+     width="206"
+     height="206"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect4" />
+  <rect
+     x="0.8"
+     y="0.8"
+     width="103"
+     height="205.4"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect6" />
+  <rect
+     x="104"
+     y="0.8"
+     width="51.4"
+     height="102.6"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect8" />
+  <rect
+     x="155.5"
+     y="0.8"
+     width="25.6"
+     height="51.4"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect10" />
+  <rect
+     x="181.3"
+     y="0.8"
+     width="12.7"
+     height="25.6"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect12" />
+  <rect
+     x="0.8"
+     y="0.8"
+     width="205.9"
+     height="103"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect14" />
+  <rect
+     x="104"
+     y="0.8"
+     width="102.7"
+     height="51.4"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect16" />
+  <rect
+     x="155.5"
+     y="0.8"
+     width="51.1"
+     height="25.6"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect18" />
+  <rect
+     x="181.3"
+     y="0.8"
+     width="25.2"
+     height="12.7"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect20" />
+  <rect
+     x="194.1"
+     y="0.8"
+     width="6.2"
+     height="12.8"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect22" />
+  <rect
+     x="194.1"
+     y="0.8"
+     width="12.5"
+     height="6.2"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect24" />
+  <rect
+     x="200.4"
+     y="0.9"
+     width="3"
+     height="6.1"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect26" />
+  <rect
+     x="200.4"
+     y="0.9"
+     width="6.4"
+     height="3"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect28" />
+  <text
+     x="30.5"
+     y="154.6"
+     style="font-family:Arial;fill:#0000ff;stroke-linecap:round"
+     id="text30">1</text>
+  <text
+     x="49.8"
+     y="181.3"
+     style="font-family:Arial;fill:#0000ff;stroke-linecap:round"
+     id="text32">4</text>
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:1.95;stroke-linecap:round"
+     d="m 36.4,172.8 23.2,-29.9"
+     id="path34" />
+  <text
+     x="72.5"
+     y="107.5"
+     transform="scale(1.09414,0.91396)"
+     style="fill:#f44800;stroke-width:1.77;stroke-linecap:round"
+     id="text36">1</text>
+  <text
+     x="73"
+     y="144.5"
+     transform="scale(1.09414,0.91396)"
+     style="fill:#f44800;stroke-width:1.77;stroke-linecap:round"
+     id="text38">2</text>
+  <text
+     x="98.1"
+     y="144.7"
+     transform="scale(1.09414,0.91396)"
+     style="fill:#f44800;stroke-width:1.77;stroke-linecap:round"
+     id="text40">3</text>
+  <text
+     x="183.9"
+     y="19.9"
+     style="font-size:10.9px;font-style:italic;fill:#0000ff;stroke-width:0.55px"
+     id="text42">...</text>
+  <text
+     x="194.9"
+     y="10.4"
+     style="font-size:6.1px;font-style:italic;fill:#0000ff;stroke-width:0.3px"
+     id="text44">...</text>
+  <text
+     x="129.6"
+     y="53.3"
+     transform="scale(1.09414,0.91396)"
+     style="font-family:Arial;font-size:18.7px;fill:#f44800;stroke-width:1.08;stroke-linecap:round"
+     id="text46">1</text>
+  <text
+     x="129.9"
+     y="73.7"
+     transform="scale(1.09414,0.91396)"
+     style="font-family:Arial;font-size:18.7px;fill:#f44800;stroke-width:1.08;stroke-linecap:round"
+     id="text48">2</text>
+  <text
+     x="143.5"
+     y="73.8"
+     transform="scale(1.09414,0.91396)"
+     style="font-family:Arial;font-size:18.7px;fill:#f44800;stroke-width:1.08;stroke-linecap:round"
+     id="text50">3</text>
+  <text
+     x="157.8"
+     y="26.7"
+     transform="scale(1.09414,0.91396)"
+     style="font-size:11.6px;fill:#f44800;stroke-width:0.59;stroke-linecap:round"
+     id="text52">1</text>
+  <text
+     x="158"
+     y="39"
+     transform="scale(1.09414,0.91396)"
+     style="font-size:11.6px;fill:#f44800;stroke-width:0.59;stroke-linecap:round"
+     id="text54">2</text>
+  <text
+     x="166.3"
+     y="39.1"
+     transform="scale(1.09414,0.91396)"
+     style="font-size:11.6px;fill:#f44800;stroke-width:0.59;stroke-linecap:round"
+     id="text56">3</text>
+  <text
+     x="116.9"
+     y="77.4"
+     style="font-family:Arial;font-size:18.8px;fill:#0000ff;stroke-width:0.82;stroke-linecap:round"
+     id="text58">1</text>
+  <text
+     x="127.3"
+     y="91.8"
+     style="font-family:Arial;font-size:18.8px;fill:#0000ff;stroke-width:0.82;stroke-linecap:round"
+     id="text60">16</text>
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:1.05;stroke-linecap:round"
+     d="m 120.1,87.2 12.5,-16.1"
+     id="path62" />
+  <text
+     x="159.6"
+     y="40.3"
+     style="font-family:Arial;font-size:10.8px;fill:#0000ff;stroke-width:0.47;stroke-linecap:round"
+     id="text64">1</text>
+  <text
+     x="165.5"
+     y="48.5"
+     style="font-family:Arial;font-size:10.8px;fill:#0000ff;stroke-width:0.47;stroke-linecap:round"
+     id="text66">64</text>
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:0.6;stroke-linecap:round"
+     d="m 161.4,45.9 7.1,-9.2"
+     id="path68" />
+</svg>

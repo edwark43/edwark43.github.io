@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="213.1" height="167.8" version="1.1">
+<defs>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<rect x="0" y="0" width="213.1" height="167.8" style="color:black; overflow:visible; fill:white; stroke-width:2.06; stroke-linecap:round;"/>
+<g transform="matrix(0.41319,0,0,0.413173,-35.368,6.02423)">
+<polyline points="0.14786 400.00, 0.14786 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="144.40 400.00, 144.40 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="288.65 400.00, 288.65 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="432.91 400.00, 432.91 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="577.16 400.00, 577.16 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.14786 400.00, 0.14786 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="72.275 400.00, 72.275 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="144.40 400.00, 144.40 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="216.53 400.00, 216.53 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="288.65 400.00, 288.65 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="360.78 400.00, 360.78 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="432.91 400.00, 432.91 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="505.03 400.00, 505.03 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="577.16 400.00, 577.16 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="288.65 0.00000, 288.65 400.00, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 380.68, 600.00 380.68, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 236.43, 600.00 236.43, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 92.178, 600.00 92.178, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 380.68, 600.00 380.68, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 308.56, 600.00 308.56, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 236.43, 600.00 236.43, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 164.30, 600.00 164.30, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 92.178, 600.00 92.178, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 20.051, 600.00 20.051, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 236.43, 600.00 236.43, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+</g>
+<g transform="matrix(0.5,0,0,0.49998,7.92099,30.3572)"/>
+<g transform="matrix(0.5,0,0,0.49998,8.25199,30.1702)"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:2;" d="m 212.5,26.7 c -31.4,6.5 -63.1,13.4 -92.6,26.6 -14.3,6.8 -30,16.1 -34.4,32.5 -2.6,11.3 -0.7,23.1 -2.5,34.5 -3.1,16.2 -17.9,26.3 -31.7,33.1 -29.1,13.8 -60.8,20.7 -92.1,27.5 -1.2,0.2 -2.5,0.5 -3.7,0.7"/>
+<path style="fill:none; stroke:#ff0000; stroke-width:1.65;" d="m 89,1.9 c 1.6,16.9 2.8,34.2 9.1,50.1 3.9,10.1 11.4,18.6 21.1,23.5 13.8,7.1 29.4,9.6 44.6,11.8 16.2,2.2 32.5,3.4 48.8,4.4"/>
+<path style="fill:none; stroke:#ff0000; stroke-width:1.65;" d="M 77.8,205.9 C 76.3,189 75,171.7 68.8,155.7 64.9,145.7 57.3,137.1 47.7,132.2 33.9,125.1 18.3,122.6 3.1,120.4 -13.1,118.2 -29.4,116.9 -45.7,115.9"/>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:2.48;" d="M -44.5,103.6 H 200.5"/>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:2.48;" d="M 83.9,205.4 V 7.7"/>
+<text x="129.9" y="38.9" transform="scale(1.00002,0.99998)" style="font-family:'Comic Sans MS'; font-size:33.1px; color:black; overflow:visible; fill:#0000ff; stroke-width:1px;">x</text>
+<text x="152.6" y="16.8" transform="scale(0.998553,1.00145)" style="font-family:'Comic Sans MS'; font-size:16px; color:black; overflow:visible; fill:#0000ff; stroke:#0000ff; stroke-width:0.69px;">1</text>
+<text x="151.3" y="33.6" transform="scale(0.998553,1.00145)" style="font-family:'Comic Sans MS'; font-size:16px; color:black; overflow:visible; fill:#0000ff; stroke:#0000ff; stroke-width:0.69px;">3</text>
+<path style="fill:none; stroke:#0000ff; stroke-width:2.06; stroke-linecap:round;" d="m 149.5,19.8 13.1,-0.3"/>
+<text x="129.6" y="49.4" transform="matrix(0.982509,0.186322,-0.186314,0.98247,0,0)" style="font-family:'Comic Sans MS'; font-size:17px; color:black; overflow:visible; fill:#ff0000; stroke-width:1px;">derivative</text>
+<text x="131.6" y="64.8" transform="matrix(0.977594,0.210593,-0.210585,0.977555,0,0)" style="font-family:'Comic Sans MS'; font-size:17px; color:black; overflow:visible; fill:#ff0000; stroke-width:1px;">(slope)</text>
+</svg>

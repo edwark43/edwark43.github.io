@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="207.5"
+   height="207.5"
+   version="1.1"
+   style="stroke-width:1.52"
+   id="svg74"
+   sodipodi:docname="infinite-series-1-2n.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview76"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg74" />
+  <defs
+     id="defs2" />
+  <rect
+     x="0.739976"
+     y="0.792988"
+     width="206"
+     height="206"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect4" />
+  <rect
+     x="0.739976"
+     y="0.792988"
+     width="103"
+     height="103"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect6" />
+  <rect
+     x="103.94"
+     y="0.792988"
+     width="51.4"
+     height="51.4"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect8" />
+  <rect
+     x="155.54"
+     y="0.792988"
+     width="25.6"
+     height="25.6"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect10" />
+  <rect
+     x="181.34"
+     y="0.792988"
+     width="12.7"
+     height="12.7"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect12" />
+  <rect
+     x="0.739976"
+     y="0.792988"
+     width="205.9"
+     height="103"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect14" />
+  <rect
+     x="103.94"
+     y="0.792988"
+     width="102.7"
+     height="51.4"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect16" />
+  <rect
+     x="155.54"
+     y="0.792988"
+     width="51.1"
+     height="25.6"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect18" />
+  <rect
+     x="181.34"
+     y="0.792988"
+     width="25.2"
+     height="12.7"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect20" />
+  <rect
+     x="194.04"
+     y="0.792988"
+     width="6.2"
+     height="6.2"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect22" />
+  <rect
+     x="194.04"
+     y="0.792988"
+     width="12.5"
+     height="6.2"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect24" />
+  <rect
+     x="200.34"
+     y="0.792988"
+     width="3"
+     height="3"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect26" />
+  <rect
+     x="200.34"
+     y="0.792988"
+     width="6.4"
+     height="3"
+     style="fill:none;stroke:#c4a000;stroke-linecap:round"
+     id="rect28" />
+  <text
+     x="84.8214"
+     y="155.874"
+     transform="scale(1.0046,0.995421)"
+     style="font-size:30px;font-family:Arial;fill:#0000ff;stroke-linecap:round"
+     id="text30">1</text>
+  <text
+     x="103.521"
+     y="181.674"
+     transform="scale(1.0046,0.995421)"
+     style="font-size:30px;font-family:Arial;fill:#0000ff;stroke-linecap:round"
+     id="text32">2</text>
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:1.77;stroke-linecap:round"
+     d="m 90.94,172.693 22.6,-28.8"
+     id="path34" />
+  <text
+     x="40.54"
+     y="47.193"
+     style="font-size:20px;font-family:Arial;fill:#0000ff;stroke-linecap:round"
+     id="text36">1</text>
+  <text
+     x="53.14"
+     y="64.593"
+     style="font-size:20px;font-family:Arial;fill:#0000ff;stroke-linecap:round"
+     id="text38">4</text>
+  <path
+     style="fill:none;stroke:#0000ff;stroke-linecap:round"
+     d="m 44.34,59.093 15.1,-19.4"
+     id="path40" />
+  <text
+     x="142.229"
+     y="76.5475"
+     transform="scale(0.997576,1.00243)"
+     style="font-size:18px;font-family:Arial;fill:#0000ff;stroke-linecap:round"
+     id="text42">1</text>
+  <text
+     x="152.929"
+     y="91.2475"
+     transform="scale(0.997576,1.00243)"
+     style="font-size:18px;font-family:Arial;fill:#0000ff;stroke-linecap:round"
+     id="text44">8</text>
+  <path
+     style="fill:none;stroke:#0000ff;stroke-linecap:round"
+     d="m 145.14,86.793 12.8,-16.6"
+     id="path46" />
+  <text
+     x="115.628"
+     y="22.8012"
+     transform="scale(1.00012,0.99988)"
+     style="font-size:16px;font-family:Arial;fill:#0000ff;stroke-linecap:round"
+     id="text48">1</text>
+  <text
+     x="125.128"
+     y="39.0012"
+     transform="scale(1.00012,0.99988)"
+     style="font-size:16px;font-family:Arial;fill:#0000ff;stroke-linecap:round"
+     id="text50">16</text>
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:1.4;stroke-linecap:round"
+     d="m 118.94,32.893 12.9,-16.6"
+     id="path52" />
+  <text
+     x="174.74"
+     y="37.4577"
+     transform="scale(0.992595,1.00746)"
+     style="font-size:12px;font-family:Arial;fill:#0000ff;stroke-linecap:round"
+     id="text54">1</text>
+  <text
+     x="182.94"
+     y="48.7577"
+     transform="scale(0.992595,1.00746)"
+     style="font-size:12px;font-family:Arial;fill:#0000ff;stroke-linecap:round"
+     id="text56">32</text>
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:1.23;stroke-linecap:round"
+     d="m 175.94,45.493 9.8,-12.8"
+     id="path58" />
+  <text
+     x="161.91"
+     y="12.4165"
+     transform="scale(0.988074,1.01207)"
+     style="font-size:10px;font-family:Arial;fill:#0000ff;stroke-linecap:round"
+     id="text60">1</text>
+  <text
+     x="168.61"
+     y="21.7165"
+     transform="scale(0.988074,1.01207)"
+     style="font-size:10px;font-family:Arial;fill:#0000ff;stroke-linecap:round"
+     id="text62">64</text>
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:1.17;stroke-linecap:round"
+     d="m 161.94,18.993 8,-10.6"
+     id="path64" />
+  <text
+     x="189.24"
+     y="19.993"
+     style="font-style:italic;font-size:10.9px;fill:#0000ff;stroke-width:0.55px"
+     id="text66">...</text>
+  <text
+     x="183.84"
+     y="7.39302"
+     style="font-style:italic;font-size:9.2px;fill:#0000ff;stroke-width:0.46px"
+     id="text68">...</text>
+  <text
+     x="197.04"
+     y="9.993"
+     style="font-style:italic;font-size:7.7px;fill:#0000ff;stroke-width:0.39px"
+     id="text70">...</text>
+</svg>

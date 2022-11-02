@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Main.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/data/quincunx-explained.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:42:25 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Quincunx Explained</title>
+  
+      <style>
+      
+      .bgwhite {border: 4px solid white; background-color:white;}
+        
+  </style>
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">Quincunx Explained</h1>
+
+<p style="float:left; margin: 0 10px 5px 0;"><a href="quincunx.html"><img src="images/quincunx.jpg" alt="quincunx" height="172" width="129"></a></p>
+            <p>&nbsp;</p>
+            <p>A <a href="quincunx.html">Quincunx</a> or "Galton Board" (named after  Sir Francis Galton) is a triangular array of pegs&nbsp;(have a play with it).</p>
+            <p>Balls are  dropped onto the top peg and then bounce their way down to the bottom where they are collected in little bins.</p>
+            <p>Each time a ball hits one of the pegs, it bounces either left or right.</p>
+            <p>&nbsp;</p>
+            <p style="float:right; margin: 0 0 5px 10px;"><img src="images/normal-distribution-1.svg" alt="standard normal distribution small" height="" width=""></p>
+            <p>But this is interesting:&nbsp; the balls collect in the bins following the classic "Bell Curve" of the <a href="standard-normal-distribution.html">normal  distribution</a>!</p>
+<p>Being indiviudal random events they won't follow the smooth curve of the normal distribution perfectly, but they do tend towards it.</p>
+
+
+<h2>Formula</h2>
+
+<p>We can actually calculate the probabilities!</p>
+            <p style="float:left; margin: 0 10px 5px 0;"><a href="quincunx.html"><img src="images/quincunx-left-2.jpg" alt="quincunx marble goes right" height="247" width="226"></a></p>
+            <p>Think about this: a ball  ends up in the bin <b>k</b> places <i>from the right</i> when it has taken <b>k</b> <i>left</i> turns.</p>
+            <p>In this example, all the bounces are to the right except for two bounces to the left. It ended up in the bin two places from the right.</p>
+            <p>In the general case, when the quincunx has <b>n</b> rows then  the ball can have <b>k</b> bounces to the left and <b>(n-k)</b> bounces to the right.</p>
+            <p>The probability is usually 50% either way, but it could be 60%-40% etc.</p>
+            <p>So when  the probability of bouncing to the left is <b>p</b> the probability to the right is <b>(1-p)</b> and we can calculate the probability of <b>any one path</b> like this:</p>
+
+	<table style="border: 0; margin:auto;">
+                    
+              <tbody>
+<tr>
+                <td><img src="../images/style/left-arrow.gif" alt="left arrow" height="46" width="46"></td>
+                <td>&nbsp;</td>
+                <td>The ball bounces <b>k</b> times to the left with a probability of <b>p</b>: <b>p<sup>k</sup></b></td>
+              </tr>
+                    
+              
+                    
+              <tr>
+                <td><img src="../images/style/right-arrow.gif" alt="right arrow" height="46" width="46"></td>
+                <td>&nbsp;</td>
+                <td>And the other bounces <b>(n-k)</b> have the opposite probability of: <b>(1-p)<sup>(n-k)</sup></b></td>
+              </tr>
+                    
+              
+                    
+              <tr>
+                <td><img src="../images/style/star.gif" alt="star" height="43" width="45"></td>
+                <td>&nbsp;</td>
+                <td>So, the probability of following such a path is  <b>p<sup>k</sup>(1-p)<sup>(n-k)</sup></b></td>
+              </tr>
+                  
+      </tbody></table>
+            <p><b>But there could be many such paths!</b> For example the left turns could be the 1st and 2nd, or 1st and 3rd, or 2nd and 7th, etc.</p>
+            <p>We can list all such paths (LLRRR.., LRLRR..., LRRL...), but there are two easier ways.</p>
+
+
+<h2>How Many Paths</h2>
+
+<p>We can use <a href="../pascals-triangle.html">Pascal's Triangle</a>.  In fact, the Quincunx is just like Pascal's Triangle, with pegs instead of numbers. The number on each peg shows us how many different paths can be taken to get to that peg. Amazing but true.</p>
+            <p>Or we can use this formula from the subject of <a href="../combinatorics/combinations-permutations.html">Combinations</a>:</p>
+            <p style="float:left; margin: 0 30px 20px 0;"><img src="images/binomial-n-choose-k.png" alt="binomial n choose k = n!/k!(n-k!)" class="bgwhite" height="53" width="152"></p>
+      <p>This is commonly called "n choose k" and is also written C(n,k).</p>
+            <p>It is the calculation of the number of ways  of distributing k things in a sequence of n.</p>
+      <p>Note: The "!" means "<a href="../numbers/factorial.html">factorial</a>". For example 4! = 1×2×3×4 = 24</p>
+            <p>&nbsp;</p>
+            <p>Putting it all together, the resulting formula is:</p>
+            <p class="center"><img src="images/binomial-distribution-formula.png" alt="f(k;n,p) = (n choose k) p^k (1-p)^(n-k)" class="bgwhite" height="53" width="252"><br>
+(Which, by the way, is the formula for the <a href="binomial-distribution.html">Binomial Distribution</a>.)</p>
+
+<h3>Example:</h3>
+            <p>For 10 rows <i>(n=10)</i> and probability of bouncing left of  0.5 <i>(p=0.5)</i>, we can calculate the probability of being 3 bins away from the right as:</p>
+            <p class="center"><img src="images/quincunx-example-1a.png" alt="f(3;10,0.5) = (10 choose 3) 0.5^3 (1-0.5)^(10-3)" class="bgwhite" height="53" width="462"><br>
+<i>also:</i></p>
+            <p class="center"><img src="images/quincunx-example-1b.png" alt="(10 choose 3) = 10! / 3!(10-3)! = 120" class="bgwhite" height="53" width="285"><br>
+(This means there are 120 different paths that<br>
+can end       with the ball being 3 bins away from the right.)</p>
+            <p class="center"><i>So we get:</i><br>
+<img src="images/quincunx-example-1c.png" alt="f(3;10,0.5) = 120 times 0.5^3 (1-0.5)^(10-3) = 0.117" class="bgwhite" height="25" width="358"></p>
+            <p>In fact we can build a whole table for <b>rows=10</b> and <b>probability=0.5</b> like this:</p>
+            <div class="simple">
+
+	<table style="border: 0; margin:auto;">
+                  <tbody>
+<tr style="text-align:center;">
+                    <th>From Right:</th>
+                  <td>10</td>
+                  <td>9</td>
+                  <td>8</td>
+                  <td>7</td>
+                  <td>6</td>
+                  <td>5</td>
+                  <td>4</td>
+                  <td>3</td>
+                  <td>2</td>
+                  <td>1</td>
+                  <td>0</td>
+                </tr>
+              
+                  <tr style="text-align:center;">
+                    <th>Probability:</th>
+                  <td>0.001</td>
+                  <td>0.010</td>
+                  <td>0.044</td>
+                  <td>0.117</td>
+                  <td>0.205</td>
+                  <td>0.246</td>
+                  <td>0.205</td>
+                  <td>0.117</td>
+                  <td>0.044</td>
+                  <td>0.010</td>
+                  <td>0.001</td>
+                </tr>
+                  <tr style="text-align:center;">
+                      <th>Example: 100 balls</th>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>4</td>
+                  <td>12</td>
+                  <td>21</td>
+                  <td>24</td>
+                  <td>21</td>
+                  <td>12</td>
+                  <td>4</td>
+                  <td>1</td>
+                  <td>0</td>
+                </tr>
+                </tbody></table>
+            </div>
+            <p><br>
+Now, of course, this is a random thing so your results may vary from this ideal situation.</p>
+
+<h3>Another Example:</h3>
+            <p>When the <b>probability of bouncing left is 0.8</b> then the table looks like this:</p>
+            <div class="simple">
+
+	<table style="border: 0; margin:auto;">
+                  <tbody>
+<tr style="text-align:center;">
+                    <th>From Right</th>
+                  <td>10</td>
+                  <td>9</td>
+                  <td>8</td>
+                  <td>7</td>
+                  <td>6</td>
+                  <td>5</td>
+                  <td>4</td>
+                  <td>3</td>
+                  <td>2</td>
+                  <td>1</td>
+                  <td>0</td>
+                </tr>
+              
+                  <tr style="text-align:center;">
+                    <th>Probability</th>
+                  <td>0.107</td>
+                  <td>0.268</td>
+                  <td>0.302</td>
+                  <td>0.201</td>
+                  <td>0.088</td>
+                  <td>0.026</td>
+                  <td>0.006</td>
+                  <td>0.001</td>
+                  <td>0.000</td>
+                  <td>0.000</td>
+                  <td>0.000</td>
+                </tr>
+                  <tr style="text-align:center;">
+                    <th>Example: 100 balls</th>
+                  <td>11</td>
+                  <td>26</td>
+                  <td>30</td>
+                  <td>20</td>
+                  <td>9</td>
+                  <td>3</td>
+                  <td>1</td>
+                  <td>0</td>
+                  <td>0</td>
+                  <td>0</td>
+                  <td>0</td>
+                </tr>
+              </tbody></table></div>
+
+
+<h2>Try It Yourself</h2>
+
+<p>Run 100 (or more) balls through the Quincunx and see what results you get. I have done this many times myself while developing the software. I never got the perfect result, but always something surprisingly close. Good Luck!</p>
+<p>&nbsp;</p>
+
+<div class="related"> 
+  <a href="quincunx.html">Quincunx</a>            
+  <a href="standard-normal-distribution.html">Normal Distribution</a>             
+  <a href="index.html">Probability and Statistics Index</a>            
+</div>
+            <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2022 Rod Pierce</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/data/quincunx-explained.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:42:27 GMT -->
+</html>

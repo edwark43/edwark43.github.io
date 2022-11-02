@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+
+<svg
+   width="145.9"
+   height="147"
+   version="1.1"
+   style="font-size:7.6px;fill:#0084c8;stroke-width:1pt"
+   id="svg430"
+   sodipodi:docname="pascals-triangle-paths-1.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview432"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg430" />
+  <defs
+     id="defs354">
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker4">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;stroke:context-stroke"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker8">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker12">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path10" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker16">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path14" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker20">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path18" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker24">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path22" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker28">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker32">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path30" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker36">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path34" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker40">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path38" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker44">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path42" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker48">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path46" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker52">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path50" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker56">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path54" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker60">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path58" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker64">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path62" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker68">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path66" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker72">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path70" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker76">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path74" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker80">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path78" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker84">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path82" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker88">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;stroke:#009100"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path86" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker92">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path90" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker96">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path94" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker100">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path98" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker104">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path102" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker108">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path106" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker112">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path110" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker116">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path114" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker120">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path118" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker124">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path122" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker128">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path126" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker132">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path130" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker136">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path134" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker140">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path138" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker144">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path142" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker148">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path146" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker152">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path150" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker156">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path154" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker160">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path158" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker164">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path162" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker168">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path166" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker172">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path170" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker176">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path174" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker180">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path178" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker184">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path182" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker188">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path186" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker192">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path190" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker196">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path194" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker200">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path198" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker204">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path202" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker208">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path206" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker212">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path210" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker216">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path214" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker220">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path218" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker224">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path222" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker228">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path226" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker232">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path230" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker236">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path234" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker240">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path238" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker244">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path242" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker248">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path246" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker252">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path250" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker256">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path254" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker260">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path258" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker264">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path262" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker268">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path266" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker272">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path270" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker276">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path274" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker280">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path278" />
+    </marker>
+    <marker
+       id="id14"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path282" />
+    </marker>
+    <marker
+       id="id13"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path285" />
+    </marker>
+    <marker
+       id="id12"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path288" />
+    </marker>
+    <marker
+       id="id11"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path291" />
+    </marker>
+    <marker
+       id="id10"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path294" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker299">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path297" />
+    </marker>
+    <marker
+       id="id8"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path301" />
+    </marker>
+    <marker
+       id="id7"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path304" />
+    </marker>
+    <marker
+       id="id6"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path307" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker312">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path310" />
+    </marker>
+    <marker
+       id="id4"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path314" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker319">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#0084c8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path317" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker323">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#c4a000;stroke:#c4a000"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path321" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker327">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#c4a000;stroke:#c4a000"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path325" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker331">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#c4a000;stroke:#c4a000"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path329" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker335">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#fce94f;stroke:#fce94f"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path333" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker339">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#fce94f;stroke:#fce94f"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path337" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker343">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#fce94f;stroke:#fce94f"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path341" />
+    </marker>
+    <marker
+       id="id9"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#edd400;stroke:#edd400"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path345" />
+    </marker>
+    <marker
+       id="id5"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#edd400;stroke:#edd400"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path348" />
+    </marker>
+    <marker
+       id="id3"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#edd400;stroke:#edd400"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path351" />
+    </marker>
+  </defs>
+  <circle
+     cx="54.17"
+     cy="52.745"
+     r="15.1131"
+     style="fill:#fce94f;stroke-width:1.3;stop-color:#000000"
+     id="circle356" />
+  <circle
+     cx="35.27"
+     cy="91.945"
+     r="15.1131"
+     style="fill:#fce94f;stroke-width:1.3;stop-color:#000000"
+     id="circle358" />
+  <circle
+     cx="16.37"
+     cy="131.945"
+     r="15.1131"
+     style="fill:#fce94f;stroke-width:1.3;stop-color:#000000"
+     id="circle360" />
+  <g
+     style="fill:none;stroke:#00009e;stroke-width:3.33"
+     transform="matrix(0.268183,0,0,0.268135,529.87,227.479)"
+     id="g362" />
+  <g
+     style="fill:none;stroke:#00009e;stroke-width:3.33"
+     transform="matrix(0.268183,0,0,0.268135,546.86,230.618)"
+     id="g364" />
+  <g
+     style="fill:none;stroke:#00009e;stroke-width:3.33"
+     transform="matrix(0.268183,0,0,0.268135,569.09,232.186)"
+     id="g366" />
+  <g
+     style="fill:none;stroke:#00009e;stroke-width:3.33"
+     transform="matrix(0.268183,0,0,0.268135,571.45,244.217)"
+     id="g368" />
+  <g
+     style="fill:#f1caff;stroke-width:1.67"
+     transform="matrix(0.268183,0,0,0.186768,519.3,219.482)"
+     id="g370" />
+  <circle
+     cx="73.27"
+     cy="15.045"
+     r="15.0043"
+     style="fill:#7dd1ff;stroke-width:2.57;stop-color:#000000"
+     id="circle372" />
+  <circle
+     cx="92.47"
+     cy="53.345"
+     r="15.0043"
+     style="fill:#7dd1ff;stroke-width:2.57;stop-color:#000000"
+     id="circle374" />
+  <circle
+     id="id1"
+     cx="73.27"
+     cy="93.445"
+     r="15.0043"
+     style="fill:#7dd1ff;stroke-width:2.57;stop-color:#000000" />
+  <use
+     id="id2"
+     transform="translate(38.39)"
+     xlink:href="#id1"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     transform="translate(-19.19,38.384)"
+     xlink:href="#id1"
+     x="0"
+     y="0"
+     id="use378"
+     width="100%"
+     height="100%" />
+  <use
+     transform="translate(-19.19,38.384)"
+     xlink:href="#id2"
+     x="0"
+     y="0"
+     id="use380"
+     width="100%"
+     height="100%" />
+  <circle
+     cx="130.87"
+     cy="131.845"
+     r="15.0043"
+     style="fill:#7dd1ff;stroke-width:2.57;stop-color:#000000"
+     id="circle382" />
+  <text
+     x="66.4141"
+     y="22.4794"
+     transform="scale(1.00009,0.999911)"
+     style="font-family:Arial;fill:#000000;stroke-width:1.06px;font-size:17.999991px"
+     id="text384">1</text>
+  <text
+     x="47.2141"
+     y="60.8794"
+     transform="scale(1.00009,0.999911)"
+     style="font-family:Arial;fill:#000000;stroke-width:1.06px;font-size:17.999991px"
+     id="text386">1</text>
+  <text
+     x="29.2141"
+     y="100.479"
+     transform="scale(1.00009,0.999911)"
+     style="font-family:Arial;fill:#000000;stroke-width:1.06px;font-size:17.999991px"
+     id="text388">1</text>
+  <text
+     x="10.0142"
+     y="139.079"
+     transform="scale(1.00009,0.999911)"
+     style="font-family:Arial;fill:#000000;stroke-width:1.06px;font-size:17.999991px"
+     id="text390">1</text>
+  <text
+     x="86.8141"
+     y="60.8794"
+     transform="scale(1.00009,0.999911)"
+     style="font-family:Arial;fill:#000000;stroke-width:1.06px;font-size:17.999991px"
+     id="text392">1</text>
+  <text
+     x="106.614"
+     y="100.479"
+     transform="scale(1.00009,0.999911)"
+     style="font-family:Arial;fill:#000000;stroke-width:1.06px;font-size:17.999991px"
+     id="text394">1</text>
+  <text
+     x="123.814"
+     y="139.079"
+     transform="scale(1.00009,0.999911)"
+     style="font-family:Arial;fill:#000000;stroke-width:1.06px;font-size:17.999991px"
+     id="text396">1</text>
+  <text
+     x="66.9141"
+     y="100.479"
+     transform="scale(1.00009,0.999911)"
+     style="font-family:Arial;fill:#000000;stroke-width:1.06px;font-size:17.999991px"
+     id="text398">2</text>
+  <text
+     x="47.1141"
+     y="138.979"
+     transform="scale(1.00009,0.999911)"
+     style="font-family:Arial;fill:#000000;stroke-width:1.06px;font-size:17.999991px"
+     id="text400">3</text>
+  <text
+     x="86.9141"
+     y="138.979"
+     transform="scale(1.00009,0.999911)"
+     style="font-family:Arial;fill:#000000;stroke-width:1.06px;font-size:17.999991px"
+     id="text402">3</text>
+  <path
+     style="fill:none;stroke:#edd400;stroke-width:1.67;marker-end:url(#id3)"
+     d="m 68.87,23.345 -10.6,19.1"
+     id="path404" />
+  <path
+     style="fill:none;stroke:#0084c8;stroke-width:1.67;marker-end:url(#id4)"
+     d="m 78.17,22.945 10.6,19.1"
+     id="path406" />
+  <path
+     style="fill:none;stroke:#edd400;stroke-width:1.67;marker-end:url(#id5)"
+     d="m 48.77,61.845 -10.6,19.1"
+     id="path408" />
+  <path
+     style="fill:none;stroke:#0084c8;stroke-width:1.67;marker-end:url(#id6)"
+     d="m 58.07,61.545 10.6,19.1"
+     id="path410" />
+  <path
+     style="fill:none;stroke:#0084c8;stroke-width:1.67;marker-end:url(#id7)"
+     d="m 89.27,60.545 -10.6,19.1"
+     id="path412" />
+  <path
+     style="fill:none;stroke:#0084c8;stroke-width:1.67;marker-end:url(#id8)"
+     d="m 98.67,60.245 10.6,19.1"
+     id="path414" />
+  <path
+     style="fill:none;stroke:#edd400;stroke-width:1.67;marker-end:url(#id9)"
+     d="m 30.57,100.445 -10.6,19.1"
+     id="path416" />
+  <path
+     style="fill:none;stroke:#0084c8;stroke-width:1.67;marker-end:url(#id10)"
+     d="m 39.97,100.145 10.6,19.1"
+     id="path418" />
+  <path
+     style="fill:none;stroke:#0084c8;stroke-width:1.67;marker-end:url(#id11)"
+     d="m 68.47,100.745 -10.6,19.1"
+     id="path420" />
+  <path
+     style="fill:none;stroke:#0084c8;stroke-width:1.67;marker-end:url(#id12)"
+     d="m 77.87,100.445 10.6,19.1"
+     id="path422" />
+  <path
+     style="fill:none;stroke:#0084c8;stroke-width:1.67;marker-end:url(#id13)"
+     d="m 109.07,99.145 -10.6,19.1"
+     id="path424" />
+  <path
+     style="fill:none;stroke:#0084c8;stroke-width:1.67;marker-end:url(#id14)"
+     d="m 118.47,98.845 10.6,19.1"
+     id="path426" />
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="145.7" height="125.8" version="1.1" style="font-family:'Trebuchet MS'; font-size:29.9px; stroke-width:1pt;">
+<defs>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#73d216; stroke:#73d216;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#73d216; stroke:#73d216;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g style="display:none;" transform="translate(1041.9,-159.767)">
+	<image x="-1413.5" y="148.4" width="1305" height="787.4" xlink:href="../../Images/SVG/inkscape_pasted_image_20101001_094421.html"/>
+</g>
+<g transform="translate(1041.9,-159.767)">
+	<path style="fill:#7a65ff; fill-opacity:0.1; stroke:black; stroke-width:0.2; stroke-dasharray:0.4, 0.4;" d="m -968.9,285.1 -72.8,-82.1 72,-42.6 73,42.6 z"/>
+	<text x="-936.6" y="177" transform="scale(0.999519,1.00048)" style="fill:#3465a4; stroke-width:0.6;">a</text>
+	<text x="-930.8" y="269.7" transform="scale(0.999519,1.00048)" style="fill:#8f5902; stroke-width:0.6;">b</text>
+	<path style="fill:#19aeff; stroke-width:3.78;" d="m -923.4,232.4 a 39.6,39.7 0 0 1 -7.9,-48.9 l 34.5,19.5 z" sodipodi:type="arc" sodipodi:cx="-896.781" sodipodi:cy="202.97" sodipodi:rx="39.5953" sodipodi:ry="39.6795" sodipodi:start="2.30711" sodipodi:end="3.65647" sodipodi:arc-type="slice"/>
+	<text x="-960" y="218.6" transform="scale(0.999519,1.00048)" style="fill:#19aeff; stroke-width:0.6;">C</text>
+	<path style="fill:none; stroke:#3465a4; stroke-width:1.5;" d="m -896.8,203 -73,-42.6"/>
+	<path style="fill:none; stroke:#8f5902; stroke-width:1.5;" d="m -896.8,203 -72.1,82.1"/>
+</g>
+</svg>

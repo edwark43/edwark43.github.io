@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="244"
+   height="89.4"
+   version="1.1"
+   style="font-family:'Comic Sans MS';font-size:28px;stroke-width:1pt"
+   id="svg24"
+   sodipodi:docname="vector-add.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg24" />
+  <defs
+     id="defs8">
+    <marker
+       id="aa1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:black"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       id="aa2"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ff9900;stroke:#ff9900"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="aa18062"
+       inkscape:stockid="aa18062">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#005c94;stroke-opacity:1;fill-opacity:1;fill:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2004" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="aa13588"
+       inkscape:stockid="aa13588">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#005c94;stroke-opacity:1;fill-opacity:1;fill:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2007" />
+    </marker>
+  </defs>
+  <path
+     style="fill:none;stroke:#005c94;stroke-width:3.01;marker-end:url(#aa18062)"
+     d="m 0.65,82.55 141.6,-68.1"
+     id="path10" />
+  <path
+     style="fill:none;stroke:#005c94;stroke-width:3.01;marker-end:url(#aa13588)"
+     d="m 145.95,12.45 92,31.9"
+     id="path12" />
+  <path
+     style="fill:#ff9900;stroke:#ff9900;stroke-width:3;marker-end:url(#aa2)"
+     d="m 0.75,83.15 237.5,-35.4"
+     id="path14" />
+  <text
+     x="60.55"
+     y="40.05"
+     style="color:#000000;font-weight:bold;overflow:visible;fill:#005c94;stroke-width:1px;-inkscape-font-specification:'Trebuchet MS Bold';font-family:'Trebuchet MS';font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text16">a</text>
+  <text
+     x="187.15"
+     y="21.55"
+     style="color:#000000;font-weight:bold;overflow:visible;fill:#005c94;stroke-width:1px;-inkscape-font-specification:'Trebuchet MS Bold';font-family:'Trebuchet MS';font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text18">b</text>
+  <text
+     x="130.15"
+     y="88.55"
+     style="color:#000000;font-weight:bold;overflow:visible;fill:#ff9900;stroke-width:1px;-inkscape-font-specification:'Trebuchet MS Bold';font-family:'Trebuchet MS';font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text20">a+b</text>
+</svg>

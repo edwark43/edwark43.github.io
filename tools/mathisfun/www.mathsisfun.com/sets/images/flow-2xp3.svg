@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450.2" height="49.4" version="1.1">
+<defs>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<pattern height="478" width="227.1" patternUnits="userSpaceOnUse" patternTransform="matrix(0.82659,-0.5628046,0.5628046,0.82659,1365.417,4872.8044)">
+<image x="-227.1" y="0" width="227.1" height="478" transform="scale(-1,1)" xlink:href="../../../file/C_/Images/SVG/Banana.jpg"/>
+</pattern>
+</defs>
+<g transform="translate(-1375.15,-3001.19)">
+<rect x="1629.4" y="3016.3" width="120.6" height="33.4" style="overflow:visible; fill:#b3defd; fill-opacity:0.21; stroke:#0169c9; stroke-width:1.79;"/>
+<rect x="1436.6" y="3016.3" width="120.6" height="33.4" style="overflow:visible; fill:#b3defd; fill-opacity:0.21; stroke:#0169c9; stroke-width:1.79;"/>
+<text x="1435.5" y="3054" transform="scale(1.00487,0.995153)" style="font-family:'Comic Sans MS'; font-size:17.3px; font-style:italic; overflow:visible; fill:#013397; stroke-width:1.79;">Multiply by 2</text>
+<text x="1656.5" y="3054" transform="scale(1.00487,0.995153)" style="font-family:'Comic Sans MS'; font-size:17.3px; font-style:italic; overflow:visible; fill:#013397; stroke-width:1.79;">Add 3</text>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:1.49;" d="m 1375.2,3033 h 58.7"/>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:1.49;" d="m 1557.4,3033 h 70"/>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:1.49;" d="m 1750.8,3033 h 71.6"/>
+<text x="1386" y="3031.7" transform="scale(1.00487,0.995153)" style="font-family:'Comic Sans MS'; font-size:23.2px; overflow:visible; fill:#fdca01; stroke-width:1.79;">x</text>
+<text x="1569.3" y="3033.5" transform="scale(1.00487,0.995153)" style="font-family:'Comic Sans MS'; font-size:23.2px; overflow:visible; fill:#fdca01; stroke-width:1.79;">2x</text>
+<text x="1753.7" y="3033.2" transform="scale(1.00487,0.995153)" style="font-family:'Comic Sans MS'; font-size:23.2px; overflow:visible; fill:#fdca01; stroke-width:1.79;">2x+3</text>
+</g>
+</svg>

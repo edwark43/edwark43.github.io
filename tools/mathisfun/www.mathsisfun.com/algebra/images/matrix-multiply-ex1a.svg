@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="265.7" height="130.4" version="1.1" style="font-family:'Times New Roman'; font-size:18.8px; fill:#121513; stroke-width:1.1;">
+<defs/>
+<g transform="translate(1454.6252,-2690.7285)">
+	<rect x="-1454.6" y="2690.7" width="265.7" height="130.4" style="fill:white; stroke-width:1px;"/>
+	<text x="-1304" y="2744.2" style="font-weight:bold;">9</text>
+	<text x="-1350.9" y="2744.2" style="font-weight:bold;">13</text>
+	<text x="-1341.9" y="2775.6" style="font-weight:bold;">8</text>
+	<text x="-1303.9" y="2806.8" style="font-weight:bold;">4</text>
+	<text x="-1342" y="2806.8" style="font-weight:bold;">6</text>
+	<text x="-1304.2" y="2775.6" style="font-weight:bold;">7</text>
+	<text x="-1263.1" y="2744.2" style="font-weight:bold;">7</text>
+	<text x="-1262.8" y="2806.8" style="font-weight:bold;">0</text>
+	<text x="-1262.8" y="2775.6" style="font-weight:bold;">4</text>
+	<text x="-1227.4" y="2744.2" style="font-weight:bold;">15</text>
+	<text x="-1217.6" y="2806.8" style="font-weight:bold;">3</text>
+	<text x="-1218.1" y="2775.6" style="font-weight:bold;">6</text>
+	<path style="fill:none; stroke:#121513; stroke-width:1.47;" d="m -1357.8,2697 0,119.4"/>
+	<path style="fill:none; stroke:#121513; stroke-width:1.47;" d="m -1317,2697 0,119.4"/>
+	<path style="fill:none; stroke:#121513; stroke-width:1.47;" d="m -1276.2,2697 0,119.4"/>
+	<path style="fill:none; stroke:#121513; stroke-width:1.47;" d="m -1235.4,2697 0,119.4"/>
+	<path style="fill:none; stroke:#121513; stroke-width:1.47;" d="m -1194.6,2697 0,119.4"/>
+	<path style="fill:none; stroke:#121513; stroke-width:1.47;" d="m -1448.5,2697 0,119.4"/>
+	<text x="-1415.2" y="2742.8" style="font-family:'Times New Roman'; font-weight:bold; font-size:18.8px; font-style:italic;">Apple</text>
+	<text x="-1421.9" y="2774.2" style="font-family:'Times New Roman'; font-weight:bold; font-size:18.8px; font-style:italic;">Cherry</text>
+	<text x="-1444.8" y="2805.9" style="font-family:'Times New Roman'; font-weight:bold; font-size:18.8px; font-style:italic;">Blueberry</text>
+	<text x="-1354.9" y="2716.3">Mon</text>
+	<text x="-1310.7" y="2716.3">Tue</text>
+	<text x="-1274.8" y="2716.3">Wed</text>
+	<text x="-1230.4" y="2716.3">Thu</text>
+	<path style="fill:none; stroke:#121513; stroke-width:1.47;" d="m -1449.1,2696.3 254.5,0"/>
+	<path style="fill:none; stroke:#121513; stroke-width:1.47;" d="m -1449.1,2722.7 254.5,0"/>
+	<path style="fill:none; stroke:#121513; stroke-width:1.47;" d="m -1449.1,2815.8 254.5,0"/>
+</g>
+</svg>

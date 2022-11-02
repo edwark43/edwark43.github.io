@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="400.1" height="114.6" version="1.1">
+<defs>
+<marker style="overflow:visible;" orient="auto" id="id01">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#b88100; stroke:#b88100; stroke-width:1pt;" />
+</marker>
+<marker style="overflow:visible;" orient="auto" id="id02">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#b88100; stroke:#b88100; stroke-width:1pt;" />
+</marker>
+</defs>
+<path d="M 66.6,50.3 H 308.5" style="fill:#009100; stroke:#0e232e; stroke-width:1.54;" />
+<rect x="184.8" y="32" width="83.5" height="35.3" style="color:#000000; overflow:visible; fill:#ffffff; stroke:#0e232e; stroke-width:1.54;" />
+<rect x="146.8" y="31.9" width="41.5" height="35.5" style="color:#000000; overflow:visible; fill:#ffffff; stroke:#0e232e; stroke-width:1.54;" />
+<text x="138" y="24.4" style="font-family:Verdana; font-size:14.4px; color:#000000; overflow:visible; fill:#b88100; stroke-width:0.52;">Q1</text>
+<text x="178.6" y="24.4" style="font-family:Verdana; font-size:14.4px; color:#000000; overflow:visible; fill:#b88100; stroke-width:0.52;">Q2</text>
+<text x="258.5" y="24.4" style="font-family:Verdana; font-size:14.4px; color:#000000; overflow:visible; fill:#b88100; stroke-width:0.52;">Q3</text>
+<path d="m 26,76.6 v 19.6" style="fill:none; stroke:#0000ff; stroke-width:0.38px;" />
+<path d="m 66.3,76.6 v 19.6" style="fill:none; stroke:#0000ff; stroke-width:0.38px;" />
+<path d="m 106.5,76.6 v 19.6" style="fill:none; stroke:#0000ff; stroke-width:0.38px;" />
+<path d="m 146.6,76.6 v 19.6" style="fill:none; stroke:#0000ff; stroke-width:0.38px;" />
+<path d="m 186.9,76.6 v 19.6" style="fill:none; stroke:#0000ff; stroke-width:0.38px;" />
+<path d="m 227.1,76.6 v 19.6" style="fill:none; stroke:#0000ff; stroke-width:0.38px;" />
+<path d="m 267.3,76.6 v 19.6" style="fill:none; stroke:#0000ff; stroke-width:0.38px;" />
+<path d="m 307.5,76.6 v 19.6" style="fill:none; stroke:#0000ff; stroke-width:0.38px;" />
+<path d="m 347.7,76.6 v 19.6" style="fill:none; stroke:#0000ff; stroke-width:0.38px;" />
+<text x="20.8" y="114.4" style="font-family:Verdana; font-size:14.4px; color:#000000; overflow:visible; fill:#0000ff; stroke-width:0.52px;">1</text>
+<text x="61.2" y="114.4" style="font-family:Verdana; font-size:14.4px; color:#000000; overflow:visible; fill:#0000ff; stroke-width:0.52px;">2</text>
+<text x="101.5" y="114.3" style="font-family:Verdana; font-size:14.4px; color:#000000; overflow:visible; fill:#0000ff; stroke-width:0.52px;">3</text>
+<text x="141.8" y="114.4" style="font-family:Verdana; font-size:14.4px; color:#000000; overflow:visible; fill:#0000ff; stroke-width:0.52px;">4</text>
+<text x="181.9" y="114.2" style="font-family:Verdana; font-size:14.4px; color:#000000; overflow:visible; fill:#0000ff; stroke-width:0.52px;">5</text>
+<text x="222.2" y="114.3" style="font-family:Verdana; font-size:14.4px; color:#000000; overflow:visible; fill:#0000ff; stroke-width:0.52px;">6</text>
+<text x="262.4" y="114.3" style="font-family:Verdana; font-size:14.4px; color:#000000; overflow:visible; fill:#0000ff; stroke-width:0.52px;">7</text>
+<text x="302.8" y="114.3" style="font-family:Verdana; font-size:14.4px; color:#000000; overflow:visible; fill:#0000ff; stroke-width:0.52px;">8</text>
+<text x="343.1" y="114.3" style="font-family:Verdana; font-size:14.4px; color:#000000; overflow:visible; fill:#0000ff; stroke-width:0.52px;">9</text>
+<path d="m 387.9,76.6 v 19.6" style="fill:none; stroke:#0000ff; stroke-width:0.38px;" />
+<text x="378.2" y="114.3" style="font-family:Verdana; font-size:14.4px; color:#000000; overflow:visible; fill:#0000ff; stroke-width:0.52px;">10</text>
+<path d="M 0,87 H 400.1" style="fill:#0000ff; fill-opacity:0.75; stroke:#0000ff; stroke-width:2.02;" />
+<path d="m 331.4,17.6 -20.4,24.1" style="marker-end:url(#id01); fill:#b88100; stroke:#b88100; stroke-width:2.01;" />
+<path d="m 41.1,17.6 20.4,24.1" style="marker-end:url(#id02); fill:#b88100; stroke:#b88100; stroke-width:2.01;" />
+<text x="-1.3" y="10.9" style="font-family:Verdana; font-size:14.4px; fill:#b88100; stroke-width:0.52;">Lowest Value</text>
+<text x="299.9" y="10.9" style="font-family:Verdana; font-size:14.4px; fill:#b88100; stroke-width:0.52;">Highest Value</text>
+</svg>

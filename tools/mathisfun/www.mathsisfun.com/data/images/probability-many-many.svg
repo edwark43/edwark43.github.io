@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="123.9" height="120.4" version="1.0">
+<defs/>
+<g transform="translate(4136.2,-634.902)">
+<g transform="matrix(0.277896,0,0,0.277896,-3724.47,714.106)" id="id01">
+<path d="m -1441.8,-135.4 -11.7,40.3" style="fill:none; stroke:black; stroke-width:10.9; stroke-linecap:round;"/>
+<path d="m -1446,-181.7 -30.1,7.5" style="fill:none; stroke:black; stroke-width:10.9; stroke-linecap:round;"/>
+<path d="m -1431.4,-134.7 11.7,40.3" style="fill:none; stroke:black; stroke-width:10.9; stroke-linecap:round;"/>
+<path d="m -1426.8,-181.3 30.2,7.5" style="fill:none; stroke:black; stroke-width:10.9; stroke-linecap:round;"/>
+<ellipse cx="-1378" cy="-282.8" rx="10.9" ry="22.6" transform="matrix(1.40315,0,0,1.40315,497.09,230.88)" style="color:black; overflow:visible; fill:#0957c0; stroke:#060507; stroke-width:2.08; stroke-linecap:round; stroke-linejoin:round;"/>
+<circle cx="-1365.4" cy="-357.4" r="10.0645" transform="matrix(1.47731,0,0,1.47731,579.85,318.019)" style="color:black; overflow:visible; fill:#0957c0; stroke:#060507; stroke-width:1.98; stroke-linecap:round; stroke-linejoin:round;"/>
+</g>
+<path d="m -4083.9,663.3 -29.2,7.1" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4083.6,674.1 -27.8,21.8" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4078,675.6 -6.8,38" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4068.9,677.3 13.8,33.7" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4066.3,669 31.5,29.4" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4066,662.2 23.8,6" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4041.4,671.8 -74.1,4.5" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4036.7,699.8 -78.3,-21.9" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4057.3,716.6 -58.3,-33.7" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4091.8,714.5 -22.6,-24.3" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4129.2,679.8 1.2,17.3" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4041.8,673.2 -72.7,25.5" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4039.8,702 -71.7,-1.3" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4058.4,717.5 -45.9,-10.5" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4095.2,722.8 -15.2,-9.9" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4043.1,679 -38.6,46.1" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4040.6,705.2 -39.3,19.2" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4058,724.9 -20.9,1.7" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4039.2,687 -5.2,34.7" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4031,713.2 -12.7,10.4" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<path d="m -4029,672.1 6.3,17.9" style="fill:#ff4141; stroke:#ff4141; stroke-width:0.5px;"/>
+<use transform="translate(48.8138,-13.1952)" xlink:href="#id01"/>
+<use transform="translate(87.9784,-2.28092)" xlink:href="#id01"/>
+<use transform="translate(97.428,38.4498)" xlink:href="#id01"/>
+<use transform="translate(72.6637,63.0513)" xlink:href="#id01"/>
+<use transform="translate(35.8431,64.1917)" xlink:href="#id01"/>
+<use transform="translate(3.09554,42.6858)" xlink:href="#id01"/>
+</g>
+</svg>

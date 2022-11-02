@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="309.909"
+   height="181.585"
+   version="1.1"
+   id="svg50"
+   sodipodi:docname="interior-exterior-angles2.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata54">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview52"
+     showgrid="false"
+     inkscape:current-layer="svg50"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs20">
+    <marker
+       id="id5"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#ff4141;stroke:#ff4141;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       id="id6"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ff4141;stroke:#ff4141;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5" />
+    </marker>
+    <marker
+       id="id2"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8" />
+    </marker>
+    <marker
+       id="id1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path11" />
+    </marker>
+    <marker
+       id="id3"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#4e9a06;stroke:#4e9a06;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path14" />
+    </marker>
+    <marker
+       id="id4"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#4e9a06;stroke:#4e9a06;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path17" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id16700"
+       inkscape:stockid="id16700">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="stroke:#204a87;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#204a87"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path942" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id27518"
+       inkscape:stockid="id27518">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#204a87;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#204a87"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path945" />
+    </marker>
+  </defs>
+  <path
+     style="overflow:visible;fill:none;stroke:#204a87;stroke-width:1.62;marker-start:url(#id16700);marker-end:url(#id27518)"
+     d="M 152.306,69.8228 A 78.9,81 59.5996 0 1 218.42,40.4249 78.9,81 59.5996 0 1 280.755,74.3444"
+     id="path22" />
+  <text
+     x="3655.34"
+     y="2510.43"
+     style="font-size:18.6px;font-family:'Comic Sans MS';text-align:center;text-anchor:middle;overflow:visible;fill:#000000;stroke-width:3.94"
+     id="text24" />
+  <path
+     style="overflow:visible;fill:none;stroke:#0169c9;stroke-width:1.87"
+     d="m 219.036,113.026 -114.8,67.5 -103.300013,-49.7 0.100003,-59.5998 98.30001,-36.2 119.7,77.9998"
+     id="path26"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     style="overflow:visible;fill:none;stroke:#ff9900;stroke-width:1.62;marker-start:url(#id3);marker-end:url(#id4)"
+     d="m 176.025,136.137 a 37.9,37.9 0 0 1 14.817,-50.4311 37.9,37.9 0 0 1 50.966,12.7639"
+     id="path28" />
+  <path
+     style="overflow:visible;fill:none;stroke:#ff4141;stroke-width:1.62;marker-start:url(#id5);marker-end:url(#id6)"
+     d="M 141.656,156.998 A 78.9,81 59.5996 0 1 152.098,70.0609"
+     id="path30" />
+  <text
+     x="219.373"
+     y="33.5781"
+     style="font-size:16.7px;font-family:'Comic Sans MS';text-align:center;text-anchor:middle;overflow:visible;fill:#204a87;stroke-width:3.94"
+     id="text34">115°</text>
+  <text
+     x="112.413"
+     y="115.519"
+     style="font-size:16.7px;font-family:'Comic Sans MS';text-align:center;text-anchor:middle;overflow:visible;fill:#ff4141;stroke-width:3.94"
+     id="text38">65°</text>
+  <text
+     x="209.029"
+     y="76.3781"
+     style="font-size:16.7px;font-family:'Comic Sans MS';text-align:center;text-anchor:middle;overflow:visible;fill:#ff9900;stroke-width:3.94"
+     id="text42">180°</text>
+  <text
+     x="213.546"
+     y="12.5781"
+     style="font-style:italic;font-size:16px;font-family:'Comic Sans MS';text-align:center;text-anchor:middle;overflow:visible;fill:#204a87;stroke-width:10.06"
+     id="text44">Exterior Angle</text>
+  <text
+     x="73.3575"
+     y="90.6497"
+     style="font-style:italic;font-size:16px;font-family:'Comic Sans MS';text-align:center;text-anchor:middle;overflow:visible;fill:#ff4141;stroke-width:10.06"
+     id="text46">Interior Angle</text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#19aeff;stroke-width:1.82934;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.31737, 7.31737;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 219.036,113.026 90.4,-52.8998"
+     id="path955"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+</svg>

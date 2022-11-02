@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="178.304"
+   height="44.0155"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="polynomial-example1.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview28"
+     showgrid="false"
+     inkscape:current-layer="svg26"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs2" />
+  <rect
+     id="rect4"
+     style="color:#000000;overflow:visible;opacity:1;fill:#f9f9e5;fill-opacity:1;stroke-width:2.50001"
+     height="44.0155"
+     width="178.304"
+     ry="10.4591"
+     rx="8.23222"
+     y="0"
+     x="0" />
+  <text
+     id="text6"
+     style="color:#000000;font-size:24px;font-family:'Comic Sans MS';overflow:visible;fill:#5c3566;stroke-width:1px"
+     y="29.4578"
+     x="12.6557">4xy   + 3x - 8</text>
+  <text
+     id="text8"
+     style="color:#000000;font-size:16.8px;font-family:'Comic Sans MS';overflow:visible;fill:#5c3566;stroke-width:1px"
+     y="19.8578"
+     x="55.0557">2</text>
+</svg>

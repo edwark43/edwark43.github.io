@@ -1,0 +1,111 @@
+thk 3
+clr 0x000000
+alp 100
+char 18 44 a
+char 48 43 (
+char 66 46 b
+char 94 42 +
+char 122 43 c
+char 146 43 )
+char 183 43 =
+start
+
+clr 0x0000F0
+dotClr 0x0000F0
+dot 27 60
+dot 29 65
+dot 31 69
+dot 36 72
+dot 39 74
+dot 43 75
+dot 48 74
+dot 53 71
+dot 57 70
+dot 60 67
+dot 64 65
+dot 65 62
+dot 68 60
+dot 54 73
+dot 58 76
+dot 61 77
+dot 65 79
+dot 69 80
+dot 74 82
+dot 82 83
+dot 90 84
+dot 99 86
+dot 109 87
+dot 118 87
+dot 128 87
+dot 139 87
+dot 149 87
+dot 158 86
+dot 168 85
+dot 179 83
+dot 190 81
+dot 200 77
+dot 210 74
+dot 218 71
+dot 224 67
+dot 228 64
+dot 230 60
+char 221 45 a
+char 246 46 b
+clr 0x000000
+char 274 43 +
+clr 0xF00000
+dotClr 0xF00000
+dot 26 59
+dot 27 63
+dot 28 69
+dot 29 72
+dot 31 77
+dot 33 81
+dot 38 84
+dot 45 85
+dot 50 87
+dot 54 88
+dot 60 88
+dot 66 88
+dot 71 88
+dot 74 87
+dot 78 86
+dot 82 85
+dot 86 83
+dot 89 82
+dot 95 79
+dot 99 77
+dot 103 73
+dot 107 70
+dot 111 65
+dot 114 62
+dot 117 60
+dot 120 55
+dot 122 52
+dot 106 71
+dot 111 69
+dot 114 71
+dot 118 73
+dot 124 77
+dot 132 79
+dot 140 82
+dot 151 85
+dot 165 86
+dot 179 86
+dot 191 86
+dot 203 85
+dot 214 83
+dot 224 82
+dot 233 81
+dot 241 79
+dot 250 77
+dot 259 75
+dot 270 72
+dot 281 68
+dot 292 65
+dot 303 61
+dot 313 58
+
+
+char 307 45 a
+char 332 44 c

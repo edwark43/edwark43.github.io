@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="213.1" height="167.8" version="1.1">
+<defs>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<rect x="0" y="0" width="213.1" height="167.8" style="color:black; overflow:visible; fill:white; stroke-width:2.06; stroke-linecap:round;"/>
+<g transform="matrix(0.5,0,0,0.49998,-65.4185,-2.028)">
+<polyline points="62.500 400.00, 62.500 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="140.63 400.00, 140.63 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="218.75 400.00, 218.75 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="296.88 400.00, 296.88 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="375.00 400.00, 375.00 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="453.13 400.00, 453.13 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="531.25 400.00, 531.25 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="23.438 400.00, 23.438 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="62.500 400.00, 62.500 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="101.56 400.00, 101.56 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="140.63 400.00, 140.63 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="179.69 400.00, 179.69 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="218.75 400.00, 218.75 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="257.81 400.00, 257.81 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="296.88 400.00, 296.88 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="335.94 400.00, 335.94 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="375.00 400.00, 375.00 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="414.06 400.00, 414.06 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="453.13 400.00, 453.13 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="492.19 400.00, 492.19 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="531.25 400.00, 531.25 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="570.31 400.00, 570.31 0.00000, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="296.88 0.00000, 296.88 400.00, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 356.25, 600.00 356.25, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 278.13, 600.00 278.13, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 200.00, 600.00 200.00, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 121.88, 600.00 121.88, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 43.750, 600.00 43.750, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 395.31, 600.00 395.31, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 356.25, 600.00 356.25, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 317.19, 600.00 317.19, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 278.13, 600.00 278.13, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 239.06, 600.00 239.06, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 200.00, 600.00 200.00, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 160.94, 600.00 160.94, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 121.88, 600.00 121.88, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 82.813, 600.00 82.813, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 43.750, 600.00 43.750, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 4.6875, 600.00 4.6875, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+<polyline points="0.00000 200.00, 600.00 200.00, " style="fill:none; stroke:#cccccc; stroke-width:2;"/>
+</g>
+<g transform="matrix(0.5,0,0,0.49998,7.92099,-315.643)"/>
+<g transform="matrix(0.5,0,0,0.49998,8.25199,-315.83)"/>
+<path style="color:black; overflow:visible; fill:none; stroke:#0000ff; stroke-width:2;" d="m -65.4,100.5 c 33.4,0.9 66.9,0.7 100,5.3 13.2,2 28.4,6.3 34.5,19.5 8,17.9 7.9,38 9.4,57.2 0.3,6.8 0.6,13.6 1.1,20.4 h 0.5"/>
+<path style="color:black; overflow:visible; fill:none; stroke:#0000ff; stroke-width:2;" d="m 86.6,-7 c 1.5,24.1 1,48.7 8,72 3.3,11.6 13.5,19.9 25,22.6 24,5.9 48.9,5.8 73.5,7 13.8,0.4 27.7,0.7 41.5,1"/>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:2.48;" d="M -109.7,97.6 H 210"/>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:2.48;" d="M 83.3,216.1 V 11.7"/>
+<text x="126.5" y="70.3" transform="scale(1.00002,0.99998)" style="font-family:'Comic Sans MS'; font-size:33.1px; color:black; overflow:visible; fill:#0000ff; stroke-width:1px;">x</text>
+<text x="132" y="44.9" transform="scale(0.998553,1.00145)" style="font-family:'Comic Sans MS'; font-size:24px; color:black; overflow:visible; fill:#0000ff; stroke-width:1px;">1</text>
+<path style="fill:none; stroke:#0000ff; stroke-width:2.66; stroke-linecap:round;" d="m 127.4,48.4 19.2,-0.2"/>
+</svg>

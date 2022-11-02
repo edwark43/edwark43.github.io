@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="300px" height="200px" xmlns="http://www.w3.org/2000/svg" style="stroke-width:2px;">
+<desc>SVG Output</desc>
+<g transform="translate(-50,-100)">
+<circle cx="200" cy="200" r="100" stroke-width='2' stroke='#aacccc' fill='none' fill-opacity='0.5'  />
+<polyline points='132.00 126.00, 332.00 226.00, ' stroke-width='2' stroke='#aacccc' fill='none' fill-opacity='0.5'  />
+<polyline points='132.00 126.00, 32.000 326.00, ' stroke-width='2' stroke='#aacccc' fill='none' fill-opacity='0.5'  />
+<polyline points='142.00 156.00, 122.00 146.00, ' stroke-width='2' stroke='#aacccc' fill='none' fill-opacity='0.5'  />
+<circle cx="100" cy="190" r="3" stroke-width='2' stroke='#aacccc' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="299" cy="210" r="3" stroke-width='2' stroke='#aacccc' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="200" cy="200" r="100" stroke-width='2' stroke='#aacccc' fill='none' fill-opacity='0.5'  />
+<circle cx="100" cy="190" r="3" stroke-width='2' stroke='#aacccc' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="299" cy="210" r="3" stroke-width='2' stroke='#aacccc' fill='#8888ff' fill-opacity='0.5'  />
+<polyline points='142.00 156.00, 152.00 136.00, ' stroke-width='2' stroke='#aacccc' fill='none' fill-opacity='0.5'  />
+<polyline points='254.00 283.00, 234.00 83.000, ' stroke-width='2' stroke='#aacccc' fill='#8888ff' fill-opacity='0.5'  />
+<polyline points='254.00 283.00, 54.000 303.00, ' stroke-width='2' stroke='#aacccc' fill='#8888ff' fill-opacity='0.5'  />
+<polyline points='231.00 264.00, 251.00 262.00, ' stroke-width='2' stroke='#aacccc' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="163" cy="292" r="3" stroke-width='2' stroke='#aacccc' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="236" cy="107" r="3" stroke-width='2' stroke='#aacccc' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="100" cy="190" r="3" stroke-width='2' stroke='#aacccc' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="299" cy="210" r="3" stroke-width='2' stroke='#aacccc' fill='#8888ff' fill-opacity='0.5'  />
+<polyline points='231.00 264.00, 233.00 284.00, ' stroke-width='2' stroke='#aacccc' fill='#8888ff' fill-opacity='0.5'  />
+<polyline points='100.00 190.00, 299.00 210.00, ' stroke-width='2' stroke='#8888ff' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="200" cy="200" r="3" stroke-width='2' stroke='#8888ff' fill='#8888ff' fill-opacity='0.5'  />
+<polyline points='163.00 292.00, 236.00 107.00, ' stroke-width='2' stroke='#8888ff' fill='#8888ff' fill-opacity='0.5'  />
+</g>
+</svg>

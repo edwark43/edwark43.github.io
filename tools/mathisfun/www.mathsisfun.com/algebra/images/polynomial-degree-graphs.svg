@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="255.9" height="254.5" version="1.1" style="fill:#ededee; stroke-width:6;">
+<defs>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt; fill:none;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g transform="translate(945.062,-1558.87)">
+	<g transform="matrix(0.584884,0,0,0.584884,-400.853,761.264)">
+		<rect x="-930.5" y="1701.5" width="96.8" height="96.8" style="fill-opacity:0.55; stroke-linejoin:round;"/>
+		<rect x="-763.7" y="1363.7" width="96.8" height="96.8" style="fill-opacity:0.55; stroke-linejoin:round;"/>
+		<rect x="-819.5" y="1476.3" width="96.8" height="96.8" style="fill-opacity:0.55; stroke-linejoin:round;"/>
+		<rect x="-819.5" y="1588.9" width="96.8" height="96.8" style="fill-opacity:0.55; stroke-linejoin:round;"/>
+		<rect x="-816.4" y="1701.5" width="96.8" height="96.8" style="fill-opacity:0.55; stroke-linejoin:round;"/>
+		<rect x="-705.5" y="1476.3" width="96.8" height="96.8" style="fill-opacity:0.55; stroke-linejoin:round;"/>
+		<rect x="-705.5" y="1588.9" width="96.8" height="96.8" style="fill-opacity:0.55; stroke-linejoin:round;"/>
+		<rect x="-703.8" y="1701.5" width="96.8" height="96.8" style="fill-opacity:0.55; stroke-linejoin:round;"/>
+		<rect x="-589.8" y="1701.5" width="96.8" height="96.8" style="fill-opacity:0.55; stroke-linejoin:round;"/>
+	</g>
+	<path style="fill:#b3defd; stroke:#013397; stroke-width:2.39; stroke-linejoin:round;" d="m -845.8,1586.3 h 52.5"/>
+	<path style="fill:#f0a513; stroke:#f0a513; stroke-width:2.39; stroke-linejoin:round;" d="m -879.2,1669.6 54.8,-32.6"/>
+	<path style="fill:none; fill-opacity:0.84; stroke:#0197fd; stroke-width:2.39; stroke-linecap:round;" d="m -830.7,1692.4 c 0,0 -8.9,41 -20.5,41 -11.7,0 -19.9,-41.1 -19.9,-41.1"/>
+	<path style="fill:none; fill-opacity:0.84; stroke:#0197fd; stroke-width:2.39; stroke-linecap:round;" d="m -776.8,1745 c 0,0 -6.2,-45.2 -14.4,-45.2 -8.2,0 -14,45.4 -14,45.4"/>
+	<path style="fill:none; stroke:#f44800; stroke-width:2.39; stroke-linejoin:round;" d="m -939.4,1813.2 c -0.5,-3.5 -0.4,-28.3 21.6,-28.3 20.9,0 19.6,-28.1 19.6,-28.1"/>
+	<path style="fill:none; stroke:#f44800; stroke-width:2.39; stroke-linejoin:round;" d="m -706.2,1812.2 c 0.4,-3.4 0.4,-27.6 -18.9,-27.6 -18.3,0 -17.1,-27.5 -17.1,-27.5"/>
+	<path style="fill:none; stroke:#f44800; stroke-width:2.39; stroke-linejoin:round;" d="m -862.4,1812.3 c -0.4,-3.4 5.2,-59.7 18.9,-27.7 13.6,31.9 17.1,-27.5 17.1,-27.5"/>
+	<path style="fill:none; stroke:#f44800; stroke-width:2.39; stroke-linejoin:round;" d="m -762.9,1812 c 0.5,-3.4 -2.1,-52.4 -23.1,-27.6 -21,24.8 -20.9,-27.5 -20.9,-27.5"/>
+	<path style="fill:#f0a513; stroke:#f0a513; stroke-width:2.39; stroke-linejoin:round;" d="m -812.8,1634.2 47.6,45.9"/>
+</g>
+</svg>

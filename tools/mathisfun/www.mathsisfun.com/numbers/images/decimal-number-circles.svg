@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="366.5"
+   height="123.5"
+   version="1.1"
+   id="svg136"
+   sodipodi:docname="decimal-number-circles.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata140">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview138"
+     showgrid="false"
+     inkscape:current-layer="svg136" />
+  <defs
+     id="defs9">
+    <linearGradient
+       id="id01">
+      <stop
+         offset="0"
+         stop-color="#ffffb8"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#797cf2"
+         id="stop4" />
+    </linearGradient>
+    <radialGradient
+       id="id08"
+       r="4.04313"
+       fx="321.93"
+       fy="51.5417"
+       cx="321.9"
+       cy="51.5"
+       gradientTransform="matrix(1.46637,0,0,1.46637,-123.534,-23.4747)"
+       xlink:href="#id01"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="id02"
+       r="4.04313"
+       fx="321.93"
+       fy="51.5417"
+       cx="321.9"
+       cy="51.5"
+       gradientTransform="matrix(1.46637,0,0,1.46637,-169.96,-25.4747)"
+       xlink:href="#id01"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient11" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(.020633 0 0 .020633 -1314.4 -578.64)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient13" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(.020633 0 0 .020633 -1450.3 -524.77)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient15" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(.020633 0 0 .020633 -1439.2 -524.77)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient17" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(.020633 0 0 .020633 -1428 -524.77)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient19" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(.020633 0 0 .020633 -1416.9 -524.77)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient21" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(.020633 0 0 .020633 -1405.7 -524.77)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient23" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(.020633 0 0 .020633 -1394.6 -524.77)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient25" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(.020633 0 0 .020633 -1383.4 -524.77)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient27" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(.020633 0 0 .020633 -1372.3 -524.77)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient29" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(.020633 0 0 .020633 -1361.1 -524.77)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient31" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(.020633 0 0 .020633 -1349.9 -524.77)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient33" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient35" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient37" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient39" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient41" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient43" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(0.020633,0,0,0.020633,304.4,41.07)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient45" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(0.020633,0,0,0.020633,168.75,40.713)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient47" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(0.020633,0,0,0.020633,179.85,40.713)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient49" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(0.020633,0,0,0.020633,191.05,40.713)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient51" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(0.020633,0,0,0.020633,202.15,40.713)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient53" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(0.020633,0,0,0.020633,213.35,40.713)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient55" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(0.020633,0,0,0.020633,224.45,40.713)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient57" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(0.020633,0,0,0.020633,235.65,40.713)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient59" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(0.020633,0,0,0.020633,246.75,40.713)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient61" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(0.020633,0,0,0.020633,257.95,40.713)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient63" />
+  <radialGradient
+     r="247.05"
+     cx="20.5"
+     cy="547.9"
+     gradientTransform="matrix(0.020633,0,0,0.020633,269.15,40.713)"
+     xlink:href="#id01"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient65" />
+  <rect
+     x="-4.9-5"
+     y="-2.2-5"
+     ry="15.5"
+     width="133"
+     height="70.9"
+     style="color:black;fill:#fce94f;fill-opacity:0.33"
+     id="rect67" />
+  <text
+     x="231.1"
+     y="31.9"
+     style="font-family:'Comic Sans MS';font-size:28.8px;color:black;fill:#007ad2"
+     id="text69">40</text>
+  <text
+     x="295.8"
+     y="31.3"
+     style="font-family:'Comic Sans MS';font-size:28.8px;color:black;fill:#005c94"
+     id="text71">5</text>
+  <text
+     x="345.7"
+     y="17.2"
+     style="font-family:'Comic Sans MS';font-size:22.2px;color:black;fill:#ff4141"
+     id="text73">6</text>
+  <text
+     x="340.2"
+     y="40.6"
+     style="font-family:'Comic Sans MS';font-size:22.2px;fill:#ff4141"
+     id="text75">10</text>
+  <path
+     style="fill:none;stroke:#ff4141;stroke-width:2.03"
+     d="m 337.3,20.7 h 27.3"
+     id="path77" />
+  <text
+     x="275.2"
+     y="26.7"
+     style="font-family:'Comic Sans MS';font-size:22.2px;color:black;fill:#204a87;"
+     id="text79">+</text>
+  <text
+     x="320.1"
+     y="26.7"
+     style="font-family:'Comic Sans MS';font-size:22.2px;color:black;fill:#204a87;"
+     id="text81">+</text>
+  <text
+     x="24.8"
+     y="33.2"
+     style="font-family:'Comic Sans MS';font-size:34.7px;color:black;fill:#007ad2"
+     id="text83">4</text>
+  <text
+     x="49.8"
+     y="33.2"
+     style="font-family:'Comic Sans MS';font-size:34.7px;color:black;fill:#005c94"
+     id="text85">5</text>
+  <text
+     x="86.1"
+     y="33.2"
+     style="font-family:'Comic Sans MS';font-size:34.7px;color:black;fill:#ff4141"
+     id="text87">6</text>
+  <circle
+     cx="78.5"
+     cy="30.2"
+     r="2.9588"
+     style="color:black"
+     id="circle89" />
+  <text
+     x="11.9"
+     y="59"
+     style="font-family:'Comic Sans MS';font-size:14.9px;fill:#2e3436"
+     id="text91">Decimal Number</text>
+  <text
+     x="140.1"
+     y="31.6"
+     style="font-family:'Comic Sans MS';font-size:34.5px;color:black;fill:#204a87;"
+     id="text93">=</text>
+  <circle
+     id="id03"
+     cx="304.3"
+     cy="51.7"
+     r="5.19553"
+     style="color:black;overflow:visible;fill:url(#id02);stroke:black;stroke-width:0.69" />
+  <use
+     transform="translate(0,12.3735)"
+     xlink:href="#id03"
+     id="use96" />
+  <use
+     transform="translate(0,24.747)"
+     xlink:href="#id03"
+     id="use98" />
+  <use
+     transform="translate(0,37.1204)"
+     xlink:href="#id03"
+     id="use100" />
+  <use
+     transform="translate(0,49.4939)"
+     xlink:href="#id03"
+     id="use102" />
+  <g
+     id="id07"
+     transform="translate(-3.59096,12.1119)">
+    <use
+       transform="translate(-131.765,-12.7254)"
+       xlink:href="#id03"
+       id="use104" />
+    <use
+       transform="translate(-120.005,-12.7254)"
+       xlink:href="#id03"
+       id="use106" />
+    <use
+       transform="translate(-108.245,-12.7254)"
+       xlink:href="#id03"
+       id="use108" />
+    <use
+       transform="translate(-96.486,-12.7254)"
+       xlink:href="#id03"
+       id="use110" />
+    <use
+       transform="translate(-84.726,-12.7254)"
+       xlink:href="#id03"
+       id="use112" />
+    <use
+       id="id04"
+       transform="translate(-37.6864,-12.7254)"
+       xlink:href="#id03" />
+    <use
+       id="id05"
+       transform="translate(-11.7599)"
+       xlink:href="#id04" />
+    <use
+       id="id06"
+       transform="translate(-11.7598)"
+       xlink:href="#id05" />
+    <use
+       transform="translate(-11.7598)"
+       xlink:href="#id06"
+       id="use117" />
+    <use
+       transform="translate(-25.9266,-12.7254)"
+       xlink:href="#id03"
+       id="use119" />
+  </g>
+  <use
+     transform="translate(0,12.9149)"
+     xlink:href="#id07"
+     id="use122" />
+  <use
+     transform="translate(0,25.8298)"
+     xlink:href="#id07"
+     id="use124" />
+  <use
+     transform="translate(0,38.7447)"
+     xlink:href="#id07"
+     id="use126" />
+  <path
+     id="id09"
+     style="color:black;overflow:visible;fill:url(#id08);stroke:black;stroke-width:0.69"
+     d="m 350.8,48.5 a 5.2,5.2 0 0 1 3.2,1.2 l -3.3,4 z" />
+  <use
+     transform="translate(0,50.5402)"
+     xlink:href="#id09"
+     id="use129" />
+  <use
+     id="id10"
+     transform="translate(0,12.635)"
+     xlink:href="#id09" />
+  <use
+     id="id11"
+     transform="translate(0,12.6351)"
+     xlink:href="#id10" />
+  <use
+     id="id12"
+     transform="translate(0,12.635)"
+     xlink:href="#id11" />
+  <use
+     transform="translate(0,25.2701)"
+     xlink:href="#id12"
+     id="use134" />
+</svg>

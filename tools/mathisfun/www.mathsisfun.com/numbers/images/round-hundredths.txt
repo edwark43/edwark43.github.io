@@ -1,0 +1,79 @@
+lvl 0
+
+clr 0x000000
+thk 3
+alp 100
+char 14 37 t
+char 29 35 o
+char 13 34 NaN
+char 60 36 h
+char 80 35 u
+char 99 36 n
+char 116 37 d
+char 137 36 r
+char 150 38 e
+char 166 37 d
+char 186 38 t
+char 203 38 h
+char 224 39 s
+char 109 83 1
+char 125 82 .
+char 133 82 7
+char 156 82 2
+char 176 81 4
+char 203 82 8
+char 109 128 1
+char 125 128 .
+char 133 128 7
+char 156 127 2
+char 176 128 5
+char 200 126 0
+start
+
+lvl 1
+
+clr 0x0000F0
+thk 3
+line 175 54 167 100
+bubble 210 59 165 35 4 is less than 5
+bubble 155 89 170 35 so 2 stays same
+lvl 0
+
+clr 0xffffff
+thk 8
+line 187 54 177 94
+line 198 82 179 83
+line 191 65 184 95
+line 206 94 226 69
+line 225 57 201 94
+line 216 54 196 88
+line 220 60 201 91
+lvl 1
+
+clr 0x0000F0
+thk 3
+line 176 99 164 154
+bubble 210 102 145 35 5 is "5 or more"
+bubble 153 135 185 35 so 2 increases to 3
+lvl 0
+
+clr 0xffffff
+thk 10
+line 155 118 166 108
+line 161 136 167 105
+line 169 136 175 105
+clr 0x0000F0
+thk 3
+char 155 128 3
+clr 0xffffff
+thk 8
+line 196 107 183 109
+line 184 104 182 119
+line 191 135 186 108
+line 194 129 178 128
+line 179 146 186 126
+line 199 101 200 138
+line 208 139 218 100
+line 214 99 201 144
+line 217 106 196 116
+lvl 1

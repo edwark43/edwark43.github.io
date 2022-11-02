@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="219.3" height="207.8" version="1.1">
+<defs>
+<marker id="id3" style="overflow:visible;" orient="auto">
+<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"/>
+</marker>
+<marker id="id4" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"/>
+</marker>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#005c94; stroke:#005c94; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"/>
+</marker>
+<marker id="id2" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ff4141; stroke:#ff4141; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"/>
+</marker>
+</defs>
+<g transform="translate(590.80862,-1108.4095)">
+<g transform="matrix(0.55,0,0,0.55,-438.04109,573.16901)">
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1115.1 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1068 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1021 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,974 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1350.1 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1256.1 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1209.1 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1162.1 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -255.4,1303.1 374.4,0"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -116,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -163,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -210.1,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -257.1,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m 119,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m 25,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -22,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m -69,1350.1 0,-374.4"/>
+<path style="fill:none; stroke:#e2e4e6; stroke-width:1.71; stroke-dasharray:13.7, 1.7;" d="m 72,1348.4 0,-374.4"/>
+</g>
+<path style="marker-end:url(#id1); fill:#005c94; fill-opacity:0.75; stroke:#005c94; stroke-width:1.41;" d="m -578.2,1264.3 203,0"/>
+<path style="marker-end:url(#id2); fill:#2e3436; fill-opacity:0.75; stroke:#ff4141; stroke-width:1.41;" d="m -553.4,1286.8 0,-170.4"/>
+<text x="-388.4" y="1255.7" style="font-family:'Comic Sans MS'; font-size:26.4px; font-style:italic; overflow:visible; fill:#005c94; stroke-width:1px;">x</text>
+<text x="-545.5" y="1131.9" style="font-family:'Comic Sans MS'; font-size:26.4px; font-style:italic; overflow:visible; fill:#ff4141; stroke-width:1px;">y</text>
+<path style="overflow:visible; fill:#0197fd; stroke:#0197fd; stroke-width:2.12;" d="m -531.9,1229.7 122.7,-68.8"/>
+<circle cx="-409.2" cy="1160.8" r="2.5332606" style="overflow:visible; fill:#f0a513; stroke:#fdca01; stroke-width:2.12;"/>
+<text x="-413.4" y="1143.2" transform="scale(0.99222531,1.0078356)" style="font-family:'Comic Sans MS'; font-size:22.8px; overflow:visible; fill:#f0a513; stroke-width:4.5;">A</text>
+<text x="-545.5" y="1212.4" transform="scale(0.99222531,1.0078356)" style="font-family:'Comic Sans MS'; font-size:22.8px; overflow:visible; fill:#f0a513; stroke-width:4.5;">B</text>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#2e3436; stroke-width:1.41; stroke-dasharray:1.4, 2.8;" d="m -553.1,1160.1 140.8,0"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#2e3436; stroke-width:1.41; stroke-dasharray:1.4, 2.8;" d="m -552.1,1230.1 19,0"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#2e3436; stroke-width:1.41; stroke-dasharray:1.4, 2.8;" d="m -409.2,1264.8 0,-100.2"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#2e3436; stroke-width:1.41; stroke-dasharray:1.4, 2.8;" d="m -532.8,1262.6 0,-30.3"/>
+<circle cx="-533.4" cy="1230.8" r="2.5332606" style="overflow:visible; fill:#f0a513; stroke:#fdca01; stroke-width:2.12;"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#2e3436; stroke-width:1.41; stroke-dasharray:1.4, 2.8;" d="m -553.5,1194.9 80.3,0"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#2e3436; stroke-width:1.41; stroke-dasharray:1.4, 2.8;" d="m -471.7,1263.1 0,-65.9"/>
+<circle cx="-472.4" cy="1195.6" r="2.5332606" style="overflow:visible; fill:#121513; stroke:#121513; stroke-width:2.12;"/>
+<text x="-469.8" y="1201" transform="scale(0.99222531,1.0078356)" style="font-family:'Comic Sans MS'; font-size:22.8px; overflow:visible; fill:#121513; stroke-width:4.5;">M</text>
+<circle cx="-471.3" cy="1264.3" r="2.5332606" style="overflow:visible; fill:#121513; stroke:#121513; stroke-width:2.12;"/>
+<circle cx="-553.3" cy="1195.1" r="2.5332606" style="overflow:visible; fill:#121513; stroke:#121513; stroke-width:2.12;"/>
+<text x="-1233.5" y="-573.1" transform="matrix(0,-1,1,0,0,0)" style="font-family:'Comic Sans MS'; font-size:22.6px; color:black; overflow:visible; fill:black; stroke-width:1px;">Halfway</text>
+<text x="-513" y="1296.4" style="font-family:'Comic Sans MS'; font-size:22.6px; color:black; overflow:visible; fill:black; stroke-width:1px;">Halfway</text>
+<path style="marker-start:url(#id3); marker-end:url(#id4); fill:none; stroke:black; stroke-width:1.68;" d="m -564.2,1160 0,31.9"/>
+<path style="marker-start:url(#id3); marker-end:url(#id4); fill:none; stroke:black; stroke-width:1.78;" d="m -529.3,1272.2 55.1,0"/>
+<path style="marker-start:url(#id3); marker-end:url(#id4); fill:none; stroke:black; stroke-width:1.78;" d="m -468.1,1272.2 55.1,0"/>
+<path style="marker-start:url(#id3); marker-end:url(#id4); fill:none; stroke:black; stroke-width:1.68;" d="m -564.2,1196.7 0,31.9"/>
+</g>
+</svg>

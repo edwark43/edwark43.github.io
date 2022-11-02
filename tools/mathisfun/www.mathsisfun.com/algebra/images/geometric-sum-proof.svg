@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="92.1" version="1.1">
+<defs>
+</defs>
+<text x="59.2" y="23.1" style="font-family:'Comic Sans MS'; font-size:23.9px; color:black; overflow:visible; fill:#0000ff; stroke:#121513; stroke-width:0.5;">S = a + ar + ar  + ... + ar</text>
+<text x="120.7" y="53.6" style="font-family:'Comic Sans MS'; font-size:23.9px; color:black; overflow:visible; fill:#0000ff; stroke:#121513; stroke-width:0.5;">− ar − ar  − ... − ar</text>
+<text x="213.6" y="14.4" style="font-family:'Comic Sans MS'; font-size:18.6px; color:black; overflow:visible; fill:#0000ff; stroke:#121513; stroke-width:0.5;">2</text>
+<text x="314.9" y="14.4" style="font-family:'Comic Sans MS'; font-size:18.6px; color:black; overflow:visible; fill:#0000ff; stroke:#121513; stroke-width:0.5;">n-1</text>
+<text x="213.6" y="43.9" style="font-family:'Comic Sans MS'; font-size:18.6px; color:black; overflow:visible; fill:#0000ff; stroke:#121513; stroke-width:0.5;">2</text>
+<text x="312.2" y="43.9" style="font-family:'Comic Sans MS'; font-size:18.6px; color:black; overflow:visible; fill:#0000ff; stroke:#121513; stroke-width:0.5;">n-1</text>
+<text x="390.6" y="43.9" style="font-family:'Comic Sans MS'; font-size:18.6px; color:black; overflow:visible; fill:#0000ff; stroke:#121513; stroke-width:0.5;">n</text>
+<text x="-0" y="87" style="font-family:'Comic Sans MS'; font-size:23.9px; color:black; overflow:visible; fill:#0000ff; stroke:#121513; stroke-width:0.5;">S - S·r = a</text>
+<text x="390.7" y="75.1" style="font-family:'Comic Sans MS'; font-size:18.6px; color:black; overflow:visible; fill:#0000ff; stroke:#121513; stroke-width:0.5;">n</text>
+<path d="m 0,62 h 358.1" style="color:black; overflow:visible; fill:#121513; stroke:#0000ff; stroke-width:1.89;"/>
+<text x="229.5" y="85.8" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:15.6px; font-style:italic; color:black; overflow:visible; fill:#a7a9ac; stroke-width:5.7;">(all these go !)</text>
+<text x="31.3" y="53.6" style="font-family:'Comic Sans MS'; font-size:23.9px; color:black; overflow:visible; fill:#0000ff; stroke:#121513; stroke-width:0.5;">−S·r =</text>
+<text x="346.5" y="87" style="font-family:'Comic Sans MS'; font-size:23.9px; color:black; overflow:visible; fill:#0000ff; stroke:#121513; stroke-width:0.5;">− ar</text>
+<text x="346.5" y="53.6" style="font-family:'Comic Sans MS'; font-size:23.9px; color:black; overflow:visible; fill:#0000ff; stroke:#121513; stroke-width:0.5;">− ar</text>
+</svg>

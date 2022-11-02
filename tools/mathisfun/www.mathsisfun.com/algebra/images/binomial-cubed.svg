@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="591.4" height="132.6" version="1.1" style="font-family:'Comic Sans MS'; font-size:12.5px; stroke-width:0.17;">
+<g transform="translate(-80.5433,66.3831)">
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 470.5,-52.1 29,25 h 54.1 l -29,-25 z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="M 470.5,-52.1 V 2 l 29,25 V -27 Z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 499.3,-27.2 h 54.1 l 10e-4,54.1 h -54.1 z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 470.5,-52.1 h 54.1 V 2 h -54.1 z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="M 524.4,-52.1 V 2 l 29,25 V -27 Z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 470.5,1.9 29,25 h 54.1 L 524.5,1.9 Z"/>
+</g>
+<g transform="translate(37.3993,66.4739)">
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 470.5,-52.1 29,25 h 54.1 l -29,-25 z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="M 470.5,-52.1 V 2 l 29,25 V -27 Z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 499.3,-27.2 h 54.1 l 10e-4,54.1 h -54.1 z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 470.5,-52.1 h 54.1 V 2 h -54.1 z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="M 524.4,-52.1 V 2 l 29,25 V -27 Z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 470.5,1.9 29,25 h 54.1 L 524.5,1.9 Z"/>
+</g>
+<g transform="translate(-192.629,66.4569)">
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 470.5,-52.1 29,25 h 54.1 l -29,-25 z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="M 470.5,-52.1 V 2 l 29,25 V -27 Z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 499.3,-27.2 h 54.1 l 10e-4,54.1 h -54.1 z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 470.5,-52.1 h 54.1 V 2 h -54.1 z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="M 524.4,-52.1 V 2 l 29,25 V -27 Z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 470.5,1.9 29,25 h 54.1 L 524.5,1.9 Z"/>
+</g>
+<text x="24.2" y="9.5" style="font-family:Comic Sans MS; color:black; fill:black; stroke-width:0.08px;">a</text>
+<text x="49.4" y="9.6" style="font-family:Comic Sans MS; color:black; fill:black; stroke-width:0.08px;">b</text>
+<g transform="matrix(1.07766,0,0,1.07766,711.267,-118.052)">
+	<g transform="translate(-164.87,56.061)">
+		<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black;" d="m -456,117 17,14.7 h 18.4 l -17,-14.7 z"/>
+		<rect x="-456" y="98.5" width="18.4" height="18.4" style="color:black; fill:#403eff; fill-opacity:0.34; stroke:black; stroke-linecap:round;"/>
+		<g>
+			<path style="fill:#19aeff; fill-opacity:0.62; stroke:black;" d="m -455.9,98.5 v 18.4 l 17,14.7 v -18.4 l -17,-14.7"/>
+			<path style="fill:#403eff; fill-opacity:0.34; stroke:black;" d="m -437.5,98.5 v 18.4 l 17,14.7 v -18.4 l -17,-14.7"/>
+			<rect x="-438.9" y="113.2" width="18.4" height="18.4" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black;"/>
+			<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black;" d="m -456,98.5 17,14.7 h 18.4 l -17,-14.7 z"/>
+		</g>
+	</g>
+	<g transform="translate(-129.75,52.795)">
+		<rect x="101.8" y="491.1" width="18.4" height="31.7" transform="rotate(90)" style="color:black; fill:#403eff; fill-opacity:0.34; stroke:black; stroke-linecap:round;"/>
+		<g>
+			<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black;" d="m -522.8,120.2 17,14.7 h 31.7 l -17,-14.7 h -31.7"/>
+			<path style="fill:#403eff; fill-opacity:0.34; stroke:black;" d="m -491.1,101.8 v 18.4 l 17,14.7 V 116.5 l -17,-14.7"/>
+			<rect x="116.5" y="474.1" width="18.4" height="31.7" transform="rotate(90)" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black;"/>
+			<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black;" d="m -522.8,101.8 17,14.7 h 31.7 l -17,-14.7 h -31.7"/>
+			<path style="fill:#19aeff; fill-opacity:0.62; stroke:black;" d="m -522.8,101.8 v 18.4 l 17,14.7 V 116.5 l -17,-14.7"/>
+		</g>
+	</g>
+	<g transform="translate(-161.47,81.097)">
+		<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black;" d="m -459.4,73.5 17,14.7 h 18.4 l -17,-14.7 z"/>
+		<rect x="-459.3" y="41.8" width="18.4" height="31.7" style="color:black; fill:#403eff; fill-opacity:0.34; stroke:black; stroke-linecap:round;"/>
+		<g>
+			<path style="fill:#19aeff; fill-opacity:0.62; stroke:black;" d="M -459.3,41.8 V 73.5 l 17,14.7 V 56.5 l -17,-14.7"/>
+			<path style="fill:#403eff; fill-opacity:0.34; stroke:black;" d="m -440.9,41.8 v 31.7 l 17,14.7 V 56.5 L -440.9,41.8"/>
+			<rect x="-442.3" y="56.5" width="18.4" height="31.7" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black;"/>
+			<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black;" d="m -459.4,41.8 17,14.7 h 18.4 l -17,-14.7 z"/>
+		</g>
+	</g>
+	<g transform="translate(-131.48,80.478)">
+		<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black;" d="m -521,74.1 17,14.7 h 31.7 l -17,-14.7 h -31.7"/>
+		<path style="fill:#403eff; fill-opacity:0.34; stroke:black;" d="m -489.3,42.4 v 31.7 l 17,14.7 V 57.1 Z"/>
+		<rect x="-521" y="42.4" width="31.7" height="31.7" style="color:black; fill:#0084c8; fill-opacity:0.61; stroke:black; stroke-linecap:round;"/>
+		<g>
+			<path style="fill:#19aeff; fill-opacity:0.62; stroke:black;" d="M -521,42.4 V 74.1 l 17,14.7 V 57.1 Z"/>
+			<rect x="-504" y="57.1" width="31.7" height="31.7" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black;"/>
+			<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black;" d="m -521,42.4 17,14.7 h 31.7 l -17,-14.7 h -31.7"/>
+		</g>
+	</g>
+	<g transform="translate(-167.04,-21.824)">
+		<g transform="translate(-2.7688,-22.871)">
+			<rect x="-434" y="214" width="18.4" height="18.4" style="color:black; fill:#403eff; fill-opacity:0.34; stroke:black; stroke-linecap:round;"/>
+			<g>
+				<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black;" d="m -434,232.4 9.9,8.5 h 18.4 l -9.9,-8.5 z"/>
+				<path style="fill:#403eff; fill-opacity:0.34; stroke:black;" d="m -415.6,232.4 9.9,8.5 v -18.4 l -9.9,-8.5 z"/>
+				<path style="fill:#19aeff; fill-opacity:0.62; stroke:black;" d="m -434,232.4 9.9,8.5 v -18.4 l -9.9,-8.5 z"/>
+				<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black;" d="m -434,214 9.9,8.5 h 18.4 l -9.9,-8.5 z"/>
+			</g>
+			<rect x="-424.1" y="222.5" width="18.4" height="18.4" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black;"/>
+		</g>
+		<g transform="translate(41.107,-18.855)">
+			<rect x="209.9" y="477.9" width="18.4" height="31.7" transform="rotate(90)" style="color:black; fill:#403eff; fill-opacity:0.34; stroke:black; stroke-linecap:round;"/>
+			<g>
+				<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black;" d="m -509.6,228.4 9.9,8.5 h 31.7 l -9.9,-8.5 z"/>
+				<path style="fill:#19aeff; fill-opacity:0.62; stroke:black;" d="m -509.6,209.9 9.9,8.5 v 18.4 l -9.9,-8.5 z"/>
+				<path style="fill:#403eff; fill-opacity:0.34; stroke:black;" d="m -477.9,209.9 9.9,8.5 v 18.4 l -9.9,-8.5 z"/>
+				<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black;" d="m -509.6,209.9 9.9,8.5 h 31.7 l -9.9,-8.5 z"/>
+			</g>
+			<rect x="218.5" y="468" width="18.4" height="31.7" transform="rotate(90)" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black;"/>
+		</g>
+		<rect x="-436.8" y="159.4" width="18.4" height="31.7" style="color:black; fill:#403eff; fill-opacity:0.34; stroke:black; stroke-linecap:round;"/>
+		<g>
+			<path style="fill:#403eff; fill-opacity:0.34; stroke:black;" d="m -418.3,191.1 9.9,8.5 v -31.7 l -9.9,-8.5 z"/>
+			<g>
+				<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black;" d="m -436.8,159.4 9.9,8.5 h 18.4 l -9.9,-8.5 z"/>
+				<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black;" d="m -436.8,191.1 9.9,8.5 h 18.4 l -9.9,-8.5 z"/>
+				<path style="fill:#19aeff; fill-opacity:0.62; stroke:black;" d="m -436.8,191.1 9.9,8.5 v -31.7 l -9.9,-8.5 z"/>
+			</g>
+		</g>
+		<rect x="-426.9" y="167.9" width="18.4" height="31.7" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black;"/>
+		<g transform="translate(39.254,0.927)">
+			<rect x="-507.7" y="158.5" width="31.7" height="31.7" style="color:black; fill:#204a87; fill-opacity:0.34; stroke:black; stroke-linecap:round;"/>
+			<g>
+				<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black;" d="m -507.7,190.2 9.9,8.5 h 31.7 l -9.9,-8.5 h -31.7"/>
+				<path style="fill:#403eff; fill-opacity:0.34; stroke:black;" d="m -476,190.2 9.9,8.5 v -31.7 l -9.9,-8.5 z"/>
+				<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black;" d="m -507.7,158.5 9.9,8.5 h 31.7 l -9.9,-8.5 h -31.7"/>
+			</g>
+			<rect x="-497.8" y="167" width="31.7" height="31.7" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black;"/>
+			<path style="fill:#19aeff; fill-opacity:0.62; stroke:black;" d="m -507.7,190.2 9.9,8.5 v -31.7 l -9.9,-8.5 z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(1.07766,0,0,1.07766,721.34,-31.3419)">
+	<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black;" d="m -521,74.1 17,14.7 h 31.7 l -17,-14.7 h -31.7"/>
+	<path style="fill:#403eff; fill-opacity:0.34; stroke:black;" d="m -489.3,42.4 v 31.7 l 17,14.7 V 57.1 Z"/>
+	<rect x="-521" y="42.4" width="31.7" height="31.7" style="color:black; fill:#0084c8; fill-opacity:0.61; stroke:black; stroke-linecap:round;"/>
+	<g>
+		<path style="fill:#19aeff; fill-opacity:0.62; stroke:black;" d="M -521,42.4 V 74.1 l 17,14.7 V 57.1 Z"/>
+		<rect x="-504" y="57.1" width="31.7" height="31.7" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black;"/>
+		<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black;" d="m -521,42.4 17,14.7 h 31.7 l -17,-14.7 h -31.7"/>
+	</g>
+</g>
+<g transform="matrix(1.07766,0,0,1.07766,841.341,-61.1583)">
+	<rect x="101.8" y="491.1" width="18.4" height="31.7" transform="rotate(90)" style="color:black; fill:#403eff; fill-opacity:0.34; stroke:black; stroke-width:0.19; stroke-linecap:round;"/>
+	<g>
+		<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black; stroke-width:0.19;" d="m -522.8,120.2 17,14.7 h 31.7 l -17,-14.7 h -31.7"/>
+		<path style="fill:#403eff; fill-opacity:0.34; stroke:black; stroke-width:0.19;" d="m -491.1,101.8 v 18.4 l 17,14.7 V 116.5 l -17,-14.7"/>
+		<rect x="116.5" y="474.1" width="18.4" height="31.7" transform="rotate(90)" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black; stroke-width:0.19;"/>
+		<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black; stroke-width:0.19;" d="m -522.8,101.8 17,14.7 h 31.7 l -17,-14.7 h -31.7"/>
+		<path style="fill:#19aeff; fill-opacity:0.62; stroke:black; stroke-width:0.19;" d="m -522.8,101.8 v 18.4 l 17,14.7 V 116.5 l -17,-14.7"/>
+	</g>
+</g>
+<g transform="matrix(1.07766,0,0,1.07766,807.15,-30.6433)">
+	<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black; stroke-width:0.19;" d="m -459.4,73.5 17,14.7 h 18.4 l -17,-14.7 z"/>
+	<rect x="-459.3" y="41.8" width="18.4" height="31.7" style="color:black; fill:#403eff; fill-opacity:0.34; stroke:black; stroke-width:0.19; stroke-linecap:round;"/>
+	<g>
+		<path style="fill:#19aeff; fill-opacity:0.62; stroke:black; stroke-width:0.19;" d="M -459.3,41.8 V 73.5 l 17,14.7 V 56.5 l -17,-14.7"/>
+		<path style="fill:#403eff; fill-opacity:0.34; stroke:black; stroke-width:0.19;" d="m -440.9,41.8 v 31.7 l 17,14.7 V 56.5 L -440.9,41.8"/>
+		<rect x="-442.3" y="56.5" width="18.4" height="31.7" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black; stroke-width:0.19;"/>
+		<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black; stroke-width:0.19;" d="m -459.4,41.8 17,14.7 h 18.4 l -17,-14.7 z"/>
+	</g>
+</g>
+<g transform="matrix(1.07766,0,0,1.07766,843.474,-140.571)">
+	<rect x="-507.7" y="158.5" width="31.7" height="31.7" style="color:black; fill:#204a87; fill-opacity:0.34; stroke:black; stroke-width:0.19; stroke-linecap:round;"/>
+	<g>
+		<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black; stroke-width:0.19;" d="m -507.7,190.2 9.9,8.5 h 31.7 l -9.9,-8.5 h -31.7"/>
+		<path style="fill:#403eff; fill-opacity:0.34; stroke:black; stroke-width:0.19;" d="m -476,190.2 9.9,8.5 v -31.7 l -9.9,-8.5 z"/>
+		<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black; stroke-width:0.19;" d="m -507.7,158.5 9.9,8.5 h 31.7 l -9.9,-8.5 h -31.7"/>
+	</g>
+	<rect x="-497.8" y="167" width="31.7" height="31.7" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black; stroke-width:0.19;"/>
+	<path style="fill:#19aeff; fill-opacity:0.62; stroke:black; stroke-width:0.19;" d="m -507.7,190.2 9.9,8.5 v -31.7 l -9.9,-8.5 z"/>
+</g>
+<g transform="matrix(1.07766,0,0,1.07766,915.349,-57.6399)">
+	<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black; stroke-width:0.19;" d="m -456,117 17,14.7 h 18.4 l -17,-14.7 z"/>
+	<rect x="-456" y="98.5" width="18.4" height="18.4" style="color:black; fill:#403eff; fill-opacity:0.34; stroke:black; stroke-width:0.19; stroke-linecap:round;"/>
+	<g>
+		<path style="fill:#19aeff; fill-opacity:0.62; stroke:black; stroke-width:0.19;" d="m -455.9,98.5 v 18.4 l 17,14.7 v -18.4 l -17,-14.7"/>
+		<path style="fill:#403eff; fill-opacity:0.34; stroke:black; stroke-width:0.19;" d="m -437.5,98.5 v 18.4 l 17,14.7 v -18.4 l -17,-14.7"/>
+		<rect x="-438.9" y="113.2" width="18.4" height="18.4" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black; stroke-width:0.19;"/>
+		<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black; stroke-width:0.19;" d="m -456,98.5 17,14.7 h 18.4 l -17,-14.7 z"/>
+	</g>
+</g>
+<g transform="matrix(1.07766,0,0,1.07766,957.298,-161.891)">
+	<rect x="209.9" y="477.9" width="18.4" height="31.7" transform="rotate(90)" style="color:black; fill:#403eff; fill-opacity:0.34; stroke:black; stroke-width:0.19; stroke-linecap:round;"/>
+	<g>
+		<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black; stroke-width:0.19;" d="m -509.6,228.4 9.9,8.5 h 31.7 l -9.9,-8.5 z"/>
+		<path style="fill:#19aeff; fill-opacity:0.62; stroke:black; stroke-width:0.19;" d="m -509.6,209.9 9.9,8.5 v 18.4 l -9.9,-8.5 z"/>
+		<path style="fill:#403eff; fill-opacity:0.34; stroke:black; stroke-width:0.19;" d="m -477.9,209.9 9.9,8.5 v 18.4 l -9.9,-8.5 z"/>
+		<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black; stroke-width:0.19;" d="m -509.6,209.9 9.9,8.5 h 31.7 l -9.9,-8.5 z"/>
+	</g>
+	<rect x="218.5" y="468" width="18.4" height="31.7" transform="rotate(90)" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black; stroke-width:0.19;"/>
+</g>
+<g transform="matrix(1.07766,0,0,1.07766,912.996,-141.571)">
+	<rect x="-436.8" y="159.4" width="18.4" height="31.7" style="color:black; fill:#403eff; fill-opacity:0.34; stroke:black; stroke-width:0.19; stroke-linecap:round;"/>
+	<g>
+		<path style="fill:#403eff; fill-opacity:0.34; stroke:black; stroke-width:0.19;" d="m -418.3,191.1 9.9,8.5 v -31.7 l -9.9,-8.5 z"/>
+		<g>
+			<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black; stroke-width:0.19;" d="m -436.8,159.4 9.9,8.5 h 18.4 l -9.9,-8.5 z"/>
+			<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black; stroke-width:0.19;" d="m -436.8,191.1 9.9,8.5 h 18.4 l -9.9,-8.5 z"/>
+			<path style="fill:#19aeff; fill-opacity:0.62; stroke:black; stroke-width:0.19;" d="m -436.8,191.1 9.9,8.5 v -31.7 l -9.9,-8.5 z"/>
+		</g>
+	</g>
+	<rect x="-426.9" y="167.9" width="18.4" height="31.7" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black; stroke-width:0.19;"/>
+</g>
+<text x="124.5" y="128.5" style="font-size:21.3px; color:black; fill:#3465a4; stroke-width:0.39px;">=</text>
+<text x="247" y="128.5" style="font-size:21.3px; color:black; fill:#3465a4; stroke-width:0.39px;">+</text>
+<text x="385.3" y="128.5" style="font-size:21.3px; color:black; fill:#3465a4; stroke-width:0.39px;">+</text>
+<text x="508.7" y="128.5" style="font-size:21.3px; color:black; fill:#3465a4; stroke-width:0.39px;">+</text>
+<text x="-0.3" y="32.1" style="color:black; fill:black; stroke-width:0.08px;">a</text>
+<text x="-0.8" y="60.2" style="color:black; fill:black; stroke-width:0.08px;">b</text>
+<text x="11.2" y="83.9" style="color:black; fill:black; stroke-width:0.08px;">a</text>
+<text x="27.6" y="98.7" style="color:black; fill:black; stroke-width:0.08px;">b</text>
+<text x="174.5" y="8.7" style="color:black; fill:black; stroke-width:0.08px;">a</text>
+<text x="149.9" y="31.2" style="color:black; fill:black; stroke-width:0.08px;">a</text>
+<text x="162.9" y="65.4" style="color:black; fill:black; stroke-width:0.08px;">a</text>
+<text x="567.2" y="61.8" style="color:black; fill:black; stroke-width:0.08px;">b</text>
+<text x="550.3" y="79.5" style="color:black; fill:black; stroke-width:0.08px;">b</text>
+<text x="25.2" y="128" style="font-size:21.3px; color:black; fill:#3465a4; stroke-width:0.08px;">(a+b)</text>
+<text x="182.6" y="127.2" style="font-size:21.3px; color:black; fill:#3465a4; stroke-width:0.08px;">a</text>
+<text x="299.9" y="129.4" style="font-size:21.3px; color:black; fill:#3465a4; stroke-width:0.08px;">3a</text>
+<text x="421.4" y="129.4" style="font-size:21.3px; color:black; fill:#3465a4; stroke-width:0.08px;">3ab</text>
+<text x="564.2" y="129.5" style="font-size:21.3px; color:black; fill:#3465a4; stroke-width:0.08px;">b</text>
+<text x="576" y="121.2" style="font-family:Comic Sans MS; font-size:18.7px; color:black; fill:#3465a4; stroke-width:0.08px;">3</text>
+<g transform="matrix(1.07766,0,0,1.07766,1028.03,-166.218)">
+	<rect x="-434" y="214" width="18.4" height="18.4" style="color:black; fill:#403eff; fill-opacity:0.34; stroke:black; stroke-width:0.19; stroke-linecap:round;"/>
+	<g>
+		<path style="fill:#9a9a9a; fill-opacity:0.61; stroke:black; stroke-width:0.19;" d="m -434,232.4 9.9,8.5 h 18.4 l -9.9,-8.5 z"/>
+		<path style="fill:#403eff; fill-opacity:0.34; stroke:black; stroke-width:0.19;" d="m -415.6,232.4 9.9,8.5 v -18.4 l -9.9,-8.5 z"/>
+		<path style="fill:#19aeff; fill-opacity:0.62; stroke:black; stroke-width:0.19;" d="m -434,232.4 9.9,8.5 v -18.4 l -9.9,-8.5 z"/>
+		<path style="fill:#f6ff8b; fill-opacity:0.62; stroke:black; stroke-width:0.19;" d="m -434,214 9.9,8.5 h 18.4 l -9.9,-8.5 z"/>
+	</g>
+	<rect x="-424.1" y="222.5" width="18.4" height="18.4" style="color:black; fill:#c3eaff; fill-opacity:0.68; stroke:black; stroke-width:0.19;"/>
+</g>
+<text x="558.4" y="95.8" style="color:black; fill:black; stroke-width:0.08px;">b</text>
+<text x="398.8" y="79.7" style="color:black; fill:black; stroke-width:0.08px;">b</text>
+<text x="406.9" y="96" style="color:black; fill:black; stroke-width:0.08px;">b</text>
+<text x="431.2" y="101.5" style="color:black; fill:black; stroke-width:0.08px;">a</text>
+<text x="312.1" y="92.5" style="color:black; fill:black; stroke-width:0.08px;">a</text>
+<text x="277.2" y="81.8" style="color:black; fill:black; stroke-width:0.08px;">a</text>
+<text x="267" y="61.4" style="color:black; fill:black; stroke-width:0.08px;">b</text>
+<text x="195.1" y="122.3" style="font-size:17.3px; color:black; fill:#3465a4; stroke-width:0.08px;">3</text>
+<text x="324.7" y="121.4" style="font-size:17.3px; color:black; fill:#3465a4; stroke-width:0.08px;">2</text>
+<text x="457.2" y="122" style="font-size:17.3px; color:black; fill:#3465a4; stroke-width:0.08px;">2</text>
+<text x="75.6" y="121.1" style="font-size:17.3px; color:black; fill:#3465a4; stroke-width:0.08px;">3</text>
+<g transform="translate(-310.573,66.4049)">
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 470.5,-52.1 29,25 h 54.1 l -29,-25 z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="M 470.5,-52.1 V 2 l 29,25 V -27 Z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 499.3,-27.2 h 54.1 l 10e-4,54.1 h -54.1 z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 470.5,-52.1 h 54.1 V 2 h -54.1 z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="M 524.4,-52.1 V 2 l 29,25 V -27 Z"/>
+	<path style="fill:none; stroke:#999999; stroke-width:0.58;" d="m 470.5,1.9 29,25 h 54.1 L 524.5,1.9 Z"/>
+</g>
+<text x="337.9" y="129.4" style="font-size:21.3px; color:black; fill:#3465a4; stroke-width:0.08px;">b</text>
+</svg>

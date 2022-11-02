@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="239.9" height="170.8" version="1.1" style="font-family:'Comic Sans MS'; font-size:16.2px; stroke-width:1px;">
+<defs>
+	<marker id="id2" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:black; stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:black; stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.8,0,0,0.8,10,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#007ad2; stroke:#007ad2; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<path style="fill:none; stroke:black; stroke-width:0.74;" d="m 105,152.2 c 0,4 0,4.5 0,4.5"/>
+<text x="101.7" y="170.2" style="fill:#ff6600; stroke-width:0.5;">a</text>
+<path style="fill:none; stroke:black; stroke-width:0.74;" d="m 193.6,151.7 c 0,4 0,4.5 0,4.5"/>
+<path style="fill:#fff200; stroke:black; stroke-width:0.74px;" d="m 105,151.8 0.5,-119.1 88,0.5 v 118.5"/>
+<text x="189.7" y="170.2" style="fill:#ff6600; stroke-width:0.5;">b</text>
+<text x="228.2" y="146.5" transform="scale(1.0004,0.999601)" style="font-size:20.7px; fill:#ff6600; stroke-width:0.5;">x</text>
+<text x="45.1" y="27.7" style="font-size:16px; font-style:italic; fill:#204a87;">1</text>
+<text x="36.2" y="47.9" style="font-size:16px; font-style:italic; fill:#204a87;">b-a</text>
+<path style="fill:none; stroke:#204a87;" d="M 33.6,31.6 H 64.5"/>
+<text x="137.6" y="108" style="font-size:39.1px; font-style:italic; fill:black; stroke-width:1.95px;">1</text>
+<text x="-0.6" y="38.3" style="font-family:'Comic Sans MS'; font-size:20px; font-style:italic; fill:#204a87;">p =</text>
+<path style="marker-end:url(#id1); fill:none; stroke:black;" d="M 78.1,152.4 V 2"/>
+<path style="marker-end:url(#id2); fill:none; stroke:black;" d="M 65.7,151.8 H 236.3"/>
+<text x="52.1" y="157.5" style="fill:#204a87; stroke-width:0.5;">0</text>
+<text x="83" y="16.1" style="font-family:'Comic Sans MS'; font-size:20px; fill:#204a87;">P(X = x)</text>
+<path style="fill:none; stroke:black;" d="m 69.9,33.4 h 8.8"/>
+</svg>

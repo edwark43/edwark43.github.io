@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="168.8" height="60.9" version="1.1">
+<defs>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g transform="translate(1531.64,-1476.77)"/>
+<g transform="translate(1531.64,-1476.77)">
+	<text x="-1446.4" y="1575.4" transform="scale(1.03284,0.968204)" style="font-family:'Comic Sans MS'; font-size:50px; fill:#c4a000; stroke:#c4a000; stroke-width:1.09;">x + b </text>
+	<path style="fill:none; stroke:#c4a000; stroke-width:5.21; stroke-linecap:round;" d="m -1529,1517.7 4.6,-2.3 11,16 12.8,-52.1 h 135.2"/>
+</g>
+</svg>

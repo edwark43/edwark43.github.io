@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="402.815"
+   height="226.1"
+   version="1.1"
+   id="svg58"
+   sodipodi:docname="stem-leaf-plot.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata62">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview60"
+     showgrid="false"
+     inkscape:current-layer="svg58" />
+  <defs
+     id="defs2" />
+  <rect
+     x="0"
+     y="0"
+     width="402.815"
+     height="226.1"
+     style="color:#000000;overflow:visible;fill:#ffffff;stroke-width:3.129723"
+     id="rect4" />
+  <rect
+     x="59.1435"
+     y="51.5"
+     ry="22.7"
+     width="206.3"
+     height="165.6"
+     style="color:#000000;overflow:visible;opacity:0.14;fill:#19aeff;stroke-width:1"
+     id="rect6" />
+  <path
+     d="m 365.744,24.2 a 20.1,20.1 0 0 1 -19.9,20.2 20.1,20.1 0 0 1 -20.4,-19.8 20.1,20.1 0 0 1 19.7,-20.5 20.1,20.1 0 0 1 20.6,19.6"
+     style="color:#000000;overflow:visible;opacity:0.7;fill:#ffc875;stroke-width:1.22"
+     id="path8"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 188.044,164.2 a 16.5,16.5 0 0 1 -16.4,16.6 16.5,16.5 0 0 1 -16.7,-16.3 16.5,16.5 0 0 1 16.2,-16.7 16.5,16.5 0 0 1 16.9,16"
+     style="color:#000000;overflow:visible;opacity:0.7;fill:#ffc875;stroke-width:1"
+     id="path10"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 116.544,165.7 a 16.5,16.5 0 0 1 -16.301,16.6 16.5,16.5 0 0 1 -16.6995,-16.2 16.5,16.5 0 0 1 16.1,-16.8 16.5,16.5 0 0 1 16.9005,16"
+     style="color:#000000;overflow:visible;opacity:0.7;fill:#ffc875;stroke-width:1"
+     id="path12"
+     inkscape:connector-curvature="0" />
+  <text
+     x="243.86"
+     y="30.9974"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.666668px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;overflow:visible;fill:#75507b;stroke-width:0.2px"
+     id="text14">26,</text>
+  <text
+     x="91.3435"
+     y="114.5"
+     style="color:#000000;font-size:26px;font-family:Verdana;overflow:visible;fill:#4e9a06;stroke-width:0.2px"
+     id="text16">1</text>
+  <text
+     x="91.5435"
+     y="144.9"
+     style="color:#000000;font-size:26px;font-family:Verdana;overflow:visible;fill:#4e9a06;stroke-width:0.2px"
+     id="text18">2</text>
+  <text
+     x="91.6435"
+     y="175.1"
+     style="color:#000000;font-size:26px;font-family:Verdana;overflow:visible;fill:#4e9a06;stroke-width:0.2px"
+     id="text20">3</text>
+  <text
+     x="91.9435"
+     y="205.1"
+     style="color:#000000;font-size:26px;font-family:Verdana;overflow:visible;fill:#4e9a06;stroke-width:0.2px"
+     id="text22">4</text>
+  <text
+     x="136.644"
+     y="113.1"
+     style="color:#000000;font-size:26px;font-family:Verdana;overflow:visible;fill:#729fcf;stroke-width:0.2px"
+     id="text24">5 6</text>
+  <text
+     x="136.444"
+     y="143.5"
+     style="color:#000000;font-size:26px;font-family:Verdana;overflow:visible;fill:#729fcf;stroke-width:0.2px"
+     id="text26">1 3 3 6 6</text>
+  <text
+     x="136.844"
+     y="173.7"
+     style="color:#000000;font-size:26px;font-family:Verdana;overflow:visible;fill:#729fcf;stroke-width:0.2px"
+     id="text28">0</text>
+  <text
+     x="136.444"
+     y="205.2"
+     style="color:#000000;font-size:26px;font-family:Verdana;overflow:visible;fill:#729fcf;stroke-width:0.2px"
+     id="text30">1</text>
+  <text
+     x="347.644"
+     y="185.4"
+     style="color:#000000;font-style:italic;font-size:21.9px;font-family:Georgia;overflow:visible;opacity:0.9;fill:#ff9900;stroke-width:0.92"
+     id="text32">&quot;32&quot;</text>
+  <text
+     x="290.344"
+     y="162.3"
+     style="color:#000000;font-style:italic;font-size:21.9px;font-family:Georgia;overflow:visible;opacity:0.9;fill:#ff9900;stroke-width:1"
+     id="text34">how to</text>
+  <text
+     x="73.7435"
+     y="81.2"
+     style="color:#000000;font-size:20px;font-family:Verdana;overflow:visible;fill:#4e9a06;stroke-width:0.2px"
+     id="text36">Stem</text>
+  <text
+     x="137.244"
+     y="81.2"
+     style="color:#000000;font-size:20px;font-family:Verdana;overflow:visible;fill:#729fcf;stroke-width:0.2px"
+     id="text38">Leaf</text>
+  <g
+     transform="rotate(7.54959,1946.13,1202.49)"
+     id="g44">
+    <path
+       d="m -0.5,419.3 c 3.4,-1.5 8.6,-2.8 5.1,-1.8 2.9,-0.3 5.4,-4.2 8.2,-2.1 3.2,1.1 -3.9,2.8 -5,3.7 -2.2,0.9 -5.3,1.7 -4.4,1.4 -1.2,0.6 -2.6,-1 -3.8,-1.3 z"
+       style="color:#000000;overflow:visible;opacity:0.9;fill:#ff9900;stroke-width:1.13"
+       id="path40"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 2.4,418.5 c 3.8,2 6.8,5.5 8,9.6 -2.2,0.9 -4.1,1.6 -4.4,-1.7 -0.4,-3 -6.7,-4.8 -5.5,-6.4 0.6,-0.5 1.2,-1 1.9,-1.5 z"
+       style="color:#000000;overflow:visible;opacity:0.9;fill:#ff9900;stroke-width:1"
+       id="path42"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="translate(34.277,-267.378)"
+     id="g50">
+    <path
+       d="m 158.9,433.9 c 3,-0.3 5.9,-1 8.7,-2.1 -1,0.4 -1.7,0.7 -0.3,0 1.4,-0.1 2.6,-2.3 3.9,-1.4 0.8,0.5 1.7,0.9 2.5,1.4 -1.6,0.9 -3.1,2 -4.9,2.6 -3.2,1.6 -6.8,2.4 -10.4,3 -1.5,0.3 -2.2,0 -1,-1.1 0.5,-0.8 1.1,-1.6 1.6,-2.4 z"
+       style="color:#000000;overflow:visible;fill:#ff9900;stroke-width:1.2"
+       id="path46"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 158.6,435.1 c 2.6,0.9 4.2,3.4 5.7,5.5 0.8,1.4 2.6,3.8 2.1,5.1 -1,0.3 -2,0.6 -2.9,0.9 -1,-3.2 -3,-6 -5.4,-8.3 -0.9,-0.9 -2.8,-0.7 -1.1,-1.8 0.5,-0.5 1.1,-1 1.6,-1.5 z"
+       style="color:#000000;overflow:visible;fill:#ff9900;stroke-width:1"
+       id="path48"
+       inkscape:connector-curvature="0" />
+  </g>
+  <path
+     d="m 124.444,171.9 c 63.4,24.1 96.4,19 145,-11.5 59.2,-46.5 71,-118.2 71,-118.2"
+     style="fill:none;stroke:#ff9900;stroke-width:3"
+     id="path52"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 194.144,169.6 c 22.1,2.1 40.1,3.3 70.7,-10.5 24,-10.8 41.1,-37.2 54.3,-58.6"
+     style="fill:none;stroke:#ff9900;stroke-width:3"
+     id="path54"
+     inkscape:connector-curvature="0" />
+  <text
+     x="292.744"
+     y="184.6"
+     style="color:#000000;font-style:italic;font-size:21.9px;font-family:Georgia;overflow:visible;opacity:0.9;fill:#ff9900;stroke-width:1"
+     id="text56">place</text>
+  <text
+     id="text869"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.666668px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;overflow:visible;fill:#75507b;stroke-width:0.2px"
+     y="30.9974"
+     x="37.4748">15,</text>
+  <text
+     id="text871"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.666668px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;overflow:visible;fill:#75507b;stroke-width:0.2px"
+     y="30.9974"
+     x="401.08">41</text>
+  <text
+     x="161.565"
+     y="30.9974"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.666668px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;overflow:visible;fill:#75507b;stroke-width:0.2px"
+     id="text873">23,</text>
+  <text
+     id="text875"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.666668px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;overflow:visible;fill:#75507b;stroke-width:0.2px"
+     y="30.9974"
+     x="367.269">32,</text>
+  <text
+     x="78.6223"
+     y="30.9974"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.666668px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;overflow:visible;fill:#75507b;stroke-width:0.2px"
+     id="text877">16,</text>
+  <text
+     id="text881"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.666668px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;overflow:visible;fill:#75507b;stroke-width:0.2px"
+     y="30.9974"
+     x="202.713">23,</text>
+  <text
+     id="text883"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.666668px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;overflow:visible;fill:#75507b;stroke-width:0.2px"
+     y="30.9974"
+     x="120.418">21,</text>
+  <text
+     id="text887"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.666668px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;overflow:visible;fill:#75507b;stroke-width:0.2px"
+     y="30.9974"
+     x="285.008">26,</text>
+  <text
+     id="text889"
+     style="color:#000000;font-size:26px;font-family:Verdana;overflow:visible;fill:#729fcf;stroke-width:0.2px"
+     y="174.286"
+     x="164.284">2</text>
+  <text
+     x="326.122"
+     y="30.9974"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.666668px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;overflow:visible;fill:#75507b;stroke-width:0.2px"
+     id="text847">30,</text>
+</svg>

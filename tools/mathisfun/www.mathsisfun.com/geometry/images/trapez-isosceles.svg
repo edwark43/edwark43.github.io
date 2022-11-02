@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="203.9"
+   height="121.6"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="trapez-isosceles.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview30"
+     showgrid="false"
+     inkscape:current-layer="svg28"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs8">
+    <marker
+       id="id2"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:black;stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       id="id1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:black;stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id15698"
+       inkscape:stockid="id15698">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#8f5902;stroke:#8f5902;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path881" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id22291"
+       inkscape:stockid="id22291">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#8f5902;stroke:#8f5902;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path884" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       inkscape:stockid="id22291539"
+       id="id22291539">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0084c8;stroke:#0084c8;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path946" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       inkscape:stockid="id156981034"
+       id="id156981034">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0084c8;stroke:#0084c8;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path949" />
+    </marker>
+  </defs>
+  <g
+     transform="translate(-1608.74,868.303)"
+     id="g12">
+    <image
+       sodipodi:absref="C:\Images\SVG\inkscape_pasted_image_20101001_094421.png"
+       xlink:href="../../Images/SVG/inkscape_pasted_image_20101001_094421.html"
+       id="image10"
+       height="787.4"
+       width="1305"
+       y="148.4"
+       x="-1413.5" />
+  </g>
+  <path
+     style="fill:#fefbe0;stroke:#3465a4;stroke-width:2.16;stroke-linecap:round"
+     d="m 2.06,114.503 h 200.5 L 156.46,7.203 H 48.16 Z"
+     id="path14" />
+  <path
+     style="fill:#0084c8;stroke:#0084c8;stroke-width:1.41px;marker-end:url(#id22291539)"
+     d="m 100.26,114.403 h 11.9"
+     id="path18" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.54px"
+     d="m 48.16,7.203 h 108.3"
+     id="path20" />
+  <path
+     style="color:#000000;overflow:visible;fill:none;stroke:#013397;stroke-width:1"
+     d="m 16.86,79.703 a 37.8,37.8 0 0 1 23,34.8 H 2.06 Z"
+     id="path22" />
+  <path
+     style="color:#000000;overflow:visible;fill:none;stroke:#013397;stroke-width:1"
+     d="m 187.76,79.703 a -37.8,37.8 0 0 0 -23,34.8 h 37.8 z"
+     id="path24" />
+  <path
+     style="fill:#0084c8;stroke:#0084c8;stroke-width:1.41px;marker-end:url(#id156981034)"
+     d="m 100.26,7.203 h 11.9"
+     id="path16" />
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="358.4" height="57.5" version="1.1">
+<defs>
+</defs>
+<rect x="56.4" y="23.8" ry="16.3" width="89.8" height="32.6" style="overflow:visible; fill:#fff8ff; stroke:#0197fd; stroke-width:2.32; stroke-linecap:round;"/>
+<rect x="206.5" y="23.5" ry="16.3" width="89.8" height="32.6" style="overflow:visible; fill:#fffff0; stroke:#0197fd; stroke-width:2.32; stroke-linecap:round;"/>
+<g transform="matrix(0.231133,0,0,0.228492,722.53,-213.98)">
+<path style="overflow:visible; fill:#d9bb7a; stroke-width:4.64; stroke-linecap:round;" d="m -1842.2,1092.3 c 70.8,9 142.6,-1.6 213.7,-3.2 -4.8,36.6 -33.4,37.9 -63.9,35.6 -54.6,3.2 -109.9,4.1 -164.3,2.3 4.8,-11.6 9.6,-23.1 14.4,-34.7 z"/>
+<path style="overflow:visible; fill:#d9bb7a; stroke-width:4.64; stroke-linecap:round;" d="m -1709.9,1034 c 33.8,23.7 66.3,51.1 105.2,66.2 -12.1,38.5 -39.7,28.5 -64.1,7.1 -14.1,-19.9 -79.3,-32.5 -54.8,-57.1 4.6,-5.4 9.1,-10.7 13.7,-16.1 z"/>
+<path style="overflow:visible; fill:#d9bb7a; stroke-width:4.64; stroke-linecap:round;" d="m -1712,1149.3 c 34.5,-29 76.6,-45.1 117.8,-61.8 0.7,33.6 -23.4,45.3 -51.9,53.1 -24.4,-0.8 -74,64.1 -68.4,29.5 0.8,-6.9 1.7,-13.9 2.5,-20.8 z"/>
+</g>
+<g transform="matrix(0.231133,0,0,0.228492,672.88,-284.7)">
+<path style="overflow:visible; fill:#0169c9; stroke-width:4.64; stroke-linecap:round;" d="m -2898.4,1408.7 c 64.1,4.8 128.4,5.8 192.6,5.1 -10.7,60.7 -86.3,18.3 -128,29.6 -34.3,-11.8 -106.8,24.4 -64.6,-34.7 z"/>
+<path style="overflow:visible; fill:#0169c9; stroke-width:4.64; stroke-linecap:round;" d="m -2768.1,1355.6 c 24.1,29.5 61,43.8 96.4,54.3 -11.6,51.6 -55.3,16.7 -85.3,2.1 -32.3,-22.4 -51.2,-27 -11.1,-56.4 z"/>
+<path style="overflow:visible; fill:#0169c9; stroke-width:4.64; stroke-linecap:round;" d="m -2798,1481.5 c 35.2,-43.2 90.3,-65.5 143.9,-75.7 -1.3,37.5 -31.9,39.7 -60.7,48.6 -33.6,8.7 -73.4,53.3 -51.4,22.9 -10.6,1.4 -21.3,2.8 -31.9,4.2 z"/>
+</g>
+<g transform="matrix(0.251527,0,0,0.228492,864.19,-275.6)">
+<path style="overflow:visible; fill:#fdca01; stroke-width:4.64; stroke-linecap:round;" d="m -2853.7,1367 c 64.1,4.8 128.4,5.8 192.6,5.1 -8.9,57 -76.6,20.8 -115.6,29.8 -33.1,-13.2 -122.5,26.8 -77,-34.9 z"/>
+<path style="overflow:visible; fill:#fdca01; stroke-width:4.64; stroke-linecap:round;" d="m -2723.5,1313.9 c 24.1,29.4 61,43.8 96.4,54.3 -11.7,51.1 -55.2,17 -85.3,2.1 -32.8,-19.5 -49.2,-31.3 -11.1,-56.4 z"/>
+<path style="overflow:visible; fill:#fdca01; stroke-width:4.64; stroke-linecap:round;" d="m -2753.3,1439.8 c 35.2,-43.3 90.3,-65.4 143.9,-75.7 -1.7,34.6 -26.9,40.6 -55.5,46.5 -33.5,7 -80.6,56.3 -56.4,24.9 -10.7,1.4 -21.4,2.8 -32.1,4.2 z"/>
+</g>
+<text x="61.9" y="45.1" style="font-family:'Comic Sans MS'; font-size:16px; overflow:visible; fill:#121513; stroke-width:2.32; stroke-linecap:round;">2(input)+3</text>
+<text x="222.6" y="45.9" style="font-family:'Comic Sans MS'; font-size:16px; overflow:visible; fill:#121513; stroke-width:2.32; stroke-linecap:round;">(input)</text>
+<text x="272" y="35.7" style="font-family:'Comic Sans MS'; font-size:13px; overflow:visible; fill:#121513; stroke-width:2.32; stroke-linecap:round;">2</text>
+<text x="155.8" y="20.7" style="font-family:'Comic Sans MS'; font-size:16px; overflow:visible; fill:#0169c9; stroke-width:2.32; stroke-linecap:round;">2x+3</text>
+<text x="11.7" y="20.7" style="font-family:'Comic Sans MS'; font-size:16px; overflow:visible; fill:#0169c9; stroke-width:2.32; stroke-linecap:round;">x</text>
+<text x="303" y="19.1" style="font-family:'Comic Sans MS'; font-size:16px; overflow:visible; fill:#0169c9; stroke-width:2.32; stroke-linecap:round;">(2x+3)</text>
+<text x="351.4" y="9.8" style="font-family:'Comic Sans MS'; font-size:13px; overflow:visible; fill:#0169c9; stroke-width:2.32; stroke-linecap:round;">2</text>
+</svg>

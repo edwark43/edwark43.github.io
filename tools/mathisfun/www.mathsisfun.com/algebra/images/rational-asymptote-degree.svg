@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="646.9" height="283.9" version="1.1" style="font-family:'Comic Sans MS'; font-size:14.7px; fill:#b3defd; stroke-width:1.9;">
+<defs>
+</defs>
+<rect x="563.8" y="177.8" ry="15.1" width="81.6" height="30.2" style="stroke:#b3defd; stroke-width:2.97;"/>
+<rect x="563.8" y="111.8" ry="15.1" width="81.6" height="30.2" style="stroke:#b3defd; stroke-width:2.97;"/>
+<rect x="563.8" y="46.5" ry="15.1" width="81.6" height="30.2" style="stroke:#b3defd; stroke-width:2.97;"/>
+<rect x="563.8" y="242" ry="15.1" width="81.6" height="30.2" style="stroke:#b3defd; stroke-width:2.97;"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:1.04;" d="m 352.4,58.1 c 16.5,0.2 33,0 49.5,1 3.1,0 6.3,1.1 9.4,0.6 2.5,-1.3 2.6,-4.7 3.5,-7.1 0.2,-1 1.1,-2.9 2.3,-1.6 2.2,2.7 5.5,4.4 8.9,4.8 9.8,1.4 19.8,1.2 29.8,1.5 7.1,0.1 14.3,0.1 21.4,0.2"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#a7a9ac; stroke-width:0.79;" d="m 352.2,58 h 123.8"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#a7a9ac; stroke-width:0.79;" d="M 414.9,85.5 V 25.9"/>
+<path style="stroke:#b3defd; stroke-width:4.48; stroke-dasharray:9, 4.5;" d="m 216,34.7 v 226.3"/>
+<path style="fill:#ffff00; stroke:#b3defd; stroke-width:4.48; stroke-dasharray:9, 4.5;" d="m 26.5,34.3 v 226.1"/>
+<path style="stroke:#b3defd; stroke-width:4.48; stroke-dasharray:9, 4.5;" d="m 27.7,125.9 h 188.5"/>
+<path style="stroke:#b3defd; stroke-width:4.48; stroke-dasharray:9, 4.5;" d="m 27.7,60.3 h 188.5"/>
+<path style="stroke:#b3defd; stroke-width:4.48; stroke-dasharray:9, 4.5;" d="m 27.7,257.2 h 188.5"/>
+<path style="stroke:#b3defd; stroke-width:4.48; stroke-dasharray:9, 4.5;" d="m 27.7,191.6 h 188.5"/>
+<rect x="48.1" y="176" ry="15.1" width="148" height="30.2" style="fill:#0169c9; stroke:#b3defd; stroke-width:2.97;"/>
+<rect x="48.1" y="110.6" ry="15.1" width="148" height="30.2" style="fill:#0169c9; stroke:#b3defd; stroke-width:2.97;"/>
+<rect x="48.1" y="45.2" ry="15.1" width="148" height="30.2" style="fill:#0169c9; stroke:#b3defd; stroke-width:2.97;"/>
+<rect x="48.1" y="241.3" ry="15.1" width="148" height="30.2" style="fill:#0169c9; stroke:#b3defd; stroke-width:2.97;"/>
+<text x="26.3" y="12.5" style="text-align:center; text-anchor:middle; fill:#0169c9;">Degree</text>
+<text x="214.5" y="13.3" style="text-align:center; text-anchor:middle; fill:#f44800;">Degree</text>
+<text x="121.7" y="65" style="text-align:center; text-anchor:middle; fill:white;">less than</text>
+<text x="122.4" y="129" style="text-align:center; text-anchor:middle; fill:white;">equal</text>
+<text x="121.8" y="194.8" style="text-align:center; text-anchor:middle; fill:white;">1 greater</text>
+<text x="121.9" y="261" style="text-align:center; text-anchor:middle; fill:white;">more than 1 greater</text>
+<text x="512.6" y="124.8" style="text-align:center; text-anchor:middle; font-size:13.3px; fill:#0169c9;">3001</text>
+<text x="513" y="142.6" style="text-align:center; text-anchor:middle; font-size:13.3px; fill:#f44800;">4001</text>
+<text x="604.7" y="67" style="text-align:center; text-anchor:middle; fill:#f44800;">0</text>
+<text x="601.3" y="197.7" style="text-align:center; text-anchor:middle; fill:#f44800;">x -</text>
+<text x="604.4" y="261.3" style="text-align:center; text-anchor:middle; fill:#f44800;">(none)</text>
+<text x="309.3" y="325.7" style="text-align:center; text-anchor:middle; fill:#f44800;"> </text>
+<g transform="matrix(0.297,0,0,0.297,-79.4858,-248.916)">
+	<path style="stroke-width:15.1;" d="m 1059.9,1261.8 c 25.3,-17.4 58.2,-16.6 85.7,-5.4 10.9,8.7 34.1,-9.2 35.8,6.2 -6.1,10.3 -32.2,5.9 -44.5,2 -23,-9.3 -50.5,-8.4 -71.3,5.9 -1.9,-2.9 -3.8,-5.8 -5.7,-8.7 z"/>
+	<path style="stroke-width:15.1;" d="m 1143.9,1229.5 c 12.8,12.3 26.5,26.4 44.9,29.1 0.7,9.3 -3.5,12.8 -11.8,7.7 -16,-5.6 -28.2,-17.8 -40.2,-29.2 2.4,-2.5 4.7,-5.1 7.1,-7.6 z"/>
+	<path style="stroke-width:15.1;" d="m 1139.1,1284.3 c 13,-13.4 29.8,-22.4 47.9,-26.4 8.1,12.2 -5.1,12 -13.9,15.2 -12.8,0.7 -23,26.1 -32.9,12.3 l -1.1,-1 v 0 0 z"/>
+</g>
+<g transform="matrix(0.297,0,0,0.297,-79.3358,-183.426)">
+	<path style="stroke-width:15.1;" d="m 1059.9,1261.8 c 25.3,-17.4 58.2,-16.6 85.7,-5.4 10.9,8.7 34.1,-9.2 35.8,6.2 -6.1,10.3 -32.2,5.9 -44.5,2 -23,-9.3 -50.5,-8.4 -71.3,5.9 -1.9,-2.9 -3.8,-5.8 -5.7,-8.7 z"/>
+	<path style="stroke-width:15.1;" d="m 1143.9,1229.5 c 12.8,12.3 26.5,26.4 44.9,29.1 0.7,9.3 -3.5,12.8 -11.8,7.7 -16,-5.6 -28.2,-17.8 -40.2,-29.2 2.4,-2.5 4.7,-5.1 7.1,-7.6 z"/>
+	<path style="stroke-width:15.1;" d="m 1139.1,1284.3 c 13,-13.4 29.8,-22.4 47.9,-26.4 8.1,12.2 -5.1,12 -13.9,15.2 -12.8,0.7 -23,26.1 -32.9,12.3 l -1.1,-1 v 0 0 z"/>
+</g>
+<g transform="matrix(0.297,0,0,0.297,-78.5558,-118.256)">
+	<path style="stroke-width:15.1;" d="m 1059.9,1261.8 c 25.3,-17.4 58.2,-16.6 85.7,-5.4 10.9,8.7 34.1,-9.2 35.8,6.2 -6.1,10.3 -32.2,5.9 -44.5,2 -23,-9.3 -50.5,-8.4 -71.3,5.9 -1.9,-2.9 -3.8,-5.8 -5.7,-8.7 z"/>
+	<path style="stroke-width:15.1;" d="m 1143.9,1229.5 c 12.8,12.3 26.5,26.4 44.9,29.1 0.7,9.3 -3.5,12.8 -11.8,7.7 -16,-5.6 -28.2,-17.8 -40.2,-29.2 2.4,-2.5 4.7,-5.1 7.1,-7.6 z"/>
+	<path style="stroke-width:15.1;" d="m 1139.1,1284.3 c 13,-13.4 29.8,-22.4 47.9,-26.4 8.1,12.2 -5.1,12 -13.9,15.2 -12.8,0.7 -23,26.1 -32.9,12.3 l -1.1,-1 v 0 0 z"/>
+</g>
+<g transform="matrix(0.297,0,0,0.297,-77.2958,-314.786)">
+	<path style="stroke-width:15.1;" d="m 1059.9,1261.8 c 25.3,-17.4 58.2,-16.6 85.7,-5.4 10.9,8.7 34.1,-9.2 35.8,6.2 -6.1,10.3 -32.2,5.9 -44.5,2 -23,-9.3 -50.5,-8.4 -71.3,5.9 -1.9,-2.9 -3.8,-5.8 -5.7,-8.7 z"/>
+	<path style="stroke-width:15.1;" d="m 1143.9,1229.5 c 12.8,12.3 26.5,26.4 44.9,29.1 0.7,9.3 -3.5,12.8 -11.8,7.7 -16,-5.6 -28.2,-17.8 -40.2,-29.2 2.4,-2.5 4.7,-5.1 7.1,-7.6 z"/>
+	<path style="stroke-width:15.1;" d="m 1139.1,1284.3 c 13,-13.4 29.8,-22.4 47.9,-26.4 8.1,12.2 -5.1,12 -13.9,15.2 -12.8,0.7 -23,26.1 -32.9,12.3 l -1.1,-1 v 0 0 z"/>
+</g>
+<text x="601.9" y="28.1" style="text-align:center; text-anchor:middle; fill:#121513; stroke-width:15.1;">Asymptote</text>
+<text x="581.3" y="208" style="text-align:center; text-anchor:middle; fill:#f44800; stroke-width:0.56;">4</text>
+<text x="581.5" y="190.2" style="text-align:center; text-anchor:middle; fill:#0169c9; stroke-width:0.56;">3</text>
+<path style="fill:#121513; stroke:#121513; stroke-width:1.25;" d="m 573.1,193.9 h 16.6"/>
+<text x="626.8" y="208.1" style="text-align:center; text-anchor:middle; fill:#f44800; stroke-width:0.56;">16</text>
+<text x="627" y="190.3" style="text-align:center; text-anchor:middle; fill:#0169c9; stroke-width:0.56;">3</text>
+<path style="fill:#121513; stroke:#121513; stroke-width:1.25;" d="m 618.6,194 h 16.6"/>
+<text x="604.7" y="142.2" style="text-align:center; text-anchor:middle; fill:#f44800; stroke-width:0.56;">4</text>
+<text x="604.7" y="124.7" style="text-align:center; text-anchor:middle; fill:#0169c9; stroke-width:0.56;">3</text>
+<path style="fill:#121513; stroke:#121513; stroke-width:1.25;" d="m 596.3,128.4 h 16.6"/>
+<text x="318.7" y="141.8" style="text-align:center; text-anchor:middle; fill:#f44800; stroke-width:0.56;">4x+1</text>
+<text x="319.6" y="122.6" style="text-align:center; text-anchor:middle; fill:#0169c9; stroke-width:0.56;">3x+1</text>
+<path style="fill:#121513; stroke:#121513; stroke-width:1.25;" d="m 298.4,126.6 h 45.2"/>
+<text x="321" y="182.5" style="text-align:center; text-anchor:middle; font-size:12px; fill:#0169c9; stroke-width:0.56;">2</text>
+<text x="318.7" y="208.2" style="text-align:center; text-anchor:middle; fill:#f44800; stroke-width:0.56;">4x+1</text>
+<text x="319.6" y="189" style="text-align:center; text-anchor:middle; fill:#0169c9; stroke-width:0.56;">3x  +1</text>
+<path style="fill:#121513; stroke:#121513; stroke-width:1.25;" d="m 298.4,193 h 45.2"/>
+<text x="319.9" y="78.8" style="text-align:center; text-anchor:middle; fill:#f44800; stroke-width:0.56;">4x  +1</text>
+<text x="320.2" y="57.7" style="text-align:center; text-anchor:middle; fill:#0169c9; stroke-width:0.56;">3x+1</text>
+<path style="fill:#121513; stroke:#121513; stroke-width:1.25;" d="m 298.4,61.2 h 45.2"/>
+<text x="321.3" y="73.4" style="text-align:center; text-anchor:middle; font-size:12px; fill:#f44800; stroke-width:0.56;">2</text>
+<text x="318.6" y="246.9" style="text-align:center; text-anchor:middle; font-size:12px; fill:#0169c9; stroke-width:0.56;">3</text>
+<text x="316.5" y="272.1" style="text-align:center; text-anchor:middle; fill:#f44800; stroke-width:0.56;">4x+1</text>
+<text x="317.5" y="252.8" style="text-align:center; text-anchor:middle; fill:#0169c9; stroke-width:0.56;">3x  +1</text>
+<path style="fill:#121513; stroke:#121513; stroke-width:1.25;" d="m 296.2,256.9 h 45.2"/>
+<text x="319" y="28.8" style="text-align:center; text-anchor:middle; fill:#121513;">Example</text>
+<text x="512.6" y="61.9" style="text-align:center; text-anchor:middle; font-size:13.3px; fill:#0169c9;">3001</text>
+<text x="513" y="79.1" style="text-align:center; text-anchor:middle; font-size:13.3px; fill:#f44800;">4000001</text>
+<text x="512.6" y="191.7" style="text-align:center; text-anchor:middle; font-size:13.3px; fill:#0169c9;">30000001</text>
+<text x="513" y="209" style="text-align:center; text-anchor:middle; font-size:13.3px; fill:#f44800;">4001</text>
+<text x="512.6" y="254.3" style="text-align:center; text-anchor:middle; font-size:13.3px; fill:#0169c9;">3000000001</text>
+<text x="513" y="274.5" style="text-align:center; text-anchor:middle; font-size:13.3px; fill:#f44800;">4001</text>
+<path style="fill:#121513; stroke:#121513; stroke-width:1.25;" d="m 487.2,65.1 h 49.5"/>
+<path style="fill:#121513; stroke:#121513; stroke-width:1.25;" d="m 498.4,128.2 h 28.9"/>
+<path style="fill:#121513; stroke:#121513; stroke-width:1.25;" d="m 484.1,195.1 h 56.2"/>
+<path style="fill:#121513; stroke:#121513; stroke-width:1.25;" d="m 478.2,259.4 h 69.3"/>
+<text x="512.3" y="28.1" style="text-align:center; text-anchor:middle; fill:#121513; stroke-width:15.1;">x=1000</text>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#a7a9ac; stroke-width:0.79;" d="m 356.1,259.1 h 117.5"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#a7a9ac; stroke-width:0.79;" d="m 418.8,284.2 v -59.4"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#a7a9ac; stroke-width:0.79;" d="m 353.6,192.5 h 120.1"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#a7a9ac; stroke-width:0.79;" d="m 416.3,218.6 v -58.8"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#a7a9ac; stroke-width:0.79;" d="m 353.9,125.3 h 120.1"/>
+<path style="fill:#2e3436; fill-opacity:0.75; stroke:#a7a9ac; stroke-width:0.79;" d="M 416.6,152.1 V 92.4"/>
+<rect x="359.8" y="224.2" width="109.9" height="58.9" style="fill:none; stroke:#0197fd; stroke-width:1.49;"/>
+<rect x="359.8" y="159.3" width="109.9" height="58.9" style="fill:none; stroke:#0197fd; stroke-width:1.49;"/>
+<rect x="359.8" y="92.9" width="109.9" height="58.9" style="fill:none; stroke:#0197fd; stroke-width:1.49;"/>
+<rect x="359.8" y="25.8" width="109.9" height="58.9" style="fill:none; stroke:#0197fd; stroke-width:1.49;"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:1.04;" d="m 404.4,224.3 c 2.1,9.7 4.6,19.4 8.5,28.6 1.7,3.9 4.1,7.7 4.3,12.2 0.8,9.6 0.5,19.2 0.6,28.9 v 5.5"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:1.04;" d="m 418.2,224.2 c 0.1,8.4 0.1,16.7 0.5,25.1 0.4,2.3 0.2,5.1 1.9,7 1.6,1.2 3.4,-0.7 4.4,-1.9 3.5,-5 5.2,-11 7,-16.7 1.3,-4.5 2.4,-8.9 3.4,-13.5"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:1.04;" d="m 413.4,159.4 0.1,3.9 0.2,13.6 0.2,5.1 0.2,2.6 0.2,1.6 0.2,1 0.2,0.7 0.2,0.5 0.2,0.4 0.2,0.2 0.2,0.2 0.3,0.1 0.2,0.1 h 0.2 l 0.2,0.1 h 0.2 0.2 l 0.2,-0.1 h 0.2 l 0.2,-0.1 0.2,-0.1 h 0.2 l 0.2,-0.1 0.3,-0.1 0.2,-0.1 0.2,-0.1 0.2,-0.1 0.2,-0.1 0.2,-0.1 0.2,-0.1 0.2,-0.1 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.1 0.2,-0.1 0.3,-0.2 0.2,-0.1 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.1 0.3,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.3,-0.2 0.2,-0.1 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.3,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.3,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.3,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.3,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.3,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.2 0.3,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.2 0.2,-0.1 0.3,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.2 0.2,-0.1 0.3,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.3,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.3,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.3,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.3,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.2 0.2,-0.1 0.2,-0.2 0.2,-0.1 h 0.1"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:1.04;" d="m 381.7,218.2 c 6.6,-4.9 13.3,-9.8 20.1,-14.6 2.5,-1.6 4.9,-3.6 7.9,-4.3 2.1,-0.1 2.3,2.5 2.5,3.9 0.5,5 0.6,10 0.7,15.1"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:1.04;" d="m 415.3,89 c 0.2,9.5 0,18.9 0.4,28.4 -0.1,1.8 1,3.7 3,3.6 8.8,0.7 17.6,0.3 26.4,0.4 11.3,0 22.6,0 33.9,0 m -124.8,0.1 c 18.4,0.1 36.8,-0.1 55.1,0.3 2,0.1 5.2,0 5.4,2.7 0.4,2.6 0.5,28.6 0.6,31.2"/>
+<text x="26.3" y="29.3" style="text-align:center; text-anchor:middle; fill:#0169c9;">of Top</text>
+<text x="214.5" y="30.1" style="text-align:center; text-anchor:middle; fill:#f44800;">of Bottom</text>
+</svg>

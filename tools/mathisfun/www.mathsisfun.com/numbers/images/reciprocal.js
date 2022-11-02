@@ -1,0 +1,12 @@
+function reciprocalMain(numer,denom){this.version='0.76';this.numer=typeof numer!=='undefined'?numer:'3';this.denom=typeof denom!=='undefined'?denom:'4';w=150;h=150;var s="";s+='<div style="position:relative; width:'+w+'px; min-height:'+h+'px; border: none; border-radius: 20px; background-color: #eeeeff; margin:auto; display:block;">';s+='<div id="numer" style="font: bold 36px Arial; color: blue; position:absolute; left:0; top:10px; width:100px; text-align:center; transition: all linear 1s; z-index: 100;">'+this.numer+'</div>';s+='<div id="line" style="position:absolute; left:45px; top:60px; width:50px; height:3px; background: black;"></div>';s+='<div id="denom" style="font: bold 36px Arial; color: red; position:absolute; left:0; top:70px; width:100px; text-align:center; transition: all linear 1s; z-index: 100;">'+this.denom+'</div>';s+='<div id="descr" style="font: bold 16px Arial; color: black; position:absolute; left:0; top:120px; width: 150px; text-align:center; transition: all linear 0.3s; z-index: 100;">A Fraction</div>';s+='</div>';document.write(s);this.frame=0;topPt=new Point(20,15);botPt=new Point(20,65);midPt=new Point((topPt.x+botPt.x)/2,(topPt.y+botPt.x)/2);midLtPt=new Point(midPt.x-30,midPt.y);midRtPt=new Point(midPt.x+30,midPt.y);animate();}
+function animate(){this.frame=(++this.frame)%520;if(this.frame==1){document.getElementById("descr").innerHTML="A Fraction";placeId('numer',topPt.x,topPt.y);placeId('denom',botPt.x,botPt.y);}
+if(this.frame==70){placeId('numer',midLtPt.x,midLtPt.y);placeId('denom',midRtPt.x,midRtPt.y);}
+if(this.frame==120){document.getElementById("descr").style.opacity=0;placeId('numer',botPt.x,botPt.y);placeId('denom',topPt.x,topPt.y);}
+if(this.frame==150){document.getElementById("descr").innerHTML="Its Reciprocal";document.getElementById("descr").style.opacity=1;}
+if(frame==370){placeId('numer',midLtPt.x,midLtPt.y);placeId('denom',midRtPt.x,midRtPt.y);}
+if(this.frame==420){document.getElementById("descr").style.opacity=0;placeId('numer',topPt.x,topPt.y);placeId('denom',botPt.x,botPt.y);}
+if(frame==450){document.getElementById("descr").innerHTML="A Fraction";document.getElementById("descr").style.opacity=1;}
+requestAnimationFrame(animate);}
+function placeId(id,x,y){var div=document.getElementById(id);div.style.left=x+'px';div.style.top=y+'px';}
+function Point(x,y){this.x=x;this.y=y;}
+Point.prototype.set=function(x,y){this.x=x;this.y=y;};

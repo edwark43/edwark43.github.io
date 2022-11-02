@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/calculus/differential-equations.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:23 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Differential Equations - Introduction</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents.">
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js"></script>
+<script>document.write(gTagHTML())</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+<h1 class="center">Differential Equations</h1>
+
+<p>A <span class="center">Differential Equation is a</span>n equation with a <a href="../sets/function.html">function</a> and one or more of its <a href="derivatives-introduction.html">derivatives</a>:</p>
+			<p class="center"><img src="images/diff-eq-1.svg" alt="differential equation y + dy/dx = 5x"><br>
+Example: an equation with the function <b>y</b> and its 
+	
+	derivative<b>
+						<span class="intbl">
+							<em>dy</em>
+							<strong>dx</strong>
+						</span>
+	</b>	&nbsp;</p>
+			<h2>Solving</h2>
+<p>We <b>solve</b> it when we discover  <b>the function</b> <b>y</b> (or  set of functions y).</p>
+<p>There are many "tricks"  to solving Differential Equations (<i>if</i> they can be solved!).</p>
+<p>But first: why?</p>
+<h2>Why Are Differential Equations Useful?</h2>
+			<p>In our world things change, and <b>describing how they change</b>  often ends up as a Differential Equation:</p>
+			<div class="example">
+				<p style="float:right; margin: 0 0 5px 10px;"><img src="images/rabbits.jpg" alt="rabbits" height="147" width="200"></p>
+				<h3>Example: Rabbits!</h3>
+				<p>The more rabbits we have the more baby rabbits we get.</p>
+<p>Then those rabbits grow up and have babies too! The population will grow faster and faster.</p>
+<p>The important parts of this are:</p>
+				<ul>
+					<li>the population <b>N</b> at any time <b>t</b></li>
+					<li>the growth rate <b>r</b></li>
+					<li>the population's rate of change <b><span class="intbl"><em>dN</em><strong>dt</strong></span></b></li>
+        </ul>
+<p>Think of <b><span class="intbl"><em>dN</em><strong>dt</strong></span></b> as "how much the population changes as time changes, for any moment in time".</p>
+        
+        
+<p><br></p>
+<p>Let us imagine the growth rate <b>r</b> is <b>0.01</b> new rabbits per week <b>for every current rabbit.</b></p>
+
+<p>When the population is <b>1000</b>, the rate of change <b><span class="intbl"><em>dN</em><strong>dt</strong></span></b><span class="center"></span> is then 1000×0.01 = <b>10 new rabbits</b> per week.</p>
+<p>But that is only true at a <b>specific time</b>, and doesn't include that the population is constantly increasing. The bigger the population, the more new rabbits we get!</p>
+<p>When the population is <b>2000</b> we get 2000×0.01 = <b>20 new rabbits</b> per week, etc.</p>
+<p>So it is better to say  the rate of change (at any instant) is the growth rate times the population at that instant:</p>
+<p class="center large"><span class="intbl"><em>dN</em><strong>dt</strong></span> = rN</p>
+<p>And that is a <b>Differential Equation</b>, because it has a function <b>N(t)</b> and its derivative.</p>
+				<p>&nbsp;</p>
+				<p>And how powerful mathematics is! That short equation says "the rate of change of the population  over time equals the growth  rate times the population".</p>
+			</div>
+			<p><span class="center">Differential</span> Equations can describe how populations change, how heat moves, how springs vibrate, how radioactive material decays and much more. They are a   very natural way to describe many things in the universe.</p>
+			<h2>What To Do With Them?</h2>
+<p>On its own<span class="center">, a Differential</span> Equation is a wonderful way to express something, but is hard to use.</p>
+<p>So we try to <b>solve</b> them by turning the <span class="center">Differential</span> Equation into a simpler  equation without the differential bits, so  we can do calculations, make graphs, predict the future, and so on.</p>
+<div class="example">
+	<p style="float:right; margin: 0 0 5px 10px;"><img src="../money/images/coin-stack-add.jpg" alt="coin stack add" height="140" width="106"></p>
+	<h3>Example:  Compound Interest</h3>
+	<p>Money earns interest. The interest can be calculated at fixed times, such as yearly, monthly, etc. and added to the original amount.</p>
+	<p>This is called <a href="../money/compound-interest.html">compound interest</a>.</p>
+	<p>But when it is  compounded <b>continuously</b> then at any  time the interest gets added in proportion to the current value of the loan (or  investment).</p>
+	<p>And as the loan grows it earns more interest.</p>
+	<p>Using <b>t</b> for time, <b>r</b> for the interest rate and <b>V</b> for the current value of the loan:</p>
+<p class="center large"><span class="intbl"><em>dV</em><strong>dt</strong></span> = rV</p>
+<p>&nbsp;</p>
+	<p><i>And here is a  cool thing: it is the same as the  equation we got with the Rabbits! It just has different letters. So mathematics shows us these two things behave the same.</i></p>
+	<p>&nbsp;</p>
+	<p><b>Solving</b></p>
+	<p>The <span class="center">Differential</span> Equation says it well, but is hard to use.</p>
+	<p>But don't worry, it can be solved (using a special method called <span class="center"><a href="separation-variables.html">Separation of Variables</a></span>) and results in:</p>
+	<p class="center larger">V = Pe<sup>rt</sup></p>
+	<p>Where <b>P</b> is the Principal (the original loan), and e is <a href="../numbers/e-eulers-number.html">Euler's Number</a>.</p>
+	<p>So a continuously compounded loan of $1,000 for 2 years at an interest rate of 10% becomes:</p>
+
+<div class="tbl">
+<div class="row"><span class="left">V =</span><span class="right"> 1000 × e<sup>(2×0.1)</sup></span></div>
+<div class="row"><span class="left">V =</span><span class="right"> 1000 × 1.22140...</span></div>
+<div class="row"><span class="left">V =</span><span class="right"> $1,221.40 (to the nearest cent)</span></div>
+</div>
+
+	</div>
+<p>So <span class="center">Differential</span> Equations are great at describing things, but need to be solved to be useful.</p>
+<h2>More Examples of Differential Equations</h2>
+<h3>The Verhulst Equation</h3>
+<div class="example">
+	<p style="float:right; margin: 0 0 5px 10px;"><img src="images/rabbits.jpg" alt="rabbits" height="147" width="200"></p>
+	<h3>Example: Rabbits Again!</h3>
+	<p>Remember our growth Differential Equation:</p>
+	<p class="center large"><span class="intbl"><em>dN</em><strong>dt</strong></span> = rN</p>
+	<div style="clear:both"></div>
+	
+	<p>Well, that growth can't go on forever as  they will soon run out of available food.</p>
+<p>So let's improve it by	including:</p>
+	<ul>
+		<li>the maximum population that the food can support <b>k</b></li>
+</ul>
+	<p>A guy called Verhulst figured it all out and got  this Differential Equation:</p>
+	<p class="center large"><span class="intbl"><em>dN</em><strong>dt</strong></span> = rN(1−N/k)</p>
+	
+	<p class="center"><i><b>The Verhulst Equation</b></i></p>
+
+</div>
+<h3>Simple Harmonic Motion</h3>
+<p>In Physics, Simple Harmonic Motion is a type of periodic motion where the restoring force is  directly proportional to the displacement. An example of this is given by a mass on a spring.</p>
+<div class="example">
+	<p style="float:right; margin: 0 0 5px 10px;"><img src="images/spring-mass.svg" alt="spring mass"></p>
+	<h3>Example: Spring and Weight</h3>
+	<p>A spring gets a weight attached to it:</p>
+	<ul>
+		<li>the weight gets pulled down due to gravity,</li>
+		<li>as the spring stretches its tension increases,</li>
+		<li>the weight slows down,</li>
+		<li>then the  spring's tension pulls it  back up,</li>
+		<li>then it falls back down, up and down, again and again.</li>
+	</ul>
+	<p>Describe this with mathematics!</p>
+	<p>&nbsp;</p>
+	<p><b>The weight</b> is pulled down by gravity, and we know from <a href="../physics/force.html">Newton's Second Law</a> that force equals mass times acceleration:</p>
+	<p class="center"><b>F</b> = m<b>a</b></p>
+	<p>And <a href="../measure/metric-acceleration.html">acceleration</a> is the <a href="second-derivative.html">second derivative</a> of position with respect to time, so:</p>
+<p class="center large"><b>F</b> = m <span class="intbl"><em>d<sup>2</sup>x</em><strong>dt<sup>2</sup>
+</strong></span></p>
+		
+	<p>&nbsp;</p>
+	<p><b>The spring</b> pulls it back up based on how stretched it is (<b>k</b> is the spring's stiffness, and <b>x</b> is how stretched it is): <b>F = -kx</b></p>
+	<p>The two forces are always equal:</p>
+<p class="center large">m <span class="intbl"><em>d<sup>2</sup>x</em><strong>dt<sup>2</sup>
+</strong></span> = −kx</p>
+		
+	<p>We have a differential equation!</p>
+	<p>It has a function <b>x(t)</b>, and it's second derivative<b> <span class="intbl">
+		<em>d<sup>2</sup>x</em>
+		<strong>dt<sup>2</sup></strong>
+	</span></b></p>
+	<p>&nbsp;</p>
+	<p><i>Note: we haven't  included "damping" (the slowing down of the bounces due to friction), which is  a little more complicated, but you can play with it here (press <b>play</b>):</i></p>
+	<iframe src="../physics/ispring.html" scrolling="no" style="width:362px; height:392px; overflow:hidden; margin:auto; display:block; border: none;"></iframe>
+
+	
+	
+</div><p>&nbsp;</p>
+<p><b>Creating</b> a  differential equation is the first major step. But we also need to <b>solve</b> it to discover  how, for example, the spring bounces up and down over time.</p>
+<h2>Classify Before Trying To Solve</h2>
+<p>So how do we  <b>solve</b> them?</p>
+<p style="float:left; margin: 0 10px 5px 0;"><img src="../measure/images/walking.jpg" alt="walking" height="200" width="101"></p>
+<p>It isn't always easy!</p>
+<p>Over the years wise people have worked out <b>special methods</b> to solve <b>some types</b> of Differential Equations.</p>
+<p>So we need to know <b>what type</b> of Differential Equation&nbsp;it is first.</p>
+<p><i>It is like travel: different kinds of transport have solved how to get to certain places.</i> <i>Is it near, so  we can just walk? Is there a road so we can take a car?  Or is it in another galaxy and we just can't get there yet?</i></p>
+<div style="clear:both"></div>
+<p>So let us first <b>classify the Differential Equation</b>.</p>
+<p>&nbsp;</p>
+<h3>Ordinary or Partial</h3>
+<p>The first major grouping is:</p>
+<ul>
+	<li>"Ordinary Differential Equations" (ODEs) have <b>a single independent variable</b> (like <b>y</b>)</li>
+	<li>"Partial Differential Equations" (PDEs) have two or more  independent variables.</li>
+</ul>
+<p>We are learning about <b>Ordinary Differential Equations</b> here!</p>
+<p>&nbsp;</p>
+<h3>Order and Degree</h3>
+<p>Next we work out the Order and the Degree:</p>
+<p class="center"><img src="images/diff-eq-2.svg" alt="differential equation order 2, degree 3"></p>
+<h3>Order</h3>
+<p>The Order is the <b>highest derivative</b> (is it a first derivative? a <a href="second-derivative.html">second derivative</a>? etc):</p>
+<div class="example">
+	<h3>Example:</h3>
+<p class="center large"><span class="intbl"><em>dy</em><strong>dx</strong></span> + y<sup>2</sup> = 5x</p>
+<p>It has only the first derivative 
+	<span class="intbl">
+		<em>dy</em>
+		<strong>dx</strong>
+	</span> , so is "First Order"</p>
+	
+</div>
+<div class="example">
+	<h3>Example:</h3>
+<p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + xy = sin(x)</p>
+		<p>This has a second derivative 
+			<span class="intbl">
+			<em>d<sup>2</sup>y</em> 
+			<strong>dx<sup>2</sup></strong>
+		</span>			, so is "Order 2"</p>
+	
+	
+</div>
+<div class="example">
+	<h3>Example:</h3>
+<p class="center large"><span class="intbl"><em>d<sup>3</sup>y</em><strong>dx<sup>3</sup></strong></span> + x<span class="intbl"><em>dy</em><strong>dx</strong></span> + y = e<sup>x</sup></p>
+		<p>This has a third derivative 
+			<span class="intbl">
+			<em>d<sup>3</sup>y</em>
+			<strong>dx<sup>3</sup></strong>
+			</span>			which outranks the 
+			<span class="intbl">
+			<em>dy</em>
+			<strong>dx</strong>
+		</span> , so is "Order 3"</p>
+</div>
+<h3>Degree</h3>
+<p>The <a href="../algebra/degree-expression.html">degree</a> is the  exponent  of the highest derivative.</p>
+<div class="example">
+	<h3>Example:</h3>
+<p class="center large">(<span class="intbl"><em>dy</em><strong>dx</strong></span>)<sup>2</sup> + y = 5x<sup>2</sup></p>
+	
+	
+	<p>The highest derivative is just dy/dx, and it has an  exponent of 2, so this is "Second Degree"</p>
+	<p>In fact it is a <b>First Order Second Degree Ordinary Differential Equation</b></p>
+</div>
+<div class="example">
+	<h3>Example:</h3>
+<p class="center large"><span class="intbl"><em>d<sup>3</sup>y</em><strong>dx<sup>3</sup></strong></span> + (<span class="intbl"><em>dy</em><strong>dx</strong></span>)<sup>2</sup> + y = 5x<sup>2</sup></p>
+	
+	
+	<p>The highest derivative is  d<sup>3</sup>y/dx<sup>3</sup>, but it has no exponent (well actually an exponent of 1 which is not shown), so this is  "First Degree".</p>
+	<p>(The exponent of 2 on dy/dx does not count, as it is not the highest derivative).</p>
+	<p>So it is a <b>Third Order First Degree Ordinary Differential Equation</b></p>
+</div>
+<p>&nbsp;</p>
+<p class="center80">Be careful not to  confuse order with degree.     Some people use the word order when they mean  degree!</p>
+
+<h3>Linear</h3>
+<p>It is <b>Linear</b> when  the  variable (and  its derivatives) has no exponent or other function put on it.</p>
+<p class="center dotpoint">So <b>no</b> y<sup>2</sup>, y<sup>3</sup>, √y, sin(y), ln(y) etc, <b><br>just plain y</b> (or whatever the variable is)</p>
+<p>More formally a <b>Linear Differential Equation</b> is in the form:</p>
+<p class="center large"><span class="intbl"><em>dy</em><strong>dx</strong></span> + P(x)y = Q(x)</p>
+<h2>Solving</h2>
+<p>OK, we have classified our Differential Equation, the next step is solving.</p>
+<p>And we have a <a href="differential-equations-solution-guide.html">Differential Equations Solution Guide</a> to help you.</p>
+<p>&nbsp;</p>
+
+
+<div class="questions">
+<script>getQ(9399, 9400, 9401, 9402, 9403, 9404, 9405, 9406, 9407, 9408);</script>&nbsp;
+</div>
+
+<div class="related">
+  <a href="derivatives-introduction.html">Derivatives</a>	
+  <a href="index.html">Calculus Index</a>
+</div>
+			<!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2020 MathsIsFun.com</div>
+
+</div>
+
+
+
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/calculus/differential-equations.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:24 GMT -->
+</html>

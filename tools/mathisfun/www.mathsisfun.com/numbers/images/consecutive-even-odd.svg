@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="240.613"
+   height="276.032"
+   version="1.1"
+   style="font-size:22.9px;stroke-width:0.41px"
+   id="svg76"
+   sodipodi:docname="consecutive-even-odd.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview78"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg76" />
+  <defs
+     id="defs8">
+    <marker
+       id="aa2"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       id="aa1"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0000ff;stroke:#0000ff;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5" />
+    </marker>
+  </defs>
+  <path
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:0.41px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     d="M 6.28438,0 V 30"
+     id="path12" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="M 37.5844,0 V 30"
+     id="path14" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="M 68.7844,0 V 30"
+     id="path16" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="M 99.9844,0 V 30"
+     id="path18" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="M 131.184,0 V 30"
+     id="path20" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="M 162.484,0 V 30"
+     id="path22" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="M 193.684,0 V 30"
+     id="path24" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="M 224.884,0 V 30"
+     id="path26" />
+  <text
+     x="33.4844"
+     y="48.9229"
+     style="color:#000000;font-size:19.7px;font-family:'Trebuchet MS';fill:#204a87"
+     id="text30">1</text>
+  <text
+     x="64.1844"
+     y="48.9229"
+     style="color:#000000;font-size:19.7px;font-family:'Trebuchet MS';fill:#204a87"
+     id="text32">2</text>
+  <text
+     x="95.1844"
+     y="48.8229"
+     style="color:#000000;font-size:19.7px;font-family:'Trebuchet MS';fill:#204a87"
+     id="text34">3</text>
+  <text
+     x="126.584"
+     y="48.9229"
+     style="color:#000000;font-size:19.7px;font-family:'Trebuchet MS';fill:#204a87"
+     id="text36">4</text>
+  <text
+     x="157.384"
+     y="48.7229"
+     style="color:#000000;font-size:19.7px;font-family:'Trebuchet MS';fill:#204a87"
+     id="text38">5</text>
+  <text
+     x="188.684"
+     y="48.8229"
+     style="color:#000000;font-size:19.7px;font-family:'Trebuchet MS';fill:#204a87"
+     id="text40">6</text>
+  <text
+     x="219.784"
+     y="48.8229"
+     style="color:#000000;font-size:19.7px;font-family:'Trebuchet MS';fill:#204a87"
+     id="text42">7</text>
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:1.56;marker-end:url(#aa1)"
+     d="M 5.38438,16.9 H 237.584"
+     id="path50" />
+  <path
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:0.41px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     d="M 6.28438,92.5885 V 122.588"
+     id="path1436" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="M 37.5844,92.5885 V 122.588"
+     id="path1438" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="M 68.7844,92.5885 V 122.588"
+     id="path1440" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="M 99.9844,92.5885 V 122.588"
+     id="path1442" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="M 131.184,92.5885 V 122.588"
+     id="path1444" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="M 162.484,92.5885 V 122.588"
+     id="path1446" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="M 193.684,92.5885 V 122.588"
+     id="path1448" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="M 224.884,92.5885 V 122.588"
+     id="path1450" />
+  <text
+     x="33.4844"
+     y="142.752"
+     style="color:#000000;font-size:19.7px;font-family:'Trebuchet MS';fill:#8f5902"
+     id="text1454">1</text>
+  <text
+     x="95.1844"
+     y="142.652"
+     style="color:#000000;font-size:19.7px;font-family:'Trebuchet MS';fill:#8f5902"
+     id="text1458">3</text>
+  <text
+     x="157.384"
+     y="142.551"
+     style="color:#000000;font-size:19.7px;font-family:'Trebuchet MS';fill:#8f5902"
+     id="text1462">5</text>
+  <text
+     x="219.784"
+     y="142.652"
+     style="color:#000000;font-size:19.7px;font-family:'Trebuchet MS';fill:#8f5902"
+     id="text1466">7</text>
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:1.56;marker-end:url(#aa1)"
+     d="M 5.38438,109.488 H 237.584"
+     id="path1468" />
+  <path
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:0.41px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     d="m 6.28438,185.177 v 30"
+     id="path1472" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="m 37.5844,185.177 v 30"
+     id="path1474" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="m 68.7844,185.177 v 30"
+     id="path1476" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="m 99.9844,185.177 v 30"
+     id="path1478" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="m 131.184,185.177 v 30"
+     id="path1480" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="m 162.484,185.177 v 30"
+     id="path1482" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="m 193.684,185.177 v 30"
+     id="path1484" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff"
+     d="m 224.884,185.177 v 30"
+     id="path1486" />
+  <text
+     x="-1.187"
+     y="241.477"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7px;line-height:normal;font-family:'Trebuchet MS';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke-width:0.41px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     id="text1488"
+     transform="translate(0.571375,-7.37763)">0</text>
+  <text
+     x="64.1844"
+     y="234.096"
+     style="color:#000000;font-size:19.7px;font-family:'Trebuchet MS';fill:#ff6600"
+     id="text1492">2</text>
+  <text
+     x="126.584"
+     y="234.096"
+     style="color:#000000;font-size:19.7px;font-family:'Trebuchet MS';fill:#ff6600"
+     id="text1496">4</text>
+  <text
+     x="188.684"
+     y="233.996"
+     style="color:#000000;font-size:19.7px;font-family:'Trebuchet MS';fill:#ff6600"
+     id="text1500">6</text>
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:1.56;marker-end:url(#aa1)"
+     d="M 5.38438,202.077 H 237.584"
+     id="path1504" />
+  <text
+     x="-1.187"
+     y="241.477"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7px;line-height:normal;font-family:'Trebuchet MS';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#204a87;fill-opacity:1;stroke-width:0.41px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     id="text2316"
+     transform="translate(0.571375,-192.558)">0</text>
+  <text
+     xml:space="preserve"
+     style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:20px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#8f5902;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     x="27.9671"
+     y="161.96"
+     id="text2964"><tspan
+       sodipodi:role="line"
+       id="tspan2962"
+       x="27.9671"
+       y="161.96">Consecutive Odd Numbers</tspan></text>
+  <text
+     xml:space="preserve"
+     style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:20px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     x="25.4007"
+     y="255.051"
+     id="text4376"><tspan
+       sodipodi:role="line"
+       id="tspan4374"
+       x="25.4007"
+       y="255.051">Consecutive Even Numbers</tspan></text>
+  <text
+     xml:space="preserve"
+     style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:20px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#204a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     x="19.846"
+     y="72.0618"
+     id="text6010"><tspan
+       sodipodi:role="line"
+       id="tspan6008"
+       x="19.846"
+       y="72.0618">Consecutive Whole Numbers</tspan></text>
+  <text
+     xml:space="preserve"
+     style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:22.5px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     x="107.948"
+     y="275.159"
+     id="text8716"><tspan
+       sodipodi:role="line"
+       id="tspan8714"
+       x="107.948"
+       y="275.159">. . .</tspan></text>
+</svg>

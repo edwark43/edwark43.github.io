@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Main.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/sets/boolean-algebra.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:00:45 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+
+<!-- #BeginEditable "doctitle" -->
+<title>Boolean Algebra</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.">
+
+  
+  
+  <style>
+  
+  .boxa {
+	text-align: center;
+	display: inline-block;
+	vertical-align:bottom;
+	margin: 0 25px 35px 0;
+  
+}
+    
+  </style>
+  
+  
+  <!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">Boolean Algebra</h1>
+
+<p>Boolean Algebra is about <b>true</b> and <b>false</b> and logic.</p>
+
+
+<h2>Not</h2>
+
+<p>The simplest thing we can do is to "not" or "invert":</p>
+<ul>
+<li>not true is false</li>
+<li>not false is true</li></ul>
+<p>We can write this down in a "truth table" (we use T for true and F for false):</p>
+  <div class="simple">
+
+	<table style="width: 200px" class="center">
+<tbody>
+<tr>
+<th>A<br>
+</th>
+<td><br>
+</td>
+<th>not A</th></tr>
+<tr>
+<td>F</td>
+<td><br>
+</td>
+<td>T</td></tr>
+<tr>
+<td>T</td>
+<td><br>
+</td>
+<td>F</td></tr>
+</tbody></table>
+      </div>
+
+
+<h2>And</h2>
+
+<p>We can "and" two values together. Both must be true for the result to be true:</p>
+<div class="simple">
+
+	<table class="center">
+<tbody>
+<tr>
+<th style="width: 50px;">A</th>
+<th style="width: 50px;">B</th>
+<td style="width: 20px;"><br>
+</td>
+<th style="width: 90px;">A and B</th></tr>
+<tr>
+<td>F</td>
+<td>F</td>
+<td><br>
+</td>
+<td>F</td></tr>
+<tr>
+<td>F</td>
+<td>T</td>
+<td><br>
+</td>
+<td>F</td></tr>
+<tr>
+<td>T</td>
+<td>F</td>
+<td><br>
+</td>
+<td>F</td></tr>
+<tr>
+<td>T</td>
+<td>T</td>
+<td><br>
+</td>
+<td class="bga1">T</td></tr>
+</tbody></table>      </div>
+
+<div class="example">
+
+<h3>Example: If we cut the grass <b>and</b> wash the car we get ice cream!</h3>
+<div class="simple">
+
+	<table class="center">
+<tbody>
+<tr>
+<th>cut grass</th>
+<th>wash car</th>
+<td style="width: 20px;"><br>
+</td>
+<th>ice cream</th></tr>
+<tr>
+<td>F</td>
+<td>F</td>
+<td><br>
+</td>
+<td>F</td></tr>
+<tr>
+<td>F</td>
+<td>T</td>
+<td><br>
+</td>
+<td>F</td></tr>
+<tr>
+<td>T</td>
+<td>F</td>
+<td><br>
+</td>
+<td>F</td></tr>
+<tr>
+<td>T</td>
+<td>T</td>
+<td><br>
+</td>
+<td class="bga1">T</td></tr>
+</tbody></table>      </div><p>Only if we do both jobs do we get ice cream</p>  </div>
+
+
+<h2>Or</h2>
+
+<p>We can "or" two values together. The result is true if either (or both) are true:</p>
+<div class="simple">
+
+	<table class="center">
+<tbody>
+<tr>
+<th style="width: 50px;">A</th>
+<th style="width: 50px;">B</th>
+<td style="width: 20px;"><br>
+</td>
+<th style="width: 90px;">A or B</th></tr>
+<tr>
+<td>F</td>
+<td>F</td>
+<td><br>
+</td>
+<td>F</td></tr>
+<tr>
+<td>F</td>
+<td>T</td>
+<td><br>
+</td>
+<td class="bga1">T</td></tr>
+<tr>
+<td>T</td>
+<td>F</td>
+<td><br>
+</td>
+<td class="bga1">T</td></tr>
+<tr>
+<td>T</td>
+<td>T</td>
+<td><br>
+</td>
+<td class="bga1">T</td></tr>
+</tbody></table>      </div>
+
+<div class="example">
+
+<h3>Example: If we cut the grass <b>or</b> wash the car we get ice cream!</h3>
+<div class="simple">
+
+	<table class="center">
+<tbody>
+<tr>
+<th>cut grass</th>
+<th>wash car</th>
+<td style="width: 20px;"><br>
+</td>
+<th>ice cream</th></tr>
+<tr>
+<td>F</td>
+<td>F</td>
+<td><br>
+</td>
+<td>F</td></tr>
+<tr>
+<td>F</td>
+<td>T</td>
+<td><br>
+</td>
+<td class="bga1">T</td></tr>
+<tr>
+<td>T</td>
+<td>F</td>
+<td><br>
+</td>
+<td class="bga1">T</td></tr>
+<tr>
+<td>T</td>
+<td>T</td>
+<td><br>
+</td>
+<td class="bga1">T</td></tr>
+</tbody></table>      </div><p>In this case we can do either job (or both) to get ice cream. Let's wash the car.</p>  </div>
+
+
+<h2>Simplicity!</h2>
+
+<p>So we only have two possible values:</p>
+<ul>
+<li>true</li>
+<li>false</li></ul>
+<p>And only three basic operations:</p>
+<ul>
+<li>and</li>
+<li>or</li>
+<li>not</li></ul>
+<p>We can combine them to work out logical things. That's it.</p>
+
+
+<h2>And, Or, ...</h2>
+<p>In English we use the words loosely. We say "I like apples and pears", but in Logic that means you like them when they are together! </p>
+<p>Remember that Logic says:</p>
+<ul>
+<li><b>and</b>: must be both together</li>
+<li><b>or</b>: can be either or both</li></ul>
+<h2>Notation</h2>
+
+<p>But there are different ways of writing the same thing!</p>
+<p>Here are different ways to write <b>"not A"</b>:</p>
+<p class="larger center"><span class="overline">A</span> = ¬A = ~A = A'</p>
+<p>And there are two main ways of writing "and" and "or":</p>
+<p class="center"><img src="images/boolean-and-or.svg" height="178" width="498"></p>
+  <div class="fun">
+  <p>You can choose which style you want by pressing this button:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="images/bool-chg.js"></script></p>
+  <div class="simple">
+
+	<table class="center" style="" border="1">
+<tbody>
+<tr>
+<td style="text-align:right;"><i>and:&nbsp;</i></td>
+<td><span class="larger">·</span></td></tr>
+<tr>
+<td style="text-align:right;"><i>or:&nbsp;</i></td>
+<td><span class="larger">＋</span></td></tr>
+<tr>
+<td style="text-align:right;"><i>(A and B) or C</i>:&nbsp;</td>
+<td><b>(A·B) ＋ C</b></td></tr></tbody></table>
+    </div></div>
+<p>(Note: "dot plus" style has many similarities to multiply and add, whereas "up down" style has equivalents in <a href="symbols.html">set</a> intersection ∩ and union ∪.)</p>
+
+
+<h2>Xor (eXclusive Or) ⊕</h2>
+
+<p><b>Xor</b> is the same as <b>or</b> except is <b>false when both inputs are true</b>:</p>
+<div class="simple">
+
+	<table class="center">
+<tbody>
+<tr><th style="width: 50px;">A</th>
+<th style="width: 50px;">B</th>
+<td style="width: 20px;"><br>
+</td>
+<th style="width: 90px;">A or B</th>
+<th style="width: 90px;">A xor B</th>
+  </tr>
+<tr>
+<td>F</td>
+<td>F</td>
+<td><br>
+</td>
+<td>F</td>
+<td>F</td></tr>
+<tr>
+<td>F</td>
+<td>T</td>
+<td><br>
+</td>
+<td class="bga1">T</td>
+<td class="bga1">T</td></tr>
+<tr>
+<td>T</td>
+<td>F</td>
+<td><br>
+</td>
+<td class="bga1">T</td>
+<td class="bga1">T</td></tr>
+<tr>
+<td>T</td>
+<td>T</td>
+<td><br>
+</td>
+<td class="bga1">T</td>
+<td>F</td></tr>
+</tbody></table>      </div><p>We can have <b>either</b> one being true but <b>not both.</b></p>
+<p><b>Xor </b>is like both your best friends fight. Life is fun with either one, but not both.</p>
+<p>Think: "eXclusively yours" (no one else allowed).</p>
+
+
+<h2>Equivalence ≡</h2>
+
+Only true when the inputs match (are equivalent):<br>
+<br>
+<div class="simple">
+
+	<table class="center">
+<tbody>
+<tr><th style="width: 50px;">A</th>
+<th style="width: 50px;">B</th>
+<td style="width: 20px;"><br>
+</td>
+<th style="width: 90px;">A ≡ B</th>
+  </tr>
+<tr>
+<td>F</td>
+<td>F</td>
+<td><br>
+</td>
+<td class="bga1">T</td>
+</tr>
+<tr>
+<td>F</td>
+<td>T</td>
+<td><br>
+</td>
+<td>F</td>
+</tr>
+<tr>
+<td>T</td>
+<td>F</td>
+<td><br>
+</td>
+<td>F</td>
+</tr>
+<tr>
+<td>T</td>
+<td>T</td>
+<td><br>
+</td>
+<td class="bga1">T</td>
+</tr>
+</tbody></table>      </div><p>It is also the opposite of xor.</p>
+
+
+<h2>Implication →</h2>
+
+<p>Is true except when A is true and B is false:</p><br>
+<div class="simple">
+
+	<table class="center">
+<tbody>
+<tr><th style="width: 50px;">A</th>
+<th style="width: 50px;">B</th>
+<td style="width: 20px;"><br>
+</td>
+<th style="width: 90px;">A → B</th>
+  </tr>
+<tr>
+<td>F</td>
+<td>F</td>
+<td><br>
+</td>
+<td class="bga1">T</td>
+</tr><tr>
+<td>F</td>
+<td>T</td>
+<td><br>
+</td>
+<td class="bga1">T<br>
+</td></tr>
+<tr>
+<td>T</td>
+<td>F</td>
+<td><br>
+</td>
+<td>F<br>
+</td></tr>
+<tr>
+<td>T</td>
+<td>T</td>
+<td><br>
+</td>
+<td class="bga1">T<br>
+</td></tr>
+</tbody></table>      </div>
+
+<div class="example">
+
+<h3>Example: Guard "A" checks your ticket "B"</h3>
+<ul>
+<li>Without the Guard you can get in any time</li>
+<li>With the Guard you need a ticket to get in</li></ul>
+<p>So you can get in except when there <b>is</b> a Guard and you do <b>not</b> have a ticket.</p> </div><br>
+<h2>All Together Now</h2>
+
+<p>Here they are together:</p>
+<div class="simple">
+
+	<table class="center">
+<tbody>
+<tr>
+<td><br>
+</td>
+<td><br>
+</td>
+<td><br>
+</td>
+<td><span class="larger">and</span></td>
+<td><span class="larger">or</span></td>
+  <td><span class="larger">xor</span></td>
+  <td><span class="larger">equiv</span></td>
+  <td><span class="larger">imply</span></td></tr>
+  <tr><th style="width: 50px;">A</th>
+<th style="width: 50px;">B</th>
+<td style="width: 20px;"><br>
+</td>
+<th style="width: 70px;">A · B</th>
+<th style="width: 70px;">A ＋ B</th>
+<th style="width: 70px;">A ⊕ B</th>
+<th style="width: 70px;">A ≡ B</th>
+<th style="width: 70px;">A → B</th>
+  </tr>
+<tr>
+<td>F</td>
+<td>F</td>
+<td><br>
+</td>
+<td>F</td>
+<td>F</td>
+<td>F</td>
+<td>T</td>
+<td>T</td>
+</tr>
+<tr>
+<td>F</td>
+<td>T</td>
+<td><br>
+</td>
+<td>F</td>
+<td>T</td>
+<td>T</td>
+<td>F</td>
+<td>T</td>
+</tr>
+<tr>
+<td>T</td>
+<td>F</td>
+<td><br>
+</td>
+<td>F</td>
+<td>T</td>
+<td>T</td>
+<td>F</td>
+<td>F</td>
+</tr>
+<tr>
+<td>T</td>
+<td>T</td>
+<td><br>
+</td>
+<td>T</td>
+<td>T</td>
+<td>F</td>
+<td>T</td>
+<td>T</td>
+</tr>
+</tbody></table>      </div><p>There are actually 16 possible combinations, but those are the most important.</p>
+<h2>Venn</h2>
+<p>
+  This is how a  <a href="venn-diagrams.html">Venn Diagram</a> relates to a truth table:
+  </p>
+  <p class="center">
+    <img src="images/venn-parts.svg" alt="venn parts"><br><span class="large">Venn Diagram Regions</span><br><i>In the outer region both A and B are false
+</i>  </p>
+<p>And we can do pretty Venn Diagrams to illustrate and, or, etc:</p>
+  
+<div class="boxa"><img src="images/venn-and.svg" alt="venn and"></div>
+
+<div class="boxa"><img src="images/venn-or.svg" alt="venn or"></div>
+
+<div class="boxa"><img src="images/venn-xor.svg" alt="venn xor"></div>
+<div class="boxa"><img src="images/venn-equiv.svg" alt="venn equiv"></div>
+<div class="boxa"><img src="images/venn-imply.svg" alt="venn imply"></div>
+<h2>Laws</h2>
+
+<p>This is cool: assuming "and is multiply" and "or is add" we find Boolean Algebra shares these <a href="../associative-commutative-distributive.html">Laws</a> of ordinary algebra:</p>
+<p>&nbsp;</p>
+  <p><span class="larger">Commutative Laws:</span> we can swap values over in these cases:</p>
+<p class="center">A · B = B · A<br>
+A ＋ B = B ＋ A</p>
+
+<div class="example">
+
+<h3>Example: Boys' under-15 sprint.</h3>
+<p>You need to be a boy <b>and</b> under 15:</p>
+<p class="center"><b>Boy and Under-15</b> is the same as <b>Under-15 and Boy</b></p>
+     </div>
+
+<p><span class="larger">Associative Laws:</span> we can change, or remove, brackets in these cases:</p>
+<p class="center">A · (B · C) = (A · B) · C = A · B · C<br>
+A ＋ (B ＋ C) = (A ＋ B) ＋ C = A ＋ B ＋ C</p>
+
+<div class="example">
+
+<h3>Example: free burgers for students, parents <b>or</b> teachers!</h3>
+<p>These are all the same:</p>
+<p class="center">student or (parent or teacher)<br>
+(student or parent) or teacher<br>
+student or parent or teacher</p>
+  </div><p><span class="larger">Distribution of <b>and</b> over <b>or</b>:</span></p>
+<p class="center">A · (B ＋ C) = (A · B) ＋ (A · C)</p>
+<span class="larger">Identity Laws:</span> we get the original value back in these cases:
+<p class="center">A · true = A<br>
+A ＋ false = A</p>
+<p><span class="larger">Double negation:</span> one "not" cancels another "not" and we get the original value:</p>
+<p class="center"><span style="border-top: 5px double;">A</span> = A</p>
+<div class="center80"><img src="../images/art/sage-brocolli.gif" alt="dog does not want brocolli" style="float:left; margin: 15px 15px 0 15px;" height="127" width="250">
+<p>Saying "Do <b>NOT</b> not eat!" is the same as saying&nbsp; "Eat!"</p>
+        </div>
+<p><br></p>
+<p><br></p>
+<p>The following laws are also true in Boolean Algebra, but not in ordinary algebra:</p>
+<p><span class="larger">Distribution of <b>or</b> over <b>and</b>:</span></p>
+<p class="center">A ＋ (B · C) = (A ＋ B) · (A ＋ C)</p>
+
+<p><span class="larger">Absorption Laws:</span> we can "absorb" the term in parentheses in these two cases:</p>
+<p class="center">A · (A ＋ B) = A<br>
+A ＋ (A · B) = A</p>
+<p>Why? Using Identity and Distribution Laws, let us look at the first case:</p>
+<div class="tbl">
+			<div class="row"><span class="left">Start with:</span><span class="right"> A · (A ＋ B)</span></div>
+			<div class="row"><span class="left">Replace first A with A ＋ false:</span><span class="right">(A ＋ false) · (A ＋ B)</span></div>
+			<div class="row"><span class="left">Distribution of or over and:</span><span class="right">A ＋ (false · B)</span></div>						
+<div class="row"><span class="left">false · B is false:</span><span class="right">A ＋ false</span></div>			
+<div class="row"><span class="left">A ＋ false is A:</span><span class="right">A</span></div>					</div>
+<p></p><span class="larger">Idempotent Laws:</span> we can simplify these cases also:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class="center">A · A = A<br>
+A ＋ A = A</p><span class="larger">Complement Laws:</span> simplify a value with its inverse in these cases:<br>
+<p class="center">A · <span class="bar">A</span> = false<br>
+A ＋ <span class="bar">A</span> = true</p><span class="larger">De Morgan:</span> a very useful rule, especially when coding:<br>
+<p class="center"><span class="bar">A</span> · <span class="bar">B</span> = <span class="bar">A&nbsp;＋ B</span><br>
+<span class="bar">A</span> ＋ <span class="bar">B</span> = <span class="bar">A · B</span></p>
+<p>Let us look at each in turn:</p>
+<p class="center"><span class="bar">A</span> · <span class="bar">B</span> = <span class="bar">A&nbsp;＋ B</span><br>
+<i>"not x and not y = not (x or y)"</i><span class="bar"></span></p>
+
+<div class="example">
+
+<h3>Example: <span class="bar">Small</span> · <span class="bar">Blue</span> = <span class="bar">Small ＋ Blue</span></h3>
+<p class="center"><img src="images/de-morgan-and.svg" alt="De Morgan and example" height="294" width="286"></p>
+  </div>
+
+<div class="example">
+
+<h3>Example: "I don't want mayo <b>and</b> I don't want ham"</h3>
+<p class="center">Is the same as "I don't want (mayo <b>or</b> ham)"</p>
+  </div><p>And the other De Morgan rule:</p>
+<p class="center"><span class="bar">A</span> ＋ <span class="bar">B</span> = <span class="bar">A · B</span><br>
+"not x or not y = not (x and y)"</p>
+
+<div class="example">
+
+<h3>Example: <span class="bar">Small</span> ＋ <span class="bar">Blue</span> = <span class="bar">Small · Blue</span></h3>
+<p class="center"><img src="images/de-morgan-or.svg" alt="De Morgan or example" height="296" width="331"></p>
+
+  </div>
+
+<div class="example">
+
+<h3>Example: "I don't want mayo <b>or</b> I don't want ham"</h3>
+<p class="center">Is the same as "I don't want (mayo <b>and</b> ham)"</p>
+<p class="center">In other words not mayo and ham together, but either on its own is fine.</p>
+  </div>
+
+<div class="example">
+
+<h3>Example: Salad</h3>
+<p>You are making a salad. Your friend says "I only want what is not green or not small". <i>What?</i></p>
+<p>Let's decode that:</p>
+<p class="center"><span class="bar">Green</span> ＋ <span class="bar">Small</span> = <span class="bar">Green · Small</span></p>
+<p class="center">which is actually the same as "not (green <b>and</b> small)"</p>
+  <p class="center">In other words: not the olives.</p>
+  </div><br><h2>Chaining</h2>
+<p>A series of "and"s compared to a series of "or"s"</p>
+<ul>
+<li><span class="larger">A and B and C and D and ...</span>&nbsp; must all be <b>true </b>for the result to be <b>true</b>.</li>
+<li><span class="larger">A or B or C or D or ...</span>&nbsp; must all be <b>false </b>for the result to be <b>false</b>.</li></ul><br>
+<p>&nbsp;</p>
+
+<div class="related">  
+  <a href="logic-gates.html">Logic Gates</a>
+  <a href="../data/index.html">Sets Index</a>
+</div>
+<!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2021 MathsIsFun.com</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/sets/boolean-algebra.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:00:47 GMT -->
+</html>

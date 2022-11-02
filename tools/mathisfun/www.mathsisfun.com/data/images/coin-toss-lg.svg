@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="162.209"
+   height="162.209"
+   version="1.0"
+   id="svg68"
+   sodipodi:docname="coin-toss-lg.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview70"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg68" />
+  <defs
+     id="defs26">
+    <linearGradient
+       id="id01">
+      <stop
+         offset="0"
+         style="stop-color:#cd43ff;stop-opacity:0.348837"
+         id="stop2" />
+      <stop
+         offset="1"
+         style="stop-color:#f1caff;stop-opacity:0"
+         id="stop4" />
+    </linearGradient>
+    <radialGradient
+       r="90.5"
+       fx="-6094"
+       fy="-150"
+       cx="-6094"
+       cy="-150"
+       gradientTransform="matrix(0.892972,0,0,0.89305,5515.31,222.144)"
+       xlink:href="#id01"
+       gradientUnits="userSpaceOnUse"
+       id="id04" />
+    <linearGradient
+       gradientTransform="matrix(0.670492,0,0,0.66832,396.57,52.0424)"
+       xlink:href="#id02"
+       x1="-537.6"
+       y1="137.3"
+       x2="-448.6"
+       y2="79.6"
+       gradientUnits="userSpaceOnUse"
+       id="id05" />
+    <linearGradient
+       id="id02">
+      <stop
+         offset="0"
+         style="stop-color:#ddd800;stop-opacity:1"
+         id="stop9" />
+      <stop
+         offset="0.24"
+         style="stop-color:#7f7c00;stop-opacity:1"
+         id="stop11" />
+      <stop
+         offset="0.48"
+         style="stop-color:#fff900;stop-opacity:1"
+         id="stop13" />
+      <stop
+         offset="1"
+         style="stop-color:#fff901;stop-opacity:1"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.496149,-0.363871,0.122413,0.600943,-53.867,108.557)"
+       xlink:href="#id03"
+       x1="194.7"
+       y1="93.8"
+       x2="287.7"
+       y2="137.4"
+       gradientUnits="userSpaceOnUse"
+       id="id06" />
+    <linearGradient
+       id="id03">
+      <stop
+         offset="0"
+         style="stop-color:#ea8f00;stop-opacity:1"
+         id="stop19" />
+      <stop
+         offset="0.48"
+         style="stop-color:#fff900;stop-opacity:1"
+         id="stop21" />
+      <stop
+         offset="1"
+         style="stop-color:#ea8f00;stop-opacity:1"
+         id="stop23" />
+    </linearGradient>
+  </defs>
+  <circle
+     cx="73.4791"
+     cy="88.0904"
+     transform="rotate(-5.17285)"
+     style="color:#000000;overflow:visible;fill:url(#id04);stroke:none;stroke-width:4.99999"
+     id="ellipse28"
+     r="78.5998" />
+  <path
+     d="m 109.24,60.576 c 6.8,2.8 14.8,8.6 18.8,15.8"
+     style="fill:none;stroke:#999999;stroke-width:1.58"
+     id="path30" />
+  <path
+     d="m 103.84,51.976 c 12.4,3.8 26.6,12.2 32.2,24.6"
+     style="fill:none;stroke:#666666;stroke-width:1.58"
+     id="path32" />
+  <path
+     d="m 52.04,105.376 c -7.6,-3 -14.4,-9.4 -18.8,-15.8"
+     style="fill:none;stroke:#999999;stroke-width:1.58"
+     id="path34" />
+  <path
+     d="m 55.64,112.176 c -13.2,-4.6 -24.6,-13.6 -31.2,-27.2"
+     style="fill:none;stroke:#828282;stroke-width:1.58;stroke-opacity:1"
+     id="path36" />
+  <ellipse
+     cx="67.4307"
+     cy="125.491"
+     style="color:#000000;overflow:visible;fill:url(#id05);stroke-width:0.335844"
+     id="circle38"
+     transform="matrix(0.806383,-0.591394,0.199602,0.979877,0,0)"
+     rx="32.5318"
+     ry="32.4265" />
+  <ellipse
+     cx="67.4307"
+     cy="125.491"
+     style="color:#000000;overflow:visible;fill:#c4a000;stroke-width:0.335844"
+     id="circle40"
+     transform="matrix(0.806383,-0.591394,0.199602,0.979877,0,0)"
+     rx="32.5318"
+     ry="32.4265" />
+  <path
+     d="m 73.6022,53.7476 c 13.2916,-9.7479 26.6498,-4.6282 29.9288,11.4708 3.28,16.0991 -4.7912,36.9346 -18.0829,46.6826 -13.2916,9.748 -26.6499,4.629 -29.9293,-11.47 -3.2794,-16.0995 4.7917,-36.9354 18.0834,-46.6834 z"
+     style="fill:url(#id06);stroke-width:0.400071"
+     id="path42" />
+  <g
+     transform="matrix(0.332005,-0.24349,0.081914,0.40213,-90.2285,-60.3814)"
+     id="g50">
+    <path
+       d="m 335.5,552.8 c 8.1,-5.3 16.7,-10 20,-22 h 20.8 v 79.7 h 9.8 v 10.6 h -43.9 v -11 H 354 v -57.3 z"
+       style="fill:#eaedeb;stroke:#adaeaf;stroke-width:1px"
+       id="path44" />
+    <path
+       d="m 336.7,551.6 c 9.3,-4.4 16.4,-11.2 20,-22 h 20.8 v 79.7 h 9.8 v 10.6 h -43.9 v -11 h 11.8 v -57.3 z"
+       style="fill:#eaedeb;stroke:#c8cacf;stroke-width:1px"
+       id="path46" />
+    <path
+       d="M 369.6,539.5 V 611"
+       style="fill:#eaedeb;stroke:#bcc0c3;stroke-width:1px"
+       id="path48" />
+  </g>
+  <text
+     x="-84.2497"
+     y="133.084"
+     transform="matrix(0.157149,-1.1912,0.858683,-0.145508,0,0)"
+     style="color:#000000;font-size:10.7219px;font-family:Arial;overflow:visible;fill:#c4a000;stroke-width:1.60029px"
+     id="text52">2</text>
+  <text
+     x="-116.168"
+     y="99.0957"
+     transform="matrix(-0.141367,-1.07252,0.861421,-0.538367,0,0)"
+     style="color:#000000;font-size:10.7219px;font-family:Arial;overflow:visible;fill:#c4a000;stroke-width:1.60029px"
+     id="text54">0</text>
+  <text
+     x="-135.808"
+     y="55.5215"
+     transform="matrix(-0.427477,-0.823691,0.761115,-0.872739,0,0)"
+     style="color:#000000;font-size:10.7219px;font-family:Arial;overflow:visible;fill:#c4a000;stroke-width:1.60028px"
+     id="text56">2</text>
+  <text
+     x="-136.229"
+     y="34.7125"
+     transform="matrix(-0.541841,-0.676212,0.684429,-0.9914,0,0)"
+     style="color:#000000;font-size:10.7219px;font-family:Arial;overflow:visible;fill:#c4a000;stroke-width:1.60028px"
+     id="text58">5</text>
+  <path
+     d="m 58.64,118.176 c -13.6,-3.2 -25.8,-10.8 -34,-23.8"
+     style="fill:none;stroke:#666666;stroke-width:1.58;stroke-opacity:1"
+     id="path62" />
+</svg>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="213.414"
+   height="214.739"
+   version="1.1"
+   id="svg66"
+   sodipodi:docname="atom-helium.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata70">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview68"
+     showgrid="false"
+     inkscape:current-layer="svg66" />
+  <defs
+     id="defs12">
+    <linearGradient
+       id="id1">
+      <stop
+         offset="0"
+         style="stop-color:white;stop-opacity:0.62"
+         id="stop2" />
+      <stop
+         offset="0.484"
+         style="stop-color:#dbdbdb;stop-opacity:0.49"
+         id="stop4" />
+      <stop
+         offset="1"
+         style="stop-color:black;stop-opacity:0.34"
+         id="stop6" />
+    </linearGradient>
+    <radialGradient
+       id="id2"
+       r="41"
+       fx="259"
+       fy="484.37"
+       cx="259"
+       cy="484.4"
+       gradientTransform="matrix(0.30727,0.01471,-0.01512,0.31578,-273.56,307.9)"
+       xlink:href="#id1"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="id7"
+       r="41"
+       fx="259"
+       fy="484.37"
+       cx="259"
+       cy="484.4"
+       gradientTransform="matrix(2.515,0.1204,-0.12376,2.5846,-646.58,-19.004)"
+       xlink:href="#id1"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="id8"
+       r="41"
+       fx="259"
+       fy="484.37"
+       cx="259"
+       cy="484.4"
+       gradientTransform="matrix(3.0375,0.14542,-0.14947,3.1216,-1394.5,-1442.6)"
+       xlink:href="#id1"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#id1"
+       id="radialGradient935"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30727,0.01471,-0.01512,0.31578,-273.56,307.9)"
+       cx="259"
+       cy="484.4"
+       fx="259"
+       fy="484.37"
+       r="41" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#id1"
+       id="radialGradient941"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.0375,0.14542,-0.14947,3.1216,-1394.5,-1442.6)"
+       cx="259"
+       cy="484.4"
+       fx="259"
+       fy="484.37"
+       r="41" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#id1"
+       id="radialGradient943"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.515,0.1204,-0.12376,2.5846,-646.58,-19.004)"
+       cx="259"
+       cy="484.4"
+       fx="259"
+       fy="484.37"
+       r="41" />
+  </defs>
+  <ellipse
+     id="ellipse16"
+     style="color:#000000;overflow:visible;fill:none;stroke:#1918b6;stroke-width:1.539998"
+     transform="matrix(0.938948,0.344058,-0.3492,0.937048,0,0)"
+     ry="46.1001"
+     rx="111.5"
+     cy="64.0975"
+     cx="137.484" />
+  <ellipse
+     id="ellipse18"
+     style="color:#000000;overflow:visible;fill:none;stroke:#1918b6;stroke-width:1.539997"
+     transform="matrix(-0.323513,0.946224,-0.944426,-0.328723,0,0)"
+     ry="46.1"
+     rx="111.5"
+     cy="-135.699"
+     cx="66.3289" />
+  <text
+     id="text22"
+     style="color:#000000;font-size:30px;font-family:Arial;overflow:visible;fill:#ffffff;stroke-width:1px"
+     y="29.5791"
+     x="127.637">-</text>
+  <text
+     id="text24"
+     style="color:#000000;font-size:30px;font-family:Arial;overflow:visible;fill:#ffffff;stroke-width:1px"
+     y="127.279"
+     x="161.537">-</text>
+  <g
+     id="id3"
+     transform="translate(-241.622,-331.244)">
+    <circle
+       id="circle26"
+       style="fill:#0200ff"
+       transform="matrix(0.5871,-0.80952,0.80952,0.5871,0,0)"
+       r="9.3369"
+       cy="468.3"
+       cx="-202.4" />
+    <circle
+       id="circle28"
+       style="fill:url(#radialGradient935)"
+       transform="matrix(0.5871,-0.80952,0.80952,0.5871,0,0)"
+       r="9.3368"
+       cy="468.3"
+       cx="-202.4" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path30"
+       d="m 255.4,438 h 9.7 v 1.6 h -9.7 z"
+       style="fill:#ffffff" />
+  </g>
+  <use
+     id="use33"
+     height="100"
+     width="100"
+     y="0"
+     x="0"
+     xlink:href="#id3"
+     transform="translate(143.931,-76.2521)" />
+  <use
+     id="use37"
+     height="100"
+     width="100"
+     y="0"
+     x="0"
+     xlink:href="#id4"
+     transform="translate(-4.195,28.895)" />
+  <g
+     id="id6"
+     transform="matrix(0.16153,0,0,0.16153,-69.0157,-28.4052)">
+    <circle
+       cx="-64.5"
+       cy="1294.1"
+       r="76.422"
+       transform="matrix(0.5871,-0.80951,0.80951,0.5871,0,0)"
+       style="fill:#000000"
+       id="circle919" />
+    <circle
+       cx="-64.5"
+       cy="1294.1"
+       r="76.42"
+       transform="matrix(0.5871,-0.80951,0.80951,0.5871,0,0)"
+       style="fill:url(#radialGradient943)"
+       id="circle921" />
+  </g>
+  <g
+     transform="translate(-244.848,-349.057)"
+     id="id4">
+    <g
+       id="g53"
+       transform="matrix(0.13374,0,0,0.13374,385.22,352.45)">
+      <circle
+         id="circle49"
+         style="fill:#ff4141"
+         transform="matrix(0.5871,-0.80951,0.80951,0.5871,0,0)"
+         r="92.299"
+         cy="143.4"
+         cx="-691.3" />
+      <circle
+         id="circle51"
+         style="fill:url(#radialGradient941)"
+         transform="matrix(0.5871,-0.80951,0.80951,0.5871,0,0)"
+         r="92.298"
+         cy="143.4"
+         cx="-691.3" />
+    </g>
+    <g
+       id="g59"
+       transform="matrix(0.13995,0,0,0.13995,334.3,308.7)">
+      <rect
+         id="rect55"
+         style="color:#000000;overflow:visible;fill:#ffffff;stroke-width:2.84;stroke-linejoin:round"
+         height="17.7"
+         width="106.2"
+         y="919"
+         x="33.8" />
+      <rect
+         id="rect57"
+         style="color:#000000;overflow:visible;fill:#ffffff;stroke-width:2.84;stroke-linejoin:round"
+         transform="rotate(90)"
+         height="17.7"
+         width="106.2"
+         y="-95.8"
+         x="874.8" />
+    </g>
+  </g>
+  <use
+     id="use62"
+     height="100"
+     width="100"
+     y="0"
+     x="0"
+     xlink:href="#id6"
+     transform="translate(16.312,3.262)" />
+</svg>

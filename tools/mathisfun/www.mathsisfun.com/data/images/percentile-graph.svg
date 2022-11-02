@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="304.1" height="241.6" version="1.1">
+<defs>
+<marker style="overflow:visible;" orient="auto" id="id01">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(0.8,0,0,0.8,10,0)" style="stroke:black; stroke-width:1pt;" />
+</marker>
+<marker style="overflow:visible;" orient="auto" id="id02">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:black; stroke-width:1pt;" />
+</marker>
+</defs>
+<g transform="translate(-3578.4,67.1335)">
+<rect x="3070.4" y="-542.2" width="50.5" height="37.4" style="font-family:Arial; font-weight:bold;" />
+<rect x="3111.8" y="-619.4" width="40.4" height="203" />
+<rect x="2710" y="-602.6" width="36.4" height="67.9" />
+<rect x="1622.3" y="-170.9" width="139.4" height="62.6" style="font-family:Arial; font-weight:bold; font-size:12px;" />
+<rect x="1631.4" y="-205.3" width="107.1" height="61.6" style="font-family:Arial; font-weight:bold; font-size:12px;" />
+<g transform="matrix(1.00722,0,0,1.00723,-377.687,-6.14404)">
+<g transform="matrix(0.813184,0,0,0.995795,742.14,0.664391)">
+<path d="m 3972.6,-41 h 316.2" style="fill:none; stroke:#e5e6e8; stroke-width:1.08; stroke-dasharray:8.7, 1.1;" />
+<path d="m 3972.6,158 h 316.2" style="fill:none; stroke:#e5e6e8; stroke-width:1.08; stroke-dasharray:8.7, 1.1;" />
+<path d="m 3972.6,78.4 h 316.2" style="fill:none; stroke:#e5e6e8; stroke-width:1.08; stroke-dasharray:8.7, 1.1;" />
+<path d="m 3972.6,38.6 h 316.2" style="fill:none; stroke:#e5e6e8; stroke-width:1.08; stroke-dasharray:8.7, 1.1;" />
+<path d="m 3972.6,-1.2 h 316.2" style="fill:none; stroke:#e5e6e8; stroke-width:1.08; stroke-dasharray:8.7, 1.1;" />
+<path d="m 3972.6,118.2 h 316.2" style="fill:none; stroke:#e5e6e8; stroke-width:1.08; stroke-dasharray:8.7, 1.1;" />
+<path d="m 3972.6,-21.1 h 316.2" style="fill:none; stroke:#e5e6e8; stroke-width:1.08; stroke-dasharray:8.7, 1.1;" />
+<path d="m 3972.6,-60.9 h 316.2" style="fill:none; stroke:#e5e6e8; stroke-width:1.08; stroke-dasharray:8.7, 1.1;" />
+<path d="m 3972.6,98.3 h 316.2" style="fill:none; stroke:#e5e6e8; stroke-width:1.08; stroke-dasharray:8.7, 1.1;" />
+<path d="m 3972.6,58.5 h 316.2" style="fill:none; stroke:#e5e6e8; stroke-width:1.08; stroke-dasharray:8.7, 1.1;" />
+<path d="m 3972.6,18.7 h 316.2" style="fill:none; stroke:#e5e6e8; stroke-width:1.08; stroke-dasharray:8.7, 1.1;" />
+<path d="m 3972.6,138.1 h 316.2" style="fill:none; stroke:#e5e6e8; stroke-width:1.08; stroke-dasharray:8.7, 1.1;" />
+</g>
+<g transform="matrix(0.994652,0,0,0.683746,21.2588,49.7431)">
+<path d="M 4090.9,157.3 V -159.7" style="fill:none; stroke:#e5e6e8; stroke-width:1.18; stroke-dasharray:9.5, 1.2;" />
+<path d="M 4051.2,157.3 V -159.7" style="fill:none; stroke:#e5e6e8; stroke-width:1.18; stroke-dasharray:9.5, 1.2;" />
+<path d="M 4011.5,157.3 V -159.7" style="fill:none; stroke:#e5e6e8; stroke-width:1.18; stroke-dasharray:9.5, 1.2;" />
+<path d="M 3971.8,157.3 V -159.7" style="fill:none; stroke:#e5e6e8; stroke-width:1.18; stroke-dasharray:9.5, 1.2;" />
+<path d="M 4210.1,157.3 V -159.7" style="fill:none; stroke:#e5e6e8; stroke-width:1.18; stroke-dasharray:9.5, 1.2;" />
+<path d="M 4170.4,157.3 V -159.7" style="fill:none; stroke:#e5e6e8; stroke-width:1.18; stroke-dasharray:9.5, 1.2;" />
+<path d="M 4130.6,157.3 V -159.7" style="fill:none; stroke:#e5e6e8; stroke-width:1.18; stroke-dasharray:9.5, 1.2;" />
+<path d="M 4110.8,157.3 V -159.7" style="fill:none; stroke:#e5e6e8; stroke-width:1.18; stroke-dasharray:9.5, 1.2;" />
+<path d="M 4071.1,157.3 V -159.7" style="fill:none; stroke:#e5e6e8; stroke-width:1.18; stroke-dasharray:9.5, 1.2;" />
+<path d="M 4031.4,157.3 V -159.7" style="fill:none; stroke:#e5e6e8; stroke-width:1.18; stroke-dasharray:9.5, 1.2;" />
+<path d="M 3991.7,157.3 V -159.7" style="fill:none; stroke:#e5e6e8; stroke-width:1.18; stroke-dasharray:9.5, 1.2;" />
+<path d="M 4229.9,157.3 V -159.7" style="fill:none; stroke:#e5e6e8; stroke-width:1.18; stroke-dasharray:9.5, 1.2;" />
+<path d="M 4190.2,157.3 V -159.7" style="fill:none; stroke:#e5e6e8; stroke-width:1.18; stroke-dasharray:9.5, 1.2;" />
+<path d="M 4150.5,157.3 V -159.7" style="fill:none; stroke:#e5e6e8; stroke-width:1.18; stroke-dasharray:9.5, 1.2;" />
+</g>
+</g>
+<path d="m 3622.2,152.8 c 0,0 124.8,-8.9 146.2,-92 20.3,-85 94.8,-107.7 94.9,-107.6" style="overflow:visible; fill:none; stroke:#007ad2; stroke-width:1.67;" />
+<path d="m 3623.3,-63.7 -0.7,216.8 c 255.3,0 255.3,0 255.3,0" style="marker-start:url(#id01); marker-end:url(#id02); fill:none; stroke:black; stroke-width:0.7px;" />
+<path d="m 3616.1,133.2 c 6.6,0 7.5,0 7.5,0" style="fill:none; stroke:#ef2929; stroke-width:1;" />
+<path d="m 3616.1,113.2 c 6.6,0 7.5,0 7.5,0" style="fill:none; stroke:#ef2929; stroke-width:1;" />
+<path d="m 3616.1,93.2 c 6.6,0 7.5,0 7.5,0" style="fill:none; stroke:#ef2929; stroke-width:1;" />
+<path d="m 3616.1,73.2 c 6.6,0 7.5,0 7.5,0" style="fill:none; stroke:#ef2929; stroke-width:1;" />
+<path d="m 3616.1,53.3 c 6.6,0 7.5,0 7.5,0" style="fill:none; stroke:#ef2929; stroke-width:1;" />
+<path d="m 3616.1,33.3 c 6.6,0 7.5,0 7.5,0" style="fill:none; stroke:#ef2929; stroke-width:1;" />
+<path d="m 3616.1,13.3 c 6.6,0 7.5,0 7.5,0" style="fill:none; stroke:#ef2929; stroke-width:1;" />
+<path d="m 3616.1,-6.7 c 6.6,0 7.5,0 7.5,0" style="fill:none; stroke:#ef2929; stroke-width:1;" />
+<path d="m 3616.1,-26.7 c 6.6,0 7.5,0 7.5,0" style="fill:none; stroke:#ef2929; stroke-width:1;" />
+<path d="m 3616.1,-46.7 c 6.6,0 7.5,0 7.5,0" style="fill:none; stroke:#ef2929; stroke-width:1;" />
+<path d="m 3662.7,153.1 c 0,6.3 0,7.1 0,7.1" style="fill:#0065a4; stroke:#0065a4; stroke-width:1;" />
+<path d="m 3702.4,153.1 c 0,6.3 0,7.1 0,7.1" style="fill:#0065a4; stroke:#0065a4; stroke-width:1;" />
+<path d="m 3742.1,153.1 c 0,6.3 0,7.1 0,7.1" style="fill:#0065a4; stroke:#0065a4; stroke-width:1;" />
+<path d="m 3781.8,153.1 c 0,6.3 0,7.1 0,7.1" style="fill:#0065a4; stroke:#0065a4; stroke-width:1;" />
+<path d="m 3821.5,153.1 c 0,6.3 0,7.1 0,7.1" style="fill:#0065a4; stroke:#0065a4; stroke-width:1;" />
+<ellipse cx="3623.4" cy="152.8" rx="1.9" ry="1.9" style="color:black; overflow:visible; fill:#204a87; stroke:#204a87; stroke-width:1.11;" />
+<ellipse cx="3662.6" cy="145.5" rx="1.9" ry="1.9" style="color:black; overflow:visible; fill:#204a87; stroke:#204a87; stroke-width:1.11;" />
+<ellipse cx="3702.4" cy="131.2" rx="1.9" ry="1.9" style="color:black; overflow:visible; fill:#204a87; stroke:#204a87; stroke-width:1.11;" />
+<ellipse cx="3742.2" cy="104.9" rx="1.9" ry="1.9" style="color:black; overflow:visible; fill:#204a87; stroke:#204a87; stroke-width:1.11;" />
+<ellipse cx="3782.1" cy="23.7" rx="1.9" ry="1.9" style="color:black; overflow:visible; fill:#204a87; stroke:#204a87; stroke-width:1.11;" />
+<ellipse cx="3821.8" cy="-22.9" rx="1.9" ry="1.9" style="color:black; overflow:visible; fill:#204a87; stroke:#204a87; stroke-width:1.11;" />
+<ellipse cx="3861.4" cy="-46.5" rx="1.9" ry="1.9" style="color:black; overflow:visible; fill:#204a87; stroke:#204a87; stroke-width:1.11;" />
+<path d="m 3861.2,153.1 c 0,6.3 0,7.1 0,7.1" style="fill:#0065a4; stroke:#0065a4; stroke-width:1;" />
+<rect x="3070.4" y="-542.2" width="50.5" height="37.4" style="font-family:Arial; font-weight:bold;" />
+<text x="3583.8" y="136.5" style="font-family:Arial; font-size:12px; fill:#ef2929;">1,000</text>
+<text x="3583.8" y="116.5" style="font-family:Arial; font-size:12px; fill:#ef2929;">2,000</text>
+<text x="3583.8" y="96.5" style="font-family:Arial; font-size:12px; fill:#ef2929;">3,000</text>
+<text x="3583.8" y="76.6" style="font-family:Arial; font-size:12px; fill:#ef2929;">4,000</text>
+<text x="3583.8" y="56.6" style="font-family:Arial; font-size:12px; fill:#ef2929;">5,000</text>
+<text x="3583.8" y="36.6" style="font-family:Arial; font-size:12px; fill:#ef2929;">6,000</text>
+<text x="3583.8" y="16.7" style="font-family:Arial; font-size:12px; fill:#ef2929;">7,000</text>
+<text x="3583.8" y="-3.3" style="font-family:Arial; font-size:12px; fill:#ef2929;">8,000</text>
+<text x="3583.8" y="-23.3" style="font-family:Arial; font-size:12px; fill:#ef2929;">9,000</text>
+<text x="3577.1" y="-43.2" style="font-family:Arial; font-size:12px; fill:#ef2929;">10,000</text>
+<rect x="3111.8" y="-619.4" width="40.4" height="203" />
+<path d="m 3642.8,153.1 c 0,6.3 0,7.1 0,7.1" style="fill:#0065a4; stroke:#0065a4; stroke-width:1;" />
+<path d="m 3682.5,153.1 c 0,6.3 0,7.1 0,7.1" style="fill:#0065a4; stroke:#0065a4; stroke-width:1;" />
+<path d="m 3722.2,153.1 c 0,6.3 0,7.1 0,7.1" style="fill:#0065a4; stroke:#0065a4; stroke-width:1;" />
+<path d="m 3761.9,153.1 c 0,6.3 0,7.1 0,7.1" style="fill:#0065a4; stroke:#0065a4; stroke-width:1;" />
+<path d="m 3801.7,153.1 c 0,6.3 0,7.1 0,7.1" style="fill:#0065a4; stroke:#0065a4; stroke-width:1;" />
+<path d="m 3841.4,153.1 c 0,6.3 0,7.1 0,7.1" style="fill:#0065a4; stroke:#0065a4; stroke-width:1;" />
+<text x="3607.1" y="157.2" style="font-family:Arial; font-size:12px; fill:#ef2929;">0</text>
+<text x="3619.1" y="174.3" style="font-family:Arial; font-size:14px; fill:#0065a4;">0</text>
+<text x="3639.2" y="174.5" style="font-family:Arial; font-size:14px; fill:#0065a4;">1</text>
+<text x="3659.6" y="174.5" style="font-family:Arial; font-size:14px; fill:#0065a4;">2</text>
+<text x="3679.1" y="174.3" style="font-family:Arial; font-size:14px; fill:#0065a4;">3</text>
+<text x="3698.7" y="174.5" style="font-family:Arial; font-size:14px; fill:#0065a4;">4</text>
+<text x="3718.2" y="174.3" style="font-family:Arial; font-size:14px; fill:#0065a4;">5</text>
+<text x="3737.7" y="174.3" style="font-family:Arial; font-size:14px; fill:#0065a4;">6</text>
+<text x="3757.8" y="174.5" style="font-family:Arial; font-size:14px; fill:#0065a4;">7</text>
+<text x="3778.1" y="174.3" style="font-family:Arial; font-size:14px; fill:#0065a4;">8</text>
+<text x="3798.2" y="174.3" style="font-family:Arial; font-size:14px; fill:#0065a4;">9</text>
+<text x="3813.8" y="174.3" style="font-family:Arial; font-size:14px; fill:#0065a4;">10</text>
+<text x="3834" y="174.5" style="font-family:Arial; font-size:14px; fill:#0065a4;">11</text>
+<text x="3852.8" y="174.5" style="font-family:Arial; font-size:14px; fill:#0065a4;">12</text>
+<text x="3632.6" y="-46.8" style="font-family:Arial; font-size:14px; color:black; overflow:visible; fill:#ef2929;">People</text>
+<text x="3787" y="146.9" style="font-family:Arial; font-size:14px; color:black; overflow:visible; fill:#0065a4;">Time in Hours</text>
+<rect x="2710" y="-602.6" width="36.4" height="67.9" />
+<rect x="1622.3" y="-170.9" width="139.4" height="62.6" style="font-family:Arial; font-weight:bold; font-size:12px;" />
+<rect x="1631.4" y="-205.3" width="107.1" height="61.6" style="font-family:Arial; font-weight:bold; font-size:12px;" />
+<path d="m 3623,153.1 c 0,6.3 0,7.1 0,7.1" style="fill:#0065a4; stroke:#0065a4; stroke-width:1;" />
+<path d="m 3616.1,153.2 c 6.6,0 7.5,0 7.5,0" style="fill:none; stroke:#ef2929; stroke-width:1;" />
+</g>
+</svg>

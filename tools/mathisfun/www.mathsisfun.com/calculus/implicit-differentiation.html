@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/calculus/implicit-differentiation.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:07 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Implicit Differentiation</title>
+<script language="JavaScript" type="text/javascript">Author='Sayid, Khalil and Pierce, Rod';</script>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.">
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">Implicit  Differentiation</h1>
+
+<p class="center"><i>Finding  the derivative when you can’t solve for y<br>
+</i></p>
+  <p class="center"><img src="images/imply.jpg" alt="What are you trying to imply?" height="266" width="509"></p>
+  <p>You may like to read <a href="derivatives-introduction.html">Introduction to Derivatives</a> and <a href="derivatives-rules.html">Derivative Rules</a> first.</p>
+
+
+<h2>Implicit vs Explicit</h2>
+
+<p>A function can be explicit or implicit:</p>
+  <p><b>Explicit</b>:  "y = some function of x". <i>When we know x we can calculate y&nbsp;directly.</i></p>
+  <p><b>Implicit</b>:  "some function of y and x equals something else". <i>Knowing x does not lead directly to y.</i></p>
+  <div class="example">
+
+<h3>Example:  A  Circle</h3>
+    <table align="center" cellpadding="5">
+      <tbody>
+<tr style="text-align:center;">
+        <td><b>Explicit        Form</b></td>
+        <td style="width:20px;">&nbsp;</td>
+        <td><b>Implicit        Form</b></td>
+      </tr>
+      <tr style="text-align:center;">
+        <td class="large" style="white-space:nowrap">y = ± √ (r<sup>2</sup> − x<sup>2</sup>)</td>
+        <td>&nbsp;</td>
+        <td class="large" style="white-space:nowrap">x<sup>2</sup> + y<sup>2</sup> = r<sup>2</sup></td>
+      </tr>
+      <tr style="text-align:center;">
+        <td>In this form, y is        expressed<br>
+as a function of x.</td>
+        <td>&nbsp;</td>
+        <td>In this form, the        function is<br>
+expressed              in terms of both y and x.</td>
+      </tr>
+    </tbody></table>
+    <p class="center"><img src="images/graph-x2-y2-9.gif" alt="graph x^2 + y^2 = 9, a circle" height="194" width="223"><br>
+The <a href="../data/grapher-equation1bdb.html?func1=x%5E2+y%5E2=9&amp;xmin=-5.000&amp;xmax=5.000&amp;ymin=-3.750&amp;ymax=3.750">graph</a> of x<sup>2</sup> + y<sup>2</sup> = 3<sup>2</sup></p>
+  </div>
+
+
+<h2>How to do Implicit Differentiation</h2>
+
+<ul>
+    <li>Differentiate    with respect to x</li>
+    <li>Collect    all the <span class="intbl"> <em>dy</em> <strong>dx</strong> </span> on    one side</li>
+    <li>Solve for <span class="intbl"> <em>dy</em> <strong>dx</strong> </span></li>
+  </ul>
+  <div class="example">
+
+<h3>Example: x<sup>2</sup> + y<sup>2</sup> = r<sup>2</sup></h3>
+    <p>Differentiate    with respect to x:</p>
+    <p class="center large"><span class="intbl"> <em>d</em> <strong>dx</strong> </span>(x<sup>2</sup>) + <span class="intbl"> <em>d</em> <strong>dx</strong> </span>(y<sup>2</sup>) = <span class="intbl"> <em>d</em> <strong>dx</strong> </span>(r<sup>2</sup>)</p>
+    <p>Let's solve each term:</p>
+<div class="tbl">
+<div class="row"><span class="left">Use the <a href="derivatives-rules.html">Power Rule</a>:</span><span class="right"><span class="intbl"> <em>d</em> <strong>dx</strong> </span>(x<sup>2</sup>)  = 2x</span></div>
+<div class="row"><span class="left">Use the Chain Rule (explained below):</span><span class="right"><span class="intbl"> <em>d</em> <strong>dx</strong> </span>(y<sup>2</sup>)  = 2y<span class="intbl"> <em>dy</em> <strong>dx</strong> </span></span></div>
+<div class="row"><span class="left">r<sup>2</sup> is a constant, so its derivative is 0:</span><span class="right"><span class="intbl"> <em>d</em> <strong>dx</strong> </span>(r<sup>2</sup>)  = 0</span></div>
+</div>
+<p>Which gives us:</p>
+    <p class="center large">2x + 2y<span class="intbl"> <em>dy</em> <strong>dx</strong> </span> = 0</p>
+    <p>Collect    all the <span class="intbl"> <em>dy</em> <strong>dx</strong> </span> on    one side</p>
+    <p class="center large">y<span class="intbl"> <em>dy</em> <strong>dx</strong> </span> = −x</p>
+    <p>Solve for <span class="intbl"> <em>dy</em> <strong>dx</strong> </span>:</p>
+    <p class="center larger"><span class="intbl"> <em>dy</em> <strong>dx</strong> </span> = <span class="intbl"> <em>−x</em> <strong>y</strong> </span></p>
+  </div>
+  <div class="def">
+
+<h3>The  Chain Rule Using <span class="intbl"> <em>dy</em> <strong>dx</strong> </span></h3>
+    <p>Let's look more closely at how <span class="large"><span class="intbl"> <em>d</em> <strong>dx</strong> </span>(y<sup>2</sup>)</span> becomes <span class="large">2y<span class="intbl"> <em>dy</em> <strong>dx</strong> </span></span></p>
+    <p>The Chain Rule says:</p>
+    <p class="center large"><span class="intbl"> <em>du</em> <strong>dx</strong> </span> = <span class="intbl"> <em>du</em> <strong>dy</strong> </span><span class="intbl"> <em>dy</em> <strong>dx</strong> </span></p>
+    <p>Substitute in <span class="large">u = y<sup>2</sup></span>:</p>
+    <p class="center large"><span class="intbl"> <em>d</em> <strong>dx</strong> </span>(y<sup>2</sup>) = <span class="intbl"> <em>d</em> <strong>dy</strong> </span>(y<sup>2</sup>)<span class="intbl"> <em>dy</em> <strong>dx</strong> </span></p>
+    <p>And then:</p>
+    <p class="center large"><span class="intbl"> <em>d</em> <strong>dx</strong> </span>(y<sup>2</sup>) = 2y<span class="intbl"> <em>dy</em> <strong>dx</strong> </span></p>
+
+<h3>Basically, all we  did was differentiate with respect to y and multiply by <span class="intbl"> <em>dy</em> <strong>dx</strong> </span></h3>
+  </div>
+  <p>Another common notation is to use <span class="hilite">’</span> to mean <span class="intbl"> <em>d</em> <strong>dx</strong> </span></p>
+  <div class="def">
+
+<h3>The  Chain Rule Using&nbsp;<span class="center large">’</span></h3>
+    <p>The Chain Rule can also be written using <span class="center large">’</span> notation:</p>
+    <p class="center large">f(g(x))’ = f’(g(x))g’(x)</p>
+    <p>g(x) is our function "y", so:</p>
+    <p class="center large">f(y)’ = f’(y)y’</p>
+    <p>f(y) = <span class="large"> y<sup>2</sup></span>, so f<span class="center large">’</span>(y) = 2y:</p>
+    <p class="center large">f(y)’ = 2yy’</p>
+    <p class="center large">or alternatively: f(y)’ = 2y <span class="intbl"> <em>dy</em> <strong>dx</strong> </span></p>
+
+<h3>Again,  all we  did was differentiate with respect to y and multiply by <span class="intbl"> <em>dy</em> <strong>dx</strong> </span></h3>
+  </div>
+
+
+<h2>Explicit</h2>
+
+<p>Let's also find the derivative using the <b>explicit</b> form of the equation.</p>
+  <ul>
+    <li>To    solve this explicitly, we can solve the equation for y</li>
+    <li>Then    differentiate</li>
+    <li>Then substitute the equation for y again</li>
+  </ul>
+  <div class="example">
+
+<h3>Example: x<sup>2</sup> + y<sup>2</sup> = r<sup>2</sup></h3>
+<div class="tbl">
+<div class="row"><span class="left">Subtract x<sup>2</sup> from both sides:</span><span class="right">y<sup>2</sup> = r<sup>2</sup> − x<sup>2</sup></span></div>
+<div class="row"><span class="left">Square root:</span><span class="right">y = ±√(r<sup>2</sup> − x<sup>2</sup>)&nbsp;</span></div>
+<div class="row"><span class="left">Let's do <b>just the positive</b>: </span><span class="right">y = √(r<sup>2</sup> − x<sup>2</sup>)&nbsp;</span></div>
+<div class="row"><span class="left">As a power: </span><span class="right">y = (r<sup>2</sup> − x<sup>2</sup>)<sup>½</sup></span></div>
+<div class="row"><span class="left"><b>Derivative (Chain Rule)</b>:</span><span class="right">y<span class="center large">’</span> =½(r<sup>2</sup> − x<sup>2</sup>)<sup>−½</sup>(<span class="center large">−</span>2x)</span></div>
+<div class="row"><span class="left">Simplify:</span><span class="right">y<span class="center large">’</span> = −x(r<sup>2</sup> − x<sup>2</sup>)<sup>−½</sup></span></div>
+<div class="row"><span class="left">Simplify more:</span><span class="right">y<span class="center large">’</span> = <span class="center large"><span class="intbl"> <em>−x</em> <strong>(r<sup>2</sup> − x<sup>2</sup>)<sup>½</sup></strong> </span></span></span></div>
+<div class="row"><span class="left">Now, because <b>y = (r<sup>2</sup> − x<sup>2</sup>)<sup>½</sup></b>:&nbsp;</span><span class="right">y<span class="center large">’</span> = −x/y</span></div>
+</div>
+<p>We get the same result this way!</p>
+    <p>You can try taking the derivative of the negative&nbsp;term yourself.</p>
+  </div>
+  <div class="def">
+
+<h3>Chain Rule Again!</h3>
+    <p>Yes, we used the Chain Rule again. Like this (note different letters, but same rule):</p>
+    <p class="center large"><span class="intbl"> <em>dy</em> <strong>dx</strong> </span> = <span class="intbl"> <em>dy</em> <strong>df</strong> </span><span class="intbl"> <em>df</em> <strong>dx</strong> </span></p>
+    <p>Substitute in <span class="large">f =  (r<sup>2</sup> − x<sup>2</sup>)</span>:</p>
+    <p class="center large"><span class="intbl"> <em>d</em> <strong>dx</strong> </span>(f<sup>½</sup>) = <span class="intbl"> <em>d</em> <strong>df</strong> </span>(f<sup>½</sup>)<span class="intbl"> <em>d</em> <strong>dx</strong> </span><span class="intbl"> </span><span class="large">(r<sup>2</sup> − x<sup>2</sup>)</span></p>
+    <p>Derivatives:</p>
+    <p class="center large"><span class="intbl"> <em>d</em> <strong>dx</strong> </span>(f<sup>½</sup>) = ½(f<sup>−½</sup>) <span class="large">(−2x)</span></p>
+    <p>And substitute back <span class="large">f =  (r<sup>2</sup> − x<sup>2</sup>)</span>:</p>
+    <p class="center large"><span class="intbl"> <em>d</em> <strong>dx</strong> </span><span class="large">(r<sup>2</sup> − x<sup>2</sup>)</span><sup>½</sup> = ½(<span class="large">(r<sup>2</sup> − x<sup>2</sup>)</span><sup>−½</sup>) (−2<span class="large">x)</span></p>
+    <p>And we simplified from there.</p>
+  </div>
+
+
+<h2>Using The Derivative</h2>
+
+<p>OK, so why find the derivative <span class="large">y’ = −x/y </span>?</p>
+  <p>Well, for example, we can find the slope of a tangent line.</p>
+  <div class="example">
+
+<h3>Example: what  is the slope of a circle centered at the origin  with a radius of 5 at the point (3, 4)?</h3>
+    <p style="float:right; margin: 0 0 5px 10px;"><img src="images/graph-x2-y2-25.gif" alt="graph x^2 + y^2 = 25 with tangent line" height="319" width="261"></p>
+    <p>No  problem, just substitute it into our equation:</p>
+    <p class="center"><span class="intbl"> <em>dy</em> <strong>dx</strong> </span> = −x/y</p>
+    <p class="center"><span class="intbl"> <em>dy</em> <strong>dx</strong> </span> = −3/4</p>
+    <p>And  for bonus, the equation for the tangent line is:</p>
+    <p class="center">y = −3/4 x + 25/4</p>
+  </div>
+
+
+<h2>Another Example</h2>
+
+<p>Sometimes the <b>implicit</b> way works where the explicit way  is hard or impossible.</p>
+  <div class="example">
+
+<h3>Example:  10x<sup>4</sup> − 18xy<sup>2</sup> + 10y<sup>3</sup> = 48</h3>
+    <p>How do we solve for y?&nbsp;We don't have to!</p>
+    <ul>
+      <li>First,      differentiate with respect to x (use the Product Rule for the xy<sup>2</sup> term).</li>
+      <li>Then move all  dy/dx terms to the left side.</li>
+      <li>Solve for dy/dx</li>
+    </ul>
+    <p>Like this:</p>
+<div class="tbl">
+<div class="row"><span class="left">Start with:</span><span class="right">10x<sup>4</sup> − 18xy<sup>2</sup> + 10y<sup>3</sup> = 48</span></div>
+<div class="row"><span class="left"><b>Derivative</b>:</span><span class="right">10 (4x<sup>3</sup>) − 18(x(2y<span class="intbl"> <em>dy</em> <strong>dx</strong> </span>) + y<sup>2</sup>) + 10(3y<sup>2</sup><span class="intbl"> <em>dy</em> <strong>dx</strong> </span>) = 0</span></div>
+<div class="row"><span class="left"></span><span class="right">
+<p>(the middle term is explained<br>
+in "Product Rule" below)</p></span></div>
+<div class="row"><span class="left">Simplify:</span><span class="right">40x<sup>3</sup> − 36xy<span class="intbl"> <em>dy</em> <strong>dx</strong> </span> − 18y<sup>2</sup> + 30y<sup>2</sup><span class="intbl"> <em>dy</em> <strong>dx</strong> </span> = 0</span></div>
+<div class="row"><span class="left"><span class="intbl"> <em>dy</em> <strong>dx</strong> </span> on left:</span><span class="right">−36xy<span class="intbl"> <em>dy</em> <strong>dx</strong></span> + 30y<sup>2</sup><span class="intbl"><em>dy</em> <strong>dx</strong> </span> = −40x<sup>3</sup> + 18y<sup>2</sup></span></div>
+<div class="row"><span class="left">Simplify                :</span><span class="right">(30y<sup>2</sup>−36xy)<span class="intbl"> <em>dy</em> <strong>dx</strong> </span>= 18y<sup>2</sup> − 40x<sup>3</sup></span></div>
+<div class="row"><span class="left">Simplify                :</span><span class="right">3(5y<sup>2</sup>−6xy)<span class="intbl"> <em>dy</em> <strong>dx</strong> </span>= 9y<sup>2</sup> − 20x<sup>3</sup></span></div>
+</div>
+<p>And we get:</p>
+<div class="center large"><span class="intbl"><em>dy</em><strong>dx</strong></span> = <span class="intbl"><em>9y<sup>2</sup> − 20x<sup>3</sup></em><strong>3(5y<sup>2</sup> − 6xy)</strong></span></div>
+<!-- dy/dx = 9y^2~-20x^3/3(5y^2~-6xy) -->
+<p>&nbsp;</p>
+
+<h3>Product Rule</h3>
+    <p>For the middle term  we used the Product Rule:  (fg)’ = f g’ + f’ g</p>
+<div class="tbl">
+<div class="row"><span class="left">(xy<sup>2</sup>)’&nbsp;</span><span class="right">= x(y<sup>2</sup>)’ + (x)’y<sup>2</sup></span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right">= x(2y<span class="intbl"> <em>dy</em> <strong>dx</strong> </span>) + y<sup>2</sup></span></div>
+</div>
+<p>Because (y<sup>2</sup>)’&nbsp; = 2y<span class="intbl"> <em>dy</em> <strong>dx</strong> </span>(we worked that out in a previous example)</p>
+      <p>Oh, and <span class="intbl"><em>dx</em><strong>dx</strong></span> = 1, in other words x’ = 1</p>
+  </div>
+
+
+<h2>Inverse Functions</h2>
+
+<p>Implicit differentiation can help us solve inverse functions.</p>
+  <p>The general pattern is:</p>
+  <ul>
+    <li>Start  with the inverse equation in explicit form. Example: y = sin<sup>−1</sup>(x)</li>
+    <li>Rewrite it in non-inverse mode:  Example: x = sin(y)</li>
+    <li>Differentiate this function with respect to x on both sides.</li>
+    <li>Solve for dy/dx</li>
+  </ul>
+  <p>As a final step we can try to simplify more by substituting the original equation.</p>
+  <p>An example will help:</p>
+  <div class="example">
+
+<h3>Example: the inverse sine function y = sin<sup>−1</sup>(x)</h3>
+<div class="tbl">
+<div class="row"><span class="left">Start with:</span><span class="right">y = sin<sup>−1</sup>(x)</span></div>
+<div class="row"><span class="left">In non−inverse mode:</span><span class="right">x = sin(y)</span></div>
+<div class="row"><span class="left"><b>Derivative</b>:</span><span class="right"><span class="intbl"> <em>d</em> <strong>dx</strong> </span>(x) = <span class="intbl"> <em>d</em> <strong>dx</strong> </span>sin(y)</span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right">1 = cos(y) <span class="intbl"> <em>dy</em> <strong>dx</strong> </span></span></div>
+<div class="row"><span class="left">Put <span class="intbl"> <em>dy</em> <strong>dx</strong> </span> on left:</span><span class="right"><span class="intbl"> <em>dy</em> <strong>dx</strong> </span>= <span class="intbl"> <em>1</em> <strong>cos(y)</strong> </span></span></div>
+</div>
+<p>We can also go one step further using the Pythagorean identity:</p>
+    <p class="center">sin<sup>2</sup> y + cos<sup>2</sup> y = 1</p>
+    <p class="center">cos y = √(1 − sin<sup>2</sup> y )</p>
+    <p>And, because sin(y) = x (from  above!), we get:</p>
+    <p class="center">cos y = √(1 − x<sup>2</sup>)</p>
+    <p>Which leads to:</p>
+    <p class="center larger"><span class="intbl"> <em>dy</em> <strong>dx</strong> </span>= <span class="intbl"> <em>1</em> <strong>√(1 − x<sup>2</sup>)</strong> </span></p>
+  </div>
+  <div class="example">
+
+<h3>Example: the derivative of square root √x</h3>
+<div class="tbl">
+<div class="row"><span class="left">Start with:</span><span class="right">y = √x</span></div>
+<div class="row"><span class="left">So:</span><span class="right">y<sup>2</sup> = x</span></div>
+<div class="row"><span class="left"><b>Derivative</b>:</span><span class="right">2y<span class="intbl"> <em>dy</em> <strong>dx</strong> </span>= 1</span></div>
+<div class="row"><span class="left">Simplify:</span><span class="right"><span class="intbl"> <em>dy</em> <strong>dx</strong> </span> = <span class="intbl"> <em>1</em> <strong>2y</strong> </span></span></div>
+<div class="row"><span class="left">Because y = √x:</span><span class="right"><span class="intbl"> <em>dy</em> <strong>dx</strong> </span> = <span class="intbl"> <em>1</em> <strong>2√x</strong> </span></span></div>
+</div>
+<p>Note: this is the same answer  we get using the Power Rule:</p>
+<div class="tbl">
+<div class="row"><span class="left">Start with:</span><span class="right">y = √x</span></div>
+<div class="row"><span class="left">As a power:</span><span class="right">y = x<sup>½</sup></span></div>
+<div class="row"><span class="left">Power Rule <span class="intbl"> <em>d</em> <strong>dx</strong> </span>x<sup>n</sup> = nx<sup>n−1</sup>:</span><span class="right"><span class="intbl"> <em>dy</em> <strong>dx</strong> </span> = (½)x<sup>−½</sup></span></div>
+<div class="row"><span class="left">Simplify:</span><span class="right"><span class="intbl"> <em>dy</em> <strong>dx</strong> </span> = <span class="intbl"> <em>1</em> <strong>2√x</strong> </span></span></div>
+</div>
+  </div>
+
+
+<h2>Summary</h2>
+
+<ul class="bigul">
+    <li>To Implicitly derive a function (useful when a function    can't easily be solved for y)
+
+
+<ul>
+        <li>Differentiate      with respect to x</li>
+        <li>Collect      all the dy/dx on one side</li>
+        <li>Solve for dy/dx</li>
+      </ul></li>
+    <li>To derive an inverse function,  restate  it  without  the inverse then use Implicit differentiation</li>
+  </ul>
+  <p>&nbsp;</p>
+  <div class="questions">11312, 11313, 11314, 11315, 11316, 11317, 11318, 11319, 11320, 11321</div>
+
+<div class="related">  
+  <a href="derivatives-introduction.html">Introduction to Derivatives</a>  
+  <a href="derivatives-rules.html">Derivative Rules</a>  
+  <a href="index.html">Calculus Index</a>
+</div>
+  <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2021 MathsIsFun.com</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/calculus/implicit-differentiation.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:08 GMT -->
+</html>

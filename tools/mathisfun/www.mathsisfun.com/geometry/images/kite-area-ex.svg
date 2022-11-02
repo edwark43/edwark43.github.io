@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="132.5" height="210.3" version="1.1" style="font-family:'Trebuchet MS'; font-size:20.6px; stroke-width:0.91;">
+<defs>
+	<pattern id="id2" patternTransform="matrix(1.9497,0,0,1.94747,836.826,-217.499)" xlink:href="#id1"/>
+	<pattern id="id1" height="5.2" width="30.1" patternUnits="userSpaceOnUse">
+		<path style="fill:white; stroke-width:1;" d="M 7.6,0.1 C 5.1,-0.2 2.7,0.3 -0,1.8 L -0,3.1 C 2.8,1.4 5.2,1.1 7.5,1.3 C 9.8,1.5 12,2.4 14.3,3.2 C 18.8,4.9 23.8,6.7 30.1,3.1 L 30.1,1.8 C 23.6,5.5 19.2,3.8 14.7,2.1 C 12.4,1.2 10.1,0.3 7.6,0.1 z "/>
+	</pattern>
+</defs>
+<g style="display:none;" transform="translate(934.653,-126.186)">
+	<image x="-1413.5" y="148.4" width="1305" height="787.4" xlink:href="../../Images/SVG/inkscape_pasted_image_20101001_094421.html"/>
+</g>
+<g transform="translate(934.653,-126.186)">
+	<path style="fill:#19aeff; stroke:black; stroke-width:1.52px;" d="m -918.2,220.7 28.7,-93.1 86.2,92.8 -86.2,92.8 -28.7,-92.5"/>
+	<text x="-841.4" y="279.6" transform="scale(1.00115,0.998849)" style="fill:#3465a4;">6.5</text>
+	<text x="-934.9" y="279.6" transform="scale(1.00115,0.99885)" style="fill:#8f5902;">5.0</text>
+	<path style="fill:url(#id2); stroke:black; stroke-width:1.52px;" d="m -918.2,220.7 28.7,-93.1 86.2,92.8 -86.2,92.8 -28.7,-92.5"/>
+	<text x="-900.7" y="336.5" transform="scale(1.00115,0.998851)" style="font-size:24px; fill:#c4a000;">60°</text>
+	<path style="fill:#c4a000; fill-opacity:0.31; stroke:#204a87; stroke-width:2;" d="m -899,282.1 a 32.6,32.5 0 0 1 31.5,7.1 l -22,24 z" sodipodi:type="arc" sodipodi:cx="-889.434" sodipodi:cy="313.227" sodipodi:rx="32.565" sodipodi:ry="32.5409" sodipodi:start="4.41503" sodipodi:end="5.4526" sodipodi:arc-type="slice"/>
+	<text x="-841.4" y="173.3" transform="scale(1.00115,0.998851)" style="fill:#3465a4;">6.5</text>
+	<text x="-934.9" y="173.3" transform="scale(1.00115,0.998851)" style="fill:#8f5902;">5.0</text>
+</g>
+</svg>

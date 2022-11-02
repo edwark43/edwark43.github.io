@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="175.3" height="208.2" version="1.1">
+<defs>
+<marker id="id16" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id15" style="overflow:visible;" orient="auto">
+<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id14" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id13" style="overflow:visible;" orient="auto">
+<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id12" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id11" style="overflow:visible;" orient="auto">
+<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id10" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id9" style="overflow:visible;" orient="auto">
+<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id8" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id7" style="overflow:visible;" orient="auto">
+<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id6" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id5" style="overflow:visible;" orient="auto">
+<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id4" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id3" style="overflow:visible;" orient="auto">
+<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id2" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<g transform="translate(-258.152,-416.238)">
+<path style="fill:none; stroke:#204a87; stroke-width:1.66;" d="M 264.8,577.3 H 433.5"/>
+<path style="fill:none; stroke:#204a87; stroke-width:1.66;" d="M 264.8,481.4 H 433.5"/>
+<path style="fill:none; stroke:#0084c8; stroke-width:1.66;" d="M 293,624.1 393.4,416.6"/>
+<path style="color:black; marker-start:url(#id1); marker-end:url(#id2); overflow:visible; fill:none; stroke:#ff9900; stroke-width:1.11; stroke-linejoin:round;" d="m 388.8,483.3 a 27.9,27.9 0 0 1 -12.4,21.3 27.9,27.9 0 0 1 -24.5,3.2"/>
+<path style="color:black; marker-start:url(#id3); marker-end:url(#id4); overflow:visible; fill:none; stroke:#ff9900; stroke-width:1.11; stroke-linejoin:round;" d="m 342.8,579.8 a 27.9,27.9 0 0 1 -12.4,21.3 27.9,27.9 0 0 1 -24.5,3.2"/>
+<path transform="scale(-1)" style="color:black; marker-start:url(#id5); marker-end:url(#id6); overflow:visible; fill:none; stroke:#ff9900; stroke-width:1.11; stroke-linejoin:round;" d="m -289.2,-574.8 a 27.9,27.9 0 0 1 -12.4,21.3 27.9,27.9 0 0 1 -24.5,3.2"/>
+<path transform="scale(-1)" style="color:black; marker-start:url(#id7); marker-end:url(#id8); overflow:visible; fill:none; stroke:#ff9900; stroke-width:1.11; stroke-linejoin:round;" d="m -334.9,-478.2 a 27.9,27.9 0 0 1 -12.4,21.3 27.9,27.9 0 0 1 -24.5,3.2"/>
+<path transform="rotate(-110.369)" style="color:black; marker-start:url(#id9); marker-end:url(#id10); overflow:visible; fill:none; stroke:#ff9900; stroke-width:1.11; stroke-linejoin:round;" d="m -555.4,198.2 a 34.8,34.8 0 0 1 -31,5.3"/>
+<path transform="rotate(-110.369)" style="color:black; marker-start:url(#id11); marker-end:url(#id12); overflow:visible; fill:none; stroke:#ff9900; stroke-width:1.11; stroke-linejoin:round;" d="m -629.5,122.3 a 34.8,34.8 0 0 1 -31,5.3"/>
+<path transform="rotate(69.6314)" style="color:black; marker-start:url(#id13); marker-end:url(#id14); overflow:visible; fill:none; stroke:#ff9900; stroke-width:1.11; stroke-linejoin:round;" d="m 673.1,-68.4 a 34.8,34.8 0 0 1 -31,5.3"/>
+<path transform="rotate(69.6314)" style="color:black; marker-start:url(#id15); marker-end:url(#id16); overflow:visible; fill:none; stroke:#ff9900; stroke-width:1.11; stroke-linejoin:round;" d="m 598.6,-144.4 a 34.8,34.8 0 0 1 -31,5.3"/>
+<text x="322.6" y="452.7" style="font-family:'Comic Sans MS'; font-size:17.5px; font-style:italic; color:black; overflow:visible; fill:#ff9900; stroke-width:0.37px;">118°</text>
+<text x="370.5" y="522.8" style="font-family:'Comic Sans MS'; font-size:17.5px; font-style:italic; color:black; overflow:visible; fill:#ff9900; stroke-width:0.37px;">118°</text>
+<text x="270.8" y="551.9" style="font-family:'Comic Sans MS'; font-size:17.5px; font-style:italic; color:black; overflow:visible; fill:#ff9900; stroke-width:0.37px;">118°</text>
+<text x="332.5" y="613.6" style="font-family:'Comic Sans MS'; font-size:17.5px; font-style:italic; color:black; overflow:visible; fill:#ff9900; stroke-width:0.37px;">118°</text>
+<text x="392.5" y="462" style="font-family:'Comic Sans MS'; font-size:17.5px; font-style:italic; color:black; overflow:visible; fill:#ff9900; stroke-width:0.37px;">62°</text>
+<text x="302.1" y="511" style="font-family:'Comic Sans MS'; font-size:17.5px; font-style:italic; color:black; overflow:visible; fill:#ff9900; stroke-width:0.37px;">62°</text>
+<text x="348.8" y="560.6" style="font-family:'Comic Sans MS'; font-size:17.5px; font-style:italic; color:black; overflow:visible; fill:#ff9900; stroke-width:0.37px;">62°</text>
+<text x="256.4" y="610.5" style="font-family:'Comic Sans MS'; font-size:17.5px; font-style:italic; color:black; overflow:visible; fill:#ff9900; stroke-width:0.37px;">62°</text>
+</g>
+</svg>

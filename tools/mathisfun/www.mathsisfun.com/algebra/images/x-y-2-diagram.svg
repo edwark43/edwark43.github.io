@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="225.3" height="202.1" version="1.1" style="font-family:'Comic Sans MS'; font-size:20.8px; fill:#0084c8; stroke-width:0.18px;">
+<defs>
+	<marker id="aa1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#0084c8; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa4" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#0084c8; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa2" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#0084c8; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa3" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#0084c8; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g transform="translate(1768.26,60.4327)">
+	<rect x="-1598.5" y="85.7" width="54.4" height="54.4" style="fill:#c3eaff; fill-opacity:0.68; stroke:black; stroke-width:0.38;"/>
+	<rect x="-1692" y="-7.8" width="93.5" height="93.5" style="fill:#19aeff; fill-opacity:0.62; stroke:black; stroke-width:0.38;"/>
+	<rect x="-1598.5" y="-7.8" width="54.4" height="93.5" style="fill:#f6ff8b; fill-opacity:0.62; stroke:black; stroke-width:0.38;"/>
+	<rect x="85.7" y="1598.5" width="54.4" height="93.5" transform="rotate(90)" style="fill:#f6ff8b; fill-opacity:0.62; stroke:black; stroke-width:0.38;"/>
+	<text x="-1655.4" y="43.3" transform="scale(1.00025,0.999751)" style="font-size:25px; fill:black;">a</text>
+	<text x="-1643.7" y="36.8" transform="scale(1.00025,0.999751)" style="fill:black; stroke-width:0.16px;">2</text>
+	<text x="-1582.1" y="122.5" transform="scale(1.00025,0.999751)" style="font-size:25px; fill:black;">b</text>
+	<text x="-1569.7" y="113" transform="scale(1.00025,0.999751)" style="fill:black; stroke-width:0.17px;">2</text>
+	<text x="-1585.2" y="43.9" transform="scale(1.00025,0.999751)" style="font-size:25px; fill:black;">ab</text>
+	<text x="-1659.2" y="120.8" transform="scale(1.00025,0.999751)" style="font-size:25px; fill:black;">ab</text>
+	<text x="-1645" y="-42.4" transform="scale(1.00025,0.999751)" style="font-size:22.9px; stroke:#0084c8;">(a+b)</text>
+	<text x="-1769" y="72.9" transform="scale(1.00025,0.999751)" style="font-size:22.9px; stroke:#0084c8;">(a+b)</text>
+	<text x="-1652.7" y="-12.9" transform="scale(1.00025,0.999751)" style="fill:black;">a</text>
+	<text x="-1582.5" y="-12.6" transform="scale(1.00025,0.999751)" style="fill:black;">b</text>
+	<text x="-1711.7" y="42.9" transform="scale(1.00025,0.999751)" style="fill:black;">a</text>
+	<text x="-1713.1" y="119.9" transform="scale(1.00025,0.999751)" style="fill:black;">b</text>
+	<path style="fill:#19aeff; stroke:#0084c8; stroke-width:0.94px;" d="M -1692,-14 V -53.7"/>
+	<path style="fill:#19aeff; stroke:#19aeff; stroke-width:0.94px;" d="M -1544.1,-14 V -53.7"/>
+	<path style="marker-end:url(#aa1); stroke:#0084c8; stroke-width:1.25;" d="m -1589.1,-48.8 h 43.7"/>
+	<path style="marker-end:url(#aa2); stroke:#0084c8; stroke-width:1.22;" d="m -1648.6,-48.8 h -41.7"/>
+	<path style="stroke:#0084c8; stroke-width:1.07px;" d="m -1698.2,140.1 h -52"/>
+	<path style="stroke:#0084c8; stroke-width:1.05px;" d="m -1698.3,-7.8 h -49.5"/>
+	<path style="marker-end:url(#aa3); stroke:#0084c8; stroke-width:1.41;" d="M -1743.8,49.3 V -6.5"/>
+	<path style="marker-end:url(#aa4); stroke:#0084c8; stroke-width:1.42;" d="m -1743.8,82 v 56.9"/>
+</g>
+</svg>

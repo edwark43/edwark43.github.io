@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/algebra/partial-fractions.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:02:25 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Partial Fractions</title>
+<meta name="Description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents.">
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+<link rel="stylesheet" type="text/css" href="../style3.css">
+<script src="../main3.js"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun"></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran">
+		<script>document.write(getTrans());</script>
+	</div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script>document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script>document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort">
+			<script>document.write(getLinks());</script>
+		</div>
+	</div>
+	<div id="search" role="search">
+		<script>document.write(getSearch());</script>
+	</div>
+	<div id="menuSlim" class="menu"> 
+		<script>document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script>document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main">
+<!-- #BeginEditable "Body" -->
+  
+	<h1 class="center">Partial Fractions</h1>
+	<p class="center"><i>A way of "breaking apart" fractions with polynomials in them.</i></p>
+	<h2>What are Partial Fractions?</h2>
+	<p class="larger">We  can do <i>this</i> directly:</p>
+	<p class="center"><img src="images/partial-fractions-a.gif" alt="Partial Fractions" height="60" width="347"></p>
+	<div class="example">
+	<p>Like this:</p>
+	  
+	  <p class="center large"><span class="intbl"><em>2</em>
+	  <strong>x&minus;2</strong></span> + <span class="intbl"><em>3</em>
+	  <strong>x+1</strong></span> = <span class="intbl">
+	  <em>2(x+1) + 3(x&minus;2)</em>
+	  <strong>(x&minus;2)(x + 1)</strong></span></p>
+	  <p>Which can  be simplified using <a href="rational-expression-operations.html">Rational Expressions</a> to:</p>
+	  <p class="center large">= <span class="intbl">
+	<em>2x+2 + 3x&minus;6</em>
+<strong>x<sup>2</sup>+x&minus;2x&minus;2</strong></span></p>
+<p class="center large">= <span class="intbl">
+		<em>5x&minus;4</em>
+		<strong>x<sup>2</sup>&minus;x&minus;2</strong></span></p>
+	</div>
+	<p>&nbsp;</p>
+	<div class="center80">
+	  <p class="center large">... but how do we go in the opposite direction?</p>
+	  <p class="center large"><img src="images/partial-fractions-b.svg" alt="Partial Fractions"></p>
+	</div>
+	<p>That is what we are going to discover:</p>
+	<p class="center larger">How to  find the "parts" that make the  single fraction <br>
+	  (the "<b>partial fractions</b>").</p>
+	<h2>Why Do We Want Them?</h2>
+	<p>First of all ... why do we want them?</p>
+	<p class="center larger">Because the partial fractions are each <b>simpler</b>.</p>
+	<p>This can help solve the more complicated fraction. For example  it is very useful in <a href="../calculus/integration-introduction.html">Integral Calculus</a>.</p>
+	<h2>Partial Fraction Decomposition</h2>
+	<p>So let me show you how to do it.</p>
+	<p class="center">The method is called <i>"Partial Fraction Decomposition"</i>, and goes like this:</p>
+	<p><b>Step 1:</b> Factor the bottom</p>
+	<p class="center"><img src="images/partial-fractions-1a.gif" alt="Partial Fractions" height="45" width="187"></p>
+	<p><b>Step 2:</b> Write one partial fraction for each of those factors</p>
+	<p class="center"><img src="images/partial-fractions-1b.gif" alt="Partial Fractions" height="47" width="242"></p>
+	<p><b>Step 3:</b> Multiply through by the bottom so we no longer have fractions</p>
+	<p class="center"><img src="images/partial-fractions-1c.gif" alt="Partial Fractions" height="29" width="244"></p>
+	<p><b>Step 4:</b> Now find the constants A<sub>1</sub> and A<sub>2</sub></p>
+	<p>Substituting the roots, or "zeros", of (x&minus;2)(x+1) can help:</p>
+	<p class="center"><img src="images/partial-fractions-1d.gif" alt="Partial Fractions" height="219" width="373"></p>
+	<p><b>And we have our answer:</b></p>
+	<p class="center"><img src="images/partial-fractions-1e.gif" alt="Partial Fractions" height="46" width="223"></p>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<p>That was easy! <b><i>... almost too easy ... </i></b></p>
+	<p class="center larger">... because it <b>can be a lot harder</b>!</p>
+	<p>Now we  go into detail on each step.</p>
+	<h2>Proper Rational Expressions</h2>
+	<p>Firstly, this only works for <b>Proper</b> Rational Expressions, where the degree of the top is <b>less than</b> the bottom.</p>
+	<div class="def">
+	  <p class="center">The <b>degree</b> is the largest <b>exponent</b> the variable has.</p>
+  </div>
+	<ul class="larger">
+		<li><span class="large">Proper</span>:  the degree of the top is less than the degree of the bottom.
+  
+
+
+<table style="border: 0; margin:auto;">
+      <tbody>
+<tr align="center">
+        <td width="90">Proper:</td>
+        <td width="90"><img src="images/rational-proper-2.gif" alt="x / (x^3 - 1)" height="46" width="66"></td>
+        <td width="200">degree of top is 1<br>
+          degree of bottom is 3</td>
+    </tr>
+  </tbody></table></li>
+	
+<li><span class="large">Improper</span>: the degree of the top is greater than, or equal to, the degree of the bottom.
+  
+
+
+<table style="border: 0; margin:auto;">
+      <tbody>
+<tr align="center">
+        <td width="90">Improper:</td>
+        <td width="90"><img src="images/rational-improper-1.gif" alt="(x^2 - 1) / (x + 1)" height="51" width="65"></td>
+        <td width="200">degree of top is 2<br>
+degree of bottom is 1</td>
+      </tr>
+  </tbody></table></li>
+	</ul>
+	<p>If your expression is Improper, then do <a href="polynomials-division-long.html">polynomial long division</a> first.</p>
+	<h2>Factoring the Bottom</h2>
+	<p>It is up to you to factor the bottom polynomial. See <a href="factoring.html">Factoring in Algebra</a>.</p>
+	<p>But don't factor them into <a href="../numbers/complex-numbers.html">complex numbers</a> ... you may need to stop some factors at quadratic (called irreducible quadratics because any further factoring  leads to complex numbers):</p>
+	<div class="example">
+	  <h3>Example: (x<sup>2</sup>&minus;4)(x<sup>2</sup>+4)</h3>
+	  <ul>
+	    <div class="bigul">
+	      <li><b>x<sup>2</sup>&minus;4</b> can be factored into (x&minus;2)(x+2)</li>
+	      <li>But <b>x<sup>2</sup>+4</b> factors into complex numbers, so don't do it</li>
+      </div>
+	  </ul>
+	  <p>&nbsp;</p>
+	  <p>So the best we can do is:</p>
+	  <p class="center large">(x&minus;2)(x+2)(x<sup>2</sup>+4)</p>
+	  <p>&nbsp;</p>
+	</div>
+	<p>So the factors could be a combination of</p>
+	<ul>
+	  <li>linear factors</li>
+	  <li>irreducible quadratic  factors</li>
+  </ul>
+	<p><b>When you have a quadratic  factor you need to include this partial fraction:</b></p>
+
+<p class="center large"><span class="intbl"><em>B<sub>1</sub>x + C<sub>1</sub></em><strong>(Your Quadratic)</strong></span></p>
+<h2>Factors with Exponents</h2>
+	<p>Sometimes you may get a factor with an exponent, like <b>(x&minus;2)<sup>3</sup></b>  ...</p>
+	<div class="center80">
+	  <p class="center larger">You need a partial fraction for each exponent from 1 up.</p>
+  </div>
+	<p>Like this:</p>
+	<div class="example">
+	  <h3>Example:</h3>
+
+<p class="center large"><span class="intbl"><em>1</em><strong>(x&minus;2)<sup>3</sup>
+</strong></span></p>
+
+	  
+	  
+	  <p>Has partial fractions</p>
+<p class="center large"><span class="intbl"><em>A<sub>1</sub></em><strong>x&minus;2</strong></span> + <span class="intbl"><em>A<sub>2</sub></em><strong>(x&minus;2)<sup>2</sup></strong></span> + <span class="intbl"><em>A<sub>3</sub></em>
+<strong>(x&minus;2)<sup>3</sup></strong></span></p>
+
+	</div>
+	<p>The same thing can also   happen to quadratics:</p>
+	<div class="example">
+      <h3>Example:</h3>
+
+<p class="center large"><span class="intbl"><em>1</em><strong>(x<sup>2</sup>+2x+3)<sup>2</sup></strong></span></p>
+<p>Has partial fractions:</p>
+
+<p class="center large"><span class="intbl"><em>B<sub>1</sub>x + C<sub>1</sub></em><strong>x<sup>2</sup>+2x+3</strong></span> + <span class="intbl"><em>B<sub>2</sub>x + C<sub>2</sub></em><strong>(x<sup>2</sup>+2x+3)<sup>2</sup></strong></span></p>
+
+  </div>
+	<p>&nbsp;</p>
+	<h2>Sometimes Using Roots Does Not Solve It</h2>
+	<p>Even after using the roots (zeros) of the bottom you can end up with unknown constants.</p>
+	<p>So the next thing to do is:</p>
+	<div class="center80">
+	  <p>Gather all powers of x together and then solve it as a <a href="systems-linear-equations.html">system of linear equations</a>.</p>
+  </div>
+	<p>&nbsp;</p>
+	<p>Oh my gosh! That is a lot to handle! So, on with an example to help you understand:</p>
+	<h2>A Big Example Bringing It All Together</h2>
+    <p>Here is a nice big example for you!</p>
+
+<p class="center large"><span class="intbl"><em>x<sup>2</sup>+15</em><strong>(x+3)<sup>2 </sup>(x<sup>2</sup>+3)
+</strong></span></p>
+<ul>
+	<div class="bigul">
+	    <li>Because <span class="large">(x+3)<sup>2</sup></span> has an exponent of 2, it needs two terms  (<span class="large">A<sub>1</sub></span> and <span class="large">A<sub>2</sub></span>).</li>
+	    <li>And <span class="large">(x<sup>2</sup>+3)</span> is a quadratic, so it will need <span class="large">Bx + C</span>:</li>
+    </div>
+</ul>
+
+<p class="center large"><span class="intbl"><em>x<sup>2</sup>+15</em><strong>(x+3)<sup>2</sup>(x<sup>2</sup>+3)</strong></span>&nbsp; = &nbsp;<span class="intbl"><em>A<sub>1</sub></em><strong>x+3</strong></span> + <span class="intbl"><em>A<sub>2</sub></em><strong>(x+3)<sup>2</sup></strong></span> + <span class="intbl"><em>Bx + C</em><strong>x<sup>2</sup>+3</strong></span></p>
+<p>Now multiply through by <b>(x+3)<sup>2</sup>(x<sup>2</sup>+3)</b>:</p>
+	<p class="center"><span class="larger">x<sup>2</sup>+15 = (x+3)(x<sup>2</sup>+3)A<sub>1</sub> + (x<sup>2</sup>+3)A<sub>2</sub> + (x+3)<sup>2</sup>(Bx + C)</span></p>
+	<p>There is a zero at <b>x = &minus;3</b> (because x+3=0), so let us try that:</p>
+	<p class="center"><span class="larger"><b>(&minus;3)</b><sup>2</sup>+15 = 0 + (<b>(&minus;3)</b><sup>2</sup>+3)A<sub>2</sub> + 0</span></p>
+	<p>And simplify it to:</p>
+	<p class="center"><span class="larger">24 = 12A<sub>2</sub></span></p>
+	<p class="center">so<span class="large"> A<sub>2</sub>=2</span></p>
+	<p>Let us replace <span class="large">A<sub>2</sub> </span>with<span class="large"> 2</span>:</p>
+	<p class="center"><span class="larger">x<sup>2</sup>+15 = (x+3)(x<sup>2</sup>+3)A<sub>1</sub> + 2x<sup>2</sup>+6 + (x+3)<sup>2</sup>(Bx + C)</span></p>
+	<p>Now expand the whole thing:</p>
+	<p class="center"><span class="larger">x<sup>2</sup>+15 = (x<sup>3</sup>+3x+3x<sup>2</sup>+9)A<sub>1</sub> + 2x<sup>2</sup>+6 + (x<sup>3</sup>+6x<sup>2</sup>+9x)B + (x<sup>2</sup>+6x+9)C</span></p>
+	<p>Gather powers of x together:</p>
+	<p class="center"><span class="larger">x<sup>2</sup>+15 = x<sup>3</sup>(A<sub>1</sub>+B)+x<sup>2</sup>(3A<sub>1</sub>+6B+C+2)+x(3A<sub>1</sub>+9B+6C)+(9A<sub>1</sub>+6+9C)</span></p>
+	<p>Separate the powers and write as a <a href="systems-linear-equations.html">Systems of Linear Equations</a>:</p>
+	<table style="border: 0; margin:auto;">
+      <tbody>
+<tr>
+        <td align="right"><span class="large">x<sup>3</sup>:</span></td>
+        <td align="right">&nbsp;</td>
+        <td align="right"><span class="larger"> 0 </span></td>
+        <td align="center"><span class="larger"> = </span></td>
+        <td><span class="larger">A<sub>1</sub>+B</span></td>
+      </tr>
+      <tr>
+        <td align="right"><span class="large">x<sup>2</sup>:</span></td>
+        <td align="right">&nbsp;</td>
+        <td align="right"><span class="larger"> 1 </span></td>
+        <td align="center"><span class="larger"> = </span></td>
+        <td><span class="larger">3A<sub>1</sub>+6B+C+2</span></td>
+      </tr>
+      <tr>
+        <td align="right"><span class="large">x:</span></td>
+        <td align="right">&nbsp;</td>
+        <td align="right"><span class="larger"> 0 </span></td>
+        <td align="center"><span class="larger"> = </span></td>
+        <td><span class="larger">3A<sub>1</sub>+9B+6C</span></td>
+      </tr>
+      <tr>
+        <td align="right"><span class="large">Constants:</span></td>
+        <td align="right">&nbsp;</td>
+        <td align="right"><span class="larger"> 15 </span></td>
+        <td align="center"><span class="larger"> = </span></td>
+        <td><span class="larger">9A<sub>1</sub>+6+9C</span></td>
+      </tr>
+  </tbody></table>
+	<p>Simplify, and arrange neatly:</p>
+	<table style="border: 0; margin:auto;">
+      <tbody>
+<tr>
+        <td class="larger" align="right"> 0 </td>
+        <td class="larger" align="center" width="30"> = </td>
+        <td class="larger" align="right">A<sub>1</sub></td>
+        <td class="larger" align="center" width="30">+</td>
+        <td class="larger" align="right">B</td>
+        <td class="larger" align="center" width="30">&nbsp;</td>
+        <td class="larger" align="right">&nbsp;</td>
+    </tr>
+      <tr>
+        <td class="larger" align="right"> &minus;1 </td>
+        <td class="larger" align="center" width="30"> = </td>
+        <td class="larger" align="right">3A<sub>1</sub></td>
+        <td class="larger" align="center" width="30">+</td>
+        <td class="larger" align="right">6B</td>
+        <td class="larger" align="center" width="30">+</td>
+        <td class="larger" align="right">C</td>
+    </tr>
+      <tr>
+        <td class="larger" align="right"><span class="larger"> 0 </span></td>
+        <td class="larger" align="center" width="30"> = </td>
+        <td class="larger" align="right">3A<sub>1</sub></td>
+        <td class="larger" align="center" width="30">+</td>
+        <td class="larger" align="right">9B</td>
+        <td class="larger" align="center" width="30">+</td>
+        <td class="larger" align="right">6C</td>
+    </tr>
+      <tr>
+        <td class="larger" align="right"> 1 </td>
+        <td class="larger" align="center" width="30"> = </td>
+        <td class="larger" align="right">A<sub>1</sub></td>
+        <td class="larger" align="center" width="30">&nbsp;</td>
+        <td class="larger" align="right">&nbsp;</td>
+        <td class="larger" align="center" width="30">+</td>
+        <td class="larger" align="right">C</td>
+    </tr>
+  </tbody></table>
+	<p><b>Now solve. </b></p>
+	<p>You can choose your own way to solve this ... I decided to subtract the 4th equation from the 2nd to begin with:</p>
+	<table style="border: 0; margin:auto;">
+      <tbody>
+<tr>
+        <td class="larger" align="right"> 0 </td>
+        <td class="larger" align="center" width="30"> = </td>
+        <td class="larger" align="right">A<sub>1</sub></td>
+        <td class="larger" align="center" width="30">+</td>
+        <td class="larger" align="right">B</td>
+        <td class="larger" align="center" width="30">&nbsp;</td>
+        <td class="larger" align="right">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="larger" align="right"><b> &minus;2 </b></td>
+        <td class="larger" align="center" width="30"><b> = </b></td>
+        <td class="larger" align="right"><b>2A<sub>1</sub></b></td>
+        <td class="larger" align="center" width="30"><b>+</b></td>
+        <td class="larger" align="right"><b>6B</b></td>
+        <td class="larger" align="center" width="30">&nbsp;</td>
+        <td class="larger" align="right">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="larger" align="right"> 0 </td>
+        <td class="larger" align="center" width="30"> = </td>
+        <td class="larger" align="right">3A<sub>1</sub></td>
+        <td class="larger" align="center" width="30">+</td>
+        <td class="larger" align="right">9B</td>
+        <td class="larger" align="center" width="30">+</td>
+        <td class="larger" align="right">6C</td>
+      </tr>
+      <tr>
+        <td class="larger" align="right"> 1 </td>
+        <td class="larger" align="center" width="30"> = </td>
+        <td class="larger" align="right">A<sub>1</sub></td>
+        <td class="larger" align="center" width="30">&nbsp;</td>
+        <td class="larger" align="right">&nbsp;</td>
+        <td class="larger" align="center" width="30">+</td>
+        <td class="larger" align="right">C</td>
+      </tr>
+  </tbody></table>
+	<p>Then subtract 2 times the 1st equation from the 2nd:</p>
+	<table style="border: 0; margin:auto;">
+      <tbody>
+<tr>
+        <td class="larger" align="right"> 0 </td>
+        <td class="larger" align="center" width="30"> = </td>
+        <td class="larger" align="right">A<sub>1</sub></td>
+        <td class="larger" align="center" width="30">+</td>
+        <td class="larger" align="right">B</td>
+        <td class="larger" align="center" width="30">&nbsp;</td>
+        <td class="larger" align="right">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="larger" align="right"><b> &minus;2 </b></td>
+        <td class="larger" align="center" width="30"><b> = </b></td>
+        <td class="larger" align="right">&nbsp;</td>
+        <td class="larger" align="center" width="30">&nbsp;</td>
+        <td class="larger" align="right"><b>4B</b></td>
+        <td class="larger" align="center" width="30">&nbsp;</td>
+        <td class="larger" align="right">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="larger" align="right"> 0 </td>
+        <td class="larger" align="center" width="30"> = </td>
+        <td class="larger" align="right">3A<sub>1</sub></td>
+        <td class="larger" align="center" width="30">+</td>
+        <td class="larger" align="right">9B</td>
+        <td class="larger" align="center" width="30">+</td>
+        <td class="larger" align="right">6C</td>
+      </tr>
+      <tr>
+        <td class="larger" align="right"> 1 </td>
+        <td class="larger" align="center" width="30"> = </td>
+        <td class="larger" align="right">A<sub>1</sub></td>
+        <td class="larger" align="center" width="30">&nbsp;</td>
+        <td class="larger" align="right">&nbsp;</td>
+        <td class="larger" align="center" width="30">+</td>
+        <td class="larger" align="right">C</td>
+      </tr>
+  </tbody></table>
+	<p>Now I know that <b>B = &minus;(1/2)</b>. </p>
+<p>We are getting somewhere!</p>
+	<p>And from the 1st equation I can figure that <b>A<sub>1</sub> = +(1/2)</b>.</p>
+	<p>And from the 4th equation I can figure that <b>C = +(1/2)</b>.</p>
+	
+	<p>Final Result:</p>
+	<table style="border: 0; margin:auto;">
+      <tbody>
+<tr>
+        <td class="large" align="center" width="120">A<sub>1</sub>=1/2</td>
+        <td class="large" align="center" width="120">A<sub>2</sub>=2</td>
+        <td class="large" align="center" width="120">B=&minus;(1/2)</td>
+        <td class="large" align="center" width="120">C=1/2</td>
+      </tr>
+  </tbody></table>
+	<p>&nbsp;</p>
+	<p>And we can now write our partial fractions:</p>
+	<p class="center large"><span class="intbl">
+		<em>x<sup>2</sup>+15</em>
+		<strong>(x+3)<sup>2</sup>(x<sup>2</sup>+3)</strong>
+		</span>&nbsp; = &nbsp;<span class="intbl">
+			<em>1</em>
+			<strong>2(x+3)</strong>
+			</span> + <span class="intbl">
+				<em>2</em>
+				<strong>(x+3)<sup>2</sup></strong>
+				</span> + <span class="intbl">
+					<em>&minus;x + 1</em>
+					<strong>2(x<sup>2</sup>+3)</strong>
+				</span></p>
+	
+	<p><b>Phew!</b> Lots of work. But it can be done.</p>
+	<p align="right"><i>(Side note: It took me <b>nearly <br>
+	  an hour</b> to do this, because 
+	  I had to <br>
+	  fix 
+	  2 silly mistakes along the way!)</i></p>
+	<h2>Summary</h2>
+	
+<ul class="larger">
+    <li>Start with a <b>Proper</b> Rational Expressions (if not, do division first)</li>
+      <li>Factor the bottom into:
+        
+
+
+<ul>
+<li>linear factors</li>
+          <li>or "irreducible" quadratic  factors</li>
+        </ul></li>
+      <li>Write out a partial fraction for each factor (and every exponent of each)</li>
+      <li>Multiply the whole equation by the bottom</li>
+      <li>Solve for the coefficients by
+        
+
+
+<ul>
+          <li>substituting zeros of the bottom</li>
+          <li>making a system of linear equations (of each power) and solving</li>
+        </ul></li>
+      <li>Write out your answer!</li>
+</ul>
+<div class="questions"> 
+	
+	<script>getQ(8073, 8074, 8075, 8076, 8077, 8078, 1259, 612, 613, 1260);</script>&nbsp;
+
+  </div>
+
+<div class="related">
+  <a href="index.html">Algebra Index</a>
+  <a href="index-2.html">Algebra 2 Index</a>
+</div>
+<!-- #EndEditable -->
+</div>
+<div id="adend" class="centerfull noprint"> 
+	<script>document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+	<script>document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2020 MathsIsFun.com
+</div>
+<script>document.write(getBodyEnd());</script>
+</body>
+<!-- Mirrored from www.mathsisfun.com/algebra/partial-fractions.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:02:27 GMT -->
+</html>

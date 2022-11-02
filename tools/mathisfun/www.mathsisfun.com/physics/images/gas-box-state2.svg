@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="299.1" height="196.9" version="1.1" style="font-family:'Trebuchet MS'; fill:#19aeff; stroke-width:1.16;">
+<defs>
+	<linearGradient id="aa3">
+		<stop offset="0" style="stop-color:#ff8aed; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#ff8aed; stop-opacity:0.69;"/>
+	</linearGradient>
+	<linearGradient id="aa2">
+		<stop offset="0" style="stop-color:#ff8aed; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#ff8aed; stop-opacity:0.48;"/>
+	</linearGradient>
+	<linearGradient id="aa1">
+		<stop offset="0" style="stop-color:#11a0ed; stop-opacity:0.1;"/>
+		<stop offset="1" style="stop-color:#11a0ed; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa4" gradientTransform="matrix(2.41313,-1.67332,0,2.94343,4007.94,-10713.9)" xlink:href="#aa1" x1="-1661.3" y1="2737.5" x2="-1631.3" y2="2737.5" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa5" gradientTransform="matrix(2.93323,0,0,2.94343,4077.3,-10761.9)" xlink:href="#aa1" x1="-1366.7" y1="3681.5" x2="-1287.8" y2="3681.5" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa6" gradientTransform="matrix(2.93323,0,0,2.94343,4007.56,-10531)" xlink:href="#aa1" x1="-1313.6" y1="3635.8" x2="-1268.7" y2="3634.8" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa8" r="29.5142" fx="-1288.88" fy="3675.43" cx="-1288.9" cy="3675.4" gradientTransform="matrix(1,0,0,0.636573,1366.76,-2174.52)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa9" r="27.4081" fx="-1241.49" fy="3677.12" cx="-1241.5" cy="3677.1" gradientTransform="matrix(1.05636,0.358551,-0.226111,0.666164,2277.17,-1838.39)" xlink:href="#aa3" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path style="stop-color:black; fill:url(#aa4); stroke:#3465a4; stroke-width:1; stroke-linejoin:bevel;" d="m 0.5,48.7 69.4,-48.1 v 147.6 l -69.4,48.1 z"/>
+<path style="fill:url(#aa5); stroke:#3465a4; stroke-width:1; stroke-linejoin:bevel;" d="m 69.9,0.7 v 147.6 c 0,0 228.7,-0.3 228.7,-0.3 V 0.5 Z"/>
+<path style="fill:url(#aa6); stroke:#3465a4; stroke-width:1; stroke-linejoin:bevel;" d="m 0.5,196.4 228.7,-0.3 69.4,-48.1 -228.7,0.3 z"/>
+<ellipse cx="1242.7" cy="-284.7" rx="1.1" ry="0" style="fill:#ff0000; stroke:black; stroke-width:0.2px;"/>
+<text x="1153.5" y="-302.4" style="font-size:9.6px; stroke-width:0.2px; fill:black;"/> &#160; &#160;
+
+<use transform="matrix(0.761904,0,0,0.761904,764.181,-13.16)" xlink:href="#aa7" x="0" y="0"/>
+<use transform="matrix(0.761904,0,0,0.761904,764.181,-13.16)" xlink:href="#aa7" x="0" y="0"/>
+<use transform="matrix(0.761904,0,0,0.761904,764.181,-13.16)" xlink:href="#aa7" x="0" y="0"/>
+<use transform="matrix(0.761904,0,0,0.761904,764.181,-13.16)" xlink:href="#aa7" x="0" y="0"/>
+<use transform="matrix(0.761904,0,0,0.761904,723.779,-441.99)" xlink:href="#aa7" x="0" y="0"/>
+<path style="fill:#11a0ed; fill-opacity:0.1; stroke:#3465a4; stroke-width:1; stroke-linejoin:bevel;" d="m 0.5,48.9 228.7,-0.3 69.4,-48.1 -228.7,0.3 z"/>
+<path style="stop-color:black; fill:#11a0ed; fill-opacity:0.1; stroke:#3465a4; stroke-width:1; stroke-linejoin:bevel;" d="m 229.2,48.6 69.3,-48.1 v 147.6 l -69.3,48.1 z"/>
+<path style="fill:url(#aa8); stroke-width:1px;" d="m 52.3,161.3 c 0,0 20.9,1.1 24.8,-4.5 3.9,-5.6 15.4,-10.4 15.4,-10.4 0,0 17.7,-0.8 14.5,11 -3.2,11.8 -7.5,25.2 -19.9,26.4 -18.6,1.8 -49.7,-11 -34.8,-22.5 z"/>
+<path style="fill:url(#aa9); stroke-width:1px;" d="m 157,179.7 c 0,0 -14.2,-4.3 -16.4,4.4 -2.1,8.7 -11.8,-6.7 -11.8,-6.7 0,0 -23.7,15 -24.8,-1.5 -1.1,-16.5 15.2,-13.6 28.8,-19.5 20.5,-8.9 36.5,3.1 24.1,23.4 z"/>
+<g transform="translate(211.527,-9.00114)">
+	<circle id="aa10" cx="-105.3" cy="67.4" r="1.8" transform="rotate(7.16547)" style="stop-color:black; fill-opacity:0.64;"/>
+	<circle id="aa11" cx="-91.2" cy="72.9" r="1.51875" transform="rotate(7.16547)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<circle id="aa12" cx="-120.7" cy="52.5" r="1.8" transform="rotate(-10.1823)" style="stop-color:black; fill-opacity:0.64;"/>
+	<circle id="aa13" cx="-113.9" cy="18.9" r="1.51875" transform="rotate(-10.1823)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<circle id="aa14" cx="-79.3" cy="109.1" r="1.51875" transform="rotate(-4.55054)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<circle id="aa15" cx="-93.3" cy="18.9" r="1.8" transform="rotate(-21.8983)" style="stop-color:black; fill-opacity:0.64;"/>
+	<circle id="aa16" cx="-106.1" cy="96.1" r="1.51875" transform="rotate(-21.8983)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<use id="aa17" transform="rotate(-4.55054,-207.743,-10.8234)" xlink:href="#aa10" x="0" y="0"/>
+	<use id="aa18" transform="rotate(-4.55054,-207.743,-10.8234)" xlink:href="#aa11" x="0" y="0"/>
+	<use id="aa19" transform="rotate(-4.55054,-207.743,-10.8234)" xlink:href="#aa12" x="0" y="0"/>
+	<use id="aa20" transform="rotate(-4.55054,253.286,-206.409)" xlink:href="#aa13" x="0" y="0"/>
+	<circle id="aa21" cx="-79.6" cy="-46.2" r="1.8" transform="rotate(-69.8165)" style="stop-color:black; fill-opacity:0.64;"/>
+	<circle id="aa22" cx="-97.4" cy="-111.1" r="1.51875" transform="rotate(-69.8165)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<circle id="aa23" cx="-71.7" cy="-125" r="1.8" transform="rotate(-87.1643)" style="stop-color:black; fill-opacity:0.64;"/>
+	<circle id="aa24" cx="-57.7" cy="-119.5" r="1.51875" transform="rotate(-87.1643)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<use id="aa25" transform="rotate(-69.8165,-69.8745,36.9615)" xlink:href="#aa10" x="0" y="0"/>
+	<use id="aa26" transform="rotate(-69.8165,-104.38,94.9977)" xlink:href="#aa11" x="0" y="0"/>
+	<use id="aa27" transform="rotate(-69.8165,-104.38,94.9977)" xlink:href="#aa12" x="0" y="0"/>
+	<use id="aa28" transform="rotate(-69.8165,-84.7617,66.3242)" xlink:href="#aa13" x="0" y="0"/>
+	<circle id="aa29" cx="-72.5" cy="-104" r="1.8" transform="rotate(-74.367)" style="stop-color:black; fill-opacity:0.64;"/>
+	<use id="aa32" transform="rotate(-69.8165,-151.649,101.203)" xlink:href="#aa14" x="0" y="0"/>
+	<use id="aa33" transform="rotate(-69.8165,-87.6699,82.3896)" xlink:href="#aa15" x="0" y="0"/>
+	<use id="aa34" transform="rotate(-69.8165,-61.0386,179.976)" xlink:href="#aa16" x="0" y="0"/>
+	<use id="aa30" transform="rotate(-69.8165,-97.727,61.5858)" xlink:href="#aa17" x="0" y="0"/>
+	<use id="aa31" transform="rotate(-69.8165,-97.727,61.5858)" xlink:href="#aa18" x="0" y="0"/>
+	<use id="aa35" transform="rotate(-69.8165,-131.409,53.0656)" xlink:href="#aa19" x="0" y="0"/>
+	<circle id="aa36" cx="73.8" cy="-112.7" r="1.8" transform="rotate(174.168)" style="stop-color:black; fill-opacity:0.64;"/>
+	<circle id="aa37" cx="98.4" cy="-31.9" r="1.51875" transform="rotate(174.168)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<circle id="aa38" cx="107.5" cy="9.8" r="1.51875" transform="rotate(156.82)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<use id="aa39" transform="rotate(174.168,-98.0449,62.966)" xlink:href="#aa10" x="0" y="0"/>
+	<use id="aa40" transform="rotate(174.168,-100.489,110.966)" xlink:href="#aa11" x="0" y="0"/>
+	<use id="aa41" transform="rotate(174.168,-100.489,110.966)" xlink:href="#aa12" x="0" y="0"/>
+	<circle id="aa42" cx="121.1" cy="-9.7" r="1.8" transform="rotate(169.617)" style="stop-color:black; fill-opacity:0.64;"/>
+	<use id="aa43" transform="rotate(174.168,-96.0494,104.425)" xlink:href="#aa18" x="0" y="0"/>
+	<use id="aa44" transform="rotate(174.168,-122.757,113.852)" xlink:href="#aa19" x="0" y="0"/>
+	<use id="aa45" transform="rotate(174.168,-119.731,111.186)" xlink:href="#aa20" x="0" y="0"/>
+	<use id="aa46" transform="rotate(174.168,-116.875,101.99)" xlink:href="#aa21" x="0" y="0"/>
+	<use id="aa47" transform="rotate(174.168,-139.168,111.816)" xlink:href="#aa22" x="0" y="0"/>
+	<use id="aa48" transform="rotate(174.168,-102.268,107.139)" xlink:href="#aa23" x="0" y="0"/>
+	<use id="aa49" transform="rotate(174.168,-98.0449,62.966)" xlink:href="#aa24" x="0" y="0"/>
+	<use id="aa50" transform="rotate(174.168,-90.7279,116.298)" xlink:href="#aa25" x="0" y="0"/>
+	<use id="aa51" transform="rotate(174.168,-139.168,111.816)" xlink:href="#aa26" x="0" y="0"/>
+	<use id="aa52" transform="rotate(174.168,-100.489,110.966)" xlink:href="#aa27" x="0" y="0"/>
+	<use id="aa53" transform="rotate(174.168,-100.489,110.966)" xlink:href="#aa28" x="0" y="0"/>
+	<use id="aa54" transform="rotate(174.168,-98.0449,62.966)" xlink:href="#aa29" x="0" y="0"/>
+	<use id="aa55" transform="rotate(174.168,-100.489,110.966)" xlink:href="#aa30" x="0" y="0"/>
+	<use id="aa56" transform="rotate(174.168,-100.489,110.966)" xlink:href="#aa31" x="0" y="0"/>
+	<circle id="aa57" cx="104" cy="72.9" r="1.51875" transform="rotate(89.6187)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<circle id="aa58" cx="-136.7" cy="112.2" r="1.8" style="stop-color:black; fill-opacity:0.64;"/>
+	<circle id="aa59" cx="-122.7" cy="117.7" r="1.51875" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<circle id="aa60" cx="-164.1" cy="85.8" r="1.8" transform="rotate(-17.3478)" style="stop-color:black; fill-opacity:0.64;"/>
+	<circle id="aa61" cx="-150.1" cy="91.3" r="1.51875" transform="rotate(-17.3478)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<use id="aa62" transform="translate(45.044,18.137)" xlink:href="#aa10" x="0" y="0"/>
+	<use id="aa63" transform="translate(-2.77459,109.777)" xlink:href="#aa11" x="0" y="0"/>
+	<use id="aa64" transform="translate(-32.0283,105.763)" xlink:href="#aa13" x="0" y="0"/>
+	<circle id="aa65" cx="-115.8" cy="122.1" r="1.8" transform="rotate(-4.55054)" style="stop-color:black; fill-opacity:0.64;"/>
+	<use id="aa66" transform="translate(-20.956,20.137)" xlink:href="#aa14" x="0" y="0"/>
+	<use id="aa67" transform="translate(-19.0892,96.6976)" xlink:href="#aa15" x="0" y="0"/>
+	<use id="aa68" transform="translate(-20.956,20.137)" xlink:href="#aa16" x="0" y="0"/>
+	<use id="aa69" transform="translate(-19.0892,96.6976)" xlink:href="#aa17" x="0" y="0"/>
+	<use id="aa70" transform="translate(-19.0892,96.6976)" xlink:href="#aa18" x="0" y="0"/>
+	<use id="aa71" transform="translate(-19.0892,96.6976)" xlink:href="#aa19" x="0" y="0"/>
+	<use id="aa72" transform="translate(-19.0892,96.6976)" xlink:href="#aa20" x="0" y="0"/>
+	<use id="aa73" transform="translate(-38.9198,116.247)" xlink:href="#aa21" x="0" y="0"/>
+	<use id="aa74" transform="translate(45.044,114.137)" xlink:href="#aa22" x="0" y="0"/>
+	<use id="aa75" transform="translate(45.044,18.137)" xlink:href="#aa24" x="0" y="0"/>
+	<use id="aa76" transform="translate(-84.242,68.0693)" xlink:href="#aa25" x="0" y="0"/>
+	<use id="aa77" transform="translate(-13.2173,71.0228)" xlink:href="#aa27" x="0" y="0"/>
+	<use id="aa78" transform="translate(45.044,114.137)" xlink:href="#aa29" x="0" y="0"/>
+	<use id="aa79" transform="translate(-32.0283,119.763)" xlink:href="#aa32" x="0" y="0"/>
+	<use id="aa80" transform="translate(-19.0892,96.6976)" xlink:href="#aa33" x="0" y="0"/>
+	<use transform="translate(-31.504,-68.0709)" xlink:href="#aa34" x="0" y="0"/>
+	<use id="aa81" transform="translate(-57.9066,66.8813)" xlink:href="#aa31" x="0" y="0"/>
+	<use id="aa82" transform="translate(-32.0283,105.763)" xlink:href="#aa35" x="0" y="0"/>
+	<circle id="aa83" cx="-135.3" cy="-123.5" r="1.51875" transform="rotate(-84.5493)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<use id="aa84" transform="translate(-54.7706,32.9812)" xlink:href="#aa36" x="0" y="0"/>
+	<use id="aa85" transform="translate(-36.5289,106.824)" xlink:href="#aa37" x="0" y="0"/>
+	<circle id="aa86" cx="167.3" cy="-74.8" r="1.8" transform="rotate(156.82)" style="stop-color:black; fill-opacity:0.64;"/>
+	<use id="aa87" transform="translate(-36.621,101.826)" xlink:href="#aa38" x="0" y="0"/>
+	<use id="aa88" transform="translate(-31.504,27.9291)" xlink:href="#aa39" x="0" y="0"/>
+	<use transform="translate(-28.5505,-73.9779)" xlink:href="#aa40" x="0" y="0"/>
+	<use transform="translate(-31.504,-68.0709)" xlink:href="#aa41" x="0" y="0"/>
+	<circle id="aa89" cx="144.6" cy="-83.4" r="1.51875" transform="rotate(163.986)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<use id="aa90" transform="translate(45.044,100.137)" xlink:href="#aa42" x="0" y="0"/>
+	<circle id="aa91" cx="108.9" cy="-110.9" r="1.51875" transform="rotate(169.617)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<circle id="aa92" cx="125.1" cy="-63.3" r="1.8" transform="rotate(152.27)" style="stop-color:black; fill-opacity:0.64;"/>
+	<circle id="aa93" cx="139.1" cy="-57.8" r="1.51875" transform="rotate(152.27)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<circle id="aa94" cx="136.1" cy="-115.7" r="1.8" transform="rotate(176.783)" style="stop-color:black; fill-opacity:0.64;"/>
+	<use id="aa95" transform="translate(25.8783,-43.7396)" xlink:href="#aa43" x="0" y="0"/>
+	<use id="aa96" transform="translate(1.12512,-59.6323)" xlink:href="#aa44" x="0" y="0"/>
+	<use id="aa97" transform="translate(72.431,-59.6323)" xlink:href="#aa45" x="0" y="0"/>
+	<use id="aa98" transform="translate(78.1974,-65.258)" xlink:href="#aa46" x="0" y="0"/>
+	<use id="aa99" transform="translate(45.5683,-73.6966)" xlink:href="#aa47" x="0" y="0"/>
+	<use id="aa100" transform="translate(-30.6601,-64.2735)" xlink:href="#aa48" x="0" y="0"/>
+	<use id="aa101" transform="translate(-31.504,27.9291)" xlink:href="#aa49" x="0" y="0"/>
+	<use transform="translate(-12.5006,1.174)" xlink:href="#aa50" x="0" y="0"/>
+	<use transform="translate(45.5683,-73.6966)" xlink:href="#aa51" x="0" y="0"/>
+	<use transform="translate(-31.504,-68.0709)" xlink:href="#aa52" x="0" y="0"/>
+	<use transform="translate(-34.8794,-65.8206)" xlink:href="#aa53" x="0" y="0"/>
+	<use id="aa102" transform="translate(-31.504,27.9291)" xlink:href="#aa54" x="0" y="0"/>
+	<circle id="aa103" cx="140.2" cy="91.1" r="1.51875" transform="rotate(99.801)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<circle id="aa104" cx="94.8" cy="138.9" r="1.8" transform="rotate(82.4532)" style="stop-color:black; fill-opacity:0.64;"/>
+	<circle id="aa105" cx="152.6" cy="131.8" r="1.51875" transform="rotate(82.4532)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<use transform="translate(-31.504,-68.0709)" xlink:href="#aa55" x="0" y="0"/>
+	<use id="aa106" transform="translate(2.61357,-105.469)" xlink:href="#aa56" x="0" y="0"/>
+	<circle id="aa107" cx="127.2" cy="114.2" r="1.8" transform="rotate(89.6187)" style="stop-color:black; fill-opacity:0.64;"/>
+	<use id="aa108" transform="translate(-46.6133,37.4818)" xlink:href="#aa57" x="0" y="0"/>
+	<circle cx="-7.5" cy="184" r="1.8" transform="rotate(30.8988)" style="stop-color:black; fill-opacity:0.64;"/>
+	<circle cx="-105.9" cy="121.4" r="1.51875" transform="rotate(30.8988)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<circle cx="-120.3" cy="75.2" r="1.8" transform="rotate(13.551)" style="stop-color:black; fill-opacity:0.64;"/>
+	<circle cx="-135.1" cy="99.9" r="1.51875" transform="rotate(13.551)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<use transform="rotate(30.8988,-252.173,63.604)" xlink:href="#aa10" x="0" y="0"/>
+	<use transform="rotate(30.8988,-286.258,25.8508)" xlink:href="#aa11" x="0" y="0"/>
+	<use transform="rotate(30.8988,-252.241,24.1158)" xlink:href="#aa12" x="0" y="0"/>
+	<use transform="rotate(30.8988,-259.023,89.55)" xlink:href="#aa13" x="0" y="0"/>
+	<circle cx="-113.7" cy="134.3" r="1.8" transform="rotate(26.3483)" style="stop-color:black; fill-opacity:0.64;"/>
+	<use transform="rotate(30.8988,-49.1911,-48.288)" xlink:href="#aa14" x="0" y="0"/>
+	<use transform="rotate(30.8988,-188.624,-83.1905)" xlink:href="#aa15" x="0" y="0"/>
+	<use transform="rotate(30.8988,-49.1911,-48.288)" xlink:href="#aa16" x="0" y="0"/>
+	<use transform="rotate(30.8988,-178.875,-30.0784)" xlink:href="#aa17" x="0" y="0"/>
+	<use transform="rotate(30.8988,-180.624,-54.2441)" xlink:href="#aa18" x="0" y="0"/>
+	<use transform="rotate(30.8988,-170.229,-6.72333)" xlink:href="#aa19" x="0" y="0"/>
+	<use transform="rotate(30.8988,-180.624,-54.2441)" xlink:href="#aa20" x="0" y="0"/>
+	<use transform="rotate(30.8988,-215.883,-89.1871)" xlink:href="#aa21" x="0" y="0"/>
+	<use transform="rotate(30.8988,-244.241,53.0622)" xlink:href="#aa22" x="0" y="0"/>
+	<use transform="rotate(30.8988,-244.241,53.0622)" xlink:href="#aa23" x="0" y="0"/>
+	<use transform="rotate(30.8988,-252.241,24.1158)" xlink:href="#aa24" x="0" y="0"/>
+	<use transform="rotate(30.8988,-100.044,60.4455)" xlink:href="#aa25" x="0" y="0"/>
+	<use transform="rotate(30.8988,-244.241,53.0622)" xlink:href="#aa26" x="0" y="0"/>
+	<use transform="rotate(30.8988,-101.555,188.876)" xlink:href="#aa27" x="0" y="0"/>
+	<use transform="rotate(30.8988,-101.555,188.876)" xlink:href="#aa28" x="0" y="0"/>
+	<use transform="rotate(30.8988,-252.241,24.1158)" xlink:href="#aa29" x="0" y="0"/>
+	<use transform="rotate(30.8988,-252.241,24.1158)" xlink:href="#aa32" x="0" y="0"/>
+	<use transform="rotate(30.8988,-216.982,59.0573)" xlink:href="#aa33" x="0" y="0"/>
+	<use transform="rotate(30.8988,0.201728,138.112)" xlink:href="#aa34" x="0" y="0"/>
+	<use transform="rotate(30.8988,-252.241,24.1158)" xlink:href="#aa30" x="0" y="0"/>
+	<use transform="rotate(30.8988,-252.241,24.1158)" xlink:href="#aa31" x="0" y="0"/>
+	<use transform="rotate(30.8988,-251.996,59.499)" xlink:href="#aa35" x="0" y="0"/>
+	<circle cx="-93.2" cy="-61.6" r="1.51875" transform="rotate(-53.6505)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<use transform="rotate(30.8988,-83.8695,26.3756)" xlink:href="#aa36" x="0" y="0"/>
+	<use transform="rotate(30.8988,-226.582,22.4432)" xlink:href="#aa37" x="0" y="0"/>
+	<circle cx="96" cy="-112.2" r="1.8" transform="rotate(-172.281)" style="stop-color:black; fill-opacity:0.64;"/>
+	<use transform="rotate(30.8988,-213.981,37.497)" xlink:href="#aa38" x="0" y="0"/>
+	<use transform="rotate(30.8988,-195.055,95.138)" xlink:href="#aa39" x="0" y="0"/>
+	<use transform="rotate(30.8988,36.5447,121.68)" xlink:href="#aa40" x="0" y="0"/>
+	<use transform="rotate(30.8988,-72.4123,127.084)" xlink:href="#aa41" x="0" y="0"/>
+	<circle cx="69.2" cy="-111.6" r="1.51875" transform="rotate(-165.115)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<use transform="rotate(30.8988,-226.915,31.1158)" xlink:href="#aa42" x="0" y="0"/>
+	<circle cx="107.9" cy="-123.2" r="1.51875" transform="rotate(-159.484)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<circle cx="127.9" cy="-75.3" r="1.8" transform="rotate(-176.831)" style="stop-color:black; fill-opacity:0.64;"/>
+	<circle cx="141.9" cy="-69.9" r="1.51875" transform="rotate(-176.831)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<circle cx="56.4" cy="-126.5" r="1.8" transform="rotate(-152.318)" style="stop-color:black; fill-opacity:0.64;"/>
+	<use transform="rotate(30.8988,42.9646,68.3809)" xlink:href="#aa43" x="0" y="0"/>
+	<use transform="rotate(30.8988,55.7348,173.793)" xlink:href="#aa44" x="0" y="0"/>
+	<use transform="rotate(30.8988,48.4402,160.548)" xlink:href="#aa45" x="0" y="0"/>
+	<use transform="rotate(30.8988,55.7348,173.793)" xlink:href="#aa46" x="0" y="0"/>
+	<use transform="rotate(30.8988,87.3156,118.982)" xlink:href="#aa47" x="0" y="0"/>
+	<use transform="rotate(30.8988,-36.8369,146.534)" xlink:href="#aa48" x="0" y="0"/>
+	<use transform="rotate(30.8988,-58.0031,-71.2658)" xlink:href="#aa49" x="0" y="0"/>
+	<use transform="rotate(30.8988,104.044,96.7442)" xlink:href="#aa50" x="0" y="0"/>
+	<use transform="rotate(30.8988,61.9875,125.982)" xlink:href="#aa51" x="0" y="0"/>
+	<use transform="rotate(30.8988,14.2067,63.97)" xlink:href="#aa52" x="0" y="0"/>
+	<use transform="rotate(30.8988,-21.3824,143.137)" xlink:href="#aa53" x="0" y="0"/>
+	<use transform="rotate(30.8988,-58.0031,-71.2658)" xlink:href="#aa54" x="0" y="0"/>
+	<circle cx="136.9" cy="73.3" r="1.51875" transform="rotate(130.7)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<circle cx="134.5" cy="43.1" r="1.8" transform="rotate(113.352)" style="stop-color:black; fill-opacity:0.64;"/>
+	<circle cx="169.4" cy="53.1" r="1.51875" transform="rotate(113.352)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<use transform="rotate(30.8988,-21.3824,143.137)" xlink:href="#aa55" x="0" y="0"/>
+	<use transform="rotate(30.8988,-21.3824,143.137)" xlink:href="#aa56" x="0" y="0"/>
+	<circle cx="134" cy="34.1" r="1.8" transform="rotate(120.517)" style="stop-color:black; fill-opacity:0.64;"/>
+	<use transform="rotate(30.8988,-96.0903,38.883)" xlink:href="#aa57" x="0" y="0"/>
+	<use transform="rotate(30.8988,7.53654,161.917)" xlink:href="#aa58" x="0" y="0"/>
+	<use transform="rotate(30.8988,7.53654,161.917)" xlink:href="#aa59" x="0" y="0"/>
+	<use transform="rotate(30.8988,7.53654,161.917)" xlink:href="#aa60" x="0" y="0"/>
+	<use transform="rotate(30.8988,-10.5633,149.939)" xlink:href="#aa61" x="0" y="0"/>
+	<use transform="rotate(30.8988,-167.7,-74.0791)" xlink:href="#aa62" x="0" y="0"/>
+	<use transform="rotate(30.8988,-25.824,58.252)" xlink:href="#aa63" x="0" y="0"/>
+	<circle cx="-48.5" cy="165.6" r="1.8" transform="rotate(20.7165)" style="stop-color:black; fill-opacity:0.64;"/>
+	<use transform="rotate(30.8988,55.7348,173.793)" xlink:href="#aa64" x="0" y="0"/>
+	<use transform="rotate(30.8988,7.02093,37.171)" xlink:href="#aa65" x="0" y="0"/>
+	<use transform="rotate(30.8988,5.97299,-26.0791)" xlink:href="#aa66" x="0" y="0"/>
+	<use transform="rotate(30.8988,7.02093,37.171)" xlink:href="#aa67" x="0" y="0"/>
+	<use transform="rotate(30.8988,5.97299,-26.0791)" xlink:href="#aa68" x="0" y="0"/>
+	<use transform="rotate(30.8988,55.7348,173.793)" xlink:href="#aa69" x="0" y="0"/>
+	<use transform="rotate(30.8988,55.7348,173.793)" xlink:href="#aa70" x="0" y="0"/>
+	<use transform="rotate(30.8988,55.7348,173.793)" xlink:href="#aa71" x="0" y="0"/>
+	<use transform="rotate(30.8988,55.7348,173.793)" xlink:href="#aa72" x="0" y="0"/>
+	<use transform="rotate(30.8988,52.294,211.501)" xlink:href="#aa73" x="0" y="0"/>
+	<use transform="rotate(30.8988,55.7348,173.793)" xlink:href="#aa74" x="0" y="0"/>
+	<circle cx="-126.3" cy="4.2" r="1.8" transform="rotate(-56.2655)" style="stop-color:black; fill-opacity:0.64;"/>
+	<use transform="rotate(30.8988,-166.652,-10.829)" xlink:href="#aa75" x="0" y="0"/>
+	<use transform="rotate(30.8988,-63.8934,242.409)" xlink:href="#aa76" x="0" y="0"/>
+	<circle cx="-127.8" cy="56.8" r="1.51875" transform="rotate(-31.7522)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<use transform="rotate(30.8988,-51.3962,257.64)" xlink:href="#aa77" x="0" y="0"/>
+	<circle cx="-194.6" cy="-4.1" r="1.51875" transform="rotate(-49.1)" style="stop-color:black; fill-opacity:0.64; stroke-width:0.98;"/>
+	<use transform="rotate(30.8988,5.97299,-26.0791)" xlink:href="#aa78" x="0" y="0"/>
+	<use transform="rotate(30.8988,-22.3854,116.169)" xlink:href="#aa79" x="0" y="0"/>
+	<use transform="rotate(30.8988,-50.4886,199.674)" xlink:href="#aa80" x="0" y="0"/>
+	<circle cx="-178.2" cy="17.7" r="1.8" transform="rotate(-36.3028)" style="stop-color:black; fill-opacity:0.64;"/>
+	<use transform="rotate(30.8988,-130.995,136.546)" xlink:href="#aa81" x="0" y="0"/>
+	<use transform="rotate(30.8988,7.53654,161.917)" xlink:href="#aa82" x="0" y="0"/>
+	<use transform="rotate(30.8988,7.53654,161.917)" xlink:href="#aa83" x="0" y="0"/>
+	<use transform="rotate(30.8988,107.525,142.663)" xlink:href="#aa84" x="0" y="0"/>
+	<use transform="rotate(30.8988,-22.3854,116.169)" xlink:href="#aa85" x="0" y="0"/>
+	<use transform="rotate(30.8988,-20.5109,109.078)" xlink:href="#aa86" x="0" y="0"/>
+	<use transform="rotate(30.8988,-22.3854,116.169)" xlink:href="#aa87" x="0" y="0"/>
+	<use transform="rotate(30.8988,-131.084,140.324)" xlink:href="#aa88" x="0" y="0"/>
+	<use transform="rotate(30.8988,-72.8956,157.839)" xlink:href="#aa89" x="0" y="0"/>
+	<use transform="rotate(30.8988,5.97299,-26.0791)" xlink:href="#aa90" x="0" y="0"/>
+	<use transform="rotate(30.8988,5.97299,-26.0791)" xlink:href="#aa91" x="0" y="0"/>
+	<use transform="rotate(30.8988,5.97299,-26.0791)" xlink:href="#aa92" x="0" y="0"/>
+	<use transform="rotate(30.8988,25.4434,7.70439)" xlink:href="#aa93" x="0" y="0"/>
+	<use transform="rotate(30.8988,-27.1011,145.682)" xlink:href="#aa94" x="0" y="0"/>
+	<use transform="rotate(30.8988,5.97299,-26.0791)" xlink:href="#aa95" x="0" y="0"/>
+	<use transform="rotate(30.8988,-22.3854,116.169)" xlink:href="#aa96" x="0" y="0"/>
+	<use transform="rotate(30.8988,5.97299,-26.0791)" xlink:href="#aa97" x="0" y="0"/>
+	<use transform="rotate(30.8988,-14.0655,-22.732)" xlink:href="#aa98" x="0" y="0"/>
+	<use transform="rotate(30.8988,-101.617,158.746)" xlink:href="#aa99" x="0" y="0"/>
+	<use transform="rotate(30.8988,-139.247,144.093)" xlink:href="#aa100" x="0" y="0"/>
+	<use transform="rotate(30.8988,-131.084,140.324)" xlink:href="#aa101" x="0" y="0"/>
+	<use transform="rotate(30.8988,-131.084,140.324)" xlink:href="#aa102" x="0" y="0"/>
+	<use transform="rotate(30.8988,7.02093,37.171)" xlink:href="#aa103" x="0" y="0"/>
+	<use transform="rotate(30.8988,7.53654,161.917)" xlink:href="#aa104" x="0" y="0"/>
+	<use transform="rotate(30.8988,-126.361,149.376)" xlink:href="#aa105" x="0" y="0"/>
+	<use transform="rotate(30.8988,-210.679,138.303)" xlink:href="#aa106" x="0" y="0"/>
+	<use transform="rotate(30.8988,-138.577,138.809)" xlink:href="#aa107" x="0" y="0"/>
+	<use transform="rotate(30.8988,-88.1026,172.887)" xlink:href="#aa108" x="0" y="0"/>
+</g>
+<text x="68.1" y="106" style="font-size:31.7px; font-style:italic; fill:#666666; stroke-width:1px;">Gas</text>
+</svg>

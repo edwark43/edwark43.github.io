@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192.9"
+   height="91"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="4-squared.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview28"
+     showgrid="false"
+     inkscape:current-layer="svg26" />
+  <defs
+     id="defs6">
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker4">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:black;stroke-width:1pt"
+         id="path2" />
+    </marker>
+  </defs>
+  <g
+     transform="translate(1353.9974,-519.48315)"
+     id="g8" />
+  <circle
+     cx="52.2"
+     cy="67.7"
+     r="17.4743"
+     style="overflow:visible;opacity:1;fill:#fdf18c;stroke-width:5.1;fill-opacity:1"
+     id="circle10" />
+  <text
+     x="69.9"
+     y="89.8"
+     style="font-family:'Comic Sans MS';font-size:30.6px;overflow:visible;fill:#5c3566;stroke-width:1px"
+     id="text12">= 16</text>
+  <text
+     x="44.9"
+     y="76.3"
+     style="font-family:'Comic Sans MS';font-size:24.5px;overflow:visible;fill:#5c3566;stroke-width:1px"
+     id="text14">2</text>
+  <text
+     x="-0.6"
+     y="15.6"
+     style="font-family:'Comic Sans MS';font-size:20px;overflow:visible;fill:#fdca01;stroke-width:5.1"
+     id="text16">this means &quot;squared&quot;</text>
+  <g
+     transform="matrix(0.260758,-0.71862,-0.71862,-0.260758,667.844,-91.3772)"
+     id="g22">
+    <path
+       d="m -448,667.8 c 6.6,-7.9 13.8,-15.2 21.9,-21.7 7.2,-5.9 15.6,-10.3 24.4,-13.6 6.7,-2.6 13.5,-5 20.4,-6.8 -0.8,2.5 -1.6,5.1 -2.4,7.6 -7.9,2 -15.6,5 -23.2,8.1 -6.3,3 -12.5,6.3 -17.9,10.8 -3.8,2.9 -7.3,6.1 -10.7,9.5 0.9,-0.9 1.9,-1.9 2.8,-2.8 -2.5,2.6 -4.9,5.5 -7.5,8 -2.6,0.3 -5.2,0.7 -7.8,1 z"
+       style="overflow:visible;fill:#fdca01;stroke-width:5.1"
+       id="path18" />
+    <path
+       d="m -438.1,645 c -0,3.4 0.1,6.9 -0.1,10.3 -0.7,3.7 -2.2,7.1 -3.5,10.6 -0.7,0.8 -0.3,3.8 -1.5,1.7 -3.3,-1 -1.8,-3.4 0.5,-4.3 3.8,-2.8 8.1,-5.1 12.7,-6.3 4.2,-1.2 8.4,-2.1 12.8,-1.9 -1,2.5 -2,5 -3,7.5 -3.1,-0.1 -6.2,0.1 -9.1,1.1 -4.3,1 -8.3,2.9 -11.9,5.5 -2.8,1 -4.9,5.9 -8.1,3.5 -2,-1.5 -1.1,-4.1 -0.2,-5.9 1.3,-3.5 3,-6.9 3.7,-10.6 0.2,-2.7 0,-5.5 0.1,-8.2 2.4,-1.1 4.9,-2.2 7.3,-3.3 0.1,0.1 0.2,0.3 0.3,0.4 z"
+       style="overflow:visible;fill:#fdca01;stroke-width:5.1"
+       id="path20" />
+  </g>
+  <text
+     x="25.9"
+     y="89.9"
+     style="font-family:'Comic Sans MS';font-size:30.6px;overflow:visible;fill:#5c3566;stroke-width:1px"
+     id="text24">4</text>
+</svg>

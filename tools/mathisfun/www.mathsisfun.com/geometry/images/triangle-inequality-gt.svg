@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="208.407"
+   height="71.958"
+   id="svg3844"
+   version="1.1"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="triangle-inequality-gt.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="347.70764"
+     inkscape:cy="326.52167"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs3846" />
+  <metadata
+     id="metadata3849">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(-281.668,-612.28)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3856"
+       d="m 281.94,672.52 70.714,-43.494"
+       style="fill:none;stroke:#0065a4;stroke-width:1.038847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3858"
+       d="m 378.233,624.316 111.723,26.242"
+       style="fill:none;stroke:#0065a4;stroke-width:1.038847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3860"
+       d="M 281.947,672.368 489.659,650.235"
+       style="fill:none;stroke:#0065a4;stroke-width:1.038847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text3880"
+       y="643.421"
+       x="300.302"
+       style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.23308px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.519424px;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         style="font-size:24.9323px;line-height:1.25;fill:#3465a4;stroke-width:0.519424px;-inkscape-font-specification:'Trebuchet MS Italic';font-family:'Trebuchet MS';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+         y="643.421"
+         x="300.302"
+         id="tspan3882"
+         sodipodi:role="line">16</tspan></text>
+    <text
+       id="text3884"
+       y="630.979"
+       x="420.337"
+       style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.23308px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.519424px;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         style="font-size:24.9323px;line-height:1.25;fill:#3465a4;stroke-width:0.519424px;-inkscape-font-specification:'Trebuchet MS Italic';font-family:'Trebuchet MS';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+         y="630.979"
+         x="420.337"
+         id="tspan3886"
+         sodipodi:role="line">22</tspan></text>
+    <text
+       id="text3888"
+       y="683.763"
+       x="374.292"
+       style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.23308px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.519424px;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         style="font-size:24.9323px;line-height:1.25;fill:#3465a4;stroke-width:0.519424px;-inkscape-font-specification:'Trebuchet MS Italic';font-family:'Trebuchet MS';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+         y="683.763"
+         x="374.292"
+         id="tspan3890"
+         sodipodi:role="line">40</tspan></text>
+  </g>
+</svg>

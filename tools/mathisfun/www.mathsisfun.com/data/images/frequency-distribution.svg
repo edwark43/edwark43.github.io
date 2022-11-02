@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="229.3" height="249.2" version="1.1">
+<defs />
+<g transform="translate(-655.757,-1373.18)">
+<rect x="655.8" y="1373.2" width="229.3" height="249.2" style="color:black; overflow:visible; fill:white; stroke-width:5.61;" />
+<rect x="674.8" y="1433.9" width="194.4" height="46.2" style="color:black; overflow:visible; opacity:0.17; fill:#729fcf; stroke:#fce94f; stroke-width:0.15px;" />
+<rect x="673.9" y="1481.2" width="194.4" height="133.8" style="color:black; overflow:visible; opacity:0.17; fill:#fce94f; stroke:#fce94f; stroke-width:0.15px;" />
+<text x="718.2" y="1505.1" style="font-family:Verdana; font-size:19.5px; font-style:italic; color:black; overflow:visible; fill:#3465a4; stroke-width:0.15px;">1</text>
+<text x="717.4" y="1530.7" style="font-family:Verdana; font-size:19.5px; font-style:italic; color:black; overflow:visible; fill:#3465a4; stroke-width:0.15px;">2</text>
+<text x="717.6" y="1556.2" style="font-family:Verdana; font-size:19.5px; font-style:italic; color:black; overflow:visible; fill:#3465a4; stroke-width:0.15px;">3</text>
+<text x="717.1" y="1581.5" style="font-family:Verdana; font-size:19.5px; font-style:italic; color:black; overflow:visible; fill:#3465a4; stroke-width:0.15px;">4</text>
+<text x="717.6" y="1606.9" style="font-family:Verdana; font-size:19.5px; font-style:italic; color:black; overflow:visible; fill:#3465a4; stroke-width:0.15px;">5</text>
+<text x="810.6" y="1505" style="font-family:Verdana; font-size:19.5px; color:black; overflow:visible; fill:#73d216; stroke-width:0.15px;">2</text>
+<text x="810.8" y="1530.6" style="font-family:Verdana; font-size:19.5px; color:black; overflow:visible; fill:#73d216; stroke-width:0.15px;">5</text>
+<text x="810.3" y="1556" style="font-family:Verdana; font-size:19.5px; color:black; overflow:visible; fill:#73d216; stroke-width:0.15px;">4</text>
+<text x="810.6" y="1581.5" style="font-family:Verdana; font-size:19.5px; color:black; overflow:visible; fill:#73d216; stroke-width:0.15px;">2</text>
+<text x="811.4" y="1607.1" style="font-family:Verdana; font-size:19.5px; color:black; overflow:visible; fill:#73d216; stroke-width:0.15px;">1</text>
+<text x="695.3" y="1462.5" style="font-family:Verdana; font-size:18.7px; color:black; overflow:visible; fill:#3465a4; stroke-width:0.15px;">Score</text>
+<text x="766.8" y="1462.1" style="font-family:Verdana; font-size:18.7px; color:black; overflow:visible; fill:#73d216; stroke-width:0.15px;">Frequency</text>
+<text x="770.3" y="1413.2" style="font-family:Verdana; text-align:center; text-anchor:middle; font-size:16px; font-style:italic; color:black; overflow:visible; fill:#204a87; stroke-width:0.15px;">1,1,2,2,2,2,2,3,3,3,3,4,4,5</text>
+<text x="770.6" y="1394.9" style="font-family:Verdana; text-align:center; text-anchor:middle; font-size:19.5px; color:black; overflow:visible; fill:#204a87; stroke-width:0.15px;">Scores:</text>
+</g>
+</svg>

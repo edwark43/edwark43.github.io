@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="165.341"
+   height="232.971"
+   version="1.1"
+   id="svg47"
+   sodipodi:docname="ovals.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview49"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg47"
+     inkscape:snap-smooth-nodes="true"
+     showguides="false"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs5">
+    <marker
+       id="id01"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id015878"
+       inkscape:stockid="id015878">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#ff6600;fill-opacity:1;stroke:#ff6600;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1797" />
+    </marker>
+  </defs>
+  <path
+     style="color:#000000;overflow:visible;fill:none;fill-opacity:1;stroke:none;stroke-width:2.48274;stop-color:#000000"
+     id="path5953"
+     sodipodi:type="arc"
+     sodipodi:cx="96.5158"
+     sodipodi:cy="93.3195"
+     sodipodi:rx="89.1443"
+     sodipodi:ry="89.1443"
+     sodipodi:start="3.59493"
+     sodipodi:end="4.91624"
+     sodipodi:arc-type="arc"
+     d="M 16.3759,54.2771 A 89.1443,89.1443 0 0 1 114.562,6.021"
+     sodipodi:open="true" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0084c8;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 49.0969,232.971 3e-4,-105.132"
+     id="path2077" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0084c8;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 112.775,232.971 V 127.839"
+     id="path2159" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0084c8;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 0,178.989 H 165.341"
+     id="path2316" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0084c8;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 5.8521,54.2772 H 145.147"
+     id="path3072" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#0084c8;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 62.4768,110.607 V 0"
+     id="path3074" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#005c94;stroke-width:1.40526;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     d="m 112.775,221.645 c 23.559,0 42.656,-19.098 42.656,-42.656 0,-23.559 -19.097,-42.656 -42.656,-42.656 H 49.0972 c -23.5584,0 -42.6562,19.097 -42.6562,42.656 0,23.557 19.0977,42.656 42.6559,42.656 z"
+     id="path1614"
+     sodipodi:nodetypes="csccscc" />
+  <path
+     id="path2637"
+     style="overflow:visible;opacity:1;vector-effect:none;fill:none;stroke:#005c94;stroke-width:1.40526;stop-color:#000000;stop-opacity:1"
+     d="m 134.005,54.277 c 0,24.3924 -41.8902,44.1667 -71.7042,44.1667 -29.8128,0 -45.9249,-19.7743 -45.9249,-44.1667 0,-24.3923 16.1121,-44.166 45.9249,-44.166 29.814,0 71.7042,19.7737 71.7042,44.166 z"
+     sodipodi:nodetypes="sssss" />
+</svg>

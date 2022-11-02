@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="161.5"
+   height="191.1"
+   version="1.1"
+   style="font-size:26px;stroke-width:1.64"
+   id="svg156"
+   sodipodi:docname="linear-inequality-x2p3b.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata160">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview158"
+     showgrid="false"
+     showborder="false"
+     inkscape:current-layer="svg156" />
+  <defs
+     id="defs8">
+    <marker
+       id="aa2"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         style="font-size:12px;fill:#ff0000;stroke:#ff0000;stroke-width:0.63;stroke-linejoin:round"
+         d="M 8.7,4 -2.2,0 8.7,-4 c -1.7,2.4 -1.7,5.6 0,8 z"
+         id="path2" />
+    </marker>
+    <marker
+       id="aa1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         style="font-size:12px;fill:#0065a4;stroke:#0065a4;stroke-width:0.63;stroke-linejoin:round"
+         d="M 8.7,4 -2.2,0 8.7,-4 c -1.7,2.4 -1.7,5.6 0,8 z"
+         id="path5" />
+    </marker>
+  </defs>
+  <linearGradient
+     gradientTransform="scale(4.5607,0.219265)"
+     x1="0"
+     y1="114"
+     x2="228"
+     y2="114"
+     gradientUnits="userSpaceOnUse"
+     id="linearGradient16">
+    <stop
+       offset="0"
+       style="stop-color:indigo"
+       id="stop10" />
+    <stop
+       offset="25%"
+       style="stop-color:blue"
+       id="stop12" />
+    <stop
+       offset="100%"
+       style="stop-color:white"
+       id="stop14" />
+  </linearGradient>
+  <filter
+     id="filter20">
+    <feGaussianBlur
+       stdDeviation="5"
+       id="feGaussianBlur18" />
+  </filter>
+  <rect
+     x="0"
+     y="0"
+     width="161.5"
+     height="191.1"
+     style="color:black;overflow:visible;fill:white;stroke-width:4.72"
+     id="rect22" />
+  <g
+     transform="matrix(0.560755,0,0,0.560755,-1493.92,-981.956)"
+     id="g96">
+    <g
+       transform="translate(618,-6)"
+       id="g58">
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,1948.9 h 526.7"
+         id="path24" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,1882.7 h 526.7"
+         id="path26" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,1816.6 h 526.7"
+         id="path28" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,1750.4 h 526.7"
+         id="path30" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,2279.6 h 526.7"
+         id="path32" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,2147.3 h 526.7"
+         id="path34" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,2081.2 h 526.7"
+         id="path36" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,2015 h 526.7"
+         id="path38" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,2213.5 h 526.7"
+         id="path40" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,1982 h 526.7"
+         id="path42" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,1915.8 h 526.7"
+         id="path44" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,1849.7 h 526.7"
+         id="path46" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,1783.5 h 526.7"
+         id="path48" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,2180.4 h 526.7"
+         id="path50" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,2114.3 h 526.7"
+         id="path52" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,2048.1 h 526.7"
+         id="path54" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="m 1832.6,2246.6 h 526.7"
+         id="path56" />
+    </g>
+    <g
+       id="g94">
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2647.9,2272.4 V 1745.7"
+         id="path60" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2581.7,2272.4 V 1745.7"
+         id="path62" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2515.6,2272.4 V 1745.7"
+         id="path64" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2449.4,2272.4 V 1745.7"
+         id="path66" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2978.6,2272.4 V 1745.7"
+         id="path68" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2846.3,2272.4 V 1745.7"
+         id="path70" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2780.2,2272.4 V 1745.7"
+         id="path72" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2714,2272.4 V 1745.7"
+         id="path74" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2912.4,2272.4 V 1745.7"
+         id="path76" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2680.9,2272.4 V 1745.7"
+         id="path78" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2614.8,2272.4 V 1745.7"
+         id="path80" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2548.6,2272.4 V 1745.7"
+         id="path82" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2482.5,2272.4 V 1745.7"
+         id="path84" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2879.4,2272.4 V 1745.7"
+         id="path86" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2813.2,2272.4 V 1745.7"
+         id="path88" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2747.1,2272.4 V 1745.7"
+         id="path90" />
+      <path
+         style="fill:none;stroke:#e5e6e8;stroke-dasharray:13.1, 1.60000000000000009"
+         d="M 2945.5,2272.4 V 1745.7"
+         id="path92" />
+    </g>
+  </g>
+  <path
+     style="color:#000000;overflow:visible;fill:#edd400;fill-opacity:0.26;stroke-width:0.5"
+     d="M -94.7,160.9 185.5,20.7 184.68,268.105 -96.3004,266.343"
+     id="path98"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="color:black;marker-end:url(#aa1);overflow:visible;fill:none;stroke:#0065a4;stroke-width:1.38"
+     d="M -94.6,144.5 H 155.3"
+     id="path100" />
+  <text
+     x="137.1"
+     y="168.4"
+     style="font-family:Arial;font-size:26px;color:black;overflow:visible;fill:#0065a4;stroke-width:1.5"
+     id="text102">x</text>
+  <path
+     style="marker-end:url(#aa2);fill:none;stroke:#ff0000;stroke-width:1.38"
+     d="M 46.4,304.2 V 5.5"
+     id="path104" />
+  <text
+     x="22.7"
+     y="17.9"
+     style="font-family:Arial;font-size:26px;overflow:visible;fill:#ff0000;stroke-width:1.5"
+     id="text106">y</text>
+  <g
+     transform="matrix(0.466448,0,0,0.466448,399.32,-772.628)"
+     id="g126">
+    <text
+       x="-727.4"
+       y="1997"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text108">1</text>
+    <text
+       x="-687.6"
+       y="1997"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text110">2</text>
+    <text
+       x="-647.8"
+       y="1996.8"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text112">3</text>
+    <text
+       x="-608"
+       y="1996.9"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text114">4</text>
+    <text
+       x="-929.1"
+       y="1996.9"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text116">-4</text>
+    <text
+       x="-889.3"
+       y="1996.8"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text118">-3</text>
+    <text
+       x="-849.5"
+       y="1997"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text120">-2</text>
+    <text
+       x="-809.7"
+       y="1997"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text122">-1</text>
+    <text
+       x="-764.6"
+       y="1996.8"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text124">0</text>
+  </g>
+  <g
+     transform="matrix(0.432548,0,0,0.432548,1050.6,-673.183)"
+     id="g150">
+    <text
+       x="-2346.8"
+       y="1859.5"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text128">1</text>
+    <text
+       x="-2349.1"
+       y="1816.7"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text130">2</text>
+    <text
+       x="-2349.3"
+       y="1773.6"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text132">3</text>
+    <text
+       x="-2349.2"
+       y="1731"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text134">4</text>
+    <text
+       x="-2360.5"
+       y="2073.7"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text136">-4</text>
+    <text
+       x="-2360.6"
+       y="2030.7"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text138">-3</text>
+    <text
+       x="-2360.4"
+       y="1988.1"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text140">-2</text>
+    <text
+       x="-2358.1"
+       y="1945.2"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text142">-1</text>
+    <text
+       x="-2349.2"
+       y="1902.2"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text144">0</text>
+    <text
+       x="-2349.3"
+       y="1686.6"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text146">5</text>
+    <text
+       x="-2349.2"
+       y="1644"
+       style="font-family:Arial;fill:black;stroke-width:1"
+       id="text148">6</text>
+  </g>
+  <path
+     style="color:black;overflow:visible;fill:black;stroke:#c4a000;stroke-width:1.3"
+     d="M -96.6,160.8 188.6,19"
+     id="path152" />
+  <g
+     id="g943"
+     transform="translate(334.288,83.1535)">
+    <text
+       id="text154-0"
+       style="color:#000000;font-size:19px;font-family:Arial;overflow:visible;fill:#000000;stroke-width:0.5px"
+       y="29.5672"
+       x="-269.241">y ≤</text>
+    <text
+       x="-231.12"
+       y="20.781"
+       style="color:#000000;font-size:19px;font-family:Arial;overflow:visible;fill:#000000;stroke-width:0.5px"
+       id="text930">x</text>
+    <text
+       id="text932"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;overflow:visible;fill:#000000;stroke-width:0.5px"
+       y="39.0499"
+       x="-230.701">2</text>
+    <text
+       x="-210.618"
+       y="30.5437"
+       style="color:#000000;font-size:19px;font-family:Arial;overflow:visible;fill:#000000;stroke-width:0.5px"
+       id="text934">+ 3</text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path936"
+       d="m -236.508,24.4442 h 19.184"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

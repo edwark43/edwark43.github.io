@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="161.5" height="191.1" version="1.1" style="font-size:26px; stroke-width:1.64;">
+<defs>
+	<marker id="aa2" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-1.1,0,0,-1.1,-1.1,0)" style="font-size:12px; fill:#ff0000; stroke:#ff0000; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 c -1.7,2.4 -1.7,5.6 0,8 z"/>
+	</marker>
+	<marker id="aa1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-1.1,0,0,-1.1,-1.1,0)" style="font-size:12px; fill:#0065a4; stroke:#0065a4; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 c -1.7,2.4 -1.7,5.6 0,8 z"/>
+	</marker>
+</defs>
+<linearGradient gradientTransform="scale(4.5607,0.219265)" x1="0" y1="114" x2="228" y2="114" gradientUnits="userSpaceOnUse">
+	<stop offset="0" style="stop-color:indigo;"/>
+	<stop offset="25%" style="stop-color:blue;"/>
+	<stop offset="100%" style="stop-color:white;"/>
+</linearGradient>
+<filter>
+	<feGaussianBlur stdDeviation="5"/>
+</filter>
+<rect x="0" y="0" width="161.5" height="191.1" style="color:black; overflow:visible; fill:white; stroke-width:4.72;"/>
+<g transform="matrix(0.560755,0,0,0.560755,-1496.13,-981.289)">
+	<g transform="translate(618,-6)">
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1948.9 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1882.7 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1816.6 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1750.4 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2279.6 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2147.3 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2081.2 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2015 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2213.5 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1982 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1915.8 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1849.7 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1783.5 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2180.4 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2114.3 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2048.1 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2246.6 h 526.7"/>
+	</g>
+	<g>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2647.9,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2581.7,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2515.6,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2449.4,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2978.6,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2846.3,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2780.2,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2714,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2912.4,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2680.9,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2614.8,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2548.6,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2482.5,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2879.4,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2813.2,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2747.1,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2945.5,2272.4 V 1745.7"/>
+	</g>
+</g>
+<path style="color:black; marker-end:url(#aa1); overflow:visible; fill:none; stroke:#0065a4; stroke-width:1.38;" d="m -111.5,145.2 h 264.6"/>
+<text x="134.9" y="169" style="font-family:Arial; font-size:26px; color:black; overflow:visible; fill:#0065a4; stroke-width:1.5;">x</text>
+<path style="marker-end:url(#aa2); fill:none; stroke:#ff0000; stroke-width:1.38;" d="M 44.2,304.9 V 6.2"/>
+<text x="20.5" y="18.5" style="font-family:Arial; font-size:26px; overflow:visible; fill:#ff0000; stroke-width:1.5;">y</text>
+<g transform="matrix(0.466448,0,0,0.466448,397.114,-771.964)">
+	<text x="-727.4" y="1997" style="font-family:Arial; fill:black; stroke-width:1;">1</text>
+	<text x="-687.6" y="1997" style="font-family:Arial; fill:black; stroke-width:1;">2</text>
+	<text x="-647.8" y="1996.8" style="font-family:Arial; fill:black; stroke-width:1;">3</text>
+	<text x="-608" y="1996.9" style="font-family:Arial; fill:black; stroke-width:1;">4</text>
+	<text x="-929.1" y="1996.9" style="font-family:Arial; fill:black; stroke-width:1;">-4</text>
+	<text x="-889.3" y="1996.8" style="font-family:Arial; fill:black; stroke-width:1;">-3</text>
+	<text x="-849.5" y="1997" style="font-family:Arial; fill:black; stroke-width:1;">-2</text>
+	<text x="-809.7" y="1997" style="font-family:Arial; fill:black; stroke-width:1;">-1</text>
+	<text x="-764.6" y="1996.8" style="font-family:Arial; fill:black; stroke-width:1;">0</text>
+</g>
+<g transform="matrix(0.432548,0,0,0.432548,1048.39,-672.519)">
+	<text x="-2346.8" y="1859.5" style="font-family:Arial; fill:black; stroke-width:1;">1</text>
+	<text x="-2349.1" y="1816.7" style="font-family:Arial; fill:black; stroke-width:1;">2</text>
+	<text x="-2349.3" y="1773.6" style="font-family:Arial; fill:black; stroke-width:1;">3</text>
+	<text x="-2349.2" y="1731" style="font-family:Arial; fill:black; stroke-width:1;">4</text>
+	<text x="-2360.5" y="2073.7" style="font-family:Arial; fill:black; stroke-width:1;">-4</text>
+	<text x="-2360.6" y="2030.7" style="font-family:Arial; fill:black; stroke-width:1;">-3</text>
+	<text x="-2360.4" y="1988.1" style="font-family:Arial; fill:black; stroke-width:1;">-2</text>
+	<text x="-2358.1" y="1945.2" style="font-family:Arial; fill:black; stroke-width:1;">-1</text>
+	<text x="-2349.2" y="1902.2" style="font-family:Arial; fill:black; stroke-width:1;">0</text>
+	<text x="-2349.3" y="1686.6" style="font-family:Arial; fill:black; stroke-width:1;">5</text>
+	<text x="-2349.2" y="1644" style="font-family:Arial; fill:black; stroke-width:1;">6</text>
+</g>
+<path style="color:black; overflow:visible; fill:black; stroke:#c4a000; stroke-width:1.3; stroke-dasharray:7.8, 7.8;" d="M 1.1,307.1 178,-48.8"/>
+<text x="-73.7" y="127.9" transform="rotate(-63.059)" style="font-family:Arial; font-size:20px; color:black; overflow:visible; fill:#c4a000; stroke-width:0.5px;">y = 2x - 4</text>
+</svg>

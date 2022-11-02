@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="337.5" height="91.2" version="1.1">
+<defs>
+<linearGradient id="id2">
+<stop offset="0" style="stop-color:#73d216; stop-opacity:1;"/>
+<stop offset="0.389" style="stop-color:#73d216; stop-opacity:1;"/>
+<stop offset="1" style="stop-color:#ff4141; stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="id1">
+<stop offset="0" style="stop-color:#ff6600; stop-opacity:1;"/>
+<stop offset="1" style="stop-color:#ffff3e; stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="id3" xlink:href="#id2" x1="262.2" y1="299.6" x2="368.5" y2="299.6" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g transform="translate(-165.476,-235.925)">
+<path transform="matrix(0.426283,0,0,0.321649,-328.01,218.006)" style="color:black; overflow:visible; fill:#ccff42; fill-opacity:0.14; stroke:#c4a000; stroke-width:1.09px;" d="m 1369.2,254 13.1,56.4 -49.1,-26.1 -25.6,53.9 -32.7,-51.5 -34.5,29.2 0.7,-60.1 -53,20.7 25.5,-51.2 -54.6,-8.7 53.5,-40.4 -37,-34.6 63.4,6.7 -13.4,-61.3 52.8,33.6 7.9,-63 29.1,59.9 37.8,-46.5 -0.7,60.1 67.3,-14.2 -43.4,53.2 58.3,18.3 -53.5,26.5 37,50.6 z"/>
+<path transform="matrix(0.398418,0,0,0.284655,-106.781,214.049)" style="color:black; overflow:visible; fill:#ccff42; fill-opacity:0.14; stroke:#c4a000; stroke-width:0.96px;" d="m 1487.8,323.6 -48,-15 -5.1,47.6 -31.2,-38.9 -25.6,37.2 -0.6,-51.1 -46.1,6 20.8,-45.1 -50.6,-12.2 43.8,-18.2 -41,-27.9 52.9,-14.4 -14.2,-49.1 33,29.7 20.1,-47.3 30.4,33.2 28.7,-28.9 1.4,56.3 46.1,-19.8 -24.5,34.6 51.1,13.4 -48.3,27.8 45.6,32.9 -52.9,-0.3 z"/>
+<text x="190.4" y="286.7" style="font-family:'Comic Sans MS'; font-size:20px; font-style:italic; color:black; overflow:visible; fill:#ff6600; stroke-width:0.41px;">Energy</text>
+<text x="429.9" y="285.6" style="font-family:'Comic Sans MS'; font-size:16.2px; font-style:italic; color:black; overflow:visible; fill:#ff6600; stroke-width:0.38px;">Energy</text>
+<text x="308.4" y="269" style="font-family:'Comic Sans MS'; font-size:18.8px; font-style:italic; color:black; overflow:visible; fill:#ff6600; stroke-width:0.41px;">Work</text>
+<text x="373.7" y="324.2" style="font-family:'Comic Sans MS'; font-size:18.8px; font-style:italic; color:black; overflow:visible; fill:#ff4141; stroke-width:0.36px;">Heat</text>
+<path style="fill:none; stroke:#73d216; stroke-width:14.4;" d="M 262.2,279.6 H 417.6"/>
+<path style="fill:#73d216; stroke-width:0.53px;" d="m 414.8,267.9 v 25.8 l 12.8,-13 z"/>
+<path style="fill:#ff4141; stroke-width:0.38px;" d="m 371,302.1 -12.3,14.1 13.2,-1 z"/>
+<path style="fill:none; stroke:url(#id3); stroke-width:5.63;" d="m 262.2,289.1 c 35.1,-0.2 34.8,0 60.8,0 16.6,0 30.1,7.9 43.5,22"/>
+</g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="217" height="144.6" version="1.1">
+<defs>
+<marker style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#fd3301; stroke:#fd3301; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<g transform="translate(-631.842,-748.297)">
+<path transform="matrix(0.253859,-0.012746,0.012785,0.2531,460.313,489.641)" style="color:black; overflow:visible; fill:#3a7f53; stroke:black; stroke-width:16.01;" d="m 1235.4,1493.5 -255.4,84 -158.8,-216.9 157.2,-218 255.9,82.2 z"/>
+<text x="794.2" y="789.5" transform="scale(1.0015,0.998504)" style="font-family:Arial; font-size:18.3px; color:black; overflow:visible; fill:#fd3301; stroke-width:0.9;">vertex</text>
+<text x="797.8" y="864.3" transform="scale(1.0015,0.998504)" style="font-family:Arial; font-size:18.3px; color:black; overflow:visible; fill:#fd3301; stroke-width:0.9;">vertex</text>
+<text x="691.8" y="762.2" transform="scale(1.0015,0.998504)" style="font-family:Arial; font-size:18.3px; color:black; overflow:visible; fill:#fd3301; stroke-width:0.9;">vertex</text>
+<text x="630.7" y="829.7" transform="scale(1.0015,0.998504)" style="font-family:Arial; font-size:18.3px; color:black; overflow:visible; fill:#fd3301; stroke-width:0.9;">vertex</text>
+<text x="700.9" y="894" transform="scale(1.0015,0.998504)" style="font-family:Arial; font-size:18.3px; color:black; overflow:visible; fill:#fd3301; stroke-width:0.9;">vertex</text>
+</g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" width="166.5" height="155.1" version="1.1" style="font-family:'Trebuchet MS'; font-size:18px; fill:#204a87;">
+<defs>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#ba00ff; stroke:#ba00ff; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ba00ff; stroke:#ba00ff; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g transform="translate(95.9166,-1695.3)">
+	<ellipse cx="-7" cy="1772.9" rx="77.1" ry="77.1" style="font-family:Arial; font-size:74px; fill:none; stroke:#f57900; stroke-width:1;"/>
+	<circle cx="-7.8" cy="1775.2" r="1.66332" style="font-family:Arial; font-size:116.6px; fill:#ba00ff; stroke:#ba00ff; stroke-width:0.55;"/>
+	<path style="fill:none; stroke:#3465a4; stroke-width:1;" d="m -82.9,1757.2 c 75.2,18 75.2,18 75.2,18 55.6,-55.6 55.6,-55.6 55.6,-55.6"/>
+	<path style="fill:none; stroke:#3465a4; stroke-width:1;" d="m -82.9,1757.2 c 133.1,66.5 133.1,66.5 133.1,66.5 -2.3,-104.1 -2.3,-104.1 -2.3,-104.1"/>
+	<text x="-4.3" y="1789.6" style="stroke-width:1;">O</text>
+	<text x="50.8" y="1716.6" style="stroke-width:1;">Q</text>
+	<text x="53.4" y="1838.5" style="stroke-width:1;">R</text>
+	<text x="-97.2" y="1761.6" style="stroke-width:1;">P</text>
+	<text x="23.4" y="1806" style="font-size:16px; stroke-width:1;">62</text>
+	<path style="fill:none; stroke:#0084c8; stroke-width:0.78;" d="m 35.2,1815.6 a 16.8,16.8 0 0 1 14.5,-9.9" sodipodi:type="arc" sodipodi:cx="50.5758" sodipodi:cy="1822.59" sodipodi:rx="16.8339" sodipodi:ry="16.8339" sodipodi:start="3.56745" sodipodi:end="4.66527" sodipodi:arc-type="arc"/>
+	<text x="40.5" y="1747.4" transform="scale(0.973467,1.02726)" style="font-size:9.8px; stroke-width:1;">O</text>
+</g>
+</svg>

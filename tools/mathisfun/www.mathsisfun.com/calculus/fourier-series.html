@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/calculus/fourier-series.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:32:14 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Fourier Series</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.">
+
+
+
+
+
+  
+  
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+<style>
+  .intgl {display:inline-block;  margin: -4% 0.6% 4% -1%; transform: translateX(20%) translateY(35%);}
+  .intgl .to {text-align:center; width:2em; font: 0.8em Verdana; margin: 0 0 -5px 8px;}
+  .intgl .symb {font: 200% Georgia;}
+  .intgl .symb:before { content: "\222B";}
+  .intgl .from {text-align:center; width:2em; font: 0.8em Verdana; overflow:visible; }
+  .sigma {display:inline-block; margin: -4% 0.6% 4% -1%; transform: translateX(20%) translateY(35%);}
+  .sigma .to {text-align:center; width:2em; font: 0.8em Verdana; margin: 0 0 -12px 0;}
+  .sigma .symb {font: 200% Georgia; transform: translateY(16%); }
+  .sigma .symb:before { content: "\03A3";}
+  .sigma .from {text-align:center; width:2em; font: 0.8em Verdana; overflow:visible; }
+</style>
+
+
+<h1 class="center">Fourier Series</h1>
+
+<!-- and INT{2, 3}x^2 and SIG{2, 3}x^2 -->
+  <p>Sine and cosine waves can make other functions!</p>
+  <p><span class="center">Here two different sine waves add together to make a new wave:</span></p>
+  <p class="center"><img src="../physics/images/wave-superposition.svg" alt="wave superposition" height="307" width="333"><br>
+<i>Try "sin(x)+sin(2x)"  at the <a href="../data/function-grapher.html">function grapher</a>.</i></p>
+  <p>(You can also <b>hear it</b> at <a href="../physics/audio-spectrum-beats.html">Sound Beats</a>.)</p>
+
+
+<h2>Square Wave</h2>
+
+<p>Can we use sine waves to make a  <b>square wave</b>?</p>
+  <p>Our target is  this square wave:</p>
+  <p><img src="images/fourier-square.svg" alt="Square Wave -pi to pi" height="146" width="530"></p>
+  <p>Start with <b>sin(x)</b>:</p>
+  <p><img src="images/fourier-square-sine1.svg" alt="sin(x)" height="146" width="530"></p>
+  <p>Then take <b>sin(3x)/3</b>:</p>
+  <p><img src="images/fourier-square-sine3.svg" alt="sin(3x)/3:" height="146" width="530"></p>
+  <p>And add it to  make <b>sin(x)+sin(3x)/3</b>:</p>
+  <p><img src="images/fourier-square-sine1-3.svg" alt="sin(x)+sin(3x)/3:" height="146" width="530"></p>
+  <p>Can you see how it starts to look a little like a square wave?</p>
+  <p>Now take <b>sin(5x)/5</b>:</p>
+  <p><img src="images/fourier-square-sine5.svg" alt="sin(5x)/5:" height="146" width="530"></p>
+  <p>Add it also, to make <b>sin(x)+sin(3x)/3+sin(5x)/5</b>:</p>
+  <p><img src="images/fourier-square-sine1-5.svg" alt="sin(x)+sin(3x)/3+sin(5x)/5" height="146" width="530"></p>
+  <p>Getting better! Let's add a lot more  sine waves.</p>
+  <p>Using 20 sine waves we get  <b>sin(x)+sin(3x)/3+sin(5x)/5 + ... +  sin(39x)/39</b>:</p>
+  <p><img src="images/fourier-square-sine1-39.svg" alt="sin(x)+sin(3x)/3+sin(5x)/5" height="146" width="530"></p>
+  <p>Using 100 sine waves we get  <b>sin(x)+sin(3x)/3+sin(5x)/5 + ... +  sin(199x)/199</b>:</p>
+  <p><img src="images/fourier-square-sine1-199.svg" alt="sin(x)+sin(3x)/3+sin(5x)/5" height="146" width="530"></p>
+  <p>And if we could add infinite sine waves in that pattern we would <b>have</b> a square wave!</p>
+  <p>So we can say that:</p>
+  <p class="center large">a square wave = sin(x) + sin(3x)/3 + sin(5x)/5 + ... (infinitely)</p>
+  <p>That is the idea of a Fourier series.</p>
+  <p>By adding infinite sine (and or cosine) waves we can make other functions, even if they are a bit weird.</p>
+  <div class="fun">
+    <p>You might like to have a little play with:</p>
+    <p class="center"><a href="fourier-series-graph.html">The Fourier Series Grapher</a></p>
+    <p>And it is also fun to use <a href="../geometry/spiral-artist.html">Spiral Artist</a> and see how  circles make waves.</p>
+    <p>They are designed to be experimented with, so play around and get a feel for the subject.</p>
+  </div>
+
+
+<h2>Finding the Coefficients</h2>
+
+<p>How did we know to use sin(3x)/3, sin(5x)/5, etc?</p>
+  <p>There are  formulas!</p>
+  <p>First let us write down a full series of sines and cosines, with a name for all  coefficients:</p>
+<div class="center large" style="">f(x) = a<sub>0</sub> +
+
+<div class="sigma">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">n=1</div>
+</div> a<sub>n</sub> cos(nx<span class="intbl"><em><span class="times">π</span></em><strong>L</strong></span>)  + <div class="sigma">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">n=1</div>
+</div> b<sub>n</sub> sin(nx<span class="intbl"><em><span class="times">π</span></em><strong>L</strong></span>)</div>
+<!-- f(x) = a_0 + SIG{n=1, INF} a_n cos(nx PI/L )  + SIG{n=1, INF} b_n sin(nx PI/L ) -->
+  <p>Where:</p>
+  <ul>
+    <li>f(x) is the function we want (such as a square wave)</li>
+    <li>L is <b>half of the period</b> of the function</li>
+    <li>a<sub>0</sub>, a<sub>n</sub> and b<sub>n</sub> are <b>coefficients</b> that we need to calculate!</li>
+  </ul>
+  <div class="fun"><br>
+<div class="">What does
+
+<div class="sigma">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">n=1</div>
+</div> a<sub>n</sub> cos(nx<span class="intbl"><em><span class="times">π</span></em><strong>L</strong></span>) mean?</div>
+<!-- What does SIG{n=1, INF} a_n cos(nx PI/L ) mean?  -->
+    <p>It uses <a href="../algebra/sigma-notation.html">Sigma Notation</a> to mean <b>sum</b> up the series of values starting at n=1:</p>
+    <ul>
+      <li>a<sub>1</sub> cos(1x <span class="times">π</span>/L)</li>
+      <li>a<sub>2</sub> cos(2x <span class="times">π</span>/L)</li>
+      <li>etc</li>
+    </ul>
+    <p>We do not (yet) know the values of a<sub>1</sub>, a<sub>2</sub> etc.</p>
+  </div>
+  <p>To find the coefficients a<sub>0</sub>, a<sub>n</sub> and  b<sub>n</sub> we use these formulas:</p>
+<div class="center large" style="">a<sub>0</sub> =  <span class="intbl"><em>1</em><strong>2L</strong></span>
+<div class="intgl">
+  <div class="to">L</div>
+  <div class="symb"></div>
+  <div class="from">−L</div>
+</div> f(x) dx</div>
+<!-- a_0 =  1/2L INT{-L, L} f(x) dx -->
+<div class="center large" style="">a<sub>n</sub> =  <span class="intbl"><em>1</em><strong>L</strong></span>
+<div class="intgl">
+  <div class="to">L</div>
+  <div class="symb"></div>
+  <div class="from">−L</div>
+</div> f(x) cos(nx<span class="intbl"><em><span class="times">π</span></em><strong>L</strong></span>) dx</div>
+<!-- a_n =  1/L INT{-L, L} f(x) cos(nx PI/L ) dx  -->
+<div class="center large" style="">b<sub>n</sub> =  <span class="intbl"><em>1</em><strong>L</strong></span>
+<div class="intgl">
+  <div class="to">L</div>
+  <div class="symb"></div>
+  <div class="from">−L</div>
+</div> f(x) sin(nx<span class="intbl"><em><span class="times">π</span></em><strong>L</strong></span>) dx</div>
+<!-- b_n =  1/L INT{-L, L} f(x) sin(nx PI/L ) dx  -->
+  <div class="fun"><br>
+<div style="">What does &nbsp;
+
+<div class="intgl">
+  <div class="to">L</div>
+  <div class="symb"></div>
+  <div class="from">−L</div>
+</div>f(x) sin(nx<span class="intbl"><em><span class="times">π</span></em><strong>L</strong></span>) dx mean?</div>
+<!-- What does INT{-L, L} f(x) sin(nx PI/L ) dx  mean? -->
+    <p>It is an <a href="integration-introduction.html">integral</a>, but in practice it just means to find the <b>net area</b> of</p>
+    <p class="center"><b>f(x) sin(nx<span class="intbl"><em><span class="times">π</span></em><strong>L</strong></span>)</b></p>
+    <p>between −L and L</p>
+    <p>We can often find that area just by sketching and using basic calculations, but other times we may need to use <a href="integration-rules.html">Integration Rules</a>.</p>
+  </div>
+  <p>&nbsp;</p>
+  <p>So this is what we do:</p>
+  <ul>
+    <li>Take our <b>target function,  multiply it by  sine</b> (or cosine)  and <b>integrate</b> (find the area)</li>
+    <li>Do that for n=0, n=1, etc to calculate each coefficient</li>
+    <li>And after we calculate all coefficients, we put them into the series formula above.</li>
+  </ul>
+<p>Let us see how to do each step and then assemble the result at the end!</p>
+
+<div class="example">
+
+<h3>Example: This Square Wave:</h3>
+  <p class="center"><img src="images/fourier-square.svg" alt="Square Wave -pi to pi" height="146" width="530"></p>
+  <ul>
+    <li><b>L = <span class="times">π</span></b> &nbsp; <i>(the  Period is 2<span class="times">π</span>)</i></li>
+    <li>The square wave is from <b>−h</b> to <b>+h</b></li>
+    </ul>
+  <p>Now our job is to calculate <b>a<sub>0</sub></b>, <b>a<sub>n</sub></b> and <b>b<sub>n</sub></b></p>
+  <p>&nbsp;</p>
+  <p><b>a<sub>0</sub></b> is the net area between −L and L, then divided by 2L. It is  basically  an <b>average</b> of f(x) in that range.</p>
+  <p>Looking at this sketch:</p>
+  <p class="center"><img src="images/fourier-square-area.svg" alt="Square Wave -pi to pi" height="146" width="530"><br>
+The net area of the  square wave from −L to L is <b>zero</b>.</p>
+  <p>So we know that:</p>
+  <p class="center larger">a<sub>0</sub> = 0</p>
+  <p class="center larger">&nbsp;</p>
+  <p>For <b>a<sub>1</sub></b> we know that n=1 and L=<span class="times">π</span>, so:</p>
+<div class="center large">a<sub>1</sub> = <span class="intbl"><em>1</em><strong><span class="times">π</span></strong></span>
+<div class="intgl">
+  <div class="to"><span class="times">π</span></div>
+  <div class="symb"></div>
+  <div class="from">−<span class="times">π</span></div>
+</div> f(x) cos(1x<span class="intbl"><em><span class="times">π</span></em><strong><span class="times">π</span></strong></span>) dx</div>
+<!-- a_1 = 1/PI INT{-PI, PI} f(x) cos(1x PI/PI ) dx -->
+  <p>Which simplifies to:</p>
+<div class="center large">a<sub>1</sub> = <span class="intbl"><em>1</em><strong><span class="times">π</span></strong></span>
+<div class="intgl">
+  <div class="to"><span class="times">π</span></div>
+  <div class="symb"></div>
+  <div class="from">−<span class="times">π</span></div>
+</div> f(x) cos(x) dx</div>
+<!-- a_1 = 1/PI INT{-PI, PI} f(x) cos(x) dx -->
+  <p>Now, because the square wave changes  abruptly at x=0 we  need to break the calculation into <b>−<span class=" times">π</span> to 0</b> and <b>0 to <span class=" times">π</span></b>,</p>
+  <p><b>From −<span class=" times">π</span> to 0</b> we know f(x) is simply equal to <b>−h</b>:</p>
+<div class="center large"><span class="intbl"><em>1</em><strong><span class="times">π</span></strong></span>
+<div class="intgl">
+  <div class="to">0</div>
+  <div class="symb"></div>
+  <div class="from">−<span class="times">π</span></div>
+</div> −h cos(x) dx</div>
+<!---&minus; 1/PI INT{-PI, 0} -h cos(x) dx ---->
+  <p>We can move the constant <b>−h</b> outside the integral:</p>
+<div class="center large"><span class="intbl"><em>−h</em><strong><span class="times">π</span></strong></span>
+<div class="intgl">
+  <div class="to">0</div>
+  <div class="symb"></div>
+  <div class="from">−<span class="times">π</span></div>
+</div> cos(x) dx</div>
+<!-- -h/PI INT{-PI, 0} cos(x) dx -->
+  <p>Let's sketch <b>cos(x)</b>:</p>
+  <p class="center"><img src="images/fourier-square-cos1.svg" alt="Square Wave -pi to pi" height="146" width="530"><br>
+The net area of cos(x) from -<span class=" times">π</span> to 0 is <b>zero</b>.</p>
+  <p>So  the net area must be 0:</p>
+  <div class="center large"><span class="intbl"><em>−h</em><strong><span class="times">π</span></strong></span>
+<div class="intgl">
+  <div class="to">0</div>
+  <div class="symb"></div>
+  <div class="from">−<span class="times">π</span></div>
+</div> cos(x) dx = 0</div>
+<!-- -h/PI INT{-PI, 0} cos(x) dx = 0 -->
+  <p>&nbsp;</p>
+  <p>The same idea applies from <b>0 to <span class="times">π</span></b>,</p>
+  <p class="center"><img src="images/fourier-square-cos1-pos.svg" alt="Square Wave -pi to pi" height="146" width="530"><br>
+The net area of cos(x) from 0 to <span class="times">π</span>  is <b>zero</b>.</p>
+  <p>and so we can conclude  that:</p>
+  <p class="center larger">a<sub>1</sub> = 0</p>
+  <p>Now let us look at a<sub>2</sub></p>
+  <p>Aaaand ... the same thing happens!</p>
+  <p class="center"><img src="images/fourier-square-cos2-neg.svg" alt="Square Wave -pi to pi" height="146" width="530"><br>
+The net area of cos(2x) from <b>-<span class="times">π</span> to 0</b> is  <b>zero</b>.</p>
+  <p>And:</p>
+  <p class="center"><img src="images/fourier-square-cos2-pos.svg" alt="Square Wave -pi to pi" height="146" width="530"><br>
+The net area of cos(2x) from <b>0 to <span class="times">π</span></b> is also <b>zero</b>.</p>
+  <p>So we know that:</p>
+  <p class="center larger">a<sub>2</sub> = 0</p>
+  <p>In fact we can extend this idea to every value of <b>a</b> and conclude that:</p>
+  <p class="center larger">a<sub>n</sub>= 0</p>
+  <p>&nbsp;</p>
+  <p><i>So far there has been no  need for  any major calculations! A few sketches and a little thought have been enough.</i></p>
+  <p><i>But now on to the <b>sine</b> function!</i></p>
+  <p>&nbsp;</p>
+  <p>For <b>b<sub>1</sub></b> we know that n=1 and L=<span class="pi times">π</span>, so:</p>
+<div class="center large">b<sub>1</sub> = <span class="intbl"><em>1</em><strong><span class="times">π</span></strong></span>
+<div class="intgl">
+  <div class="to"><span class="times">π</span></div>
+  <div class="symb"></div>
+  <div class="from">−<span class="times">π</span></div>
+</div> sin(1x<span class="intbl"><em><span class="times">π</span></em><strong><span class="times">π</span></strong></span>) dx</div>
+<!-- b_1 = 1/PI INT{-PI, PI} sin(1x PI/PI ) dx -->
+  <p>Which simplifies to:</p>
+  <div class="center large">b<sub>1</sub> = <span class="intbl"><em>1</em><strong><span class="times">π</span></strong></span>
+<div class="intgl">
+  <div class="to"><span class="times">π</span></div>
+  <div class="symb"></div>
+  <div class="from">−<span class="times">π</span></div>
+</div> sin(x) dx</div>
+<!-- b_1 = 1/PI INT{-PI, PI} sin(x) dx -->
+  <p>and as before, because of the  abrupt change at x=0, we  need to break the calculation into <b>−<span class=" times">π</span> to 0</b> and <b>0 to <span class="times">π</span></b>,</p>
+  <p>So, just looking at the integral <b>from −<span class="pi times">π</span> to 0</b>, we know f(x) = −h:</p>
+  <p>We can move the constant <b>−h</b> outside the integral:</p>
+  <div class="center large"><span class="intbl"><em>−h</em><strong><span class="times">π</span></strong></span>
+<div class="intgl">
+  <div class="to">0</div>
+  <div class="symb"></div>
+  <div class="from">−<span class="times">π</span></div>
+</div> sin(x) dx</div>
+<!-- -h/PI INT{-PI, 0} sin(x) dx -->
+  <p>And <b>sin(x)</b> looks like this:</p>
+  <p class="center"><img src="images/fourier-square-sine1-area.svg" alt="sin(x)" height="146" width="530"></p>
+  <p>How do we know the area is −2?</p>
+  <p>First we use <a href="integration-rules.html">Integration Rules</a> to find the  integral of  <b>sin(x)</b> is <span class="center"><b>−</b></span><b>cos(x)</b>:</p>
+  <p>Then we calculate the <a href="integration-definite.html">definite integral</a> between <span class="center">−</span><span class="times">π</span> and 0 by calculating the value of <span class="center">−</span>cos(x) for <b>0</b>, and for <b>−<span class="times">π</span></b>, and then subtracting:</p>
+  <p class="center">[−cos(0)] − [−cos(−<span class="times">π</span>)] = −1 − 1 = −2</p>
+  <p>So, between <span class="center">−</span><span class="times">π</span> and 0 we get</p>
+  <p class="center"><span class="intbl"><em>−h</em><strong><span class="times">π</span></strong></span>(−2)</p>
+  <p>&nbsp;</p>
+  <p>Next we look at the integral from <b>0 to <span class="times">π</span></b>:</p>
+  <div class="center large"><span class="intbl"><em>h</em><strong><span class="times">π</span></strong></span>
+<div class="intgl">
+  <div class="to"><span class="times">π</span></div>
+  <div class="symb"></div>
+  <div class="from">0</div>
+</div> sin(x) dx</div>
+<!-- -h/PI INT{0, PI} sin(x) dx -->And its integral is:
+  <p class="center">[−cos(<span class="times">π</span>)] − [−cos(0<span class="times"></span>)] = 1 − [−1] = 2</p>
+  <p class="center"><img src="images/fourier-square-sine1-area-pos.svg" alt="sin(x)" height="146" width="530"></p>
+  <p>Now, combining both sides we get:</p>
+  <p class="center larger">b<sub>1</sub> = <span class="intbl"><em>1</em><strong><span class="times">π</span></strong></span>[ (−h) × (−2) + (h) × (2) ] = <span class="intbl"><em>4h</em><strong><span class="times">π</span></strong></span></p>
+  <p>&nbsp;</p>
+  <p>For <b>b<sub>2</sub></b> we have this integral:</p>
+<div class="center large"><span class="intbl"><em>−h</em><strong><span class="times">π</span></strong></span>
+<div class="intgl">
+  <div class="to"><span class="times">π</span></div>
+  <div class="symb"></div>
+  <div class="from">−<span class="times">π</span></div>
+</div> sin(2x) dx</div>
+<!-- -h/PI INT{-PI, PI} sin(2x) dx -->
+  <p>From −<span class="times">π </span>to 0 it looks like this:</p>
+  <p class="center"><img src="images/fourier-square-sin2-neg.svg" alt="Square Wave -pi to pi" height="146" width="530"><br>
+The net area of sin(2x) from <b>−<span class="times">π</span> to 0</b> is  <b>zero</b>.</p>
+  <p>And we have seen this kind of thing before, so we conclude that:</p>
+  <p class="center larger">b<sub>2</sub> = 0</p>
+  <p>For <b>b<sub>3</sub></b> we have this integral:</p>
+  <div class="center large"><span class="intbl"><em>−h</em><strong><span class="times">π</span></strong></span>
+<div class="intgl">
+  <div class="to"><span class="times">π</span></div>
+  <div class="symb"></div>
+  <div class="from">−<span class="times">π</span></div>
+</div> sin(3x) dx</div>
+<!-- -h/PI INT{-PI, PI} sin(3x) dx -->
+  <p>From −<span class="times">π </span>to 0 we get this interesting situation:</p>
+  <p class="center"><img src="images/fourier-square-sin3-neg.svg" alt="Square Wave -pi to pi" height="146" width="530"><br>
+Two areas cancel, but the third one is important!</p>
+  <p>So it is like the b<sub>1</sub> integral, but with only one-third of the area.</p>
+  <p>For <b>0 to <span class="times">π</span></b> we have:</p>
+  <p class="center"><img src="images/fourier-square-sin3-pos.svg" alt="Square Wave -pi to pi" height="146" width="530"><br>
+Again two areas cancel, but not the third</p>
+  <p>And we can conclude:</p>
+  <p class="center larger">b<sub>3</sub> = <span class="intbl"><em>b<sub>1</sub></em><strong>3</strong></span><em> </em>= <span class="intbl"><em>4h</em><strong>3<span class="times">π</span></strong></span></p>
+  <p>The pattern continues:</p>
+  <p class="center"><img src="images/fourier-square-sin4.svg" alt="Square Wave -pi to pi" height="146" width="530"><br>
+When n is even the areas cancel for a result of zero.</p>
+  <p>&nbsp;</p>
+  <p class="center"><img src="images/fourier-square-sin5.svg" alt="Square Wave -pi to pi" height="146" width="530"><br>
+When n is odd, all except one area cancel for a result of 1/n.</p>
+  <p>So we can say</p>
+  <p class="center"><span class="larger">b<sub>n</sub> = <span class="intbl"><em>4h</em><strong>n<span class="times">π</span></strong></span></span> when n is odd, but <b>0</b> otherwise</p>
+  <p>&nbsp;</p>
+  <p>And we arrive at our last step: putting the coefficients into the master formula:</p>
+  <div class="center large">f(x) = a<sub>0</sub> +
+
+<div class="sigma">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">n=1</div>
+</div> a<sub>n</sub> cos(nx<span class="intbl"><em><span class="times">π</span></em><strong>L</strong></span>) + <div class="sigma">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">n=1</div>
+</div> b<sub>n</sub> sin(nx<span class="intbl"><em><span class="times">π</span></em><strong>L</strong></span>)</div>
+<!-- f(x) = a_0 + SIG{n=1, INF} a_n cos(nx PI/L ) + SIG{n=1, INF} b_n sin(nx PI/L ) -->
+  <p>And we know that:</p>
+  <ul>
+    <li>a<sub>0</sub> = 0</li>
+    <li>a<sub>n</sub> = 0 (all of them!),</li>
+    <li>b<sub>n</sub> = 0<strong><span class="times"></span></strong> when n is even</li>
+    <li>b<sub>n</sub> = <span class="intbl"><em>4h</em><strong>n<span class="times">π</span></strong></span> when n is odd</li>
+  </ul>
+  <p>So:</p>
+  <p class="center large">f(x) =  <span class="intbl"><em>4h</em><strong><span class="times">π</span></strong></span> [ sin(x) + <span class="intbl"><em>sin(3x)</em><strong>3</strong></span> + <span class="intbl"><em>sin(5x)</em><strong>5</strong></span> + ... ]</p>
+</div>
+  <p>In conclusion:</p>
+  <ul>
+    <li>Think about each coefficient, sketch the functions and see if you can find a pattern,</li>
+    <li>put it all together into the series formula at the end</li>
+  </ul>
+  <p>&nbsp;</p>
+  <div class="fun">
+    <p>And when you are done go over to:</p>
+    <p class="center"><a href="fourier-series-graph.html">The Fourier Series Grapher</a></p>
+    <p>and see if you got it right!</p>
+    <p>Why not try it with "sin((2n-1)*x)/(2n-1)", the 2n−1 neatly gives odd values, and see if you get a square wave.</p>
+  </div>
+
+
+<h2>Other Functions</h2>
+
+<p>Of course we can use this for many other functions!</p>
+  <p>But we must be able to work out all the coefficients, which in practice means that we  work out the <b>area</b> of:</p>
+  <ul>
+    <li>the function</li>
+    <li>the function times sine</li>
+    <li>the function times cosine</li>
+  </ul>
+  <p>But as we saw above we can use tricks like breaking the function into pieces, using common sense, geometry and calculus to help us.</p>
+  <p>Here are a few well known ones:</p>
+  <div class="simple">
+
+	<table style="border: 0; margin:auto;">
+      <tbody>
+<tr>
+        <th>Wave</th>
+        <th>Series</th>
+        <th><a href="fourier-series-graph.html">Fourier Series Grapher</a></th>
+      </tr>
+      <tr>
+        <td>Square Wave</td>
+        <td>sin(x) + sin(3x)/3 + sin(5x)/5 + ...</td>
+        <td>sin((2n−1)*x)/(2n−1)</td>
+      </tr>
+      <tr>
+        <td>Sawtooth</td>
+        <td>sin(x) + sin(2x)/2 + sin(3x)/3 + ...</td>
+        <td>sin(n*x)/n</td>
+      </tr>
+      <tr>
+        <td>Pulse</td>
+        <td>sin(x) + sin(2x) + sin(3x) + ...</td>
+        <td>sin(n*x)*0.1</td>
+      </tr>
+      <tr>
+        <td>Triangle</td>
+        <td>sin(x) − sin(3x)/9 + sin(5x)/25 − ...</td>
+        <td>sin((2n−1)*x)*(−1)^n/(2n−1)^2</td>
+      </tr>
+    </tbody></table>
+  </div>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <div class="fun">
+    <p><b>Footnote. Different versions of the formula!</b></p>
+    <p>On this page we used the general formula:</p>
+    <div class="center large">f(x) = a<sub>0</sub> +
+
+<div class="sigma">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">n=1</div>
+</div> a<sub>n</sub> cos(nx<span class="intbl"><em><span class="times">π</span></em><strong>L</strong></span>) + <div class="sigma">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">n=1</div>
+</div> b<sub>n</sub> sin(nx<span class="intbl"><em><span class="times">π</span></em><strong>L</strong></span>)</div>
+<!-- f(x) = a_0 + SIG{n=1, INF} a_n cos(nx PI/L ) + SIG{n=1, INF} b_n sin(nx PI/L ) -->
+    <p>But when the function f(x) has a period from -<span class="times">π</span> to <span class="times">π</span> we can use a simplified version:</p>
+<div class="center large">f(x) = a<sub>0</sub> +
+
+<div class="sigma">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">n=1</div>
+</div> a<sub>n</sub> cos(nx) + <div class="sigma">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">n=1</div>
+</div> b<sub>n</sub> sin(nx)</div>
+<!-- f(x) = a_0 + SIG{n=1, INF} a_n cos(nx) + SIG{n=1, INF} b_n sin(nx) -->
+    <p>Or there is this one, where a<sub>0</sub> is rolled into the first sum (now n=<b>0</b> to ∞):</p>
+<div class="center large">f(x) =
+
+<div class="sigma">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">n=0</div>
+</div> a<sub>n</sub> cos(nx) + <div class="sigma">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">n=1</div>
+</div> b<sub>n</sub> sin(nx)</div>
+<!-- f(x) = SIG{n=0, INF} a_n cos(nx) + SIG{n=1, INF} b_n sin(nx) -->
+    <p>But I prefer the one we use here, as it is more practical allowing for different periods.</p>
+  </div>
+  <p>&nbsp;</p>
+
+<div class="related">  
+  <a href="fourier-series-graph.html">Fourier Series Graph Tool</a>  
+  <a href="integration-introduction.html">Integration</a>  
+  <a href="../algebra/sigma-notation.html">Sigma Notation</a><a href="../algebra/small-angle-approximations.html">Small Angle Approximations</a>  
+  <a href="index.html">Calculus Index</a>
+</div>
+<!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2022 Rod Pierce</div>
+
+</div>
+
+
+
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/calculus/fourier-series.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:32:19 GMT -->
+</html>

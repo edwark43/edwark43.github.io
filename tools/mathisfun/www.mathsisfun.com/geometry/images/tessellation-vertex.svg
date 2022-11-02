@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="170.2" height="108.5" version="1.1">
+<defs/>
+<g transform="translate(-118.695,-380.11)">
+<rect x="118.7" y="380.1" width="170.2" height="108.5" style="color:black; overflow:visible; fill:#ffff80; stroke-width:1.57;"/>
+<path style="color:black; overflow:visible; fill:#ffff80; stroke:#f45353; stroke-width:2;" d="m 180.7,425.5 -22.8,13.2 -22.8,-13.2 0,-26.3 22.8,-13.2 22.8,13.2 z"/>
+<path style="color:black; overflow:visible; fill:#ffff80; stroke:#f45353; stroke-width:2;" d="m 203.5,464.9 -22.8,13.2 -22.8,-13.2 0,-26.3 22.8,-13.2 22.8,13.2 z"/>
+<path style="color:black; overflow:visible; fill:#ffff80; stroke:#f45353; stroke-width:2;" d="m 157.9,464.9 -22.8,13.2 -22.8,-13.2 0,-26.3 22.8,-13.2 22.8,13.2 z"/>
+<path style="color:black; overflow:visible; fill:#ffff80; stroke:#f45353; stroke-width:2;" d="m 226.3,425.5 -22.8,13.2 -22.8,-13.2 0,-26.3 22.8,-13.2 22.8,13.2 z"/>
+<path style="color:black; overflow:visible; fill:#ffff80; stroke:#f45353; stroke-width:2;" d="m 271.8,425.5 -22.8,13.2 -22.8,-13.2 0,-26.3 22.8,-13.2 22.8,13.2 z"/>
+<path style="color:black; overflow:visible; fill:#ffff80; stroke:#f45353; stroke-width:2;" d="m 294.6,464.9 -22.8,13.2 -22.8,-13.2 0,-26.3 22.8,-13.2 22.8,13.2 z"/>
+<path style="color:black; overflow:visible; fill:#ffff80; stroke:#f45353; stroke-width:2;" d="m 249.1,464.9 -22.8,13.2 -22.8,-13.2 0,-26.3 22.8,-13.2 22.8,13.2 z"/>
+<path style="color:black; overflow:visible; fill:#ffff80; stroke:#f45353; stroke-width:2;" d="m 157.9,386 -22.8,13.2 -22.8,-13.2 0,-26.3 22.8,-13.2 22.8,13.2 z"/>
+<path style="color:black; overflow:visible; fill:#ffff80; stroke:#f45353; stroke-width:2;" d="m 203.5,386 -22.8,13.2 -22.8,-13.2 0,-26.3 22.8,-13.2 22.8,13.2 z"/>
+<path style="color:black; overflow:visible; fill:#ffff80; stroke:#f45353; stroke-width:2;" d="m 249.1,386 -22.8,13.2 -22.8,-13.2 0,-26.3 22.8,-13.2 22.8,13.2 z"/>
+<path style="color:black; overflow:visible; fill:#ffff80; stroke:#f45353; stroke-width:2;" d="m 294.6,386 -22.8,13.2 -22.8,-13.2 0,-26.3 22.8,-13.2 22.8,13.2 z"/>
+<circle cx="203.5" cy="438.6" r="6.66399" style="overflow:visible; fill:#6600cc; stroke-width:1.5;"/>
+<g transform="translate(-2.80754,-0.701887)">
+<text x="239.2" y="425.8" style="font-family:Arial; text-align:center; text-anchor:middle; font-size:28.6px; overflow:visible; fill:white; stroke-width:1.17;">Vertex</text>
+<text x="237.8" y="424.4" style="font-family:Arial; text-align:center; text-anchor:middle; font-size:28.6px; overflow:visible; fill:#6600cc; stroke-width:1.17;">Vertex</text>
+</g>
+<path style="color:black; overflow:visible; fill:#ffff80; stroke:#f45353; stroke-width:2;" d="m 226.3,504.4 -22.8,13.2 -22.8,-13.2 0,-26.3 22.8,-13.2 22.8,13.2 z"/>
+<path style="color:black; overflow:visible; fill:#ffff80; stroke:#f45353; stroke-width:2;" d="m 180.7,504.4 -22.8,13.2 -22.8,-13.2 0,-26.3 22.8,-13.2 22.8,13.2 z"/>
+<path style="color:black; overflow:visible; fill:#ffff80; stroke:#f45353; stroke-width:2;" d="m 271.8,504.4 -22.8,13.2 -22.8,-13.2 0,-26.3 22.8,-13.2 22.8,13.2 z"/>
+</g>
+</svg>

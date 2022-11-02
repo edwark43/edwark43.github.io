@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Main.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/pascals-triangle.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:58:30 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Pascal's Triangle</title>
+<meta name="description" content="To build the triangle, start with 1 at the top, then continue placing numbers below it in a triangular pattern. Each number is the numbers directly above it added together.">
+<link rel="canonical" href="pascals-triangle.html">
+
+<script language="JavaScript" type="text/javascript">reSpell=[["color","colour"],["center","centre"]];</script>
+
+  
+  <style>
+  
+  .mono {font-family: "Courier New", Courier, monospace; font-size:20px; text-align:center;}
+  
+
+  
+  	/* similar to in-line fractions */
+	.choose { display: inline-table; text-align: center; vertical-align: 40%; margin: 0 0.1rem 0 0.1rem; border-collapse: collapse; }
+	.choose em { display: table-row; text-align: center; font-size: 93%; font-style: inherit; line-height: 130%;}
+	.choose strong { display: table-row; text-align: center; font-weight: inherit; font-size: 93%; line-height: 130%; }
+	.choose em:before, .choose em:after, .choose strong:before, .choose strong:after { content: "\2005";	}  /* 2005=unicode 1/4 em space */
+
+.tallbrack {display: inline-block;transform: scale(1,1.8); font: 24px/30px Arial, Georgia;}
+  
+  
+  
+  </style>
+  
+  <style>
+.pasline { text-align: center; padding:0px; margin:0px; }
+.pas { text-align: center; display: inline-block; width: 42px; border: 1px solid blue; padding:0px; margin:0px -1px;line-height: 20px;  }
+</style>
+  
+  <!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="style4.css" as="style">
+	<link rel="preload" href="main4.js" as="script">
+<link rel="stylesheet" href="style4.css">
+<script src="main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="index.html"><img src="images/style/logo.svg" alt="Math is Fun"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">Pascal's Triangle</h1>
+
+<p style="float:right; margin: 0 0 5px 10px;"><img src="numbers/images/pascals-triangle-add.svg" alt="pascals triangle 1+3=4" height="196" width="196"></p>
+            <p>One of the most interesting Number Patterns is Pascal's Triangle (named after <i>Blaise Pascal</i>, a famous French Mathematician and Philosopher).</p>
+            <p><span class="larger">To build the triangle, start with "1" at the top, then continue placing numbers below it in a triangular pattern. </span><br>
+<br>
+<span class="large">Each number  is  the  numbers directly above it added together.</span></p>
+  <p>(Here I have highlighted that <b>1+3 = 4)</b></p>
+
+
+<h2>Patterns Within the Triangle</h2>
+
+<p style="float:left; margin: 0 10px 5px 0;"><img src="numbers/images/pascals-triangle-types.svg" alt="pascals triangle 1s, counting, triangular" height="312" width="364"></p>
+
+<h3>Diagonals</h3>
+      <p>The first diagonal  is, of course,  just "1"s</p>
+      <p>The next diagonal has  the <a href="whole-numbers.html">Counting Numbers</a> (1,2,3, etc).</p>
+      <p>The third diagonal has  the <a href="algebra/triangular-numbers.html">triangular numbers</a></p>
+      <p>(The fourth diagonal, not highlighted, has the <a href="tetrahedral-number.html">tetrahedral numbers</a>.)</p>
+<p>&nbsp;</p>
+      <div style="clear:both"></div>
+<p style="float:right; margin: 0 0 5px 10px;"><img src="images/pascals-triangle-symmetry.gif" alt="Pascal's Triangle Symmetry" height="141" width="140"></p>
+
+<h3>Symmetrical</h3>
+      <p>The triangle is also <a href="geometry/symmetry.html">symmetrical</a>. The numbers on the left side have identical matching numbers on  the right side, like a mirror image.</p>
+      <div style="clear:both"></div>
+<p>&nbsp;</p>
+      <p style="float:left; margin: 0 10px 5px 0;"><img src="numbers/images/pascals-triangle-doubles.svg" alt="pascals triangle powers 2" height="" width=""></p>
+
+<h3>Horizontal Sums</h3>
+      <p>What do you notice about the horizontal sums?</p>
+      <p>Is there a pattern?</p>
+      <p>They <b>double</b> each time (<a href="exponent.html">powers</a> of 2).</p>
+      <div style="clear:both"></div>
+<p>&nbsp;</p>
+      <p style="float:right; margin: 0 0 5px 10px;"><img src="numbers/images/pascals-triangle-11.svg" alt="pascals triangle powers 11" height="" width=""></p>
+
+<h3>Exponents of 11</h3>
+      <p>Each line is also  the powers (<a href="exponent.html">exponents</a>) of 11:</p>
+      <ul>
+        <li>11<sup>0</sup>=1 (the first line is just a "1")</li>
+        <li>11<sup>1</sup>=11 (the second line is "1" and "1")</li>
+        <li>11<sup>2</sup>=121 (the third line is "1", "2", "1")</li>
+        <li>etc!</li>
+      </ul>
+      <p>But what happens with <span class="larger">11<sup>5</sup></span> ? Simple! The digits just overlap, like this:</p>
+      <p class="center"><img src="numbers/images/pascals-triangle-powers-11b.svg" alt="pascals triangle powers 11b" height="" width=""></p>
+      <p>The same thing happens with <span class="larger">11<sup>6</sup></span> etc.</p>
+<p>&nbsp;</p>
+      <p style="float:left; margin: 0 10px 5px 0;"><img src="numbers/images/pascals-triangle-squares.svg" alt="pascals triangle squares" height="" width=""></p>
+
+<h3>Squares</h3>
+  <p>For&nbsp;the&nbsp;second diagonal, the square of a number is  equal to the sum of the  numbers next to it and below both of those.</p>
+      <div class="example">
+        <p>Examples:</p>
+        <ul>
+          <li>3<sup>2</sup> = 3 + 6 = 9,</li>
+          <li>4<sup>2</sup> = 6 + 10 = 16,</li>
+          <li>5<sup>2</sup> = 10 + 15 = 25,</li>
+          <li>...</li>
+          </ul>
+      </div>
+      <p>There is a good reason, too ... can you think of it? 
+      (Hint:  4<sup>2</sup>=6+10, 6=3+2+1, and 10=4+3+2+1)</p>
+<p>&nbsp;</p>
+<p style="float:right; margin: 0 0 5px 10px;"><img src="images/pascals-triangle-fibonacci.gif" alt="pascals triangle fibonacci" height="235" width="384"></p>
+
+<h3>Fibonacci Sequence</h3>
+<p>Try this: make a pattern by going up and then along, then  add up the values (as illustrated) ... you will get the <a href="numbers/fibonacci-sequence.html">Fibonacci Sequence</a>.<br>
+<br>
+(The Fibonacci Sequence starts "0, 1" and then continues by adding  the two previous numbers, for example 3+5=8, then 5+8=13, etc)</p>
+<div style="clear:both"></div>
+<p>&nbsp;</p>
+<p style="float:left; margin: 0 10px 5px 0;"><img src="images/pascals-triangle-3.gif" alt="pascals triangle 3" height="181" width="180"></p>
+
+<h3>Odds and Evens</h3>
+<p>If we color the Odd and Even numbers, we end up with a pattern the same as  the <a href="sierpinski-triangle.html">Sierpinski Triangle</a></p>
+<div style="clear:both"></div>
+
+
+<h3>Paths</h3>
+<p>Each entry is also the number of <b>different paths</b> from the top down.</p>
+<p>Example: there is only one path from the top down to any "1"</p>
+<p class="center"><img src="numbers/images/pascals-triangle-paths-1.svg" alt="pascals triangle path to 1" height="" width=""></p>
+<p>And we can see there are 2 different paths to the "2"</p>
+<p class="center"><img src="numbers/images/pascals-triangle-paths-2.svg" alt="pascals triangle paths to 2" height="" width=""></p>
+<p>It is the same going upwards, there are 3 different paths from 3:</p>
+<p class="center"><img src="numbers/images/pascals-triangle-paths-3.svg" alt="pascals triangle paths to 3" height="" width=""></p>
+<p></p>
+<p>Your turn, see if you can find all the paths down to the "6":</p>
+  <p class="center"><img src="numbers/images/pascals-triangle-paths.svg" alt="pascals triangle paths" height="" width=""></p>
+
+<h2>Using Pascal's Triangle</h2>
+<h3>Heads and Tails</h3>
+            <p>Pascal's Triangle shows us how many ways heads and tails can combine. This can then show us the  <a href="data/probability.html">probability</a> of any combination.</p>
+            <p>For example, if you toss a coin three times, there is only one combination that will give three heads (HHH), but there are three that will give two heads and one tail (HHT, HTH, THH), also three that give one head and two tails (HTT, THT, TTH) and one for all Tails (TTT). This is the pattern "1,3,3,1" in Pascal's Triangle.</p>
+            <div class="beach">
+                <table align="center" cellpadding="2" border="0">
+                  <tbody>
+<tr style="text-align:center;">
+                    <th>
+          Tosses</th>
+                  <th>
+          Possible Results (Grouped)</th>
+                  <th>
+          Pascal's Triangle</th>
+                </tr>
+                <tr style="text-align:center;">
+                    <td>1</td>
+                  <td>H<br>
+T</td>
+                  <td>1, 1</td>
+                </tr>
+                  <tr style="text-align:center;">
+                    <td>2</td>
+                  <td>
+            HH<br>
+HT TH<br>
+TT</td>
+                  <td>1, 2, 1</td>
+                </tr>
+                  <tr style="text-align:center;">
+                    <td>3</td>
+                  <td>
+            HHH<br>
+HHT, HTH, THH<br>
+HTT, THT, TTH<br>
+TTT          </td>
+                  <td>1, 3, 3, 1</td>
+                </tr>
+                  <tr style="text-align:center;">
+                    <td>4</td>
+                  <td>
+            HHHH<br>
+HHHT,  HHTH,  HTHH,  THHH<br>
+HHTT,  HTHT,  HTTH,  THHT,  THTH,  TTHH<br>
+HTTT,  THTT,  TTHT,  TTTH<br>
+TTTT</td>
+                  <td>1, 4, 6, 4, 1</td>
+                </tr>
+                  <tr style="text-align:center;">
+                    <td>&nbsp;</td>
+                  <td>... etc ...</td>
+                  <td>&nbsp;</td>
+                </tr>
+                </tbody></table><br>
+</div>
+            <div class="example">
+
+<h3>Example: What is the probability of getting exactly two heads with 4 coin tosses?</h3>
+              <p>There are 1+4+6+4+1 = 16 (or 2<sup>4</sup>=16) possible results, and 6 of them give exactly two heads. So the probability is 6/16, or 37.5%</p>
+      </div>
+
+<h3>Combinations</h3>
+            <p>The triangle also shows us how many <a href="combinatorics/combinations-permutations.html">Combinations</a> of objects are possible.</p>
+            <div class="example">
+
+<h3>Example: You have 16 pool balls. How many different ways can you choose just 3 of them (ignoring the order that you select them)?</h3>
+              <p>Answer: go down to  the start of row 16 (the top row is 0), and then along 3 places (the first place is 0) and the value there is your answer, <b>560</b>.</p>
+              <p>Here is an extract  at row 16:</p>
+              <center>
+<pre>1    14    91    364  ...
+1    15    105   455   1365  ...
+1    16   120   <b>560</b>   1820  4368  ...</pre>
+              </center>
+        </div>
+
+<h3>&nbsp;</h3>
+
+<h3>A Formula for Any Entry in The Triangle</h3>
+            <p>In fact there is a formula from <a href="combinatorics/combinations-permutations.html">Combinations</a> for working out the value at any place in Pascal's triangle:</p>
+            <table style="border: 0; margin:auto;">
+                          <tbody>
+<tr>
+                            <td style="text-align:right;">
+<p><span class="large">It is commonly called "n choose k" and written like this:</span></p>                              </td>
+                            <td style="text-align:right;">&nbsp;</td>
+                            <td>
+<div class="center larger"><span class="intbl"><em>n!</em><strong>k!(n−k)!</strong></span> = <span class="tallbrack">(</span><span class="choose"><em>n</em><strong>k</strong></span><span class="tallbrack">)</span></div></td>
+                          </tr>
+      </tbody></table>
+            <p>Notation: "n choose k" can also be written  <b>C(n,k)</b>, <b><sup>n</sup>C<sub>k</sub></b> or <b><sub>n</sub>C<sub>k</sub></b>.</p>
+            <div class="simple">
+              <table align="center" width="81%" border="0">
+                            <tbody>
+<tr>
+                              <td height="132" width="13%"><span style="font:160px Georgia;">!</span></td>
+                              <td height="132" width="87%">
+<p>The "<span class="large">!</span>" is "<a href="numbers/factorial.html">factorial</a>" and means to multiply a series of descending natural numbers. Examples:</p>
+                                  <ul>
+                                    <li>4! = 4 × 3 × 2 × 1 = 24</li>
+                                    <li>7! = 7 × 6 × 5 ×  4 × 3 × 2 × 1 = 5040</li>
+                                    <li>1! = 1</li>
+                                  </ul></td>
+                            </tr>
+              </tbody></table>
+            </div>
+            <p>&nbsp;</p>
+            <p style="float:right; margin: 0 0 5px 10px;"><img src="numbers/images/pascals-triangle-n-choose-k.svg" alt="Pascals Triangle Combinations" height="196" width="335"></p>
+            <p class="center">So&nbsp;Pascal's&nbsp;Triangle could also be<br>
+an <b>"n choose k"</b> triangle like this one.</p>
+  <p class="center">(Note that the top row is <b>row zero</b><br>
+and also the leftmost column is zero)</p>
+<div style="clear:both"></div>
+            <div class="example">
+
+<h3>Example: Row 4, term 2 in Pascal's Triangle is "6" ...</h3>
+                          <p>... let's see if the formula works:</p>
+              
+<div class="center larger"><span class="tallbrack">(</span><span class="choose"><em>4</em><strong>2</strong></span><span class="tallbrack">)</span> = <span class="intbl"><em>4!</em><strong>2!(4−2)!</strong></span> = <span class="intbl"><em>4!</em><strong>2!2!</strong></span> = <span class="intbl"><em>4×3×2×1</em><strong>2×1×2×1</strong></span> = 6</div>
+<!-- (4 2) = 4!/2!(4−2)! = 4!/2!2! = 4*3*2*1/2*1*2*1 = 6 -->
+              
+
+              <p>Yes, it works! Try another value for yourself.</p>
+    </div>
+            <p>This can be very useful ... we can now find any value in Pascal's Triangle <b>directly</b> (without calculating the whole triangle above it).</p>
+            <p>&nbsp;</p>
+
+<h3>Polynomials</h3>
+      <p>Pascal's Triangle also shows us the coefficients in <a href="algebra/binomial-theorem.html">binomial expansion</a>:</p>
+            <div class="beach">
+                <table style="border: 0; margin:auto;">
+                  <tbody>
+<tr style="text-align:center;">
+                    <th>Power</th>
+                  <th>Binomial Expansion</th>
+                  <th>Pascal's Triangle</th>
+                </tr>
+                  <tr style="text-align:center;">
+                    <td>2</td>
+                  <td>(x + 1)<sup>2</sup> = <b>1</b>x<sup>2</sup> + <b>2</b>x + <b>1</b></td>
+                  <td>1, 2, 1</td>
+                </tr>
+                  <tr style="text-align:center;">
+                    <td>3</td>
+                  <td>(x + 1)<sup>3</sup> = <b>1</b>x<sup>3</sup> + <b>3</b>x<sup>2</sup> + <b>3</b>x + <b>1</b></td>
+                  <td>1, 3, 3, 1</td>
+                </tr>
+                  <tr style="text-align:center;">
+                    <td>4</td>
+                  <td>(x + 1)<sup>4</sup> = <b>1</b>x<sup>4</sup> + <b>4</b>x<sup>3</sup> + <b>6</b>x<sup>2</sup> + <b>4</b>x + <b>1</b></td>
+                  <td>1, 4, 6, 4, 1</td>
+                </tr>
+                  <tr style="text-align:center;">
+                    <td>&nbsp;</td>
+                  <td>... etc ...</td>
+                  <td>&nbsp;</td>
+                </tr>
+                </tbody></table>
+            </div>
+
+
+<h2>The First 15 Lines</h2>
+
+<p>For reference, I have included row 0 to 14 of Pascal's Triangle</p>
+
+  
+<div class="pasline">
+<div class="pas">1</div></div>
+<div class="pasline">
+<div class="pas">1</div>
+<div class="pas">1</div></div>
+<div class="pasline">
+<div class="pas">1</div>
+<div class="pas">2</div>
+<div class="pas">1</div></div>
+<div class="pasline">
+<div class="pas">1</div>
+<div class="pas">3</div>
+<div class="pas">3</div>
+<div class="pas">1</div></div>
+<div class="pasline">
+<div class="pas">1</div>
+<div class="pas">4</div>
+<div class="pas">6</div>
+<div class="pas">4</div>
+<div class="pas">1</div></div>
+<div class="pasline">
+<div class="pas">1</div>
+<div class="pas">5</div>
+<div class="pas">10</div>
+<div class="pas">10</div>
+<div class="pas">5</div>
+<div class="pas">1</div></div>
+<div class="pasline">
+<div class="pas">1</div>
+<div class="pas">6</div>
+<div class="pas">15</div>
+<div class="pas">20</div>
+<div class="pas">15</div>
+<div class="pas">6</div>
+<div class="pas">1</div></div>
+<div class="pasline">
+<div class="pas">1</div>
+<div class="pas">7</div>
+<div class="pas">21</div>
+<div class="pas">35</div>
+<div class="pas">35</div>
+<div class="pas">21</div>
+<div class="pas">7</div>
+<div class="pas">1</div></div>
+<div class="pasline">
+<div class="pas">1</div>
+<div class="pas">8</div>
+<div class="pas">28</div>
+<div class="pas">56</div>
+<div class="pas">70</div>
+<div class="pas">56</div>
+<div class="pas">28</div>
+<div class="pas">8</div>
+<div class="pas">1</div></div>
+<div class="pasline">
+<div class="pas">1</div>
+<div class="pas">9</div>
+<div class="pas">36</div>
+<div class="pas">84</div>
+<div class="pas">126</div>
+<div class="pas">126</div>
+<div class="pas">84</div>
+<div class="pas">36</div>
+<div class="pas">9</div>
+<div class="pas">1</div></div>
+<div class="pasline">
+<div class="pas">1</div>
+<div class="pas">10</div>
+<div class="pas">45</div>
+<div class="pas">120</div>
+<div class="pas">210</div>
+<div class="pas">252</div>
+<div class="pas">210</div>
+<div class="pas">120</div>
+<div class="pas">45</div>
+<div class="pas">10</div>
+<div class="pas">1</div></div>
+<div class="pasline">
+<div class="pas">1</div>
+<div class="pas">11</div>
+<div class="pas">55</div>
+<div class="pas">165</div>
+<div class="pas">330</div>
+<div class="pas">462</div>
+<div class="pas">462</div>
+<div class="pas">330</div>
+<div class="pas">165</div>
+<div class="pas">55</div>
+<div class="pas">11</div>
+<div class="pas">1</div></div>
+<div class="pasline">
+<div class="pas">1</div>
+<div class="pas">12</div>
+<div class="pas">66</div>
+<div class="pas">220</div>
+<div class="pas">495</div>
+<div class="pas">792</div>
+<div class="pas">924</div>
+<div class="pas">792</div>
+<div class="pas">495</div>
+<div class="pas">220</div>
+<div class="pas">66</div>
+<div class="pas">12</div>
+<div class="pas">1</div></div>
+<div class="pasline">
+<div class="pas">1</div>
+<div class="pas">13</div>
+<div class="pas">78</div>
+<div class="pas">286</div>
+<div class="pas">715</div>
+<div class="pas">1287</div>
+<div class="pas">1716</div>
+<div class="pas">1716</div>
+<div class="pas">1287</div>
+<div class="pas">715</div>
+<div class="pas">286</div>
+<div class="pas">78</div>
+<div class="pas">13</div>
+<div class="pas">1</div></div>
+<div class="pasline">
+<div class="pas">1</div>
+<div class="pas">14</div>
+<div class="pas">91</div>
+<div class="pas">364</div>
+<div class="pas">1001</div>
+<div class="pas">2002</div>
+<div class="pas">3003</div>
+<div class="pas">3432</div>
+<div class="pas">3003</div>
+<div class="pas">2002</div>
+<div class="pas">1001</div>
+<div class="pas">364</div>
+<div class="pas">91</div>
+<div class="pas">14</div>
+<div class="pas">1</div></div>
+<p>&nbsp;</p>
+<p style="float:left; margin: 0 20px 5px 0;"><img src="images/pascals-triangle-chinese-thumb.gif" alt="pascals triangle chinese" height="164" width="153"></p>
+
+
+<h2>The Chinese Knew About It</h2>
+
+<p>This drawing is entitled "The Old Method Chart of the Seven Multiplying Squares". <a href="images/pascals-triangle-chinese.gif">View Full Image</a></p>
+<p>It is from the front of Chu Shi-Chieh's book "<i>Ssu Yuan Yü Chien" (Precious Mirror of the Four Elements)</i>, written in <b>AD 1303</b> (over 700 years ago, and more than 300 years before Pascal!), and in the   book  it says the triangle was known about more than two centuries before that.</p>
+
+
+<h2>The Quincunx</h2>
+
+<p style="float:left; margin: 0 30px 5px 0;"><img src="data/images/quincunx.jpg" alt="quincunx" height="172" width="129"></p>
+<p>An amazing little machine created by Sir Francis Galton is a Pascal's Triangle made out of pegs. It is called <a href="data/quincunx.html">The Quincunx</a>.</p>
+<p>Balls are dropped onto the first peg and then bounce down to the bottom of the triangle where they collect in little bins.</p>
+<div style="clear:both"></div>
+<p style="float:right; margin: 0 0 5px 10px;"><img src="data/images/standard-normal-distribution-sm.gif" alt="standard normal distribution" height="113" width="151"></p>
+<p>At first it looks completely random (and it is), but then we find the balls pile up in a nice pattern: the <a href="data/standard-normal-distribution-table.html">Normal Distribution.</a></p>
+<div style="clear:both"></div>
+<p>&nbsp;</p>
+<div class="questions">1297, 2467, 2468, 1298, 8366, 8367, 8368, 8369, 8370, 8371, 8372</div>
+<div class="activity">
+  <a href="activity/subsets.html">Activity: Subsets</a></div>
+
+<div class="related">      
+  <a href="numberpatterns.html#triangular">Triangular Number Sequence</a>      
+  <a href="tetrahedral-number.html">Tetrahedral Number Sequence</a>
+  <a href="sierpinski-triangle.html">Sierpinski Triangle</a>
+  <a href="data/quincunx.html">The Quincunx</a>
+  <a href="combinatorics/combinations-permutations.html">Combinations and Permutations</a>      
+</div>
+            <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2021 MathsIsFun.com</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/pascals-triangle.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:58:34 GMT -->
+</html>

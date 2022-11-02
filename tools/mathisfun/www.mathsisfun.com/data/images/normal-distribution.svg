@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+
+<svg
+   width="222.59"
+   height="164.521"
+   version="1.1"
+   style="font-size:14.2px;font-family:'Trebuchet MS';fill:#000000;stroke-width:0.5"
+   id="svg649"
+   sodipodi:docname="normal-distribution.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview651"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:current-layer="svg649" />
+  <defs
+     id="defs14">
+    <marker
+       id="id4"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       id="id3"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5" />
+    </marker>
+    <marker
+       id="id1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff9900;stroke:#ff9900;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8" />
+    </marker>
+    <marker
+       id="id2"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#005c94;stroke:#005c94;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path11" />
+    </marker>
+  </defs>
+  <polyline
+     points="16.67 , 264.08 353.02 , 264.08 353.02 , 8.33 16.67 , 8.33 16.67 , 264.08 "
+     transform="matrix(0.589237,0,0,0.572203,14.2435,0.033251)"
+     style="fill:#999999;fill-opacity:0;stroke:#cccccc;stroke-width:1.13337"
+     id="polyline400" />
+  <line
+     x1="32.4826"
+     y1="150.865"
+     x2="32.4826"
+     y2="153.565"
+     style="fill-opacity:0;stroke:#204a87;stroke-width:0.71"
+     id="line402" />
+  <line
+     x1="65.6925"
+     y1="150.865"
+     x2="65.6925"
+     y2="153.565"
+     style="fill-opacity:0;stroke:#204a87;stroke-width:0.71"
+     id="line404" />
+  <line
+     x1="98.8122"
+     y1="150.865"
+     x2="98.8122"
+     y2="153.565"
+     style="fill-opacity:0;stroke:#204a87;stroke-width:0.71"
+     id="line406" />
+  <line
+     x1="131.931"
+     y1="150.865"
+     x2="131.931"
+     y2="153.565"
+     style="fill-opacity:0;stroke:#204a87;stroke-width:0.71"
+     id="line408" />
+  <line
+     x1="165.141"
+     y1="150.865"
+     x2="165.141"
+     y2="153.565"
+     style="fill-opacity:0;stroke:#204a87;stroke-width:0.71"
+     id="line410" />
+  <line
+     x1="198.26"
+     y1="150.865"
+     x2="198.26"
+     y2="153.565"
+     style="fill-opacity:0;stroke:#204a87;stroke-width:0.71"
+     id="line412" />
+  <text
+     x="22.8508"
+     y="164.368"
+     style="font-size:12.7796px;fill:#013397;stroke-width:0.5"
+     id="text414"
+     transform="scale(1.00002,0.99998)">100</text>
+  <text
+     x="55.6998"
+     y="164.368"
+     style="font-size:12.7796px;fill:#013397;stroke-width:0.5"
+     id="text416"
+     transform="scale(1.00002,0.99998)">120</text>
+  <text
+     x="88.0088"
+     y="164.368"
+     style="font-size:12.7796px;fill:#013397;stroke-width:0.5"
+     id="text418"
+     transform="scale(1.00002,0.99998)">140</text>
+  <text
+     x="122.117"
+     y="164.368"
+     style="font-size:12.7796px;fill:#013397;stroke-width:0.5"
+     id="text420"
+     transform="scale(1.00002,0.99998)">160</text>
+  <text
+     x="154.426"
+     y="164.368"
+     style="font-size:12.7796px;fill:#013397;stroke-width:0.5"
+     id="text422"
+     transform="scale(1.00002,0.99998)">180</text>
+  <text
+     x="189.345"
+     y="164.368"
+     style="font-size:12.7796px;fill:#013397;stroke-width:0.5"
+     id="text424"
+     transform="scale(1.00002,0.99998)">200</text>
+  <line
+     x1="24.5625"
+     y1="150.865"
+     x2="21.8625"
+     y2="150.865"
+     style="fill-opacity:0;stroke:#204a87;stroke-width:0.71"
+     id="line426" />
+  <line
+     x1="24.5625"
+     y1="121.707"
+     x2="21.8625"
+     y2="121.707"
+     style="fill-opacity:0;stroke:#204a87;stroke-width:0.71"
+     id="line428" />
+  <line
+     x1="24.5625"
+     y1="92.5493"
+     x2="21.8625"
+     y2="92.5493"
+     style="fill-opacity:0;stroke:#204a87;stroke-width:0.71"
+     id="line430" />
+  <line
+     x1="24.5625"
+     y1="63.3007"
+     x2="21.8625"
+     y2="63.3007"
+     style="fill-opacity:0;stroke:#204a87;stroke-width:0.71"
+     id="line432" />
+  <line
+     x1="24.5625"
+     y1="34.1424"
+     x2="21.8625"
+     y2="34.1424"
+     style="fill-opacity:0;stroke:#204a87;stroke-width:0.71"
+     id="line434" />
+  <line
+     x1="24.5625"
+     y1="4.98395"
+     x2="21.8625"
+     y2="4.98395"
+     style="fill-opacity:0;stroke:#204a87;stroke-width:0.71"
+     id="line436" />
+  <text
+     x="13.9418"
+     y="155.189"
+     style="font-size:12.7796px;fill:#986601;stroke-width:0.5"
+     id="text438"
+     transform="scale(1.00002,0.99998)">0</text>
+  <text
+     x="0.531837"
+     y="125.94"
+     style="font-size:12.7796px;fill:#986601;stroke-width:0.5"
+     id="text440"
+     transform="scale(1.00002,0.99998)">100</text>
+  <text
+     x="-0.368162"
+     y="96.6001"
+     style="font-size:12.7796px;fill:#986601;stroke-width:0.5"
+     id="text442"
+     transform="scale(1.00002,0.99998)">200</text>
+  <text
+     x="-0.368162"
+     y="67.4416"
+     style="font-size:12.7796px;fill:#986601;stroke-width:0.5"
+     id="text444"
+     transform="scale(1.00002,0.99998)">300</text>
+  <text
+     x="-0.0981628"
+     y="38.4629"
+     style="font-size:12.7796px;fill:#986601;stroke-width:0.5"
+     id="text446"
+     transform="scale(1.00002,0.99998)">400</text>
+  <text
+     x="-0.0981628"
+     y="9.3039"
+     style="font-size:12.7796px;fill:#986601;stroke-width:0.5"
+     id="text448"
+     transform="scale(1.00002,0.99998)">500</text>
+  <rect
+     style="color:#000000;overflow:visible;fill:#faeb89;fill-opacity:1;stroke:#000000;stroke-width:0.5;stop-color:#000000"
+     id="rect8075"
+     width="16.5859"
+     height="8.39157"
+     x="32.4826"
+     y="142.749" />
+  <rect
+     style="color:#000000;overflow:visible;fill:#faeb89;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+     id="rect9563"
+     width="16.5859"
+     height="22.0486"
+     x="49.0653"
+     y="129.091" />
+  <rect
+     style="color:#000000;overflow:visible;fill:#faeb89;fill-opacity:1;stroke:#000000;stroke-width:0.500002;stop-color:#000000"
+     id="rect9565"
+     width="16.5859"
+     height="88.3574"
+     x="82.2244"
+     y="62.7864" />
+  <rect
+     style="color:#000000;overflow:visible;fill:#faeb89;fill-opacity:1;stroke:#000000;stroke-width:0.500001;stop-color:#000000"
+     id="rect9576"
+     width="16.5859"
+     height="116.68"
+     x="98.8103"
+     y="34.4633" />
+  <rect
+     style="color:#000000;overflow:visible;fill:#faeb89;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stop-color:#000000"
+     id="rect9578"
+     width="16.5859"
+     height="134.151"
+     x="115.383"
+     y="16.9921" />
+  <rect
+     style="color:#000000;overflow:visible;fill:#faeb89;fill-opacity:1;stroke:#000000;stroke-width:0.5;stop-color:#000000"
+     id="rect9580"
+     width="16.5859"
+     height="50.7346"
+     x="65.6448"
+     y="100.406" />
+  <rect
+     style="color:#000000;overflow:visible;fill:#faeb89;fill-opacity:1;stroke:#000000;stroke-width:0.5;stop-color:#000000"
+     id="rect10356"
+     width="16.5859"
+     height="116.356"
+     x="131.963"
+     y="34.7873" />
+  <rect
+     style="color:#000000;overflow:visible;fill:#faeb89;fill-opacity:1;stroke:#000000;stroke-width:0.5;stop-color:#000000"
+     id="rect10358"
+     width="16.5859"
+     height="87.5686"
+     x="148.549"
+     y="63.573" />
+  <rect
+     style="color:#000000;overflow:visible;fill:#faeb89;fill-opacity:1;stroke:#000000;stroke-width:0.500001;stop-color:#000000"
+     id="rect10360"
+     width="16.5859"
+     height="49.2086"
+     x="165.128"
+     y="101.933" />
+  <rect
+     style="color:#000000;overflow:visible;fill:#faeb89;fill-opacity:1;stroke:#000000;stroke-width:0.5;stop-color:#000000"
+     id="rect10362"
+     width="16.5859"
+     height="19.6406"
+     x="181.714"
+     y="131.5" />
+  <rect
+     style="color:#000000;overflow:visible;fill:#faeb89;fill-opacity:1;stroke:#000000;stroke-width:0.5;stop-color:#000000"
+     id="rect10364"
+     width="16.5859"
+     height="8.39199"
+     x="198.26"
+     y="142.749" />
+  <path
+     style="fill:none;fill-opacity:0.39;stroke:#3465a4;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 123.471,15.6934 c -0.18,0 -0.36,0 -0.54,0 -2.97,0.27 -5.85,1.7099 -8.28,4.2298 -2.43,2.6098 -4.59,5.4897 -6.57,8.7295 -3.78,6.2097 -7.11,13.1393 -10.0788,20.1589 -3.06,7.1101 -6.03,14.3991 -9,21.5991 -3.0597,7.379 -6.1197,14.669 -9.2697,21.9587 -3.06,7.019 -6.48,13.8586 -10.08,20.4286 -3.51,6.389 -7.47,12.689 -11.97,17.819 -4.68,5.309 -9.72,9.809 -15.48,12.779 -5.76,2.97 -11.7,4.59 -17.82,5.58 -5.76,0.9 -11.61,1.26 -17.36899,1.44 -6.03,0.179 -12.14997,0.269 -18.18001,0.269 H 257.479 c -0.27,0 -0.63,0 -0.9,0 -5.94,0 -11.88,-0.09 -17.82,-0.269 -6.027,-0.27 -11.967,-0.63 -17.997,-1.62 -5.852,-0.9 -11.792,-2.61 -17.192,-5.67 -5.58,-3.24 -10.8,-7.47 -15.299,-12.959 -4.59,-5.58 -8.64,-11.97 -12.33,-18.629 -3.6,-6.57 -6.75,-13.4996 -9.9,-20.4286 -3.15,-7.1997 -6.21,-14.5797 -9.18,-21.8687 -2.88,-6.93 -5.67,-13.949 -8.73,-20.7891 -3.15,-7.0196 -6.39,-14.1292 -10.35,-20.4289 -1.89,-3.0598 -4.05,-6.1196 -6.57,-8.3695 -2.34,-2.0699 -4.95,-3.8698 -7.83,-3.8698 z M -11.2565,150.865 H 257.479 Z"
+     id="path472" />
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360.4" height="244.4" version="1.1" style="font-family:Georgia; font-size:16.5px; fill:black; stroke-width:0.78;">
+<defs/>
+<rect x="44.7" y="23.2" width="315.3" height="203.4" style="fill:#e7f6ff; stroke:black; stroke-width:0.78px;"/>
+<text x="26.5" y="231.4" transform="scale(0.99947,1.00053)">0</text>
+<text x="28" y="161.2" transform="scale(0.99947,1.00053)">5</text>
+<text x="20.8" y="24.4" transform="scale(0.99947,1.00053)">15</text>
+<path id="aa1" style="fill:none; stroke:#e5e6e8; stroke-width:1.56; stroke-dasharray:12.3, 1.5;" d="m 44.7,212.8 h 315.3"/>
+<use id="aa2" transform="matrix(0.999999,0,0,0.999999,-1e-4,-176.19)" xlink:href="#aa1" x="0" y="0"/>
+<use id="aa3" transform="matrix(0.999999,0,0,0.999999,-1e-4,13.5529)" xlink:href="#aa2" x="0" y="0"/>
+<use id="aa4" transform="matrix(0.999999,0,0,0.999999,-1e-4,13.5532)" xlink:href="#aa3" x="0" y="0"/>
+<use id="aa7" transform="matrix(0.999999,0,0,0.999999,-1e-4,13.5529)" xlink:href="#aa4" x="0" y="0"/>
+<path id="aa5" style="fill:none; stroke:#e5e6e8; stroke-width:1.56; stroke-dasharray:12.3, 1.5;" d="m 44.7,172.3 h 315.3"/>
+<use id="aa6" transform="matrix(0.999999,0,0,0.999999,-1e-4,13.5529)" xlink:href="#aa5" x="0" y="0"/>
+<use transform="matrix(0.999999,0,0,0.999999,-1e-4,13.5529)" xlink:href="#aa6" x="0" y="0"/>
+<use id="aa8" transform="matrix(0.999999,0,0,0.999999,-1e-4,13.5529)" xlink:href="#aa7" x="0" y="0"/>
+<use id="aa9" transform="matrix(0.999999,0,0,0.999999,-1e-4,13.5532)" xlink:href="#aa8" x="0" y="0"/>
+<use id="aa10" transform="matrix(0.999999,0,0,0.999999,-1e-4,13.5529)" xlink:href="#aa9" x="0" y="0"/>
+<use id="aa11" transform="matrix(0.999999,0,0,0.999999,-1e-4,13.5532)" xlink:href="#aa10" x="0" y="0"/>
+<use id="aa12" transform="matrix(0.999999,0,0,0.999999,-1e-4,13.5529)" xlink:href="#aa11" x="0" y="0"/>
+<use transform="matrix(0.999999,0,0,0.999999,-1e-4,13.5529)" xlink:href="#aa12" x="0" y="0"/>
+<rect x="159.9" y="63.7" width="25.2" height="162.6" style="opacity:0.51; fill:#729fcf; stroke:black; stroke-width:0.87;"/>
+<rect x="92.4" y="172.4" width="25.2" height="53.9" style="opacity:0.51; fill:#9ade00; stroke:black; stroke-width:0.87;"/>
+<rect x="227.7" y="91.3" width="25.2" height="135.3" style="opacity:0.51; fill:#ce5c00; stroke:black; stroke-width:0.87;"/>
+<rect x="295.2" y="200.2" width="25.2" height="26.1" style="opacity:0.51; fill:#5c3566; stroke:black; stroke-width:0.87;"/>
+<text x="19.6" y="94" transform="scale(0.99947,1.00053)">10</text>
+<text x="99.4" y="244" transform="scale(0.99947,1.00053)" style="font-size:14.4px; font-style:italic;">A</text>
+<text x="165.7" y="244" transform="scale(0.99947,1.00053)" style="font-size:14.4px; font-style:italic;">B</text>
+<text x="233.8" y="244" transform="scale(0.99947,1.00053)" style="font-size:14.4px; font-style:italic;">C</text>
+<text x="302.2" y="244" transform="scale(0.99947,1.00053)" style="font-size:14.4px; font-style:italic;">D</text>
+<text x="135.4" y="14.5" transform="scale(0.99947,1.00053)" style="font-size:19.2px; font-style:italic; fill:#ba00ff;">Student Grades</text>
+<text x="100" y="164.2" transform="scale(0.99947,1.00053)" style="fill:#3465a4;">4</text>
+<text x="163.6" y="57.7" transform="scale(0.99947,1.00053)" style="fill:#3465a4;">12</text>
+<text x="232" y="85.3" transform="scale(0.99947,1.00053)" style="fill:#3465a4;">10</text>
+<text x="304" y="195.7" transform="scale(0.99947,1.00053)" style="fill:#3465a4;">2</text>
+<text x="-161.1" y="14.5" transform="matrix(0,-0.99947,1.00053,0,0,0)" style="font-size:19.2px; font-style:italic;">Students</text>
+</svg>

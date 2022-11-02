@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="37.5" height="84.2" version="1.1">
+<defs/>
+<g transform="translate(-4053.02,-326.686)">
+<text x="1505.3" y="243.3" style="font-family:Arial; font-size:15.2px; fill:black; stroke-width:0.38;"/>
+    
+<path d="m 4074.6,327.6 c -12.7,9.3 -20.9,24.3 -20.9,41.2 0,16.9 8.2,31.9 20.9,41.2 9.5,-11.1 15.2,-25.5 15.2,-41.2 0,-15.7 -5.7,-30.1 -15.2,-41.2 z" style="fill:#a78863; fill-opacity:0.33; stroke:black; stroke-width:1.35;"/>
+<g transform="matrix(0.294009,0,0,0.293344,2756.84,285.28)">
+<path d="m 4467.2,270.3 c 0,15 18.8,25.9 24.3,37.7 5.6,-11.8 24.4,-22.6 24.5,-37.6 0,-7.1 -5.4,-12.8 -12.2,-12.8 -6.7,0 -12.2,5.7 -12.2,12.8 0,-7.1 -5.4,-12.8 -12.2,-12.8 -6.7,0 -12.2,5.7 -12.2,12.8 z" style="fill:#e61408;"/>
+<text x="4422.6" y="307.3" style="font-family:Arial; font-size:68.6px; color:black; overflow:visible; fill:#e61408; stroke-width:1px;">K</text>
+</g>
+</g>
+</svg>

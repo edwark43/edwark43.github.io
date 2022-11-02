@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="289" version="1.1">
+<defs>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"/>
+</marker>
+<marker id="id2" style="overflow:visible;" orient="auto">
+<path transform="matrix(0.8,0,0,0.8,10,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"/>
+</marker>
+</defs>
+<g transform="translate(-1723.391,391.21676)">
+<rect x="504.3" y="-765.4" width="188.9" height="67.7" style="font-family:Arial; font-size:16px;"/>
+<rect x="1096" y="-935.3" width="56.6" height="202.2"/>
+<rect x="1326.5" y="-962.2" width="80.6" height="156.3"/>
+<g transform="matrix(0.5485623,0,0,0.5485623,364.44903,-1344.02)">
+<g transform="translate(618,-6)">
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1948.9 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1882.7 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1816.6 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1750.4 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2279.6 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2147.3 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2081.2 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2015 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2213.5 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1982 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1915.8 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1849.7 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1783.5 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2180.4 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2114.3 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2048.1 526.7,0"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2246.5 526.7,0"/>
+</g>
+<g>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2647.9,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2581.7,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2515.6,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2449.4,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2978.6,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2846.3,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2780.1,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2714,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2912.4,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2680.9,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2614.8,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2548.6,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2482.5,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2879.4,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2813.2,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2747.1,2272.4 0,-526.7"/>
+<path style="fill:none; stroke:#e5e6e8; stroke-width:1.64; stroke-dasharray:13.1, 1.6;" d="m 2945.5,2272.4 0,-526.7"/>
+</g>
+</g>
+<path style="fill:none; stroke:#0000ff; stroke-width:1.8;" d="m 1706,-441.1 c 62.8,332.3 120.4,331.5 120.4,331.5"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:1.8;" d="m 1954.6,-440.3 c -62.8,332.3 -120.4,331.5 -120.4,331.5"/>
+<path transform="scale(1,-1)" style="color:black; overflow:visible; fill:none; stroke:#0e00ff; stroke-width:1.8;" d="m 1825.7,109.5 a 10.1,4.7 0 0 1 10.1,0"/>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:0.85;" d="m 1720,-241.3 c 265.2,0 265.2,0 265.2,0"/>
+<text x="1893.7" y="-256.8" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">10</text>
+<text x="1922.1" y="-232.2" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">1</text>
+<text x="1957.1" y="-232.2" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">3</text>
+<text x="1939.5" y="-232.2" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">2</text>
+<text x="1865.7" y="-232.2" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-2</text>
+<text x="1885.5" y="-232.3" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-1</text>
+<text x="2003.5" y="-241.2" transform="scale(0.97951184,1.0209167)" style="font-family:'Comic Sans MS'; font-size:16.7px; fill:black;">x</text>
+<text x="1912" y="-245" style="font-family:'Comic Sans MS'; font-size:13.8px; fill:#ff6600;">(0,0)</text>
+<text x="1927.9" y="-294.5" style="font-family:'Comic Sans MS'; font-size:13.8px; fill:#ff6600;">(0.8, 28)</text>
+<path style="marker-start:url(#id2); fill:none; stroke:black; stroke-width:0.78;" d="m 1907.1,-382.3 c 0,286.3 0,286.3 0,286.3"/>
+<text x="1831.3" y="-232.2" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-4</text>
+<text x="1847.6" y="-232.2" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-3</text>
+<text x="1794" y="-232.2" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-6</text>
+<text x="1812.2" y="-232.2" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-5</text>
+<text x="1759.9" y="-232.2" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-8</text>
+<text x="1776.2" y="-232.2" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-7</text>
+<text x="1742.1" y="-232.2" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-9</text>
+<text x="1893.7" y="-274.8" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">20</text>
+<text x="1893.7" y="-292.8" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">30</text>
+<text x="1893.7" y="-310.8" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">40</text>
+<text x="1893.7" y="-328.8" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">50</text>
+<text x="1893.7" y="-346.8" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">60</text>
+<text x="1890.8" y="-220.7" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-10</text>
+<text x="1890.8" y="-202.7" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-20</text>
+<text x="1890.8" y="-184.7" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-30</text>
+<text x="1890.8" y="-166.7" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-40</text>
+<text x="1890.8" y="-148.7" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-50</text>
+<text x="1951.9" y="-348.3" transform="scale(0.95922342,1.04251)" style="font-family:'Comic Sans MS'; font-size:14.2px; fill:black;">Area</text>
+<text x="1890.8" y="-130.7" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-60</text>
+<text x="1890.8" y="-112.7" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-70</text>
+<text x="1890.8" y="-94.7" style="font-family:'Comic Sans MS'; font-size:8.8px; fill:black;">-80</text>
+<path style="fill:none; stroke:#ff0000; stroke-width:0.88; stroke-dasharray:1.8, 1.8;" d="m 1712.5,-289.2 c 288.8,0 288.8,0 288.8,0"/>
+<circle cx="1907.6" cy="-242" r="1.3167777" style="color:black; overflow:visible; fill:#2b2200; stroke:#0e0000; stroke-width:1.76;"/>
+<circle cx="1921" cy="-289.2" r="1.3167777" style="color:black; overflow:visible; fill:#2b2200; stroke:#0e0000; stroke-width:1.76;"/>
+<circle cx="1739.8" cy="-289.2" r="1.3167777" style="color:black; overflow:visible; fill:#2b2200; stroke:#0e0000; stroke-width:1.76;"/>
+<text x="1744.2" y="-294.9" style="font-family:'Comic Sans MS'; font-size:13.8px; fill:#ff6600;">(-9.3, 28)</text>
+<text x="1826.6" y="-291.4" style="font-family:'Comic Sans MS'; font-size:11.7px; fill:#fe0000;">Area = 28</text>
+<text x="1936.6" y="-336.5" style="font-family:'Comic Sans MS'; font-size:14.1px; fill:#0000ff;">4x &#160;+ 34x</text>
+<text x="1952.9" y="-342.8" style="font-family:'Comic Sans MS'; font-size:9.5px; fill:#0000ff;">2</text>
+</g>
+</svg>

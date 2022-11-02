@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="294.669"
+   height="112.161"
+   version="1.1"
+   style="font-size:18.700001px;font-family:'Comic Sans MS';fill:#ff6600"
+   id="svg79"
+   sodipodi:docname="common-factors.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata83">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview81"
+     showgrid="false"
+     inkscape:current-layer="svg79" />
+  <defs
+     id="defs20">
+    <marker
+       id="id6"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#19aeff;stroke:#19aeff;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="id4"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#19aeff;stroke:#19aeff;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="id1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#19aeff;stroke:#19aeff;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="id5"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#19aeff;stroke:#19aeff;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path11"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="id3"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#19aeff;stroke:#19aeff;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path14"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="id2"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#19aeff;stroke:#19aeff;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path17"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <text
+     x="-1.1291"
+     y="16.6953"
+     transform="scale(1.0236,0.976946)"
+     style="font-style:italic;font-size:14.100021px;stroke-width:1.000001"
+     id="text22">Factors of 12:</text>
+  <text
+     x="-1.1291"
+     y="61.2954"
+     transform="scale(1.0236,0.976946)"
+     style="font-style:italic;font-size:14.100021px;stroke-width:1.000001"
+     id="text24">Factors of 16:</text>
+  <text
+     x="174.27"
+     y="18"
+     id="text26">3,</text>
+  <text
+     x="108.87"
+     y="62.3"
+     style="font-size:20.5px"
+     id="text28">1,</text>
+  <path
+     id="id7"
+     style="fill:#19aeff"
+     d="m 102.07,10.9 c -0.1,-1.5 0.7,-2.8 1.4,-4 1.3,-1.8 2.9,-3.3 4.7,-4.6 1.4,-1 3,-1.5 4.6,-2 0.9,0 1.8,-0.2 2.7,-0.3 1,0 2,0 2.9,0.3 1.1,0.3 2.1,0.8 3,1.4 1,0.6 1.7,1.6 2.4,2.5 0.9,1.8 0.9,3.9 0.8,5.9 -0.7,3 -1.9,5.9 -3.9,8.3 -0.8,1.3 -2.1,2.3 -3.3,3.2 -1.4,0.8 -2.8,1.8 -4.5,1.7 -1.6,0.1 -3.2,-0.4 -4.7,-1 -1.3,-0.7 -2.4,-1.8 -3.4,-3 -0.8,-1.3 -1.3,-2.7 -1.2,-4.2 0,-1.5 0.4,-3 1,-4.4 0.6,0.2 1.1,0.3 1.7,0.5 -0.8,1.4 -1,3 -1.1,4.5 0,1.7 1.5,2.7 2.7,3.6 1.1,0.7 2.3,1.1 3.6,1.3 1,0 2.1,0.2 3.1,0 1.1,-0.5 2.2,-1 3.2,-1.7 0.4,-0.3 1.3,-1.1 0.4,-0.3 -0.8,0.7 0.4,-0.2 0.6,-0.6 1.6,-1.7 2.8,-3.7 3.7,-5.9 0.3,-0.9 0.7,-1.9 0.7,-2.9 0,-0.6 0,-1.3 0,-1.9 -0.9,-0.7 -0.7,-2 -1.7,-2.7 -1.3,-1.2 -2.9,-1.9 -4.7,-2.2 -1.9,-0.2 -3.8,-0.2 -5.6,0.6 -1.6,0.5 -3,1.4 -4.2,2.6 0.5,-0.4 0.9,-0.8 0.2,-0.2 -1.1,1 -2.2,2 -2.8,3.3 -0.2,0.6 -0.4,1.2 -0.6,1.8 -0.6,0.1 -1.1,0.3 -1.7,0.4 z"
+     inkscape:connector-curvature="0" />
+  <text
+     x="136.77"
+     y="111.3"
+     style="font-style:italic;font-size:14.1px;fill:#19aeff"
+     id="text31">Common Factors</text>
+  <path
+     style="fill:none;stroke:#19aeff;stroke-width:1.97;marker-end:url(#id1)"
+     d="m 144.77,98.2 -24.2,-28"
+     id="path35"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#19aeff;stroke-width:1.97;marker-end:url(#id2)"
+     d="m 185.87,98.4 -3,-28.7"
+     id="path37"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#19aeff;stroke-width:1.97;marker-end:url(#id3)"
+     d="m 171.37,97.7 -17.3,-27"
+     id="path39"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#19aeff;stroke-width:1.97;marker-end:url(#id4)"
+     d="M 144.47,97.7 124.77,25.2"
+     id="path41"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#19aeff;stroke-width:1.97;marker-end:url(#id5)"
+     d="M 171.37,98.2 155.87,25.1"
+     id="path43"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#19aeff;stroke-width:1.97;marker-end:url(#id6)"
+     d="m 185.87,98.4 22.6,-71.2"
+     id="path45"
+     inkscape:connector-curvature="0" />
+  <text
+     x="209.07"
+     y="18.2"
+     id="text49">4,</text>
+  <text
+     x="243.07"
+     y="18.2"
+     id="text51">6,</text>
+  <text
+     x="276.17"
+     y="19.9"
+     id="text53">12</text>
+  <text
+     x="107.47"
+     y="18.2"
+     id="text55">1,</text>
+  <text
+     x="139.77"
+     y="18.1"
+     id="text57">2,</text>
+  <text
+     x="140.87"
+     y="62.3"
+     id="text59">2,</text>
+  <text
+     x="175.17"
+     y="62.3"
+     id="text61">4,</text>
+  <text
+     x="208.47"
+     y="62.3"
+     id="text63">8,</text>
+  <text
+     x="240.47"
+     y="62.3"
+     id="text65">16</text>
+  <use
+     transform="translate(31.8455,0.357814)"
+     xlink:href="#id7"
+     x="0"
+     y="0"
+     id="use67"
+     width="100%"
+     height="100%" />
+  <use
+     transform="translate(101.619)"
+     xlink:href="#id7"
+     x="0"
+     y="0"
+     id="use69"
+     width="100%"
+     height="100%" />
+  <use
+     transform="matrix(1,0,0,1.04623,0.715629,43.2957)"
+     xlink:href="#id7"
+     x="0"
+     y="0"
+     id="use71"
+     width="100%"
+     height="100%" />
+  <use
+     transform="translate(33.6346,44.369)"
+     xlink:href="#id7"
+     x="0"
+     y="0"
+     id="use73"
+     width="100%"
+     height="100%" />
+  <use
+     transform="translate(68.7004,42.9377)"
+     xlink:href="#id7"
+     x="0"
+     y="0"
+     id="use75"
+     width="100%"
+     height="100%" />
+</svg>

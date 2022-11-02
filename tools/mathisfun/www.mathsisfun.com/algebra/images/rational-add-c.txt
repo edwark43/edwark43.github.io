@@ -1,0 +1,40 @@
+clr 0x000000
+thk 3
+alp 100
+char 36 30 3
+line 25 41 63 41
+char 36 65 4
+char 76 47 -
+char 111 31 1
+line 101 41 135 41
+char 109 69 5
+char 148 45 =
+start
+
+clr 0x0000F0
+char 196 29 3
+char 220 21 .
+char 225 31 5
+char 256 27 -
+char 285 30 1
+char 302 21 .
+char 309 26 4
+line 178 42 343 41
+char 229 67 4
+char 252 60 .
+char 262 71 5
+char 363 44 =
+char 400 29 1
+char 414 31 5
+char 442 26 -
+char 465 26 4
+line 397 43 488 42
+char 421 68 2
+char 441 65 0
+clr 0xF0D000
+char 514 39 =
+char 560 29 1
+char 575 28 1
+line 553 40 593 40
+char 557 69 2
+char 576 68 0

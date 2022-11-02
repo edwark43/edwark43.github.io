@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="231.3" height="126" version="1.1" style="font-family:'Times New Roman'; font-size:33.2px; fill:#130086; stroke-width:0.98;">
+<defs>
+	<marker id="aa10" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#130086; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa6" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#3465a4; stroke:#3465a4; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<linearGradient id="aa1" gradientTransform="matrix(0.58995,0,0,0.45394,-93.459,-183.24)" x1="165.4" y1="608.2" x2="281.9" y2="572" gradientUnits="userSpaceOnUse">
+		<stop offset="0" stop-color="#7fffff"/>
+		<stop offset="1" stop-color="#0000ff"/>
+	</linearGradient>
+	<radialGradient id="aa4" r="453.49" cx="-389.4" cy="288.6" gradientTransform="matrix(0.20657,-0.14611,0.11273,0.15938,-373.1,477.3)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa2">
+		<stop offset="0" style="stop-color:white;"/>
+		<stop offset="0.5" style="stop-color:#907fed; stop-opacity:0.5;"/>
+		<stop offset="1" style="stop-color:#0e0063; stop-opacity:0.46;"/>
+	</linearGradient>
+	<linearGradient id="aa5" gradientTransform="matrix(0.592566,0,0,0.592566,131.062,-238.765)" x1="-179.9" y1="489.6" x2="-35.2" y2="489.6" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:white; stop-opacity:0.4;"/>
+		<stop offset="1" style="stop-color:#026300; stop-opacity:0.94;"/>
+	</linearGradient>
+	<radialGradient id="aa3" r="453.49" cx="-389.4" cy="288.6" gradientTransform="matrix(0.20657,-0.14611,0.11273,0.15938,-373.1,477.3)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<marker id="aa8" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#31a52d; stroke:#31a52d; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa7" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#31a52d; stroke:#31a52d; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa9" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#f57900; stroke:#f57900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<path style="fill:#25d01e; fill-opacity:0.42; stroke:black; stroke-width:0.6;" d="m 109,102.3 a 42.3,23 0 0 1 -84.6,0 42.3,23 0 1 1 84.6,0 z"/>
+<g transform="matrix(0.587987,0,0,0.587987,298.582,-291.606)">
+	<circle cx="-394" cy="606.3" r="73.232" style="fill:#2200db; stroke-width:1;"/>
+	<circle cx="-394" cy="606.3" r="73.232" style="fill:url(#aa3); stroke-width:1;"/>
+	<circle cx="-394" cy="606.3" r="73.232" style="fill:url(#aa4); stroke-width:1;"/>
+</g>
+<path style="color:black; fill:url(#aa5); stroke:#999999; stroke-width:0.6; stroke-linejoin:round;" d="m 24.3,27.7 v 75.7 c 0.8,12.1 19.6,22.3 43.1,22.3 23.4,0 41.6,-11.3 41.9,-21.2 V 27.3 c 0,-10.2 -18.9,-22.7 -42.3,-22.9 C 43.6,4.3 23.6,15.6 24.3,27.7 Z"/>
+<text x="-0.2" y="49.8" style="font-size:31.4px; color:black; fill:#31a52d;">r</text>
+<text x="-0.2" y="90.6" style="font-size:31.4px; color:black; fill:#31a52d;">r</text>
+<path style="fill:none;" d="M 63.4,66 41.2,35.1"/>
+<text x="60.8" y="49" style="font-size:31.4px; color:black; fill:#3465a4;">r</text>
+<path style="fill:#25d01e; fill-opacity:0.42; stroke:#666666; stroke-width:0.6;" d="m 108.7,27.7 a 42.3,23 0 0 1 -84.6,0 42.3,23 0 1 1 84.6,0 z"/>
+<text x="174.2" y="66.1" style="font-size:32.9px; color:black; fill:#2ea32a;">π</text>
+<text x="192.3" y="66.1" style="color:black; fill:#2ea32a;">r</text>
+<text x="204.8" y="54.8" style="font-size:18.5px; color:black; fill:#2ea32a;">3</text>
+<text x="160.6" y="66.5" style="font-size:27.6px; color:black; fill:#2ea32a;">2</text>
+<text x="173.8" y="104.2" style="font-size:32.9px; color:black;">π</text>
+<text x="192.3" y="104.2" style="color:black;">r</text>
+<text x="204.4" y="93.3" style="font-size:18.5px; color:black;">3</text>
+<text x="151.9" y="94.8" style="font-size:18.5px; color:black;">4</text>
+<text x="152.6" y="111.4" style="font-size:18.5px; color:black;">3</text>
+<path style="fill:#a099c9; stroke:#130086; stroke-width:1.32;" d="m 147.7,96.3 h 18.5"/>
+<text x="140.2" y="105" style="color:black;">(</text>
+<text x="162.5" y="105.7" style="color:black;">)</text>
+<path style="marker-end:url(#aa6); fill:none; stroke:#3465a4; stroke-width:0.91;" d="M 63.4,66 41.2,35.1"/>
+<path style="marker-end:url(#aa7); fill:none; stroke:#31a52d; stroke-width:0.91;" d="M 17.4,64.9 V 103"/>
+<path style="marker-end:url(#aa8); fill:none; stroke:#31a52d; stroke-width:0.91;" d="M 17.4,63.4 V 25.2"/>
+<text x="160" y="35.5" style="font-family:'Times New Roman'; font-size:32.7px; color:black; fill:#f57900;">π</text>
+<text x="178.5" y="35.5" style="font-family:'Times New Roman'; font-size:33.1px; color:black; fill:#f57900;">r</text>
+<text x="190.5" y="24.2" style="font-family:'Times New Roman'; font-size:18.4px; color:black; fill:#f57900;">2</text>
+<text x="201" y="35.9" style="font-family:'Times New Roman'; font-size:33.1px; color:black; fill:#f57900;">h</text>
+<path style="marker-end:url(#aa9); fill:none; stroke:#f57900; stroke-width:1.01;" d="m 152.6,29.2 -40.3,6.5"/>
+<path style="marker-end:url(#aa10); stroke:#130086;" d="M 135.3,91.9 87.6,64.4"/>
+<text x="138.9" y="67.4" style="font-size:27.6px; color:black; fill:#2ea32a;">=</text>
+</svg>

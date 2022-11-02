@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="217.4"
+   height="172.2"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="tri-prism.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview18"
+     showgrid="false"
+     inkscape:current-layer="svg16" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient873">
+      <stop
+         id="stop869"
+         style="stop-color:#fbff7b;stop-opacity:0.854839"
+         offset="0" />
+      <stop
+         id="stop871"
+         style="stop-color:#fbff7b;stop-opacity:0.365591"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.338516,0,0,0.338516,-77.3815,85.5623)"
+       id="id2"
+       xlink:href="#linearGradient873"
+       x1="-14.2938"
+       y1="176.117"
+       x2="-313.616"
+       y2="-222.865"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     id="path4"
+     d="M 189.985,1.09469 216.557,88.7178 156.725,31.1453 Z"
+     style="overflow:visible;fill:#19aeff;fill-opacity:0.49;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     style="overflow:visible;fill:#007ad2;fill-opacity:0.49;stroke:#000000;stroke-width:0.513495;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m -189.51,-86.9074 83.182,0.4718 0,176.6135 -83.181,-0.4712 z"
+     id="rect6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     transform="matrix(-0.724302,-0.689482,0.883961,-0.467561,0,0)" />
+  <path
+     style="overflow:visible;fill:#007ad2;fill-opacity:0.49;stroke:#000000;stroke-width:0.956691;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m -369.078,302.407 40.315,4.669 0.01,176.6 -40.329,-4.655 z"
+     id="rect8"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     transform="matrix(0.722633,-0.691232,0.883961,-0.467561,0,0)" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path10"
+     d="M 33.8681,83.6747 60.4395,171.298 0.607668,113.725 Z"
+     style="overflow:visible;fill:#007ad2;fill-opacity:0.49;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round" />
+  <path
+     style="overflow:visible;opacity:1;vector-effect:none;fill:url(#id2);fill-opacity:1;stroke:#000000;stroke-width:0.504497;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m -182.927,7.64689 91.5037,0.31707 0,176.61204 -91.5061,-0.316 z"
+     id="rect12"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     transform="matrix(-0.293451,-0.955974,0.883961,-0.467561,0,0)" />
+</svg>

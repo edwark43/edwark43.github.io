@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="159.1" height="128.8" version="1.1">
+<defs>
+<marker style="overflow:visible;" orient="auto" id="id01">
+<path d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z " transform="scale(0.8) rotate(180) translate(12.5,0)" style="fill:#0000ff; stroke:#0000ff; stroke-width:1pt;"/>
+</marker>
+<marker style="overflow:visible;" orient="auto">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:black; stroke-width:1pt;"/>
+</marker>
+<marker style="overflow:visible;" orient="auto" id="id02">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#c4a000; stroke:#c4a000; stroke-width:1pt;"/>
+</marker>
+</defs>
+<g transform="translate(-816.065,-620.036)">
+<path d="m 816.1,687.7 h 5.6" style="fill:#ff0000; fill-opacity:0.75; stroke:#ff0000; stroke-width:1.24;"/>
+<rect x="837.5" y="644.1" width="20.5" height="43.5" style="color:black; overflow:visible; fill:#19aeff; stroke:black; stroke-width:0.33px;"/>
+<rect x="862.2" y="644.1" width="20.5" height="43.5" style="color:black; overflow:visible; fill:#19aeff; stroke:black; stroke-width:0.33px;"/>
+<rect x="886.9" y="644.1" width="20.5" height="43.5" style="color:black; overflow:visible; fill:#19aeff; stroke:black; stroke-width:0.33px;"/>
+<rect x="911.7" y="644.1" width="20.5" height="43.5" style="color:black; overflow:visible; fill:#19aeff; stroke:black; stroke-width:0.33px;"/>
+<path d="m 822,674.4 v 23.9" style="fill:none; stroke:black; stroke-width:0.98;"/>
+<path d="m 846.9,674.4 v 23.9" style="fill:none; stroke:#0000ff; stroke-width:0.33px;"/>
+<path d="m 871.8,674.4 v 23.9" style="fill:none; stroke:#0000ff; stroke-width:0.33px;"/>
+<path d="m 896.8,674.4 v 23.9" style="fill:none; stroke:#0000ff; stroke-width:0.33px;"/>
+<path d="m 921.7,674.4 v 23.9" style="fill:none; stroke:#0000ff; stroke-width:0.33px;"/>
+<path d="m 946.6,674.4 v 23.9" style="fill:none; stroke:#0000ff; stroke-width:0.33px;"/>
+<text x="843.7" y="717.9" style="font-family:'Comic Sans MS'; font-size:15.7px; color:black; overflow:visible; fill:#0000ff; stroke-width:0.5px;">1</text>
+<text x="868.2" y="717.9" style="font-family:'Comic Sans MS'; font-size:15.7px; color:black; overflow:visible; fill:#0000ff; stroke-width:0.5px;">2</text>
+<text x="892.9" y="717.8" style="font-family:'Comic Sans MS'; font-size:15.7px; color:black; overflow:visible; fill:#0000ff; stroke-width:0.5px;">3</text>
+<text x="918" y="717.9" style="font-family:'Comic Sans MS'; font-size:15.7px; color:black; overflow:visible; fill:#0000ff; stroke-width:0.5px;">4</text>
+<text x="942.6" y="717.7" style="font-family:'Comic Sans MS'; font-size:15.7px; color:black; overflow:visible; fill:#0000ff; stroke-width:0.5px;">5</text>
+<path d="m 821.3,687.8 h 151.5" style="marker-end:url(#id01); fill:none; fill-opacity:0.75; stroke:#0000ff; stroke-width:1.24;"/>
+<text x="816.4" y="719.3" style="font-family:'Comic Sans MS'; font-size:22.8px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">0</text>
+<path d="M 884.5,729.4 V 691.9" style="marker-end:url(#id02); fill:none; stroke:#c4a000; stroke-width:2.13;"/>
+<text x="868.5" y="746.4" style="font-family:'Comic Sans MS'; font-size:20.9px; color:black; overflow:visible; fill:#c4a000; stroke-width:0.5px;">2.5</text>
+<text x="831.9" y="634.4" style="font-family:'Comic Sans MS'; font-size:18.3px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">Equal Weight</text>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="217.8" height="125.9" version="1.1">
+<defs>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#0084c8; stroke:#0084c8; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<g transform="translate(765.714,-200.934)">
+<rect x="-765.7" y="200.9" ry="6.3" width="234.3" height="154.3" style="fill:white;"/>
+<rect x="-765.7" y="200.9" ry="5" width="194.3" height="122.9" style="fill:#19aeff;"/>
+</g>
+</defs>
+<g transform="translate(-356.889,-80.7254)">
+<text x="476.2" y="93.1" style="font-family:'Comic Sans MS'; font-size:15.8px; fill:#0084c8; stroke-width:1px;">Back of Mask</text>
+<path style="fill:#19aeff; stroke-width:1px;" d="m 446.4,91.9 c 0,0 31.6,19.5 32,39.7 0.4,20.3 -42.6,75 -42.6,75 h -12.6 c 0,0 -43,-50.7 -43.4,-73.8 C 379.4,109.7 410,91.9 410,91.9 Z"/>
+<path style="fill:none; stroke:#a40000; stroke-width:7.63;" d="m 391.2,136.3 c 0,0 -27.2,-1.3 -30,3.1 -2.8,4.4 6.6,14.1 13.9,22.7 7.3,8.6 27.7,9.8 54.8,9.8 27.1,0 53.4,-1.4 59.4,-10.9 6,-9.4 4.2,-21.9 4.2,-21.9 -2.6,-2.4 -28.9,-0.4 -28.9,-0.4"/>
+<path style="marker-end:url(#id1); fill:#0084c8; stroke:#0084c8; stroke-width:0.86;" d="m 472.4,88.1 c -1.1,0.9 -12.2,15.5 -28.3,31.3"/>
+</g>
+</svg>

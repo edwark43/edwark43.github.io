@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="137.3" height="137.3" version="1.0" style="stroke-width:0.08;">
+<defs>
+	<linearGradient id="id7">
+		<stop offset="0" style="stop-color:#442df6; stop-opacity:0.4;"/>
+		<stop offset="0.593" style="stop-color:#442df6; stop-opacity:0.09;"/>
+		<stop offset="1" style="stop-color:#442df6; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="id6">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="id5">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="id4">
+		<stop offset="0" style="stop-color:black; stop-opacity:1;"/>
+		<stop offset="0.5" style="stop-color:black; stop-opacity:0.5;"/>
+		<stop offset="1" style="stop-color:#0035ff; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="id3">
+		<stop offset="0" style="stop-color:black; stop-opacity:0;"/>
+		<stop offset="0.932" style="stop-color:#0000ff; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="id1">
+		<stop offset="0" style="stop-color:black; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient id="id2">
+		<stop offset="0" style="stop-color:#ff0000; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#00ffff; stop-opacity:1;"/>
+	</linearGradient>
+	<radialGradient r="284.786" fx="424.285" fy="862.139" cx="424.3" cy="862.1" gradientTransform="matrix(0.137196,0,0,0.127163,366.076,1335.59)" xlink:href="#id1" gradientUnits="userSpaceOnUse"/>
+	<radialGradient r="284.786" fx="371.249" fy="1590.93" cx="371.2" cy="1590.9" gradientTransform="matrix(0.186232,-0.293487,4.11386,2.44418,-6242.77,-2188.64)" xlink:href="#id2" gradientUnits="userSpaceOnUse"/>
+	<radialGradient r="325.714" fx="-1371.43" fy="543.791" cx="-1371.4" cy="543.8" gradientTransform="matrix(0.945727,-0.346731,0.349776,1.08612,-264.637,-522.351)" xlink:href="#id3" gradientUnits="userSpaceOnUse"/>
+	<radialGradient r="325.714" fx="-1439.63" fy="405.56" cx="-1439.6" cy="405.6" gradientTransform="matrix(-4.89007,2.13981,-0.435449,-1.03794,-8233,4073.42)" xlink:href="#id4" gradientUnits="userSpaceOnUse"/>
+	<radialGradient r="57.1429" fx="-708.571" fy="1133.79" cx="-708.6" cy="1133.8" gradientTransform="matrix(1,0,0,0.775,0,255.103)" xlink:href="#id5" gradientUnits="userSpaceOnUse"/>
+	<radialGradient r="43.9661" fx="-708.571" fy="1133.79" cx="-708.6" cy="1133.8" gradientTransform="matrix(-0.721274,0.04561,-0.2052,-0.375019,-986.992,1591.3)" xlink:href="#id6" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="id8" r="325.714" fx="-1371.43" fy="543.791" cx="-1371.4" cy="543.8" gradientTransform="matrix(0.194022,-0.07204,0.071759,0.225663,-783.903,1344.71)" xlink:href="#id3" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="id9" r="325.714" fx="-1439.63" fy="405.56" cx="-1439.6" cy="405.6" gradientTransform="matrix(-0.966873,0.431131,-0.086098,-0.209125,-2270.84,2333.56)" xlink:href="#id4" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="id10" r="57.1429" fx="-708.571" fy="1133.79" cx="-708.6" cy="1133.8" gradientTransform="matrix(0.210691,0,0,0.163286,-866.183,1357.45)" xlink:href="#id5" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="id11" r="43.9661" fx="-708.571" fy="1133.79" cx="-708.6" cy="1133.8" gradientTransform="matrix(-0.202609,0.009444,-0.057642,-0.077649,-1446.71,1193.07)" xlink:href="#id6" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="id12" r="57.1429" fx="-714.584" fy="1164.68" cx="-714.6" cy="1164.7" gradientTransform="matrix(1.00024,-0.297884,0.192879,0.63943,-829.355,336.742)" xlink:href="#id7" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g transform="translate(1079.57,-1498.5)">
+	<circle cx="-1011" cy="1567.1" r="68.625" style="fill:black;"/>
+	<ellipse cx="-1011" cy="1566.2" rx="66.8" ry="67.7" style="fill:url(#id8);"/>
+	<ellipse cx="-914.2" cy="1622.4" rx="64.4" ry="65.6" transform="matrix(0.998399,0.056569,-0.060562,0.998164,0,0)" style="fill:url(#id9); stroke-width:0.07;"/>
+	<ellipse cx="-1015.5" cy="1542.6" rx="12" ry="9.3" style="fill:url(#id10);"/>
+	<path transform="matrix(0.916429,-0.400197,0.236102,0.971728,0,0)" style="fill:url(#id11); stroke-width:0.36;" d="m -1356.2,1098.3 a 12.4,3.5 0 0 1 -12.3,3.5 12.4,3.5 0 0 1 -12.4,-3.5 12.4,3.5 0 0 1 12.2,-3.5 12.4,3.5 0 0 1 12.5,3.5" sodipodi:type="arc" sodipodi:cx="-1368.5" sodipodi:cy="1098.34" sodipodi:rx="12.3503" sodipodi:ry="3.52368" sodipodi:start="0" sodipodi:end="6.27123" sodipodi:arc-type="arc"/>
+	<ellipse cx="-1319.2" cy="1273.5" rx="59.7" ry="50.6" transform="matrix(0.969079,-0.246749,0.204404,0.978887,0,0)" style="fill:url(#id12);"/>
+</g>
+</svg>

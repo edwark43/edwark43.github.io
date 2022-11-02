@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="279.8" height="34.6" version="1.1">
+<defs>
+<marker id="id2" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#ff4141; stroke:#ff4141; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#0084c8; stroke:#0084c8; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<g transform="translate(341.962,-144.109)">
+<path style="marker-end:url(#id1); fill:none; stroke:#0084c8; stroke-width:1.64;" d="M -203.5,170.4 H -65.4"/>
+<text x="-179.1" y="161.5" style="font-family:'Comic Sans MS'; font-size:22.7px; font-style:italic; color:black; overflow:visible; fill:#0084c8; stroke-width:1.14px;">Positive</text>
+<path style="marker-end:url(#id2); fill:none; stroke:#ff4141; stroke-width:1.64;" d="M -200.7,170.4 H -338.8"/>
+<text x="-307.1" y="161.5" style="font-family:'Comic Sans MS'; font-size:22.7px; font-style:italic; color:black; overflow:visible; fill:#ff4141; stroke-width:1.14px;">Negative</text>
+</g>
+</svg>

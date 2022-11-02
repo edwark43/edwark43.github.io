@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Main.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/games/guess_number.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:06:16 GMT -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Guess My Number</title>
+<script language="JavaScript">
+<!-- Begin
+var my_no,count;
+function load() {
+window.defaultStatus="Guess-a-Number Game";
+document.game.help.value="Please set range of numbers and press the Start button.";
+document.game.from.focus(); 
+}
+function rnd(scale) {
+var dd=new Date();
+return((Math.round(Math.abs(Math.sin(dd.getTime()))*8.71*scale)%scale)); 
+}
+function range() {
+var to=1+1*document.game.to.value;
+count=0;
+my_no=rnd(to);
+while(my_no<document.game.from.value) {
+my_no=rnd(to); 
+}
+document.game.help.value="Please guess a number, enter it, and press Guess."; 
+}
+function guess() {
+var no=document.game.number.value;
+if (isNaN(my_no)) range();
+count++;
+if(no<my_no) document.game.help.value="My number is greater than "+no+".";
+else if(no>my_no) document.game.help.value="My number is less than "+no+".";
+else alert("Well Done! It took you "+count+" attempts to guess this number"); 
+}
+// End -->
+</script>
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta http-equiv="pics-label" content='(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://www.mathsisfun.com" r (SS~~000 1))'>
+<link rel="stylesheet" type="text/css" href="../style3.css" />
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun" /></a></div>
+	<div id="gtran"><script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus"><script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort"><script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search"><script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+			<h1 align="center">Guess My Number</h1>
+			<br>
+				<div class="simple">
+			<form name=game>
+					<table border=0 align="center">
+						<tr>
+							<td><table border=0 align="center">
+								<tr>
+									<td align=center colspan=2>Range of numbers</td>
+									</tr>
+								<tr>
+									<td align=center>From:
+										<input type=text name=from size=6 value="1" style="text-align: center;"></td>
+									<td align=center>&nbsp; &nbsp; &nbsp; To:
+										<input type=text name=to size=6 value="100" style="text-align: center;"></td>
+									<tr>
+										<td colspan="2" align=center><input type=button value=" Start " onClick="range()"></td>
+								</table></td>
+						</tr>
+						<tr>
+							<td align=center colspan=3><input type=text name=help size=70 style="text-align: center; border: 0px solid;  font-size:16px;"></td>
+						</tr>
+						<tr>
+							<td align=right colspan=3><div align="center">
+								<input type=text name=number size=10 style="text-align: center; font-size:20px;">
+								<input type=button value=" Guess " onClick="guess()">
+								</div></td>
+						</tr>
+					</table>
+				
+			</form></div>
+			<b><br>
+			<br>
+			Instructions</b>
+			<li>Enter the range of numbers you want the random number to be between
+			<li>Enter your guess
+			<li>See if your guess is too high or too low
+			<li>Change your guess
+			<li>The computer will tell you how many guesses you had
+			
+<p>&nbsp;</p>
+<div class="related"><a href="games-elementary.html">Elementary Games</a><a href="index.html">Games Index</a></div>
+			<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2017 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body>
+<!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/games/guess_number.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:06:16 GMT -->
+</html>

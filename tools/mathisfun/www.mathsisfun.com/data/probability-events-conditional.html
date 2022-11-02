@@ -1,0 +1,291 @@
+<!doctype html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/data/probability-events-conditional.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:42:10 GMT -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Conditional Probability</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents." />
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=true;" />
+<meta name="HandheldFriendly" content="true"/>
+<meta http-equiv="pics-label" content='(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://www.mathsisfun.com" r (SS~~000 1))' />
+<link rel="stylesheet" type="text/css" href="../style3.css" />
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun" /></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran"><script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus"><script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort"><script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search"><script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+			<h1 class="center">Conditional Probability</h1>
+			<p class="center"><i>How to handle <b>Dependent Events</b></i>			</p>
+			<p>Life is full of random events! You need to get a &quot;feel&quot; for them to be a smart and successful person.			</p>
+<h2>Independent Events </h2>
+			<p> Events can be  &quot;<a href="probability-events-independent.html">Independent</a>&quot;, meaning  each event is <b>not affected</b> by any other events.</p>
+			<div class="example">
+				<p style="float:right; margin: 0 0 5px 10px;"><img src="images/head-tails-dollar.jpg" width="102" height="96"  alt="head tails coin" /></p>
+	      <h3>Example: Tossing a coin.</h3>
+				<p>Each toss of a coin is a perfect isolated thing. </p>
+				<p>What it did in the past will not affect the current toss.</p>
+				<p>The chance is simply 1-in-2, or 50%, just like ANY toss of the coin.</p>
+				
+<p>So each toss is an <b>Independent Event</b>.</p>
+			</div>
+			<h2>Dependent Events</h2>
+			<p> But events can also be &quot;dependent&quot; ... which means they <b>can be affected by previous events</b> ... </p>
+			<div class="example"><img style="float:right; margin: 10px;" src="images/probability-marbles1.svg"   alt="probability marbles" />
+				<h3>Example: Marbles in a Bag</h3>
+				<p> 2 blue and 3 red marbles are in a bag. </p>
+				<p>What are the chances of getting a blue marble?</p>
+				<p class="center">The chance  is <b>2 in 5</b></p>
+				<p><b>But after taking one out</b> the chances change!</p>
+				<p>So the next time:</p>
+				<p class="center"><img src="images/probability-marbles2.svg"   alt="probability marbles" /><br>
+if we got a <b>red</b> marble before, then the chance of a blue marble next is <b>2 in 4</b></p>
+				<p class="center"><img src="images/probability-marbles3.svg"   alt="probability marbles" /><br>
+				if we got a <b>blue</b> marble before, then the chance of a blue marble next is <b>1 in 4</b></p>
+			</div>
+			<p>This is because we are <b>removing</b> marbles from the bag.</p>
+			<p>So the next event <b>depends on</b> what happened in the previous event, and is called <b>dependent</b>.			</p>
+			<div class="center80">
+				<p><span class="larger">Replacement</span></p>
+				<p>Note: if we <b>replace</b> the marbles in the bag each time, then the chances do <b>not</b>  change and the events are <a href="probability-events-independent.html">independent</a>:</p>
+				<ul>
+					<li><b>With</b> Replacement: the events are <b>Independent</b> (the chances don't change)</li>
+					<li><b>Without</b> Replacement: the events are <b>Dependent</b> (the chances  change)</li>
+				</ul>
+			</div>
+			<p><b>Dependent</b> events are what we look at here.</p>
+			<h2>Tree Diagram</h2>
+			<p>A <a href="probability-tree-diagrams.html">Tree Diagram</a>:	is	a	wonderful way to picture what is going on, so let's build one for our marbles example.</p>
+			<p>There is a 2/5 chance of pulling out a Blue marble, and a 3/5 chance for Red:</p>
+			<p><img src="images/probability-marbles-tree1.svg"   alt="probability marbles tree 1" /></p>
+			<p>We can  go one step further and see what happens when we pick a second marble:</p>
+			<p><img src="images/probability-marbles-tree2.svg"  alt="probability marbles tree 2" /></p>
+			<p>If a blue marble was selected first there is now a 1/4 chance of getting a blue marble and a 3/4 chance of getting a red marble.</p>
+			<p>If a red marble was selected first there is now a 2/4 chance of getting a blue marble and a 2/4 chance of getting a red marble.</p>
+			
+			<div class="center80">
+				<p>Now we can answer questions like <b>&quot;What are the chances of drawing 2 blue marbles?&quot;</b></p>
+				<p>Answer: it is a <b>2/5 chance</b> followed by a <b>1/4 chance</b>:</p>
+				
+				<p class="center"><img src="images/probability-marbles-tree3.svg" style="max-width:100%"  alt="probability marbles tree 3" /></p>
+				<p>Did you see how we multiplied the chances? And got 1/10 as a result.</p>
+				<p><b>The chances of drawing 2 blue marbles is 1/10</b></p>
+			</div>
+			<h2>Notation</h2>
+			<p><b>We love notation in mathematics!</b> It means we can then use the power of algebra to play around with the ideas. So here is the notation for probability:</p>
+			<p class="center larger">P(A) means &quot;Probability Of Event A&quot;</p>
+			<p>In our marbles example  Event A is &quot;get a Blue Marble first&quot; with a probability of 2/5:</p>
+			<p class="center"><b>P(A) = 2/5</b></p>
+<p>And  Event B is &quot;get a Blue Marble second&quot; ... but for that we have 2 choices:</p>
+<ul>
+	<li>If we got a <b>Blue Marble first</b> the chance is now <b>1/4 </b></li>
+	<li>If we got a <b>Red Marble first</b> the chance is now <b>2/4</b></li>
+</ul>
+<p>So we have to say <b>which one we want</b>, and use the symbol &quot;|&quot; to mean  &quot;given&quot;:</p>
+<p class="center larger">P(B|A) means &quot;Event B <b>given</b> Event A&quot;</p>
+			<p class="center">In other words, event A has already happened, now what is the chance of event B?</p>
+			<p><span class="center larger">P(B|A)</span>  is also called the &quot;Conditional Probability&quot; of B given A.</p>
+			<p>And in our case:</p>
+			<p class="center"> <b>P(B|A) = 1/4</b></p>
+			<p>So  the probability of getting <b>2 blue marbles</b> is:</p>
+	<p class="center"><img src="images/probability-marbles-tree4.svg" style="max-width:100%"  alt="probability marbles tree 4" /></p>
+<p>And we write it as</p>
+<p class="center"><img src="images/probability-independent-formula1.svg" alt="P( A and B ) = P(A) times P(B given A)" /></p>
+			<p class="center"><i>&quot;Probability of <b>event A and event B</b> equals <br />
+				the probability of <b>event A</b> times the probability of <b>event B given event A</b>&quot;</i></p>
+			<p>&nbsp;</p>
+			<p>Let's do the next example using only notation:</p>
+			<div class="example">
+				<h3>Example: Drawing 2 Kings from a Deck </h3>
+				<p><b>Event A</b> is drawing a King first, and <b>Event B</b> is drawing a King second.</p>
+				<p>For the first card the chance of drawing a King is 4 out of 52 (there are 4 Kings in a deck of 52 cards):</p>
+				<p class="center larger">P(A) = 4/52</p>
+				<p>But after removing a King from the deck the probability of the 2nd card drawn is <b>less</b> likely to be a King (only 3 of the 51 cards left are Kings):</p>
+				<p class="center larger">P(B|A) = 3/51</p>
+				<p>And so:</p>
+				<p class="center larger"><b>P(A and B) = P(A) x P(B|A)</b> =	(4/52)	x (3/51) = 12/2652 = <b>1/221</b></p>
+				<p>So the chance of getting 2 Kings is 1 in 221, or about 0.5%</p>
+			</div>
+			
+	    <h2>Finding Hidden Data</h2>
+		<p>Using Algebra we can also &quot;change the subject&quot; of the formula, like this:</p>
+		
+		<table border="0" align="center">
+  <tr>
+					<td align="right">Start with: </td>
+					<td>&nbsp;</td>
+					<td class="larger">P(A and B) = P(A) x P(B|A)</td>
+			</tr>
+				<tr>
+					<td align="right">Swap sides:</td>
+					<td>&nbsp;</td>
+					<td class="larger"> P(A) x P(B|A) = P(A and B) </td>
+				</tr>
+				<tr>
+					<td align="right">Divide by P(A):</td>
+					<td>&nbsp;</td>
+					<td class="larger">P(B|A) = P(A and B) / P(A)</td>
+				</tr>
+	</table>
+			<p>And we have another useful formula:</p>
+			<p class="center"><img src="images/probability-independent-formula2.gif" width="286" height="64"  alt="P(B given A) = P( A and B ) / P(A) " /></p>
+			<p class="center"><i>&quot;The probability of <b>event B given event A</b> equals <br />
+the probability of <b>event A and event B</b> divided by the probability of <b>event A</b></i></p>
+			<div class="example">
+	<h3>Example: Ice Cream</h3>
+	<p>70% of your friends like Chocolate, and 35% like Chocolate AND like Strawberry. </p>
+	<p>What percent of those who like Chocolate also like Strawberry?</p>
+	<p class="larger">P(Strawberry|Chocolate) = P(Chocolate and Strawberry) / P(Chocolate)</p>
+	<div class="so">   0.35 / 0.7 = 50%	</div>
+	<p>50% of your friends who like Chocolate also like Strawberry</p>
+			</div>
+			
+			<h2>&nbsp;</h2>
+			<p style="float:right; margin: 10px;"><img src="../images/soccer-teams.jpg" width="209" height="86"  alt="soccer teams" /></p>
+			<h2>Big Example: Soccer Game</h2>
+			<p>You are off to soccer, and want to be the Goalkeeper, but that depends who is the Coach today:</p>
+<ul>
+	<li>with Coach Sam the probability of  being Goalkeeper is <b>0.5</b></li>
+	<li>with Coach Alex the probability of  being Goalkeeper is <b>0.3</b></li>
+</ul>
+<p>Sam is Coach more often ... about 6 out of every 10 games (a probability of <b>0.6</b>).</p>
+<p class="larger">So, what is the  probability you will be  a Goalkeeper today?</p>
+<p>&nbsp;</p>
+<p>Let's build a <a href="probability-tree-diagrams.html">tree diagram</a>. First we show the two possible coaches: Sam or Alex:</p>
+<p class="center"><img src="images/tree-diagram-ex1-1.svg"  alt="tree diagram 1" /></p>
+<p>The probability of getting Sam is 0.6, so the probability of Alex must be 0.4 (together the probability is  1)</p>
+<p>Now, if you get Sam, there is 0.5  probability of being Goalie (and 0.5 of not being Goalie):</p>
+<p class="center"><img src="images/tree-diagram-ex1-2.svg" alt="tree diagram 2" /></p>
+			<p>If you get Alex, there is 0.3  probability of being Goalie (and 0.7 not):</p>
+			<p class="center"><img src="images/tree-diagram-ex1-3.svg"  alt="tree diagram 3" /></p>
+			<p>The tree diagram is complete, now let's calculate the overall probabilities. Remember that:</p>
+			<p class="center larger">P(A and B) = P(A) x P(B|A)</p>
+			<p>Here is how to do it for the &quot;Sam, Yes&quot; branch:</p>
+			<p class="center"><img src="images/tree-diagram-ex1-4.svg"  alt="tree diagram 4" style="max-width:100%" /></p>
+			<p>(When we take the 0.6 chance of Sam being coach times the 0.5 chance that Sam will let you be Goalkeeper we end up with an 0.3 chance.)</p>
+			<p>But we are not done yet! We haven't included Alex as Coach:</p>
+			<p class="center"><img src="images/tree-diagram-ex1-5.svg"  alt="tree diagram 5" style="max-width:100%" /></p>
+			<p>An 0.4 chance of Alex as Coach, followed by an 0.3 chance gives 0.12</p>
+			<p><b>And the two &quot;Yes&quot; branches of the tree together make:</b></p>
+			<p class="center larger">0.3 + 0.12 = <b>0.42 probability</b> of being a Goalkeeper today</p>
+			<p class="center">(That is a 42% chance)</p>
+			<h3>Check</h3>
+			<p>One final step: complete the calculations and make sure they add to 1:</p>
+			<p class="center"><img src="images/tree-diagram-ex1-6.svg"   alt="tree diagram 6" style="max-width:100%" /></p>
+			<p class="larger center">0.3 + 0.3 + 0.12 + 0.28 = 1</p>
+			<p class="center">Yes, they add to <b>1</b>, so that looks right.</p>
+
+<h2>Friends and Random Numbers</h2>
+<p>Here is another quite different example of Conditional Probability. </p>
+<p class="larger"><b>4 friends</b> (Alex, Blake, Chris and  Dusty) each choose a random number between 1 and 5. What is the chance that any of them chose the same number?</p>
+<p>Let's add our friends one at a time ...</p>
+<p>&nbsp;</p>
+<h3>First, what is the chance that Alex and Blake have the same number?</h3>
+<p>Blake compares his number to  Alex's number. There is a 1 in 5 chance of a match.</p>
+<p>As a <a href="probability-tree-diagrams.html">tree diagram</a>:</p>
+<p class="center"><img src="images/events-dependent-ex-1.svg"  alt="events dependent 1" /></p>
+<p class="center">Note:  &quot;Yes&quot; and &quot;No&quot; together&nbsp;           	makes  1 <br />
+	(1/5 + 4/5 = 5/5 = 1)</p>
+<h3>&nbsp;</h3>
+<h3>Now, let's include Chris ... </h3>
+<p>But there are now two cases to consider:</p>
+<ul>
+	<li>If Alex and Blake <b>did</b> match, then Chris has only <b>one number</b> to compare to.</li>
+	<li>But if Alex and Blake <b>did not</b> match then Chris has <b>two numbers</b> to compare to.</li>
+</ul>
+<p>And we get this:</p>
+<p class="center"><img src="images/events-dependent-ex-2.svg"   alt="events dependent 2" style="max-width:100%" /></p>
+<p>For   the top line (Alex and Blake <b>did</b> match) we already have a match (a chance of 1/5).</p>
+<p>But for   the &quot;Alex and Blake <b>did not</b> match&quot; there is now a <b>2/5</b> chance of Chris matching (because Chris gets to match his number against both Alex and Blake). </p>
+<p>And we can  work out the combined chance by <b>multiplying the chances</b> it took to get there:</p>
+<div class="dotpoint">
+	<p>Following the &quot;No, Yes&quot; path ... there is a 4/5 chance of No, followed by a 2/5 chance of Yes:</p>
+	<div class="so">(4/5) &times; (2/5) = 8/25</div>
+</div>
+<div class="dotpoint">
+	<p>Following the &quot;No, No&quot; path ... there is a 4/5 chance of No, followed by a 3/5 chance of No:</p>
+	<div class="so">(4/5) &times; (3/5) = 12/25</div>
+</div>
+
+<p>Also notice that when we add all chances together we still get 1 (a good check that we haven't made a mistake): </p>
+<p class="center">(5/25) + (8/25) + (12/25) = 25/25 = 1</p>
+<p>&nbsp;</p>
+<h3>Now what happens when we include Dusty?</h3>
+<p>It is the same idea, just more of it:</p>
+<p class="center"><img src="images/events-dependent-ex-3.svg"   alt="events dependent 3" style="max-width:100%" /></p>
+<p>OK, that is all 4  friends, and  the  &quot;Yes&quot; chances together make 101/125:</p>
+<p class="center large">Answer: <b>101/125</b></p>
+<p>&nbsp;</p>
+<div class="center80">
+	<p>But here is something interesting ... if we  follow the &quot;No&quot; path we can <b>skip all the other calculations</b> and make our life easier:</p>
+	<p class="center"><img src="images/events-dependent-ex-4.svg"   alt="events dependent 4" style="max-width:100%" /></p>
+	<p>The chances of <b>not matching</b> are:</p>
+	<p class="center larger">(4/5) &times; (3/5) &times; (2/5) = <b>24/125</b></p>
+	<p>So the chances of <b>matching</b> are:</p>
+	<p class="center larger">1 - (24/125) = <b>101/125</b></p>
+	<p>(And we didn't really need a tree diagram for that!)</p>
+</div>
+<p>&nbsp;</p>
+<p>And that is a popular trick in probability:</p>
+<p class="center larger">It is often easier to work out the &quot;No&quot; case<br>
+	(and subtract from 1 for the &quot;Yes&quot; case)
+</p>
+<p>(This idea is shown in more detail at <a href="probability-shared-birthday.html"><span class="center">Shared Birthdays</span></a>.)</p>
+<p>&nbsp;</p>
+<div class="questions">
+<script type="text/javascript">getQ(3088, 3089, 3090, 3091, 3092, 3093, 3094, 3095, 3827, 3828);</script>&nbsp;
+</div>
+
+<div class="related"><a href="probability.html">Probability</a> <a href="probability-tree-diagrams.html">Tree Diagrams</a>
+				<a href="index.html">Data Index</a>				</div>
+			<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2017 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body>
+<!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/data/probability-events-conditional.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:42:14 GMT -->
+</html>

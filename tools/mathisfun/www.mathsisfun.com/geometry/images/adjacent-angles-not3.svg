@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="182.7" height="114.3" version="1.1">
+<defs>
+<marker id="id03" style="overflow:visible;" orient="auto">
+<path transform="matrix(0.8,0,0,0.8,10,0)" style="fill:#4e9a06; stroke:#4e9a06; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id04" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#4e9a06; stroke:#4e9a06; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id01" style="overflow:visible;" orient="auto">
+<path transform="matrix(0.8,0,0,0.8,10,0)" style="fill:#3465a4; stroke:#3465a4; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id02" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#3465a4; stroke:#3465a4; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<g transform="translate(-202.079,-582.875)">
+<path style="fill:none; stroke:#2e3436; stroke-width:1.05;" d="m 202.6,583.1 51.2,113.1 77.5,-108.1"/>
+<path style="fill:none; stroke:#2e3436; stroke-width:1.05;" d="M 254.2,696.3 384.6,661.1"/>
+<text x="253.2" y="659" style="font-family:Arial; font-size:17.3px; fill:#3465a4; stroke-width:0.5;">a</text>
+<text x="267.1" y="628.9" style="font-family:Arial; font-size:17.3px; fill:#4e9a06; stroke-width:0.5;">b</text>
+<path style="color:black; marker-start:url(#id01); marker-end:url(#id02); overflow:visible; fill:none; stroke:#3465a4; stroke-width:0.83; stroke-opacity:0.99;" d="m 234.8,648.6 a 51.4,51.4 0 0 1 46.8,5.1"/>
+<path style="color:black; marker-start:url(#id03); marker-end:url(#id04); overflow:visible; fill:none; stroke:#4e9a06; stroke-width:0.83; stroke-opacity:0.99;" d="m 228.8,634.9 a 66.4,66.4 0 0 1 54.1,2.4 66.4,66.4 0 0 1 34.3,41.8"/>
+<g transform="matrix(1.34945,0.050421,-0.05873,1.57183,-149.219,-393.489)">
+<path style="fill:none; stroke:#ff4141; stroke-width:2.6; stroke-linecap:round;" d="m 336.2,613 c -3.8,2.8 -7.6,5.1 -11.1,9.2"/>
+<path style="fill:none; stroke:#ff4141; stroke-width:2.6; stroke-linecap:round;" d="m 325.3,613.4 c 3.9,2.7 7.2,5.8 10.1,9.2"/>
+</g>
+</g>
+</svg>

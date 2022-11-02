@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97.4" height="79.9" version="1.1" style="font-family:'Trebuchet MS'; font-size:24px; fill:#3465a4; stroke-width:1pt;">
+<defs>
+	<marker id="id1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#3465a4;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id2" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#3465a4;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id3" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#3465a4;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id4" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#3465a4;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g style="display:none;" transform="translate(565.507,-782.69)">
+	<image x="-1413.5" y="148.4" width="1305" height="787.4" xlink:href="//////Images/SVG/inkscape_pasted_image_20101001_094421.html"/>
+</g>
+<g transform="translate(565.507,-782.69)">
+	<path style="fill:#66c9ff; fill-opacity:0.23; stroke-width:2.99;" d="m -544.2,809.9 48,-14.1 20.1,43.6 -86.2,13.6 z"/>
+	<text x="-523.5" y="862.4" style="stroke-width:0.6;">c</text>
+	<text x="-529.3" y="795.5" style="stroke-width:0.6;">a</text>
+	<text x="-567.1" y="829.8" style="stroke-width:0.6;">b</text>
+	<path style="marker-end:url(#id1); fill:none; stroke:#3465a4; stroke-width:1.8;" d="m -476.9,838.9 -18.9,-40.2"/>
+	<path style="marker-end:url(#id2); fill:none; stroke:#3465a4; stroke-width:1.8;" d="m -562.2,853.2 c 27.9,-4.5 55.8,-9 83.7,-13.5"/>
+	<path style="marker-end:url(#id3); fill:none; stroke:#3465a4; stroke-width:1.8;" d="m -497.1,796.2 c -14.4,4.2 -30.6,9.2 -45,13.4"/>
+	<path style="marker-end:url(#id4); fill:none; stroke:#3465a4; stroke-width:1.8;" d="m -543.8,810.2 -17.4,40"/>
+	<text x="-479.9" y="820.8" style="stroke-width:0.6;">d</text>
+</g>
+</svg>

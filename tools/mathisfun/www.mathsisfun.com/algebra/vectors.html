@@ -1,0 +1,318 @@
+﻿<!doctype html>
+<html lang="en">
+<!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+<!-- Mirrored from www.mathsisfun.com/algebra/vectors.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:36:52 GMT -->
+<head>
+<meta charset="UTF-8">
+<!-- #BeginEditable "doctitle" -->
+	<title>Vectors</title>
+	<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents." />
+	<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+<link rel="stylesheet" type="text/css" href="../style3.css">
+<script src="../main3.js"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun"></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran">
+		<script>document.write(getTrans());</script>
+	</div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script>document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	</header>
+	<nav>
+	<div id="menuWide" class="menu"> 
+		<script>document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort">
+			<script>document.write(getLinks());</script>
+		</div>
+	</div>
+	<div id="search" role="search">
+		<script>document.write(getSearch());</script>
+	</div>
+	<div id="menuSlim" class="menu"> 
+		<script>document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script>document.write(getMenu(2));</script> 
+	</div>
+	</nav>
+	<div id="extra"></div>
+</div>
+<article id="content" role="main">
+<!-- #BeginEditable "Body" -->
+
+<h1 class="center">Vectors</h1>
+
+<p class="center">This is a vector:</p>
+		<p class="center"><img src="images/vector.gif" width="142" height="81" alt="vector" /></p>
+		<p>A vector has <b>magnitude</b> (size) and <b>direction</b>:</p>
+		<p class="center"><img src="images/vector-mag-dir.svg" alt="vector magnitude and direction" /></p>
+		<p class="center">The length of the line shows its magnitude and the arrowhead points in the direction.</p>
+		<p>We can add two vectors by joining them head-to-tail:</p>
+		<p class="center"><img src="images/vector-add.svg" width="248" height="92" alt="vector add a+b" /></p>
+		<p>And it doesn't matter which order we add them, we get the same result:</p>
+		<p class="center"><img src="images/vector-add2.gif" width="247" height="95" alt="vector add b+a" /></p>
+		<div class="example">
+			<h3>Example: A plane is flying along, pointing North, but there is a wind coming from the North-West.</h3>
+			<p class="center"><img src="images/vector-airplane.svg" alt="vector airplane, propellor and wind" /></p>
+			<p>The two vectors (the velocity caused by the propeller, and the velocity of the wind) result in a slightly slower ground speed heading a little East of North.</p>
+			<p>If you watched the plane from the ground it would seem to be slipping sideways a little.</p>
+			<p class="center"><img src="images/vector-airplane2.gif" width="134" height="154" alt="vector airplane ahead and slightly sideways" /></p>
+			<p>Have you ever seen that happen? Maybe you have seen birds struggling against a strong wind that seem to fly sideways. Vectors help explain that.</p>
+		</div>
+		<p><a href="../measure/metric-speed.html">Velocity</a>, <a href="../measure/metric-acceleration.html">acceleration</a>, <a href="../physics/force.html">force</a> and many other things are vectors.</p>
+		<h2>Subtracting</h2>
+		<p>We can also subtract one vector from another:</p>
+		<ul>
+			<li>first we reverse the direction of the vector we want to subtract,</li>
+			<li>then add them as usual:</li>
+		</ul>
+		<p class="center"><img src="images/vector-subtract.gif" width="264" height="115" alt="vector subtract a-b = a + (-b)" /><br>
+<b>a</b> &minus; <b>b</b></p>
+		<h2>Notation</h2>
+		<p>A vector is often written in <b>bold</b>, like <b>a</b> or <b>b</b>.</p>
+		<table style="border: 0; margin:auto;">
+			<tr>
+				<td>A vector can also be written as the letters<br>
+of its head and tail with an arrow above it, like this:</td>
+				<td>&nbsp;</td>
+				<td><img src="images/vector-notation.svg" alt="vector notation a=AB, head, tail" /></td>
+			</tr>
+		</table>
+		<h2>Calculations</h2>
+		<p>Now ... how do we do the calculations?</p>
+		<p>The most common way is to first break up vectors into x and y parts, like this:</p>
+		<p class="center"><img src="images/vector-xy-components.gif" width="122" height="92" alt="vector xy components" /></p>
+		<p class="center">The vector <b>a</b> is broken up into<br>
+the two vectors <b>a<sub>x</sub></b> and <b>a<sub>y</sub></b></p>
+		<p class="center">(We <a href="#magdir">see later</a> how to do this.)</p>
+		<h2>Adding Vectors</h2>
+		<p>We can then add vectors by <b>adding the  x parts</b> and <b>adding the y parts</b>:</p>
+		<p class="center"><img src="images/vector-add3.gif" width="484" height="130" alt="vector add example" /></p>
+		<p class="center">The vector (8, 13) and the vector (26, 7) add up to the vector (34, 20)</p>
+		<div class="example">
+			<h3>Example: add the vectors <b>a</b> = (8, 13) and <b>b</b> = (26, 7)</h3>
+			<p><b>c</b> = <b>a</b> + <b>b</b></p>
+			<p><b>c</b> = (8, 13) + (26, 7) = (8+26, 13+7) = (34, 20)</p>
+		</div>
+<p>When we break up a vector like that,  each part is called a <b>component</b>:</p>		
+<link rel="stylesheet" type="text/css" href="../stylejs.css"><script src="../geometry/images/geom-vector.js"></script>
+	<script>geomvectorMain('xy');</script>
+
+<h2>Subtracting Vectors</h2>
+		<p>To subtract, first reverse the vector we want to subtract, then add.</p>
+		<div class="example">
+			<h3>Example: subtract <b>k</b> = (4, 5) from <b>v</b> = (12, 2)</h3>
+			<p><b>a</b> = <b>v</b> + &minus;<b>k</b></p>
+			<p><b>a</b> = (12, 2) + &minus;(4, 5) = (12, 2) + (&minus;4, &minus;5) = (12&minus;4, 2&minus;5) = (8, &minus;3)</p>
+		</div>
+		<h2>Magnitude of a Vector</h2>
+		<p>The magnitude of a vector is shown by two vertical bars on either side of the vector:</p>
+		<p class="large center">|<b>a</b>|</p>
+		<p>OR it can be written with double vertical bars (so as not to confuse it with absolute value):</p>
+		<p class="large center">||<b>a</b>||</p>
+		<p>We use <a href="../pythagoras.html">Pythagoras' theorem</a> to calculate it:</p>
+		<p class="large center">|<b>a</b>| = &radic;( x<sup>2</sup> + y<sup>2</sup> )</p>
+		<div class="example">
+			<h3>Example: what is the magnitude of the vector <b>b</b> = (6, 8) ?</h3>
+			<p>|<b>b</b>| = &radic;( 6<sup>2</sup> + 8<sup>2</sup>) = &radic;( 36+64) = &radic;100 = 10</p>
+		</div>
+		<p>A vector with magnitude 1 is called a <a href="vector-unit.html">Unit Vector</a>.</p>
+		<h2>Vector vs Scalar</h2>
+		<p>A <b>scalar</b> has <b>magnitude</b> (size) <b>only</b>.</p>
+		<div class="def">
+			<p>Scalar: just a number (like 7 or &minus;0.32) ... definitely not a vector.</p>
+		</div>
+		<p>A <b>vector</b> has <b>magnitude and direction</b>, and is often written in <b>bold</b>, so we know it is not a&nbsp;scalar:</p>
+		<ul>
+			<li>so <b>c</b> is a vector, it has magnitude and direction</li>
+			<li>but c is just a value, like 3 or 12.4</li>
+		</ul>
+		<div class="example">
+			<h3>Example: k<b>b</b> is actually the scalar k times the vector <b>b</b>.</h3>
+		</div>
+		<h2>Multiplying a Vector by  a Scalar</h2>
+		<p>When we multiply a vector by a scalar it is called &quot;scaling&quot; a vector, because we change how big or small the vector is.</p>
+		<div class="example">
+			<h3>Example: multiply the vector <b>m</b> = (7, 3) by the scalar 3</h3>
+<table style="border: 0;">
+			<tr>
+				<td><img src="images/vector-scaling.gif" width="184" height="135" alt="vector scaling" /></td>
+				<td>&nbsp;</td>
+				<td><b>a</b> = 3<b>m</b> = (3&times;7, 3&times;3) = (21, 9)</td>
+			</tr>
+			</table>
+			
+			<p>It still points in the same direction, but is 3 times longer</p>
+		</div>
+		<p>(And now you know why numbers are called &quot;scalars&quot;, because they &quot;scale&quot; the vector up or down.)</p>
+		<p>&nbsp;</p>
+		<h2>Multiplying a Vector by a Vector (Dot Product and Cross Product)</h2>
+		<table width="100%" border="0">
+			<tr>
+				<td><img src="images/dot-product-1.gif" width="164" height="139" alt="dot product magnitude and angle" /></td>
+				<td>
+					<p>How do we <b>multiply two vectors</b> together? There is more than one way!</p>
+					<ul>
+						<li>The scalar or <a href="vectors-dot-product.html">Dot Product</a> (the result is a scalar).</li>
+						<li>The vector or <a href="vectors-cross-product.html">Cross Product</a> (the result is a vector).</li>
+					</ul>
+					<p>(Read those pages for more details.)</p>
+				</td>
+			</tr>
+		</table>
+		<p>&nbsp;</p>
+		<h2>More Than 2 Dimensions</h2>
+		<p>Vectors also work perfectly well in 3 or more dimensions:</p>
+		<p class="center"><img src="images/vector-3da.svg" width="320" height="270" alt="vector in 3d" /><br>
+<b>The vector&nbsp;(1, 4, 5)</b></p>
+		<div class="example">
+			<h3>Example: add the vectors <b>a</b> = (3, 7, 4) and <b>b</b> = (2, 9, 11)</h3>
+			<p><b>c</b> = <b>a</b> + <b>b</b></p>
+			<p><b>c</b> = (3, 7, 4) + (2, 9, 11) = (3+2, 7+9, 4+11) = (5, 16, 15)</p>
+		</div>
+		<div class="example">
+			<h3>Example: what is the magnitude of the vector <b>w</b> = (1, &minus;2, 3) ?</h3>
+			<p class="center">|<b>w</b>| = &radic;( 1<sup>2</sup> + (&minus;2)<sup>2 </sup> + 3<sup>2 </sup>) = &radic;( 1+4+9) = &radic;14</p>
+		</div>
+		<p>Here is an example with 4 dimensions (but it is hard to draw!):</p>
+		<div class="example">
+			<h3>Example: subtract (1, 2, 3, 4) from (3, 3, 3, 3)</h3>
+			<p class="center">(3, 3, 3, 3) + &minus;(1, 2, 3, 4)<br>
+= (3, 3, 3, 3) + (&minus;1,&minus;2,&minus;3,&minus;4)<br>
+= (3&minus;1, 3&minus;2, 3&minus;3, 3&minus;4)<br>
+= (2, 1, 0, &minus;1)</p>
+		</div>
+		<p>&nbsp;</p>
+		<h2><a id="magdir"></a>Magnitude and Direction</h2>
+		<p>We may know a vector's magnitude and direction, but want its x and y lengths (or vice versa):</p>
+		<table style="border: 0; margin:auto;">
+			<tr>
+				<td style="text-align:center;"><img src="images/vector-polar.svg" alt="vector polar" /></td>
+				<td style="text-align:center;">&lt;=&gt;</td>
+				<td style="text-align:center;"><img src="images/vector-cartesian.svg" alt="vector cartesian" /></td>
+			</tr>
+			<tr>
+				<td style="text-align:center;">Vector <b>a</b> in Polar<br>
+Coordinates</td>
+				<td style="text-align:center;">&nbsp;</td>
+				<td style="text-align:center;">Vector <b>a</b> in Cartesian<br>
+Coordinates</td>
+			</tr>
+		</table>
+		<p>You can read how to convert them at <a href="../polar-cartesian-coordinates.html">Polar and Cartesian Coordinates</a>, but here is a quick summary:</p>
+		<div class="simple">
+			<table style="border: 0; margin:auto;">
+				<tr>
+					<th>From Polar Coordinates (r,<i>&theta;</i>)<br>
+to Cartesian Coordinates (x,y)</th>
+					<td>&nbsp;</td>
+					<th><span class="larger">From Cartesian Coordinates (x,y)<br>
+to Polar Coordinates (r,&theta;)</span></th>
+				</tr>
+				<tr>
+					<td>
+						<ul>
+							<li><b>x = r</b> &times; <b>cos( <i>&theta;</i> )</b></li>
+							<li><b>y = r</b> &times; <b>sin(<i> &theta;</i> )</b></li>
+						</ul>
+					</td>
+					<td>&nbsp;</td>
+					<td>
+						<ul>
+							<li><b>r = &radic; ( x<sup>2</sup> + y<sup>2 </sup>)</b></li>
+							<li><b><i>&theta;</i> = tan<sup>-1 </sup>( y / x )</b></li>
+						</ul>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p style="float:left; margin: 0 10px 5px 0;"><img src="images/vector-ex1c.svg" alt="vector example two people pull" /></p>
+		<h2>An Example</h2>
+		<p>Sam and Alex are pulling a box.</p>
+		<ul>
+			<li>Sam pulls with 200 Newtons of force at 60&deg;</li>
+			<li>Alex pulls with 120 Newtons of force at 45&deg; as shown</li>
+		</ul>
+		<p>What is the combined <a href="../physics/force.html">force</a>, and its direction?</p>
+		<p>&nbsp;</p>
+		<p>Let us add the two vectors head to tail:</p>
+		<p class="center"><img src="images/vector-ex1a.gif" width="176" height="146" alt="vectors: angles and magnitudes" /></p>
+		<p>First convert from polar to Cartesian (to 2 decimals):</p>
+		<p>Sam's Vector:</p>
+		<ul>
+			<li><b>x = r &times; cos( <i>&theta;</i> ) = 200 &times; cos(60&deg;) = 200 &times; 0.5 = 100</b></li>
+			<li><b>y = r &times; sin(<i> &theta;</i> ) = 200 &times; sin(60&deg;) = 200 &times; 0.8660 = 173.21</b></li>
+		</ul>
+		<p>Alex's Vector:</p>
+		<ul>
+			<li><b>x = r &times; cos( <i>&theta;</i> ) = 120 &times; cos(&minus;45&deg;) = 120 &times; 0.7071 = 84.85</b></li>
+			<li><b>y = r &times; sin(<i> &theta;</i> ) = 120 &times; sin(&minus;45&deg;) = 120 &times; -0.7071 = &minus;84.85</b></li>
+		</ul>
+		<p>Now we have:</p>
+		<p class="center"><img src="images/vector-ex1b.gif" width="190" height="137" alt="vectors: components" /></p>
+		<p>Add them:</p>
+		<p class="center larger">(100, 173.21) + (84.85, &minus;84.85) = (184.85, 88.36)</p>
+		<p>That answer is valid, but let's convert back to polar as the question was in polar:</p>
+		<ul>
+			<li><b>r = &radic; ( x<sup>2</sup> + y<sup>2 </sup>) = &radic; ( 184.85<sup>2</sup> + 88.36<sup>2 </sup>)</b> = <b> 204.88</b></li>
+			<li><b><i>&theta;</i> = tan<sup>-1 </sup>( y / x ) = tan<sup>-1 </sup>( 88.36 / 184.85 ) = 25.5&deg;</b></li>
+		</ul>
+		<p class="center"><span class="large">And we have this (rounded) result:</span><br>
+<img src="images/vector-ex1d.gif" width="138" height="140" alt="vector result" /></p>
+		<p class="center"><span class="large">And it looks like this for Sam and Alex:</span><br>
+<img src="images/vector-ex1e.svg" alt="vector combined pull force" /></p>
+		<p>They might get a better result if they were shoulder-to-shoulder!</p>
+		<p>&nbsp;</p>
+		<div class="questions">
+			<script>
+				getQ(3022, 3023, 3024, 3025, 3026, 3027, 3028, 3901, 3902, 3029);
+			</script>&nbsp; </div>
+
+<div class="related">       
+  <a href="vectors-dot-product.html">Dot Product</a>       
+  <a href="vectors-cross-product.html">Cross Product</a>       
+  <a href="vector-unit.html">Unit Vector</a>       
+  <a href="vector-calculator.html">Vector Calculator</a>       
+  <a href="index.html">Algebra Index</a> 
+</div>
+		<!-- #EndEditable -->
+
+</article>
+<div id="adend" class="centerfull noprint"> 
+	<script>document.write(getAdEnd());</script> 
+</div>
+<footer id="footer" class="centerfull noprint">
+	<script>document.write(getFooter());</script>
+</footer>
+<div id="copyrt">
+Copyright &copy; 2020 MathsIsFun.com
+</div>
+<script>document.write(getBodyEnd());</script>
+</body>
+<!-- #EndTemplate -->
+
+<!-- Mirrored from www.mathsisfun.com/algebra/vectors.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:36:57 GMT -->
+</html>

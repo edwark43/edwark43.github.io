@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="264.9" height="184.4" version="1.1">
+<defs>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<g transform="translate(-359.409,-2496.84)">
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 400.5,2523 H 605.2"/>
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 400.5,2497.3 H 605.2"/>
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 400.5,2651.5 H 605.2"/>
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 400.5,2600.1 H 605.2"/>
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 400.5,2574.4 H 605.2"/>
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 400.5,2548.7 H 605.2"/>
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 401.5,2625.8 H 606.2"/>
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 477.6,2651.5 V 2497.6"/>
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 451.9,2651.5 V 2497.6"/>
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 426.2,2651.5 V 2497.6"/>
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 400.5,2651.5 V 2497.6"/>
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 606.2,2651.5 V 2497.6"/>
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 554.8,2651.5 V 2497.6"/>
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 529.1,2651.5 V 2497.6"/>
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 503.4,2651.5 V 2497.6"/>
+<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-width:0.92; stroke-dasharray:7.4, 0.9;" d="M 580.5,2650.8 V 2496.9"/>
+<path style="marker-end:url(#id1); fill:#2e3436; fill-opacity:0.75; stroke:#2e3436; stroke-width:1.38;" d="M 364,2651.5 H 574.5"/>
+<path style="marker-end:url(#id1); fill:#2e3436; fill-opacity:0.75; stroke:#2e3436; stroke-width:1.38;" d="M 400.3,2678.8 V 2511.5"/>
+<text x="555.8" y="2670.5" style="font-family:'Comic Sans MS'; font-weight:bold; font-size:25.8px; font-style:italic; overflow:visible; fill:black; stroke-width:1px;">x</text>
+<text x="434.2" y="2802.5" style="font-family:'Comic Sans MS'; font-size:16.6px; overflow:visible; fill:#0197fd; stroke-width:2.2;"></text>
+<text x="381.1" y="2523.1" style="font-family:'Comic Sans MS'; font-weight:bold; font-size:25.8px; font-style:italic; overflow:visible; fill:black; stroke-width:1px;">y</text>
+<path style="overflow:visible; fill:none; fill-opacity:0.84; stroke:#0197fd; stroke-width:2.3; stroke-linecap:round;" d="M 458.2,2680.1 617,2505.3"/>
+<path style="overflow:visible; fill:none; fill-opacity:0.84; stroke:#0197fd; stroke-width:2.3; stroke-linecap:round;" d="m 360.6,2565.4 262.6,89.7"/>
+<g transform="matrix(0.301299,-0.34759,0.34759,0.301299,-632.046,2097.05)">
+<g transform="translate(1041.62,-184.64)">
+<text x="-187.7" y="2799.7" style="font-family:'Comic Sans MS'; font-size:44.2px; overflow:visible; fill:#0197fd; stroke-width:2.2;">m </text>
+<text x="-100.1" y="2801.8" style="font-family:'Comic Sans MS'; font-size:36.1px; overflow:visible; fill:#0197fd; stroke-width:2.2;">0</text>
+<path style="overflow:visible; fill:none; fill-opacity:0.89; stroke:#0097fd; stroke-width:3.95;" d="m -137.6,2777.8 20.4,11.8 -20.7,12"/>
+</g>
+<text x="820.3" y="2659.7" style="font-family:'Comic Sans MS'; font-size:36.1px; overflow:visible; fill:#0197fd; stroke-width:2.2;">increasing</text>
+</g>
+<g transform="matrix(0.434723,0.150385,-0.150385,0.434723,516.885,1281.79)">
+<g transform="translate(905.802,-187.121)">
+<text x="-163.5" y="2922.1" style="font-family:'Comic Sans MS'; font-size:44.2px; overflow:visible; fill:#0197fd; stroke-width:2.2;">m </text>
+<text x="-75.9" y="2924.1" style="font-family:'Comic Sans MS'; font-size:36.1px; overflow:visible; fill:#0197fd; stroke-width:2.2;">0</text>
+<path style="overflow:visible; fill:none; fill-opacity:0.89; stroke:#0097fd; stroke-width:3.95;" d="m -93.3,2900.2 -20.4,11.8 20.7,12"/>
+</g>
+<text x="713.1" y="2782.5" style="font-family:'Comic Sans MS'; font-size:36.1px; overflow:visible; fill:#0197fd; stroke-width:2.2;">decreasing</text>
+</g>
+</g>
+</svg>

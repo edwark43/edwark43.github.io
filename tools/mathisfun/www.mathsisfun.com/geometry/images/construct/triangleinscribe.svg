@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="300px" height="200px" xmlns="http://www.w3.org/2000/svg" style="stroke-width:2px;">
+<desc>SVG Output</desc>
+<g transform="translate(-100,-80)">
+<polyline points='150.00 83.000, 302.00 258.00, ' stroke-width='2' stroke='#aacccc' fill='#def' fill-opacity='0.2'  />
+<polyline points='302.00 258.00, 370.00 140.00, ' stroke-width='2' stroke='#aacccc' fill='#def' fill-opacity='0.2'  />
+<circle cx="150" cy="83" r="3"/>
+<circle cx="302" cy="258" r="3"/>
+<circle cx="370" cy="140" r="3"/>
+<polyline points='370.00 140.00, 150.00 83.000, ' stroke-width='2' stroke='#aacccc' fill='#def' fill-opacity='0.2'  />
+<path d="M 236.3 207.3 A 110 110 0 0 1 212.7 179.7" fill="none" stroke="#ffcc66" />
+<path d="M 227.7 215.1 A 110 110 0 0 1 227.4 178.8" fill="none" stroke="#ffcc66" />
+<polyline points='290.00 129.00, 302.00 258.00, ' stroke-width='2' stroke='#8888ff' fill='#8888ff' fill-opacity='0.2'  />
+<circle cx="294" cy="172" r="3"/>
+<circle cx="294" cy="172" r="3"/>
+<polyline points='226.00 198.00, 370.00 140.00, ' stroke-width='2' stroke='#8888ff' fill='#8888ff' fill-opacity='0.2'  />
+<polyline points='150.00 83.000, 302.00 258.00, ' stroke-width='2' stroke='#aacccc' fill='#8888ff' fill-opacity='0.2'  />
+<polyline points='302.00 258.00, 370.00 140.00, ' stroke-width='2' stroke='#aacccc' fill='#8888ff' fill-opacity='0.2'  />
+<circle cx="150" cy="83" r="3"/>
+<circle cx="302" cy="258" r="3"/>
+<circle cx="370" cy="140" r="3"/>
+<path d="M 332.6 126 A 60 60 0 0 1 345.4 141.1" fill="none" stroke="#ffcc66" />
+<path d="M 264 120 A 60 60 0 0 1 282.6 113.1" fill="none" stroke="#ffcc66" />
+<path d="M 311.6 69 A 60 60 0 0 1 324.4 84.1" fill="none" stroke="#ffcc66" />
+<path d="M 310 80 A 60 60 0 0 1 328.6 73.1" fill="none" stroke="#ffcc66" />
+<circle cx="319" cy="76" r="3"/>
+<polyline points='370.00 140.00, 150.00 83.000, ' stroke-width='2' stroke='#aacccc' fill='#8888ff' fill-opacity='0.2'  />
+<path d="M 294 122 A 50 50 0 0 1 303.1 122.8" fill="none" stroke="#ffcc66" />
+<polyline points='294.00 172.00, 319.00 76.000, ' stroke-width='2' stroke='#8888ff' fill='#8888ff' fill-opacity='0.2'  />
+<circle cx="294" cy="172" r="50" stroke-width='2' stroke='#8888ff' fill='none' fill-opacity='0.5'  />
+</g>, 
+</svg>

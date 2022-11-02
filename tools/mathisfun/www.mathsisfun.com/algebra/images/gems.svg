@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="152.132"
+   height="101.528"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="gems.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="g28" />
+  <defs
+     id="defs2" />
+  <g
+     transform="translate(1331.73,52.9614)"
+     id="g28">
+    <text
+       x="-1333.3"
+       y="24.1"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.2px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold Italic';fill:#4e9a06"
+       id="text4">G</text>
+    <text
+       x="-1295.5"
+       y="24.2"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.2px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold Italic';fill:#204a87"
+       id="text6">E</text>
+    <text
+       x="-1254.2"
+       y="1.6"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.2px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold Italic';fill:#8ae234"
+       id="text8">M</text>
+    <text
+       x="-1251.6"
+       y="48.1"
+       style="font-weight:bold;font-size:38.2px;font-family:'Trebuchet MS';fill:#8ae234;-inkscape-font-specification:'Trebuchet MS Bold Italic';font-style:italic;font-stretch:normal;font-variant:normal"
+       id="text10">D</text>
+    <text
+       x="-1203.7"
+       y="1.6"
+       style="font-weight:bold;font-size:38.2px;font-family:'Trebuchet MS';fill:#729fcf;-inkscape-font-specification:'Trebuchet MS Bold Italic';font-style:italic;font-stretch:normal;font-variant:normal"
+       id="text12">A</text>
+    <text
+       x="-1203.1"
+       y="48.1"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.2px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold Italic';fill:#729fcf"
+       id="text14">S</text>
+    <text
+       x="-1332.7"
+       y="-37.6"
+       style="font-weight:bold;font-size:21.1px;font-family:'Trebuchet MS';fill:#5eaa15"
+       id="text16">1.</text>
+    <text
+       x="-1292.4"
+       y="-37.6"
+       style="font-weight:bold;font-size:21.1px;font-family:'Trebuchet MS';fill:#204a87"
+       id="text18">2.</text>
+    <text
+       x="-1246.3"
+       y="-37.6"
+       style="font-weight:bold;font-size:21.1px;font-family:'Trebuchet MS';fill:#8ce436"
+       id="text20">3.</text>
+    <text
+       x="-1198.9"
+       y="-37.6"
+       style="font-weight:bold;font-size:21.1px;font-family:'Trebuchet MS';fill:#729fcf"
+       id="text22">4.</text>
+    <text
+       x="-1246.6"
+       y="16.6"
+       style="font-weight:bold;font-size:19.1px;font-family:'Trebuchet MS';fill:#8ce436"
+       id="text24">or</text>
+    <text
+       x="-1199.5"
+       y="16.6"
+       style="font-weight:bold;font-size:19.1px;font-family:'Trebuchet MS';fill:#729fcf"
+       id="text26">or</text>
+  </g>
+</svg>

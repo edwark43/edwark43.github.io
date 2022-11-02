@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="140.3"
+   height="155.4"
+   version="1.1"
+   style="font-family:'Comic Sans MS';fill:none;stroke-width:1px"
+   id="svg36"
+   sodipodi:docname="solid-rev-x-x3-1.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview38"
+     showgrid="false"
+     inkscape:current-layer="svg36" />
+  <defs
+     id="defs8">
+    <marker
+       style="overflow:visible"
+       id="marker1183"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1;fill:#3465a4;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1181" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1173"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1;fill:#3465a4;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1171" />
+    </marker>
+    <marker
+       id="aa2"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:black;fill:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       id="aa1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:black;fill:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5" />
+    </marker>
+  </defs>
+  <path
+     style="stroke:#3465a4;stroke-width:1;marker-end:url(#marker1183);fill:#3465a4"
+     d="m -0.045,131.813 h 138.4"
+     id="path10" />
+  <path
+     style="stroke:#3465a4;stroke-width:1;marker-end:url(#marker1173);fill:#3465a4"
+     d="M 11.255,137.413 V 1.8127"
+     id="path12" />
+  <text
+     x="123.119"
+     y="125.002"
+     style="color:#000000;font-style:italic;font-size:20px;overflow:visible;fill:#3465a4;"
+     id="text14">x</text>
+  <text
+     x="16.9517"
+     y="21.2594"
+     style="color:#000000;font-style:italic;font-size:20px;overflow:visible;fill:#3465a4;"
+     id="text16">y</text>
+  <text
+     x="-49.9405"
+     y="139.866"
+     transform="rotate(-55.4034)"
+     style="color:#000000;font-style:italic;font-size:18.7px;overflow:visible;fill:#c4a000"
+     id="text18">y=x</text>
+  <text
+     x="5.555"
+     y="150.813"
+     style="color:#000000;font-style:italic;font-size:16px;overflow:visible;fill:#204a87"
+     id="text20">0</text>
+  <text
+     x="108.955"
+     y="151.113"
+     style="color:#000000;font-style:italic;font-size:16px;overflow:visible;fill:#204a87"
+     id="text22">1</text>
+  <path
+     style="stroke:#c4a000;stroke-width:1.31"
+     d="m 11.1,131.885 c 24.4,0.1 55.1,-5.8 74.7,-39.3003 9.3,-17.3 27.2,-56.2 32.6,-79.7"
+     id="path24" />
+  <path
+     style="stroke:#204a87;stroke-width:0.8;stroke-dasharray:3.2,3.2;fill:#3465a4;stroke-miterlimit:4;stroke-dashoffset:0"
+     d="M 113.155,141.113 V 24.2127"
+     id="path26" />
+  <text
+     x="-18.5405"
+     y="134.566"
+     transform="rotate(-55.4034)"
+     style="color:#000000;font-style:italic;font-size:13.3px;overflow:visible;fill:#c4a000"
+     id="text28">3</text>
+  <path
+     style="stroke:#0084c8"
+     d="M -2.345,144.413 121.555,21.9127"
+     id="path30" />
+  <text
+     x="-26.6223"
+     y="99.428"
+     transform="rotate(-47.8193)"
+     style="color:#000000;font-style:italic;font-size:18.7px;overflow:visible;fill:#0084c8"
+     id="text32">y=x</text>
+</svg>

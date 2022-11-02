@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="186.6" height="186.6" version="1.1" style="font-family:'Comic Sans MS'; font-size:13.3px; stroke-width:1.64;">
+<defs>
+	<marker id="aa1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-1.1,0,0,-1.1,-1.1,0)" style="font-size:12px; fill:#ff0000; stroke:#ff0000; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 c -1.7,2.4 -1.7,5.6 0,8 z"/>
+	</marker>
+	<marker id="aa2" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-1.1,0,0,-1.1,-1.1,0)" style="font-size:12px; fill:#0000ff; stroke:#0000ff; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 c -1.7,2.4 -1.7,5.6 0,8 z"/>
+	</marker>
+</defs>
+<rect x="-0" y="0" width="186.6" height="186.6" style="color:black; overflow:visible; fill:white; stroke-width:5.59;"/>
+<g transform="matrix(0.696787,0,0,0.696787,-1813.67,-1245.14)">
+	<g transform="translate(618,-6)">
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1948.9 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1882.7 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1816.6 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1750.4 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2279.6 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2147.3 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2081.2 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2015 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2213.5 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1982 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1915.8 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1849.7 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1783.5 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2180.4 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2114.3 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2048.1 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2246.6 h 526.7"/>
+	</g>
+	<g>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2647.9,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2581.7,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2515.6,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2449.4,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2978.6,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2846.3,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2780.2,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2714,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2912.4,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2680.9,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2614.8,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2548.6,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2482.5,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2879.4,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2813.2,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2747.1,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2945.5,2272.4 V 1745.7"/>
+	</g>
+</g>
+<path style="marker-end:url(#aa1); fill:none; stroke:#ff0000; stroke-width:1.71;" d="M 31.7,377.7 V 6.5"/>
+<text x="48.6" y="171.2" style="font-family:'Comic Sans MS'; fill:#0000ff; stroke-width:0.76;">1</text>
+<text x="71.7" y="171.2" style="font-family:'Comic Sans MS'; fill:#0000ff; stroke-width:0.76;">2</text>
+<text x="94.8" y="171.1" style="font-family:'Comic Sans MS'; fill:#0000ff; stroke-width:0.76;">3</text>
+<text x="117.8" y="171.2" style="font-family:'Comic Sans MS'; fill:#0000ff; stroke-width:0.76;">4</text>
+<text x="-68.3" y="171.2" style="font-family:'Comic Sans MS'; fill:#0000ff; stroke-width:0.76;">-4</text>
+<text x="-45.2" y="171.1" style="font-family:'Comic Sans MS'; fill:#0000ff; stroke-width:0.76;">-3</text>
+<text x="-22.1" y="171.2" style="font-family:'Comic Sans MS'; fill:#0000ff; stroke-width:0.76;">-2</text>
+<text x="1" y="171.2" style="font-family:'Comic Sans MS'; fill:#0000ff; stroke-width:0.76;">-1</text>
+<text x="27.1" y="171.1" style="font-family:'Comic Sans MS'; fill:#0000ff; stroke-width:0.76;">0</text>
+<text x="22.5" y="136.8" style="font-family:'Comic Sans MS'; fill:#ff0000; stroke-width:0.76;">i</text>
+<text x="13.7" y="113.8" style="font-family:'Comic Sans MS'; fill:#ff0000; stroke-width:0.76;">2i</text>
+<text x="13.6" y="90.6" style="font-family:'Comic Sans MS'; fill:#ff0000; stroke-width:0.76;">3i</text>
+<text x="13.6" y="67.7" style="font-family:'Comic Sans MS'; fill:#ff0000; stroke-width:0.76;">4i</text>
+<text x="8.6" y="251.9" style="font-family:'Comic Sans MS'; fill:#ff0000; stroke-width:0.76;">-4i</text>
+<text x="8.6" y="228.8" style="font-family:'Comic Sans MS'; fill:#ff0000; stroke-width:0.76;">-3i</text>
+<text x="8.7" y="205.9" style="font-family:'Comic Sans MS'; fill:#ff0000; stroke-width:0.76;">-2i</text>
+<text x="16.4" y="182.9" style="font-family:'Comic Sans MS'; fill:#ff0000; stroke-width:0.76;">-i</text>
+<text x="13.6" y="43.9" style="font-family:'Comic Sans MS'; fill:#ff0000; stroke-width:0.76;">5i</text>
+<circle cx="100.8" cy="62.8" r="4.20314" style="color:black; overflow:visible; fill:#0e232e; stroke:#0e232e; stroke-width:1.83;"/>
+<path style="fill:none; stroke:#c4a000; stroke-width:1.67;" d="M 31.1,153.3 100.5,62.9"/>
+<path style="marker-end:url(#aa2); fill:none; stroke:#0000ff; stroke-width:1.71;" d="m -127.6,153.4 h 294.6"/>
+<text x="16.9" y="159.7" style="font-family:'Comic Sans MS'; fill:#ff0000; stroke-width:0.76;">0</text>
+<g transform="matrix(1.18572,0,0,1.18572,370.014,-63.519)">
+	<text x="-220.7" y="104.1" style="font-family:'Comic Sans MS'; font-size:20px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:1px;">3</text>
+	<text x="-205.2" y="104.1" style="font-family:'Comic Sans MS'; font-size:20px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:1px;">+</text>
+	<text x="-191.1" y="104.1" style="font-family:'Comic Sans MS'; font-size:20px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:1px;">4</text>
+	<text x="-178.2" y="104.1" style="font-family:'Comic Sans MS'; font-size:20px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:1px;">i</text>
+</g>
+</svg>

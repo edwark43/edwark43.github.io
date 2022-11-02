@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" width="182.9" height="162.3" version="1.1" style="font-family:'Trebuchet MS'; font-size:16px; fill:#204a87;">
+<defs>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#ba00ff; stroke:#ba00ff; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ba00ff; stroke:#ba00ff; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g transform="translate(-240.479,-1817.92)">
+	<ellipse cx="330.9" cy="1895.5" rx="77.1" ry="77.1" style="font-family:Arial; font-size:74px; fill:none; stroke:#f57900; stroke-width:1;"/>
+	<path style="fill:none; stroke:#3465a4; stroke-width:1;" d="m 254,1895.2 c 154.4,1.2 152.9,0.9 152.9,0.9"/>
+	<circle cx="331.4" cy="1896.1" r="1.66332" style="font-family:Arial; font-size:116.6px; fill:#ba00ff; stroke:#ba00ff; stroke-width:0.55;"/>
+	<path style="fill:none; stroke:#3465a4; stroke-width:1;" d="m 253.3,1895.1 c 111.3,69.2 111.3,69.2 111.3,69.2 43.2,-68.7 43.2,-68.7 43.2,-68.7"/>
+	<text x="327.8" y="1890.6" style="stroke-width:1;">O</text>
+	<text x="363.5" y="1980" style="stroke-width:1;">C</text>
+	<text x="413.5" y="1903.7" style="stroke-width:1;">B</text>
+	<text x="240.5" y="1902.9" style="stroke-width:1;">A</text>
+	<path style="fill:none; stroke:#0084c8; stroke-width:0.77;" d="m 400.8,1906.8 a 12.2,12.2 0 0 1 -5.8,-10.4" sodipodi:type="arc" sodipodi:cx="407.205" sodipodi:cy="1896.38" sodipodi:rx="12.2113" sodipodi:ry="12.2113" sodipodi:start="2.12756" sodipodi:end="3.14159" sodipodi:arc-type="arc"/>
+	<text x="369.1" y="1919.9" style="stroke-width:1;">55</text>
+	<text x="396.9" y="1859.5" transform="scale(0.973467,1.02726)" style="font-size:9.8px; stroke-width:1;">O</text>
+</g>
+</svg>

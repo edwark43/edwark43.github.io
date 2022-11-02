@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="160.00000pt"
+   id="svg1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="t-shirt.svg"
+   sodipodi:version="0.32"
+   width="160.00000pt"
+   version="1.1">
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>t-shirt</dc:title>
+        <dc:description />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li />
+            <rdf:li>people</rdf:li>
+            <rdf:li>clothing</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://www.openclipart.org/">
+            <dc:title>Nicu Buculei</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Nicu Buculei</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Nicu Buculei</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient838">
+      <stop
+         style="stop-color:#3c5889;stop-opacity:1"
+         offset="0"
+         id="stop834" />
+      <stop
+         style="stop-color:#3c5889;stop-opacity:0.548387"
+         offset="1"
+         id="stop836" />
+    </linearGradient>
+    <sodipodi:namedview
+       bordercolor="#666666"
+       borderopacity="1.0"
+       id="namedview4258"
+       inkscape:cx="475.26707"
+       inkscape:cy="250.37448"
+       inkscape:pageopacity="0.0"
+       inkscape:pageshadow="2"
+       inkscape:window-height="739"
+       inkscape:window-width="1012"
+       inkscape:window-x="0"
+       inkscape:window-y="26"
+       inkscape:zoom="0.61399264"
+       pagecolor="#ffffff" />
+    <defs
+       id="defs48974" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient838"
+       id="linearGradient844"
+       x1="9.7955"
+       y1="98.5454"
+       x2="186.857"
+       y2="71.9048"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     id="base"
+     inkscape:cx="80.000000"
+     inkscape:cy="80.000000"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="725"
+     inkscape:window-width="903"
+     inkscape:window-x="47"
+     inkscape:window-y="63"
+     inkscape:zoom="3.5000000"
+     pagecolor="#ffffff"
+     showgrid="false"
+     inkscape:current-layer="svg1" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:url(#linearGradient844);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     sodipodi:nodetypes="ccccccccccccccc"
+     id="path2773"
+     d="m 9.7955,98.5454 c 2.4954,3.8396 28.857,15.1206 36.5725,12.7796 2.9167,-2.917 2.6474,-16.2706 4.375,-19.6868 4.223,13.2828 -4.8376,85.6538 -5.1041,96.9778 11.2508,7.869 95.1691,7.024 114.9001,2.341 3.032,-4.299 -7.291,-67.994 -6.255,-97.1316 1.995,2.92 3.134,10.5786 3.645,13.8536 8.14,2.341 37.725,-4.375 39.912,-8.0196 0.08,-7.2935 -20.224,-63.4373 -25.328,-66.3539 -5.738,-4.943 -40.461,-16.9012 -45.4,-22.3507 -1.14,-0.637 -2.04,-2.24887 -2.674,-3.16987 -5.699,2.62497 -33.791,3.65267 -39.018,-0.4382 -1.2633,1.5124 -1.1296,2.47836 -3.0297,3.35127 -3.6458,0 -35.8258,15.2758 -46.5381,23.9125 -7.7296,9.1691 -27.4,59.2909 -26.0577,63.9349 z" />
+  <text
+     xml:space="preserve"
+     style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.009367px;line-height:10.01171px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Italic';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.400469px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     x="105.555"
+     y="66.24"
+     id="text848"><tspan
+       sodipodi:role="line"
+       id="tspan846"
+       x="105.555"
+       y="66.24"
+       style="stroke-width:0.400469px">Math is Fun</tspan></text>
+</svg>

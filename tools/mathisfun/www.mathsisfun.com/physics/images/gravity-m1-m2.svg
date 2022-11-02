@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="298.7" height="119.2" version="1.0" style="font-family:'Trebuchet MS'; font-size:28px; fill:#009100; stroke-width:1pt;">
+<defs>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:black; stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:black; stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#0084c8; stroke:#0084c8;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id11" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#f57900; stroke:#f57900;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#005c94; stroke:#005c94;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#005c94; stroke:#005c94;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#005c94; stroke:#005c94;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<linearGradient id="id6">
+		<stop offset="0" style="stop-color:black; stop-opacity:0.84;"/>
+		<stop offset="0.5" style="stop-color:black; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:black; stop-opacity:0.84;"/>
+		<stop offset="0.5" style="stop-color:black; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:1;"/>
+	</linearGradient>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:black; stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#19aeff; stroke:#19aeff;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:black; stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#9ade00; stroke:#9ade00;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:black; stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(1.1,0,0,1.1,1.1,0)" style="fill:black; stroke:black; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 c -1.7,2.4 -1.7,5.6 0,8 z"/>
+	</marker>
+	<marker id="id10" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-1.1,0,0,-1.1,-1.1,0)" style="fill:#ffff3e; stroke:#ffff3e; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 c -1.7,2.4 -1.7,5.6 0,8 z"/>
+	</marker>
+	<radialGradient r="50" cx="309.5" cy="242.9" gradientTransform="translate(-262.07,-183.98)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#cecef5;"/>
+		<stop offset="0.778" style="stop-color:#1717a3;"/>
+		<stop offset="1" style="stop-color:#000074;"/>
+	</radialGradient>
+	<radialGradient r="50" cx="309.5" cy="242.9" gradientTransform="matrix(0.7,0,0,0.7,123.32,-105.19)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#c4eccf;"/>
+		<stop offset="0.806" style="stop-color:#2d8b3d;"/>
+		<stop offset="1" style="stop-color:#425d10;"/>
+	</radialGradient>
+	<radialGradient id="id8" r="37.867" fx="88.932" fy="418.06" cx="88.9" cy="418.1" gradientTransform="matrix(1.5694,0.42052,-0.350968,1.30984,26.7304,-549.64)" xlink:href="#id1" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="id1">
+		<stop offset="0" style="stop-color:#00fff8; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#000aff; stop-opacity:1;"/>
+	</linearGradient>
+	<radialGradient id="id9" r="37.867" fx="88.932" fy="418.06" cx="88.9" cy="418.1" gradientTransform="matrix(2.40316,0.64392,-0.5374,2.00564,248.97,-865.68)" xlink:href="#id1" gradientUnits="userSpaceOnUse"/>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(1.1,0,0,1.1,1.1,0)" style="fill:black; stroke:black; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 c -1.7,2.4 -1.7,5.6 0,8 z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#009100;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<pattern height="6" width="6" patternUnits="userSpaceOnUse"/>
+	<radialGradient r="101.58" fx="180.25" fy="198.42" cx="180.3" cy="198.4" gradientTransform="scale(0.79354,1.2602)" xlink:href="#id2" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="id2">
+		<stop offset="0" style="stop-color:white; stop-opacity:0.34;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<radialGradient r="46.395" fx="360.85" fy="167.47" cx="360.9" cy="167.5" gradientTransform="scale(1.007,0.99304)" xlink:href="#id2" gradientUnits="userSpaceOnUse"/>
+	<linearGradient gradientTransform="scale(0.74491,1.3424)" xlink:href="#id3" x1="465.3" y1="248.2" x2="463.3" y2="405.8" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="id3">
+		<stop offset="0" style="stop-color:white; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:#ffa617; stop-opacity:0.73;"/>
+	</linearGradient>
+	<linearGradient gradientTransform="scale(1.4586,0.68558)" xlink:href="#id3" x1="157.8" y1="121" x2="155.4" y2="231.6" gradientUnits="userSpaceOnUse"/>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#458905; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#4e9a06; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#69d007; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#4e9a06; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#8f5902; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#724701; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#00a400; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#00a400; stop-opacity:0;"/>
+	</linearGradient>
+	<clipPath clipPathUnits="userSpaceOnUse">
+		<path style="fill:url(#id4); stroke-width:3; stroke-linecap:round; stroke-linejoin:round;" d="m -458.9,-138.3 c -11.7,0 -21.1,5.8 -21.1,12.9 v 830 170 640 c 0,7.2 9.4,12.9 21.1,12.9 H 1770.4 c 11.7,0 21,-5.7 21,-12.9 v -640 -67.4 -932.6 c 0,-7.1 -9.3,-12.9 -21,-12.9 z"/>
+	</clipPath>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#007900; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#008400; stop-opacity:0;"/>
+	</linearGradient>
+	<clipPath clipPathUnits="userSpaceOnUse">
+		<path style="fill:#9cf000; stroke-width:3; stroke-linecap:round; stroke-linejoin:round;" d="m -1433.2,-115.5 c -11.7,0 -21.1,5.8 -21.1,12.9 v 830 c 73.7,-9.9 153.9,-15.1 237.2,-15.1 343.8,0 484.3,44.1 822.8,235.7 342.9,194 775.3,461.4 -891.4,464.3 -60.1,0.1 -116.5,-9.4 -168.6,-26 v 151 c 0,7.1 9.4,12.8 21.1,12.8 H 796.1 c 11.7,0 21,-5.7 21,-12.8 V 897.4 830 -102.6 c 0,-7.1 -9.4,-12.9 -21,-12.9 z"/>
+	</clipPath>
+	<linearGradient id="id5">
+		<stop offset="0" style="stop-color:#55a800; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#74e400; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient gradientTransform="translate(731.4,-603.75)" xlink:href="#id5" x1="404.3" y1="543.4" x2="428.5" y2="1831.1" gradientUnits="userSpaceOnUse"/>
+	<radialGradient r="37.867" fx="88.932" fy="418.06" cx="88.9" cy="418.1" gradientTransform="matrix(3.9235,1.0513,-0.87742,3.2746,66.826,-1413.4)" xlink:href="#id1" gradientUnits="userSpaceOnUse"/>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#111111; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#b6b6b6; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:black; stop-opacity:0.84;"/>
+		<stop offset="0.5" style="stop-color:black; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient gradientTransform="translate(0,340)" xlink:href="#id6" x1="608.4" y1="834.7" x2="608.9" y2="687.1" gradientUnits="userSpaceOnUse"/>
+	<linearGradient gradientTransform="translate(0,340)" xlink:href="#id6" x1="608.4" y1="834.7" x2="608.9" y2="687.1" gradientUnits="userSpaceOnUse"/>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(1.1,0,0,1.1,1.1,0)" style="fill:#ffff3e; stroke:#ffff3e; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 c -1.7,2.4 -1.7,5.6 0,8 z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:black; stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id7" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#3465a4; stroke:#3465a4;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<path style="marker-end:url(#id7); fill:none; stroke:#3465a4; stroke-width:1;" d="M 29,107 H 254"/>
+<path style="opacity:0.99; fill:url(#id8); stroke-width:5.2;" d="M 54.7,29.7 A 29.6,29.6 0 0 1 45.6,70.2 29.6,29.6 0 0 1 4.9,61.7 29.6,29.6 0 0 1 12.9,20.9 a 29.6,29.6 0 0 1 40.9,7.3" sodipodi:type="arc" sodipodi:cx="29.6144" sodipodi:cy="45.312" sodipodi:rx="29.6144" sodipodi:ry="29.5916" sodipodi:start="5.7256" sodipodi:end="5.6678" sodipodi:arc-type="arc"/>
+<path style="opacity:0.99; fill:url(#id9); stroke-width:5.2;" d="M 291.9,21.3 A 45.3,45.3 0 0 1 277.9,83.4 45.3,45.3 0 0 1 215.6,70.4 45.3,45.3 0 0 1 227.8,7.9 45.3,45.3 0 0 1 290.4,19.2" sodipodi:type="arc" sodipodi:cx="253.39" sodipodi:cy="45.312" sodipodi:rx="45.348" sodipodi:ry="45.312" sodipodi:start="5.7256" sodipodi:end="5.6678" sodipodi:arc-type="arc"/>
+<text x="72.3" y="38.4" style="font-family:Arial; font-weight:bold; font-size:22.4px; stroke-width:0.4px;">F</text>
+<text x="181.2" y="39.6" style="font-family:Arial; font-weight:bold; font-size:22.4px; stroke-width:0.4px;">F</text>
+<text x="16.6" y="35.4" style="font-weight:bold; fill:#fffde5; stroke-width:0.4px;">m</text>
+<text x="38" y="41.6" style="font-weight:bold; font-size:20px; font-style:italic; fill:#fffde5; stroke-width:0.4px;">1</text>
+<text x="241.2" y="22.3" style="font-weight:bold; fill:#fffde5; stroke-width:0.4px;">m</text>
+<text x="262.9" y="29" style="font-weight:bold; font-size:20px; font-style:italic; fill:#fffde5; stroke-width:0.4px;">2</text>
+<text x="126.8" y="104.3" style="font-weight:bold; fill:#3465a4; stroke-width:0.4px;">d</text>
+<path style="marker-end:url(#id10); stroke:#009100; stroke-width:3.32;" d="M 30.4,45.3 H 103"/>
+<path style="marker-end:url(#id11); stroke:#009100; stroke-width:3.32;" d="m 253.3,45.3 h -72.5"/>
+<path style="fill:none; stroke:#3465a4; stroke-width:1;" d="m 28.6,65 v 54.3"/>
+<path style="fill:none; stroke:#3465a4; stroke-width:1;" d="m 254.2,65 v 54.3"/>
+</svg>

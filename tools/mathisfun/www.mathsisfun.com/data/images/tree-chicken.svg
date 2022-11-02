@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="478.5"
+   height="280.1"
+   version="1.1"
+   style="font-family:'Comic Sans MS';font-size:15.3px;fill:black;stroke-width:0.5px"
+   id="svg275"
+   sodipodi:docname="tree-chicken.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview277"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg275" />
+  <defs
+     id="defs14">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4861" />
+    </marker>
+    <marker
+       id="aa5"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       id="aa3"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5" />
+    </marker>
+    <marker
+       id="aa2"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8" />
+    </marker>
+    <marker
+       id="aa1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path11" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend6385"
+       inkscape:isstock="true"
+       id="Arrow1Mend6385">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:#204a87;stroke:#204a87;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5358" />
+    </marker>
+  </defs>
+  <rect
+     x="285.9"
+     y="64.2"
+     ry="7.9"
+     width="192.6"
+     height="20.4"
+     style="fill:#fce94f;stroke-width:0.4"
+     id="rect18" />
+  <rect
+     x="285.9"
+     y="131"
+     ry="7.9"
+     width="192.6"
+     height="20.4"
+     style="fill:#fce94f;stroke-width:0.4"
+     id="rect20" />
+  <rect
+     x="285.9"
+     y="31.3"
+     ry="7.9"
+     width="192.6"
+     height="20.4"
+     style="fill:#fce94f;stroke-width:0.4"
+     id="rect22" />
+  <circle
+     cx="4.8"
+     cy="122.9"
+     r="3.95398"
+     style="fill:none;stroke:#0084c8;stroke-width:1.64;stroke-linejoin:round"
+     id="circle24" />
+  <text
+     x="80.2"
+     y="190.7"
+     style="font-size:20.3px;fill:#007ad2"
+     id="text26">E</text>
+  <text
+     x="81"
+     y="66.7"
+     style="font-size:20.3px;fill:#009100"
+     id="text28">C</text>
+  <text
+     x="172"
+     y="99.2"
+     style="font-size:20.3px;fill:#007ad2"
+     id="text30">E</text>
+  <text
+     x="175.6"
+     y="34.6"
+     style="font-size:20.3px;fill:#009100"
+     id="text32">C</text>
+  <text
+     x="175.6"
+     y="165.5"
+     style="font-size:20.3px;fill:#009100"
+     id="text34">C</text>
+  <text
+     x="267.2"
+     y="48.2"
+     style="font-size:20.3px;fill:#007ad2"
+     id="text36">E</text>
+  <text
+     x="266.3"
+     y="15.1"
+     style="font-size:20.3px;fill:#009100"
+     id="text38">C</text>
+  <text
+     x="266.3"
+     y="81.2"
+     style="font-size:20.3px;fill:#009100"
+     id="text40">C</text>
+  <text
+     x="266.3"
+     y="147.3"
+     style="font-size:20.3px;fill:#009100"
+     id="text42">C</text>
+  <text
+     x="266.3"
+     y="213.4"
+     style="font-size:20.3px;fill:#009100"
+     id="text44">C</text>
+  <text
+     x="30.994"
+     y="99.4263"
+     style="font-size:15.2893px;fill:#009100;stroke-width:0.422355px"
+     id="text48">0.7</text>
+  <text
+     x="293.5"
+     y="12.8"
+     style="fill:#009100"
+     id="text52">0.7</text>
+  <text
+     x="321.2"
+     y="14.4"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text54">×</text>
+  <text
+     x="367.1"
+     y="14.4"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text56">×</text>
+  <text
+     x="412.9"
+     y="14.4"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text58">=</text>
+  <text
+     x="339.3"
+     y="12.8"
+     style="fill:#009100"
+     id="text60">0.7</text>
+  <text
+     x="385.1"
+     y="12.8"
+     style="fill:#009100"
+     id="text62">0.7</text>
+  <text
+     x="432.6"
+     y="12.8"
+     id="text64"
+     style="fill:#204a87;fill-opacity:1">0.343</text>
+  <text
+     x="293.5"
+     y="46.2"
+     style="fill:#009100"
+     id="text66">0.7</text>
+  <text
+     x="321.2"
+     y="47.8"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text68">×</text>
+  <text
+     x="367.1"
+     y="47.8"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text70">×</text>
+  <text
+     x="412.9"
+     y="47.8"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text72">=</text>
+  <text
+     x="339.3"
+     y="46.2"
+     style="fill:#009100"
+     id="text74">0.7</text>
+  <text
+     x="385.1"
+     y="46.2"
+     style="fill:#007ad2"
+     id="text76">0.3</text>
+  <text
+     x="432.6"
+     y="46.2"
+     id="text78"
+     style="fill:#204a87;fill-opacity:1">0.147</text>
+  <text
+     x="293.5"
+     y="79.6"
+     style="fill:#009100"
+     id="text80">0.7</text>
+  <text
+     x="321.2"
+     y="81.1"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text82">×</text>
+  <text
+     x="367.1"
+     y="81.1"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text84">×</text>
+  <text
+     x="412.9"
+     y="81.1"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text86">=</text>
+  <text
+     x="339.3"
+     y="79.6"
+     style="fill:#007ad2"
+     id="text88">0.3</text>
+  <text
+     x="385.1"
+     y="79.6"
+     style="fill:#009100"
+     id="text90">0.7</text>
+  <text
+     x="432.6"
+     y="79.6"
+     id="text92"
+     style="fill:#204a87;fill-opacity:1">0.147</text>
+  <text
+     x="293.5"
+     y="113"
+     style="fill:#009100"
+     id="text94">0.7</text>
+  <text
+     x="321.2"
+     y="114.5"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text96">×</text>
+  <text
+     x="367.1"
+     y="114.5"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text98">×</text>
+  <text
+     x="412.9"
+     y="114.5"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text100">=</text>
+  <text
+     x="339.3"
+     y="113"
+     style="fill:#007ad2"
+     id="text102">0.3</text>
+  <text
+     x="385.1"
+     y="113"
+     style="fill:#007ad2"
+     id="text104">0.3</text>
+  <text
+     x="432.6"
+     y="113"
+     id="text106"
+     style="fill:#204a87;fill-opacity:1">0.063</text>
+  <text
+     x="293.5"
+     y="146.3"
+     style="fill:#007ad2"
+     id="text108">0.3</text>
+  <text
+     x="321.2"
+     y="147.9"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text110">×</text>
+  <text
+     x="367.1"
+     y="147.9"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text112">×</text>
+  <text
+     x="412.9"
+     y="147.9"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text114">=</text>
+  <text
+     x="339.3"
+     y="146.3"
+     style="fill:#009100"
+     id="text116">0.7</text>
+  <text
+     x="385.1"
+     y="146.3"
+     style="fill:#009100"
+     id="text118">0.7</text>
+  <text
+     x="432.6"
+     y="146.3"
+     id="text120"
+     style="fill:#204a87;fill-opacity:1">0.147</text>
+  <text
+     x="293.5"
+     y="179.7"
+     style="fill:#007ad2"
+     id="text122">0.3</text>
+  <text
+     x="321.2"
+     y="181.3"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text124">×</text>
+  <text
+     x="367.1"
+     y="181.3"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text126">×</text>
+  <text
+     x="412.9"
+     y="181.3"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text128">=</text>
+  <text
+     x="339.3"
+     y="179.7"
+     style="fill:#009100"
+     id="text130">0.7</text>
+  <text
+     x="385.1"
+     y="179.7"
+     style="fill:#007ad2"
+     id="text132">0.3</text>
+  <text
+     x="432.6"
+     y="179.7"
+     id="text134"
+     style="fill:#204a87;fill-opacity:1">0.063</text>
+  <text
+     x="293.5"
+     y="213.1"
+     style="fill:#007ad2"
+     id="text136">0.3</text>
+  <text
+     x="321.2"
+     y="214.6"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text138">×</text>
+  <text
+     x="367.1"
+     y="214.6"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text140">×</text>
+  <text
+     x="412.9"
+     y="214.6"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text142">=</text>
+  <text
+     x="339.3"
+     y="213.1"
+     style="fill:#007ad2"
+     id="text144">0.3</text>
+  <text
+     x="385.1"
+     y="213.1"
+     style="fill:#009100"
+     id="text146">0.7</text>
+  <text
+     x="432.6"
+     y="213.1"
+     id="text148"
+     style="fill:#204a87;fill-opacity:1">0.063</text>
+  <text
+     x="293.5"
+     y="246.4"
+     style="fill:#007ad2"
+     id="text150">0.3</text>
+  <text
+     x="321.2"
+     y="248"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text152">×</text>
+  <text
+     x="367.1"
+     y="248"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text154">×</text>
+  <text
+     x="412.9"
+     y="248"
+     style="font-size:19.7px;fill:#204a87;fill-opacity:1"
+     id="text156">=</text>
+  <text
+     x="339.3"
+     y="246.4"
+     style="fill:#007ad2"
+     id="text158">0.3</text>
+  <text
+     x="385.1"
+     y="246.4"
+     style="fill:#007ad2"
+     id="text160">0.3</text>
+  <text
+     x="432.6"
+     y="246.4"
+     id="text162"
+     style="fill:#204a87;fill-opacity:1">0.027</text>
+  <text
+     x="432.6"
+     y="274.4"
+     id="text164"
+     style="fill:#204a87;fill-opacity:1">1.000</text>
+  <path
+     style="fill:none;stroke:#204a87;stroke-width:1.77"
+     d="m 429,259.2 h 45"
+     id="path166" />
+  <path
+     style="fill:none;stroke:#204a87;stroke-width:1.77"
+     d="m 429,279.2 h 45"
+     id="path168" />
+  <text
+     x="172.1"
+     y="228"
+     style="font-size:20.3px;fill:#007ad2"
+     id="text170">E</text>
+  <text
+     x="266.1"
+     y="180.4"
+     style="font-size:20.3px;fill:#007ad2"
+     id="text172">E</text>
+  <text
+     x="267.2"
+     y="116.8"
+     style="font-size:20.3px;fill:#007ad2"
+     id="text174">E</text>
+  <text
+     x="266.1"
+     y="248"
+     style="font-size:20.3px;fill:#007ad2"
+     id="text176">E</text>
+  <text
+     x="123.645"
+     y="46.6358"
+     style="font-size:15.2893px;fill:#009100;stroke-width:0.422355px"
+     id="text199">0.7</text>
+  <text
+     x="123.243"
+     y="175.733"
+     style="font-size:15.2893px;fill:#009100;stroke-width:0.422355px"
+     id="text205">0.7</text>
+  <text
+     x="123.776"
+     y="81.1523"
+     style="font-size:15.2893px;fill:#007ad2;stroke-width:0.422355px"
+     id="text211">0.3</text>
+  <text
+     x="123.374"
+     y="210.745"
+     style="font-size:15.2893px;fill:#007ad2;stroke-width:0.422355px"
+     id="text217">0.3</text>
+  <text
+     x="214.075"
+     y="22.3961"
+     style="font-size:15.2893px;fill:#009100;stroke-width:0.422355px"
+     id="text223">0.7</text>
+  <text
+     x="214.075"
+     y="87.1994"
+     style="font-size:15.2893px;fill:#009100;stroke-width:0.422355px"
+     id="text229">0.7</text>
+  <text
+     x="214.075"
+     y="153.053"
+     style="font-size:15.2893px;fill:#009100;stroke-width:0.422355px"
+     id="text235">0.7</text>
+  <text
+     x="214.075"
+     y="216.825"
+     style="font-size:15.2893px;fill:#009100;stroke-width:0.422355px"
+     id="text241">0.7</text>
+  <text
+     x="214.216"
+     y="43.6681"
+     style="font-size:15.2893px;fill:#007ad2;stroke-width:0.422355px"
+     id="text247">0.3</text>
+  <text
+     x="214.216"
+     y="109.087"
+     style="font-size:15.2893px;fill:#007ad2;stroke-width:0.422355px"
+     id="text253">0.3</text>
+  <text
+     x="214.216"
+     y="174.138"
+     style="font-size:15.2893px;fill:#007ad2;stroke-width:0.422355px"
+     id="text259">0.3</text>
+  <text
+     x="214.216"
+     y="237.066"
+     style="font-size:15.2893px;fill:#007ad2;stroke-width:0.422355px"
+     id="text265">0.3</text>
+  <text
+     x="33.3614"
+     y="158.993"
+     style="font-size:15.2893px;fill:#007ad2;stroke-width:0.422355px"
+     id="text271">0.3</text>
+  <g
+     id="g5902"
+     transform="rotate(37.5345,251.924,76.8943)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:0.999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.8464,264.62 H 116.022"
+       id="path5896" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend6385)"
+       d="m 147.311,264.519 h 22.677"
+       id="path5898" />
+  </g>
+  <g
+     id="g6308"
+     transform="matrix(0.792987,-0.609239,-0.609239,-0.792987,99.8035,384.212)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:0.999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.8464,264.62 H 116.022"
+       id="path6304" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend6385)"
+       d="m 147.311,264.519 h 22.677"
+       id="path6306" />
+  </g>
+  <g
+     id="g6428"
+     transform="matrix(0.938622,-0.344947,-0.344947,-0.938622,102.413,335.882)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:0.999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.8464,264.62 H 116.022"
+       id="path6424" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend6385)"
+       d="m 147.311,264.519 h 22.677"
+       id="path6426" />
+  </g>
+  <g
+     id="g6434"
+     transform="rotate(20.1786,666.559,177.124)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:0.999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.8464,264.62 H 116.022"
+       id="path6430" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend6385)"
+       d="m 147.311,264.519 h 22.677"
+       id="path6432" />
+  </g>
+  <g
+     id="g6440"
+     transform="matrix(0.938622,-0.344947,-0.344947,-0.938622,100.602,463.054)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:0.999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.8464,264.62 H 116.022"
+       id="path6436" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend6385)"
+       d="m 147.311,264.519 h 22.677"
+       id="path6438" />
+  </g>
+  <g
+     id="g6446"
+     transform="rotate(20.1786,308.297,235.621)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:0.999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.8464,264.62 H 116.022"
+       id="path6442" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend6385)"
+       d="m 147.311,264.519 h 22.677"
+       id="path6444" />
+  </g>
+  <g
+     id="g6578"
+     transform="matrix(0.938622,-0.344947,-0.344947,-0.938622,102.413,335.882)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:0.999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.8464,264.62 H 116.022"
+       id="path6574" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend6385)"
+       d="m 147.311,264.519 h 22.677"
+       id="path6576" />
+  </g>
+  <g
+     id="g6871"
+     transform="matrix(0.938385,-0.198054,-0.189607,-0.980191,154.509,301.49)"
+     style="stroke-width:0.511016px">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02203px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.8464,264.62 H 116.022"
+       id="path6867" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02203px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend6385)"
+       d="m 147.311,264.519 h 22.677"
+       id="path6869" />
+  </g>
+  <g
+     id="g6877"
+     transform="matrix(0.946686,0.168785,-0.159655,0.985615,144.981,-246.284)"
+     style="stroke-width:0.510306px">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02061px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.8464,264.62 H 116.022"
+       id="path6873" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02061px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend6385)"
+       d="m 147.311,264.519 h 22.677"
+       id="path6875" />
+  </g>
+  <g
+     id="g6883"
+     transform="matrix(0.938385,-0.198054,-0.189607,-0.980191,152.497,367.491)"
+     style="stroke-width:0.511016px">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02203px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.8464,264.62 H 116.022"
+       id="path6879" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02203px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend6385)"
+       d="m 147.311,264.519 h 22.677"
+       id="path6881" />
+  </g>
+  <g
+     id="g6889"
+     transform="matrix(0.946686,0.168785,-0.159655,0.985615,142.969,-180.283)"
+     style="stroke-width:0.510306px">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02061px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.8464,264.62 H 116.022"
+       id="path6885" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02061px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend6385)"
+       d="m 147.311,264.519 h 22.677"
+       id="path6887" />
+  </g>
+  <g
+     id="g6895"
+     transform="matrix(0.938385,-0.198054,-0.189607,-0.980191,153.906,432.485)"
+     style="stroke-width:0.511016px">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02203px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.8464,264.62 H 116.022"
+       id="path6891" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02203px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend6385)"
+       d="m 147.311,264.519 h 22.677"
+       id="path6893" />
+  </g>
+  <g
+     id="g6901"
+     transform="matrix(0.946686,0.168785,-0.159655,0.985615,144.378,-115.289)"
+     style="stroke-width:0.510306px">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02061px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.8464,264.62 H 116.022"
+       id="path6897" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02061px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend6385)"
+       d="m 147.311,264.519 h 22.677"
+       id="path6899" />
+  </g>
+  <g
+     id="g6907"
+     transform="matrix(0.938385,-0.198054,-0.189607,-0.980191,151.491,496.675)"
+     style="stroke-width:0.511016px">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02203px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.8464,264.62 H 116.022"
+       id="path6903" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02203px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend6385)"
+       d="m 147.311,264.519 h 22.677"
+       id="path6905" />
+  </g>
+  <g
+     id="g6913"
+     transform="matrix(0.946686,0.168785,-0.159655,0.985615,141.963,-51.0994)"
+     style="stroke-width:0.510306px">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02061px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.8464,264.62 H 116.022"
+       id="path6909" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#204a87;stroke-width:1.02061px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend6385)"
+       d="m 147.311,264.519 h 22.677"
+       id="path6911" />
+  </g>
+</svg>

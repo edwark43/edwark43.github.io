@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="360"
+   height="224.818"
+   version="1.1"
+   id="svg5694"
+   sodipodi:docname="function-cos-cosh.html"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata5700">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5698" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview5696"
+     showgrid="false"
+     inkscape:current-layer="svg5694" />
+  <desc
+     id="desc5648">SVG Output</desc>
+  <polyline
+     points="0.0000 170.00, 550.00 170.00, "
+     id="polyline5650"
+     style="stroke:#000000;stroke-width:3.063428"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="275.00 340.00, 275.00 0.0000, "
+     id="polyline5652"
+     style="stroke:#000000;stroke-width:3.063428"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="0.0000 335.00, 550.00 335.00, "
+     id="polyline5654"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="0.0000 280.00, 550.00 280.00, "
+     id="polyline5656"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="0.0000 225.00, 550.00 225.00, "
+     id="polyline5658"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="0.0000 115.00, 550.00 115.00, "
+     id="polyline5662"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="0.0000 60.000, 550.00 60.000, "
+     id="polyline5664"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="0.0000 5.0000, 550.00 5.0000, "
+     id="polyline5666"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="0.0000 340.00, 0.0000 0.0000, "
+     id="polyline5668"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="55.000 340.00, 55.000 0.0000, "
+     id="polyline5670"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="110.00 340.00, 110.00 0.0000, "
+     id="polyline5672"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="165.00 340.00, 165.00 0.0000, "
+     id="polyline5674"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="220.00 340.00, 220.00 0.0000, "
+     id="polyline5676"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="330.00 340.00, 330.00 0.0000, "
+     id="polyline5680"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="385.00 340.00, 385.00 0.0000, "
+     id="polyline5682"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="440.00 340.00, 440.00 0.0000, "
+     id="polyline5684"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="495.00 340.00, 495.00 0.0000, "
+     id="polyline5686"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="550.00 340.00, 550.00 0.0000, "
+     id="polyline5688"
+     style="stroke:#888888;stroke-width:0.765857"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="0.0000 154.40, 1.0000 155.36, 2.0000 156.33, 3.0000 157.30, 4.0000 158.27, 5.0000 159.25, 6.0000 160.23, 7.0000 161.22, 8.0000 162.21, 9.0000 163.20, 10.000 164.19, 11.000 165.19, 12.000 166.18, 13.000 167.18, 14.000 168.18, 15.000 169.18, 16.000 170.18, 17.000 171.18, 18.000 172.18, 19.000 173.18, 20.000 174.18, 21.000 175.17, 22.000 176.17, 23.000 177.16, 24.000 178.15, 25.000 179.14, 26.000 180.12, 27.000 181.10, 28.000 182.08, 29.000 183.06, 30.000 184.02, 31.000 184.99, 32.000 185.95, 33.000 186.90, 34.000 187.85, 35.000 188.79, 36.000 189.73, 37.000 190.66, 38.000 191.58, 39.000 192.50, 40.000 193.41, 41.000 194.31, 42.000 195.20, 43.000 196.09, 44.000 196.96, 45.000 197.83, 46.000 198.69, 47.000 199.54, 48.000 200.38, 49.000 201.20, 50.000 202.02, 51.000 202.83, 52.000 203.63, 53.000 204.41, 54.000 205.19, 55.000 205.95, 56.000 206.70, 57.000 207.44, 58.000 208.17, 59.000 208.88, 60.000 209.58, 61.000 210.27, 62.000 210.94, 63.000 211.60, 64.000 212.25, 65.000 212.88, 66.000 213.50, 67.000 214.11, 68.000 214.70, 69.000 215.27, 70.000 215.83, 71.000 216.38, 72.000 216.91, 73.000 217.42, 74.000 217.92, 75.000 218.40, 76.000 218.87, 77.000 219.32, 78.000 219.76, 79.000 220.17, 80.000 220.58, 81.000 220.96, 82.000 221.33, 83.000 221.68, 84.000 222.01, 85.000 222.33, 86.000 222.63, 87.000 222.91, 88.000 223.17, 89.000 223.42, 90.000 223.65, 91.000 223.86, 92.000 224.05, 93.000 224.23, 94.000 224.39, 95.000 224.53, 96.000 224.65, 97.000 224.75, 98.000 224.84, 99.000 224.91, 100.00 224.96, 101.00 224.99, 102.00 225.00, 103.00 224.99, 104.00 224.97, 105.00 224.93, 106.00 224.87, 107.00 224.79, 108.00 224.70, 109.00 224.58, 110.00 224.45, 111.00 224.30, 112.00 224.13, 113.00 223.95, 114.00 223.74, 115.00 223.52, 116.00 223.28, 117.00 223.02, 118.00 222.75, 119.00 222.46, 120.00 222.15, 121.00 221.82, 122.00 221.48, 123.00 221.12, 124.00 220.74, 125.00 220.35, 126.00 219.94, 127.00 219.51, 128.00 219.06, 129.00 218.60, 130.00 218.13, 131.00 217.64, 132.00 217.13, 133.00 216.61, 134.00 216.07, 135.00 215.51, 136.00 214.94, 137.00 214.36, 138.00 213.76, 139.00 213.15, 140.00 212.52, 141.00 211.88, 142.00 211.23, 143.00 210.56, 144.00 209.87, 145.00 209.18, 146.00 208.47, 147.00 207.75, 148.00 207.02, 149.00 206.27, 150.00 205.51, 151.00 204.74, 152.00 203.96, 153.00 203.17, 154.00 202.37, 155.00 201.55, 156.00 200.73, 157.00 199.90, 158.00 199.05, 159.00 198.20, 160.00 197.33, 161.00 196.46, 162.00 195.58, 163.00 194.69, 164.00 193.79, 165.00 192.89, 166.00 191.98, 167.00 191.05, 168.00 190.13, 169.00 189.19, 170.00 188.25, 171.00 187.31, 172.00 186.36, 173.00 185.40, 174.00 184.44, 175.00 183.47, 176.00 182.50, 177.00 181.52, 178.00 180.54, 179.00 179.56, 180.00 178.57, 181.00 177.58, 182.00 176.59, 183.00 175.60, 184.00 174.60, 185.00 173.60, 186.00 172.61, 187.00 171.61, 188.00 170.61, 189.00 169.61, 190.00 168.61, 191.00 167.61, 192.00 166.61, 193.00 165.61, 194.00 164.61, 195.00 163.62, 196.00 162.63, 197.00 161.64, 198.00 160.65, 199.00 159.67, 200.00 158.69, 201.00 157.71, 202.00 156.74, 203.00 155.77, 204.00 154.81, 205.00 153.85, 206.00 152.89, 207.00 151.95, 208.00 151.01, 209.00 150.07, 210.00 149.14, 211.00 148.22, 212.00 147.31, 213.00 146.40, 214.00 145.50, 215.00 144.61, 216.00 143.72, 217.00 142.85, 218.00 141.99, 219.00 141.13, 220.00 140.28, 221.00 139.45, 222.00 138.62, 223.00 137.80, 224.00 137.00, 225.00 136.20, 226.00 135.42, 227.00 134.65, 228.00 133.89, 229.00 133.14, 230.00 132.40, 231.00 131.68, 232.00 130.97, 233.00 130.27, 234.00 129.59, 235.00 128.92, 236.00 128.26, 237.00 127.61, 238.00 126.98, 239.00 126.37, 240.00 125.77, 241.00 125.18, 242.00 124.61, 243.00 124.05, 244.00 123.51, 245.00 122.98, 246.00 122.47, 247.00 121.97, 248.00 121.50, 249.00 121.03, 250.00 120.58, 251.00 120.15, 252.00 119.74, 253.00 119.34, 254.00 118.96, 255.00 118.60, 256.00 118.25, 257.00 117.92, 258.00 117.61, 259.00 117.31, 260.00 117.03, 261.00 116.77, 262.00 116.53, 263.00 116.30, 264.00 116.10, 265.00 115.91, 266.00 115.73, 267.00 115.58, 268.00 115.44, 269.00 115.33, 270.00 115.23, 271.00 115.15, 272.00 115.08, 273.00 115.04, 274.00 115.01, 275.00 115.00, 276.00 115.01, 277.00 115.04, 278.00 115.08, 279.00 115.15, 280.00 115.23, 281.00 115.33, 282.00 115.44, 283.00 115.58, 284.00 115.73, 285.00 115.91, 286.00 116.10, 287.00 116.30, 288.00 116.53, 289.00 116.77, 290.00 117.03, 291.00 117.31, 292.00 117.61, 293.00 117.92, 294.00 118.25, 295.00 118.60, 296.00 118.96, 297.00 119.34, 298.00 119.74, 299.00 120.15, 300.00 120.58, 301.00 121.03, 302.00 121.50, 303.00 121.97, 304.00 122.47, 305.00 122.98, 306.00 123.51, 307.00 124.05, 308.00 124.61, 309.00 125.18, 310.00 125.77, 311.00 126.37, 312.00 126.98, 313.00 127.61, 314.00 128.26, 315.00 128.92, 316.00 129.59, 317.00 130.27, 318.00 130.97, 319.00 131.68, 320.00 132.40, 321.00 133.14, 322.00 133.89, 323.00 134.65, 324.00 135.42, 325.00 136.20, 326.00 137.00, 327.00 137.80, 328.00 138.62, 329.00 139.45, 330.00 140.28, 331.00 141.13, 332.00 141.99, 333.00 142.85, 334.00 143.72, 335.00 144.61, 336.00 145.50, 337.00 146.40, 338.00 147.31, 339.00 148.22, 340.00 149.14, 341.00 150.07, 342.00 151.01, 343.00 151.95, 344.00 152.89, 345.00 153.85, 346.00 154.81, 347.00 155.77, 348.00 156.74, 349.00 157.71, 350.00 158.69, 351.00 159.67, 352.00 160.65, 353.00 161.64, 354.00 162.63, 355.00 163.62, 356.00 164.61, 357.00 165.61, 358.00 166.61, 359.00 167.61, 360.00 168.61, 361.00 169.61, 362.00 170.61, 363.00 171.61, 364.00 172.61, 365.00 173.60, 366.00 174.60, 367.00 175.60, 368.00 176.59, 369.00 177.58, 370.00 178.57, 371.00 179.56, 372.00 180.54, 373.00 181.52, 374.00 182.50, 375.00 183.47, 376.00 184.44, 377.00 185.40, 378.00 186.36, 379.00 187.31, 380.00 188.25, 381.00 189.19, 382.00 190.13, 383.00 191.05, 384.00 191.98, 385.00 192.89, 386.00 193.79, 387.00 194.69, 388.00 195.58, 389.00 196.46, 390.00 197.33, 391.00 198.20, 392.00 199.05, 393.00 199.90, 394.00 200.73, 395.00 201.55, 396.00 202.37, 397.00 203.17, 398.00 203.96, 399.00 204.74, 400.00 205.51, 401.00 206.27, 402.00 207.02, 403.00 207.75, 404.00 208.47, 405.00 209.18, 406.00 209.87, 407.00 210.56, 408.00 211.23, 409.00 211.88, 410.00 212.52, 411.00 213.15, 412.00 213.76, 413.00 214.36, 414.00 214.94, 415.00 215.51, 416.00 216.07, 417.00 216.61, 418.00 217.13, 419.00 217.64, 420.00 218.13, 421.00 218.60, 422.00 219.06, 423.00 219.51, 424.00 219.94, 425.00 220.35, 426.00 220.74, 427.00 221.12, 428.00 221.48, 429.00 221.82, 430.00 222.15, 431.00 222.46, 432.00 222.75, 433.00 223.02, 434.00 223.28, 435.00 223.52, 436.00 223.74, 437.00 223.95, 438.00 224.13, 439.00 224.30, 440.00 224.45, 441.00 224.58, 442.00 224.70, 443.00 224.79, 444.00 224.87, 445.00 224.93, 446.00 224.97, 447.00 224.99, 448.00 225.00, 449.00 224.99, 450.00 224.96, 451.00 224.91, 452.00 224.84, 453.00 224.75, 454.00 224.65, 455.00 224.53, 456.00 224.39, 457.00 224.23, 458.00 224.05, 459.00 223.86, 460.00 223.65, 461.00 223.42, 462.00 223.17, 463.00 222.91, 464.00 222.63, 465.00 222.33, 466.00 222.01, 467.00 221.68, 468.00 221.33, 469.00 220.96, 470.00 220.58, 471.00 220.17, 472.00 219.76, 473.00 219.32, 474.00 218.87, 475.00 218.40, 476.00 217.92, 477.00 217.42, 478.00 216.91, 479.00 216.38, 480.00 215.83, 481.00 215.27, 482.00 214.70, 483.00 214.11, 484.00 213.50, 485.00 212.88, 486.00 212.25, 487.00 211.60, 488.00 210.94, 489.00 210.27, 490.00 209.58, 491.00 208.88, 492.00 208.17, 493.00 207.44, 494.00 206.70, 495.00 205.95, 496.00 205.19, 497.00 204.41, 498.00 203.63, 499.00 202.83, 500.00 202.02, 501.00 201.20, 502.00 200.38, 503.00 199.54, 504.00 198.69, 505.00 197.83, 506.00 196.96, 507.00 196.09, 508.00 195.20, 509.00 194.31, 510.00 193.41, 511.00 192.50, 512.00 191.58, 513.00 190.66, 514.00 189.73, 515.00 188.79, 516.00 187.85, 517.00 186.90, 518.00 185.95, 519.00 184.99, 520.00 184.02, 521.00 183.06, 522.00 182.08, 523.00 181.10, 524.00 180.12, 525.00 179.14, 526.00 178.15, 527.00 177.16, 528.00 176.17, 529.00 175.17, 530.00 174.18, 531.00 173.18, 532.00 172.18, 533.00 171.18, 534.00 170.18, 535.00 169.18, 536.00 168.18, 537.00 167.18, 538.00 166.18, 539.00 165.19, 540.00 164.19, 541.00 163.20, 542.00 162.21, 543.00 161.22, 544.00 160.23, 545.00 159.25, 546.00 158.27, 547.00 157.30, 548.00 156.33, 549.00 155.36, 550.00 154.40, "
+     id="polyline5690"
+     style="fill:#ffeedd;fill-opacity:0.2;stroke:#9ade00;stroke-width:2.297571;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <polyline
+     points="176.00 -0.91102, 177.00 2.0031, 178.00 4.8616, 179.00 7.6656, 180.00 10.416, 181.00 13.113, 182.00 15.759, 183.00 18.354, 184.00 20.898, 185.00 23.394, 186.00 25.840, 187.00 28.239, 188.00 30.592, 189.00 32.898, 190.00 35.159, 191.00 37.375, 192.00 39.547, 193.00 41.677, 194.00 43.764, 195.00 45.809, 196.00 47.813, 197.00 49.777, 198.00 51.701, 199.00 53.585, 200.00 55.432, 201.00 57.240, 202.00 59.012, 203.00 60.746, 204.00 62.444, 205.00 64.107, 206.00 65.735, 207.00 67.329, 208.00 68.888, 209.00 70.414, 210.00 71.907, 211.00 73.368, 212.00 74.796, 213.00 76.194, 214.00 77.560, 215.00 78.896, 216.00 80.201, 217.00 81.477, 218.00 82.724, 219.00 83.941, 220.00 85.131, 221.00 86.292, 222.00 87.425, 223.00 88.532, 224.00 89.611, 225.00 90.664, 226.00 91.690, 227.00 92.691, 228.00 93.666, 229.00 94.616, 230.00 95.541, 231.00 96.441, 232.00 97.317, 233.00 98.169, 234.00 98.997, 235.00 99.802, 236.00 100.58, 237.00 101.34, 238.00 102.08, 239.00 102.79, 240.00 103.48, 241.00 104.15, 242.00 104.80, 243.00 105.43, 244.00 106.03, 245.00 106.61, 246.00 107.18, 247.00 107.72, 248.00 108.24, 249.00 108.74, 250.00 109.22, 251.00 109.68, 252.00 110.12, 253.00 110.54, 254.00 110.94, 255.00 111.32, 256.00 111.69, 257.00 112.03, 258.00 112.35, 259.00 112.66, 260.00 112.94, 261.00 113.21, 262.00 113.46, 263.00 113.69, 264.00 113.90, 265.00 114.09, 266.00 114.26, 267.00 114.42, 268.00 114.55, 269.00 114.67, 270.00 114.77, 271.00 114.85, 272.00 114.92, 273.00 114.96, 274.00 114.99, 275.00 115.00, 276.00 114.99, 277.00 114.96, 278.00 114.92, 279.00 114.85, 280.00 114.77, 281.00 114.67, 282.00 114.55, 283.00 114.42, 284.00 114.26, 285.00 114.09, 286.00 113.90, 287.00 113.69, 288.00 113.46, 289.00 113.21, 290.00 112.94, 291.00 112.66, 292.00 112.35, 293.00 112.03, 294.00 111.69, 295.00 111.32, 296.00 110.94, 297.00 110.54, 298.00 110.12, 299.00 109.68, 300.00 109.22, 301.00 108.74, 302.00 108.24, 303.00 107.72, 304.00 107.18, 305.00 106.61, 306.00 106.03, 307.00 105.43, 308.00 104.80, 309.00 104.15, 310.00 103.48, 311.00 102.79, 312.00 102.08, 313.00 101.34, 314.00 100.58, 315.00 99.802, 316.00 98.997, 317.00 98.169, 318.00 97.317, 319.00 96.441, 320.00 95.541, 321.00 94.616, 322.00 93.666, 323.00 92.691, 324.00 91.690, 325.00 90.664, 326.00 89.611, 327.00 88.532, 328.00 87.425, 329.00 86.292, 330.00 85.131, 331.00 83.941, 332.00 82.724, 333.00 81.477, 334.00 80.201, 335.00 78.896, 336.00 77.560, 337.00 76.194, 338.00 74.796, 339.00 73.368, 340.00 71.907, 341.00 70.414, 342.00 68.888, 343.00 67.329, 344.00 65.735, 345.00 64.107, 346.00 62.444, 347.00 60.746, 348.00 59.012, 349.00 57.240, 350.00 55.432, 351.00 53.585, 352.00 51.701, 353.00 49.777, 354.00 47.813, 355.00 45.809, 356.00 43.764, 357.00 41.677, 358.00 39.547, 359.00 37.375, 360.00 35.159, 361.00 32.898, 362.00 30.592, 363.00 28.239, 364.00 25.840, 365.00 23.394, 366.00 20.898, 367.00 18.354, 368.00 15.759, 369.00 13.113, 370.00 10.416, 371.00 7.6656, 372.00 4.8616, 373.00 2.0031, 374.00 -0.91102, 375.00 -3.8816, "
+     id="polyline5692"
+     style="fill:#ffeedd;fill-opacity:0.2;stroke:#00008b;stroke-width:2.297571"
+     transform="matrix(0.652657,0,0,0.65307,0.519235,2.77431)" />
+  <text
+     xml:space="preserve"
+     style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.333332px;line-height:16.326099px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00008b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
+     x="225.627"
+     y="65.487"
+     id="text5618"
+     transform="scale(1.00016,0.999841)"><tspan
+       sodipodi:role="line"
+       id="tspan5616"
+       x="225.627"
+       y="65.487"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.333332px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1px;fill:#00008b;">cosh(x)</tspan></text>
+  <text
+     id="text5622"
+     y="100.753"
+     x="231.637"
+     style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.333332px;line-height:16.326099px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#9ade00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     xml:space="preserve"
+     transform="scale(1.00016,0.999841)"><tspan
+       y="100.753"
+       x="231.637"
+       id="tspan5620"
+       sodipodi:role="line"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.333332px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1px">cos(x)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.012499px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman Bold Italic';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.535937px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+     x="162.345"
+     y="18.8053"
+     id="text3708"><tspan
+       y="18.8053"
+       x="162.345"
+       id="tspan3710"
+       sodipodi:role="line"
+       style="stroke-width:0.535937px">y</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.012499px;line-height:125%;font-family:'Times New Roman';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.535937px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+     x="340.431"
+     y="134.222"
+     id="text3726"><tspan
+       y="134.222"
+       x="340.431"
+       id="tspan3728"
+       sodipodi:role="line"
+       style="stroke-width:0.535937px">x</tspan></text>
+</svg>

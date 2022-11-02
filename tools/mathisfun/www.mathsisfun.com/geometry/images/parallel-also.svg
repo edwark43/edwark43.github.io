@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="190.7"
+   height="76.3"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="parallel-also.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg10" />
+  <defs
+     id="defs2" />
+  <path
+     style="fill:none;stroke:#ff4141;stroke-width:1.95"
+     d="M -4.3,58.3 185.7,-7.6"
+     id="path6" />
+  <path
+     style="fill:none;stroke:#0084c8;stroke-width:1.95"
+     d="M 18,86.4 208.1,20.5"
+     id="path8" />
+</svg>

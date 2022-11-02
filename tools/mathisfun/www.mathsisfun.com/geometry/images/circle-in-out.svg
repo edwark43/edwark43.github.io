@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="223"
+   height="146.7"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="circle-in-out.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview24"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg22" />
+  <defs
+     id="defs2" />
+  <rect
+     x="0.376997"
+     y="0.409024"
+     ry="0"
+     width="222.2"
+     height="145.9"
+     style="color:#000000;overflow:visible;opacity:1;fill:#f0f0ff;stroke:#0000ff;stroke-width:0.79;fill-opacity:1"
+     id="rect4" />
+  <circle
+     cx="107.277"
+     cy="76.509"
+     r="47.4477"
+     style="color:#000000;overflow:visible;fill:#ffffc0;stroke:#ff5353;stroke-width:0.94;stroke-opacity:0.99"
+     id="circle6" />
+  <circle
+     cx="147.077"
+     cy="50.809"
+     r="1.32452"
+     style="color:#000000;overflow:visible;fill:#3465a4;stroke:#3465a4;stroke-width:0.94;stroke-opacity:0.99"
+     id="circle8" />
+  <circle
+     cx="62.277"
+     cy="28.109"
+     r="1.32452"
+     style="color:#000000;overflow:visible;fill:#3465a4;stroke:#3465a4;stroke-width:0.94;stroke-opacity:0.99"
+     id="circle10" />
+  <circle
+     cx="122.277"
+     cy="103.409"
+     r="1.32452"
+     style="color:#000000;overflow:visible;fill:#3465a4;stroke:#3465a4;stroke-width:0.94;stroke-opacity:0.99"
+     id="circle12" />
+  <text
+     x="66.777"
+     y="24.409"
+     style="color:#000000;font-size:18.8px;font-family:'Trebuchet MS';overflow:visible;fill:#3465a4;stroke-width:0.2px"
+     id="text14">A</text>
+  <text
+     x="151.277"
+     y="52.409"
+     style="color:#000000;font-size:18.8px;font-family:'Trebuchet MS';overflow:visible;fill:#3465a4;stroke-width:0.2px"
+     id="text16">C</text>
+  <text
+     x="126.177"
+     y="107.209"
+     style="color:#000000;font-size:18.8px;font-family:'Trebuchet MS';overflow:visible;fill:#3465a4;stroke-width:0.2px"
+     id="text18">B</text>
+</svg>

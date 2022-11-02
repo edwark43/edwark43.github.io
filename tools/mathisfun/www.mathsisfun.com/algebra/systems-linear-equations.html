@@ -1,0 +1,1467 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/algebra/systems-linear-equations.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:59:48 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Systems of Linear Equations</title>
+<meta name="description" content="A System of Equations is when we have two or more linear equations working together.">
+<link rel="canonical" href="systems-linear-equations.html">
+
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+<link rel="stylesheet" type="text/css" href="../style3.css">
+<script src="../main3.js"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun"></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran">
+		<script>document.write(getTrans());</script>
+	</div>
+	<div id="gplus">
+		<script>document.write(getGPlus());</script>
+	</div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script>document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script>document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort">
+			<script>document.write(getLinks());</script>
+		</div>
+	</div>
+	<div id="search" role="search">
+		<script>document.write(getSearch());</script>
+	</div>
+	<div id="menuSlim" class="menu"> 
+		<script>document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script>document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+  
+	<h1 align="center">Systems of Linear Equations</h1>
+	
+	<p>&nbsp;</p>
+	<p class="center"><img src="images/linear-quadratic-a.svg" alt="linear "><br>
+		A <a href="linear-equations.html">Linear Equation</a> is an <b>equation</b> for a <b>line</b>.</p>
+	
+	<div class="center80">
+		<p>A linear equation is not always in the form <b>y = 3.5 &minus; 0.5x</b>, </p>
+		<p>It can also be  like <b>y = 0.5(7 &minus; x)</b></p>
+		<p>Or like <b>y + 0.5x = 3.5</b> </p>
+		<p>Or like <b>y + 0.5x &minus; 3.5 = 0</b> and more.</p>
+		<p>(Note: those are all the same linear equation!)</p>
+	</div><p>&nbsp;</p>
+	<p>A <b>System</b> of Linear Equations is when we have <b>two or more linear equations</b> working together.</p>
+	<div class="example">
+<h3>Example: Here are two linear equations: </h3>
+<table border="0" align="center">
+	<tbody>
+<tr align="center">
+		<td width="40"><span class="large">2x</span></td>
+		<td width="30"><span class="large">+</span></td>
+		<td width="40"><span class="large">y</span></td>
+		<td width="30"><span class="large">=</span></td>
+		<td width="30"><span class="large">5</span></td>
+	</tr>
+	<tr align="center">
+		<td><span class="large">&minus;x</span></td>
+		<td><span class="large">+</span></td>
+		<td><span class="large">y</span></td>
+		<td><span class="large">=</span></td>
+		<td><span class="large">2</span></td>
+	</tr>
+</tbody></table>
+<p>Together they are a system of linear equations.</p>
+<p>Can you discover the values of <b>x</b> and <b>y</b> yourself? (Just have a go, play with them a bit.)</p>
+	</div>
+	<p>Let's try to build and solve a  real world  example:</p>
+	<div class="example">
+	  <h3>Example: You versus Horse</h3>
+<p style="float:left; margin: 0 10px 5px 0;"><img src="images/horse.jpg" alt="horse" height="133" width="154"></p>
+	  <p>It's a race! </p>
+		<p>You can run <b>0.2 km</b> every minute. </p>
+		<p>The Horse can run <b>0.5 km</b> every minute. But it takes 6&nbsp;minutes to saddle the horse. </p>
+		<p align="center"><b>How far can you get before the horse catches you?</b></p>
+	  <p>&nbsp;</p>
+	  <p>We can make <b>two</b> equations (<b>d</b>=distance in km, <b>t</b>=time in minutes)</p>
+	  <ul>
+	  	<li>You run at 0.2km every minute, so <b>d = 0.2t</b></li>
+	  	<li>The horse runs at 0.5 km per minute, but we take 6 off its time: <b>d = 0.5(t&minus;6)</b></li>
+  	</ul>
+	  <p>&nbsp;</p>
+	  <p>So we have a <b>system</b> of equations (that are  <b>linear</b>):</p>
+	  <ul>
+	  	<li><b>d = 0.2t</b></li>
+	  	<li><b>d = 0.5(t&minus;6)</b></li>
+  	</ul>
+		<p>We can solve it on a graph: </p>
+		<p align="center"><img src="images/system-linear-horse.svg" alt="you vs horse graph"></p>
+	  <p>Do you see how the horse starts at 6 minutes, but then runs faster?</p>
+	  <p>It seems you get caught after 10 minutes ... you only got 2 km away. </p>
+	  <p>Run faster next time.</p>
+	</div>
+	<p class="larger">So now you know what a System of Linear Equations is.</p>
+	<p>Let us continue to find out more about them ....</p>
+<h2>Solving</h2>
+<p><b>There can be many ways to solve linear equations!</b></p>
+	<p>Let us see another example:	</p>
+	<div class="example">
+		<h3>Example: Solve these two equations:</h3>
+		<p style="float:right; margin: 10px;"><img src="images/system-linear-d.svg" alt="system linear equations graph"></p>
+		<ul>
+			<li>x + y = 6</li>
+			<li>&minus;3x + y = 2</li>
+		</ul>
+		<p class="right">The two equations are shown on this graph:</p>
+		<p class="center">Our task is to find where the two lines cross.</p>
+		<p class="center">Well, we can see where they cross, so it is already solved graphically.</p>
+		<p class="center">But now let's solve it using Algebra!</p>
+		<p class="center">&nbsp;</p>
+		<p>Hmmm ... how to solve this? <b>There can be many ways!</b> In this case  both equations have "y" so let's try    subtracting the whole second equation from the first:</p>
+		<div class="so">x + y <span class="hilite">&minus; (&minus;3x + y)</span> = 6 <span class="hilite">&minus; 2</span></div>
+		<p>Now let us  simplify it:</p>
+		<div class="so">x + y + 3x &minus; y = 6 &minus; 2</div>
+		<div class="so">4x  = 4</div>
+		<div class="so">x  = 1 </div>
+		<p>So now we know the lines cross at <b>x=1</b>.</p>
+		<p>And we can find the matching value of <b>y</b> using either of the two original equations (because we know they have the same value at x=1). Let's use the first one (you can try the second one yourself):</p>
+		<div class="so">x + y = 6</div>
+		<div class="so">1 + y = 6</div>
+		<div class="so">y = 5</div>
+		<p>And the solution is:</p>
+		<p class="large center">x = 1 and y = 5</p>
+		<p>And the graph shows us we are right!</p>
+</div>
+
+	<h2>Linear Equations</h2>
+	<p>Only simple variables are allowed in linear equations. <b>No x<sup>2</sup>, y<sup>3</sup>, &radic;x, etc</b>:</p>
+	<p align="center"><img src="images/system-linear-vs-nonlinear.svg" alt="linear vs nonlinear"><br>
+		<span class="larger">Linear vs non-linear</span></p>
+	<h2>Dimensions</h2>
+	<div class="simple">
+		<table border="0" align="center">
+			<tbody>
+<tr>
+				<td align="right">A <b>Linear Equation</b> can be in <span class="larger">2 dimensions ...</span> <br>
+					(such as <b>x</b> and <b>y</b>)</td>
+				<td>&nbsp;</td>
+				<td align="center"><img src="../geometry/images/line-2d.svg" alt="2D Line"></td>
+				</tr>
+			<tr>
+				<td align="right"><span class="larger">... or in 3 dimensions ...</span><br>(it makes a plane)</td>
+				<td>&nbsp;</td>
+				<td align="center"><img src="../geometry/images/plane-3d.svg" alt="3D Plane"></td>
+				</tr>
+			<tr>
+				<td align="right"><span class="larger">... or 4 dimensions ...</span></td>
+				<td align="center">&nbsp;</td>
+				<td align="center">&nbsp;</td>
+				</tr>
+			<tr>
+				<td align="right"><span class="larger"> ... or more! </span></td>
+				<td align="center">&nbsp;</td>
+				<td align="center">&nbsp;</td>
+				</tr>
+		</tbody></table>
+	</div>
+	<h2>Common Variables</h2>
+	<p>For the equations to "work together" they  share one or more variables:</p>
+	<div class="def">
+      <p>A System of Equations has <b>two or more equations</b> in <b>one or more variables</b></p>
+  </div>
+
+	<h2>Many Variables</h2>
+	<p>So a System of Equations could have  <b>many </b>equations and <b>many </b>variables.</p>
+	<div class="example">
+      <h3>Example: 3 equations in  3 variables</h3>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="40"><span class="large">2x</span></td>
+        <td width="30"><span class="large">+</span></td>
+        <td width="40"><span class="large">y</span></td>
+        <td width="30"><span class="large">&minus;</span></td>
+        <td width="40"><span class="large">2z</span></td>
+        <td width="30"><span class="large">=</span></td>
+        <td width="30"><span class="large">3</span></td>
+      </tr>
+      <tr align="center">
+        <td><span class="large">x</span></td>
+        <td><span class="large">&minus;</span></td>
+        <td><span class="large">y</span></td>
+        <td><span class="large">&minus;</span></td>
+        <td><span class="large">z</span></td>
+        <td><span class="large">=</span></td>
+        <td><span class="large">0</span></td>
+      </tr>
+      <tr align="center">
+        <td><span class="large">x</span></td>
+        <td><span class="large">+</span></td>
+        <td><span class="large">y</span></td>
+        <td><span class="large">+</span></td>
+        <td><span class="large">3z</span></td>
+        <td><span class="large">=</span></td>
+        <td><span class="large">12</span></td>
+      </tr>
+      </tbody></table>
+  </div>
+	<p>There can be  any combination:</p>
+	<ul>
+	  <li>2 equations in  3 variables, </li>
+	  <li>6 equations in  4 variables, </li>
+	  <li>9,000 equations in 567 variables,</li>
+	  <li>etc.</li>
+  </ul>
+	<h2>Solutions</h2>
+	<div class="center80">
+      <p>When the number of equations is the <b>same</b> as the number of variables there is <b>likely</b> to be a solution. Not guaranteed, but likely.</p>
+  </div>
+	
+	<p>In fact there are only three possible cases:</p>
+	<ul>
+      <li><b>No</b> solution </li>
+	  <li><b>One</b> solution</li>
+	  <li><b>Infinitely many</b> solutions </li>
+  </ul>
+	<div class="words">
+      <p> When there is <b>no solution</b> the equations are called <b>"inconsistent"</b>.        </p>
+      <p><b>One </b>or <b> <b>infinitely many</b> solutions</b> are  called <b>"consistent"</b></p>
+  </div>
+	<p>Here is a diagram for <b>2 equations in 2 variables</b>:</p>
+	<p align="center"><img src="images/system-linear-types.svg" alt="system of linear equations types: no solution, one solution, infinite solutions"></p>
+	<h2>Independent</h2>
+	<div class="words">
+      <p> <b>"Independent"</b> means that each equation gives new information. <br>
+      	Otherwise they are <b>"Dependent"</b>.</p>
+      <p>Also called "Linear Independence" and "Linear Dependence"<br>
+   	</p>
+	</div>
+	<div class="example">
+	  <h3>Example:</h3>
+	  <ul>
+	    <li>x + y = 3	    </li>
+	    <li>2x + 2y = 6	    </li>
+    </ul>
+	  <p>Those equations are <b>"Dependent"</b>, because they are really the <b>same equation</b>, just multiplied by 2. </p>
+	  <p>So the second equation gave <b>no new information</b>.	</p>
+	</div>
+	<h2>Where the Equations are True</h2>
+	<p>The trick is to find where <b>all</b> equations are <b>true at the same time</b>.</p>
+<p><b>True?</b> What does that mean?</p>
+	<div class="example">
+		<h3>Example: You versus Horse</h3>
+	  <p align="center"><img src="images/system-linear-a.svg" alt="you vs horse graph"></p>
+	  <p>The "you" line is <b>true all along its length</b> (but nowhere else). </p>
+	  <p>Anywhere on that line <b>d</b> is equal to <b>0.2t</b></p>
+		<ul>
+			<li>at t=5 and d=1, the equation is <b>true</b> (Is d = 0.2t? Yes, as  <b>1 = 0.2&times;5</b> is true)</li>
+			<li>at t=5 and d=3, the equation is <b>not</b> true (Is d = 0.2t? No, as <b>3 = 0.2&times;5 is not true</b>)</li>
+		</ul>
+	  
+<p>Likewise the "horse" line is also <b>true all along its length</b> (but nowhere else).</p>
+<p>But only at the point where they <b>cross</b> (at t=10, d=2) are they <b>both true</b>.</p>
+  </div>
+	<div class="words">
+	  <p>So they have to be true <b><i>simultaneously</i></b> ... </p>
+	  <p>... that is why some people call them <b>"Simultaneous Linear Equations"</b></p>
+	</div>
+	<h2>Solve Using Algebra</h2>
+	<p>It is common to use   <a href="index.html">Algebra</a> to solve them.</p>
+	<p> Here is the "Horse" example solved using Algebra:</p>
+	<div class="example">
+      <h3>Example: You versus Horse	    </h3>
+      <p>The system of equations is:</p>
+	    <ul>
+          <li><span class="larger">d = 0.2t</span></li>
+	      <li><span class="larger">d = 0.5(t&minus;6)</span></li>
+    </ul>
+	    
+	    <p><b>In this case</b> it seems easiest to set them equal to each other:</p>
+	    <p align="center"><span class="larger">d = 0.2t = 0.5(t&minus;6)</span></p>
+	    <p>&nbsp;</p>
+<div class="tbl">
+<div class="row"><span class="left">Start with<b></b>:</span><span class="right"><span class="larger">0.2t = 0.5(t &minus; 6)</span></span></div>
+<div class="row"><span class="left">Expand <b>0.5(t&minus;6)</b>:</span><span class="right"><span class="larger">0.2t = 0.5t &minus; 3</span></span></div>
+<div class="row"><span class="left">Subtract <b>0.5t</b> from both sides:</span><span class="right"><span class="larger">&minus;0.3t = &minus;3</span></span></div>
+<div class="row"><span class="left">Divide both sides by <b>&minus;0.3</b>:</span><span class="right"><span class="larger">t = &minus;3/&minus;0.3 = <b>10</b> minutes</span></span></div>
+
+<p style="margin: 15px 0 15px 0;"><i>Now we know <b>when</b> you get caught!</i></p>
+
+<div class="row"><span class="left">Knowing <b>t</b> we can calculate <b>d</b>:</span><span class="right"><span class="larger">d = 0.2t = 0.2&times;10 = <b>2</b> km</span></span></div>
+</div>
+<p align="center">&nbsp;</p>
+	    <p>And our solution is:</p>
+	    <p align="center"><span class="large"> t = 10 minutes </span>and<span class="large"> d = 2 km</span></p>
+	</div>
+	<h2>Algebra vs Graphs</h2>
+	<p>Why use Algebra when graphs are so easy? Because: </p>
+	<p class="larger" align="center"> More than 2 variables can't be solved by  a simple graph.</p>
+	<p>So Algebra comes to the rescue with two popular methods:</p>
+	<div class="bigul">
+	  <ul>
+          <li>Solving By Substitution</li>
+	      <li>Solving By Elimination</li>
+    </ul>
+  </div>
+	<p>We will see each one, with examples in 2 variables, and in 3 variables. Here goes ...</p>
+	<h2>Solving By Substitution</h2>
+	
+	<p>These are the steps:</p>
+	<ul>
+	  <li>Write one of the equations so it is in the style <b>"variable = ..."</b></li>
+	  <li><b>Replace</b> (i.e. substitute) that variable in the other equation(s).</li>
+	  <li><b>Solve</b> the other equation(s)</li>
+	  <li>(Repeat as necessary)</li>
+	</ul>
+	<p>Here is  an example with <b>2 equations in 2 variables</b>:</p>
+	<div class="example">
+	  <h3>Example:</h3>
+	  <ul>
+	    <li>3x + 2y = 19</li>
+	    <li>x + y = 8</li>
+    </ul>
+	  <p>We can start with <b>any equation</b> and <b>any variable</b>. </p>
+	  <p>Let's use the second equation and the variable "y" (it looks the simplest equation).</p>
+	  <p class="larger">&nbsp;</p>
+	  <p class="larger">Write one of the equations so it is in the style "variable = ...":</p>
+	  <p>We can subtract x from both sides of x + y = 8 to get <b>y = 8 &minus; x</b>. Now our equations look like this:</p>
+	  <ul>
+        <li>3x + 2y = 19</li>
+        <li><b> y = 8 &minus; x</b></li>
+	  </ul>
+	  <p class="larger">&nbsp;</p>
+	  <p class="larger">Now replace "y" with "8 &minus; x" in the other equation:</p>
+	  <ul>
+        <li>3x + 2<b>(8 &minus; x)</b> = 19</li>
+	    <li>y = 8 &minus; x</li>
+    </ul>
+	  <p class="larger">&nbsp;</p>
+	  <p class="larger">Solve using the usual algebra methods:</p>
+	  <p>Expand <b>2(8&minus;x)</b>:</p>
+	  <ul>
+        <li>3x + <b>16 &minus; 2x</b> = 19</li>
+	    <li>y = 8 &minus; x</li>
+    </ul>
+	  <p>Then  <b>3x&minus;2x = x</b>:</p>
+	  <ul>
+        <li><b>x</b> + 16 = 19</li>
+	    <li>y = 8 &minus; x</li>
+    </ul>
+	  <p>And lastly <b>19&minus;16=3</b></p>
+	  <ul>
+        <li><b>x = 3</b></li>
+	    <li>y = 8 &minus; x</li>
+    </ul>
+	  <p>&nbsp;</p>
+	  <p>Now we know what <b>x</b> is, we can put it in the  <b>y = 8 &minus; x</b> equation:</p>
+	  <ul>
+        <li>x = 3</li>
+	    <li>y = 8 <b>&minus; 3</b> = 5</li>
+    </ul>
+	  <p>And the answer is:</p>
+	  <p align="center"><span class="large">x = 3<br>
+y = 5</span></p>
+	  <p>&nbsp;</p>
+	  <p align="center"><i>Note: because there <b>is</b> a solution the equations are<b> "consistent"</b></i></p>
+	  <p>&nbsp;</p>
+	  <p>Check: why don't you check to see if <span class="large">x = 3</span> and <span class="large">y = 5</span> works in both equations?</p>
+	</div>
+	<p>&nbsp;</p>
+	<h2>Solving By Substitution:  3 equations in 3 variables</h2>
+	<p>OK! Let's move to a <b>longer</b> example: <b>3 equations in 3 variables</b>.</p>
+	<p align="center"><i>This is <b>not hard</b> to do... it  just takes a <b>long time</b>!</i></p>
+	<div class="example">
+      <h3>Example:</h3>
+	  <ul>
+        <li>x + z = 6</li>
+	    <li>z &minus; 3y = 7</li>
+	    <li>2x + y + 3z = 15</li>
+    </ul>
+	  <p>We should line up the variables neatly, or we may lose track of what we are doing:</p>
+	  <p>&nbsp;</p>
+<table border="0" align="center">
+          <tbody>
+<tr align="center">
+            <td width="30">x</td>
+            <td width="30">&nbsp;</td>
+            <td width="30">&nbsp;</td>
+            <td width="30">+</td>
+            <td width="30">z</td>
+            <td width="30">=</td>
+            <td width="30">6</td>
+            <td width="30">&nbsp;</td>
+            <td width="30">&nbsp;</td>
+            <td width="30">&nbsp;</td>
+          </tr>
+          <tr align="center">
+            <td>&nbsp;</td>
+            <td>&minus;</td>
+            <td>3y</td>
+            <td>+</td>
+            <td>z</td>
+            <td>=</td>
+            <td>7</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr align="center">
+            <td>2x</td>
+            <td>+</td>
+            <td>y</td>
+            <td>+ </td>
+            <td>3z</td>
+            <td>=</td>
+            <td>15</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+    </tbody></table>
+    
+	  <p>&nbsp;</p>
+	  <p>WeI  can start with any equation and any variable. Let's use the first equation and the variable "x".</p>
+	  <p class="larger">&nbsp;</p>
+	  <p class="larger">Write one of the equations so it is in the style "variable = ...":</p>
+<table border="0" align="center">
+          <tbody>
+<tr align="center">
+            <td width="30"><b>x</b></td>
+            <td width="30">&nbsp;</td>
+            <td width="30">&nbsp;</td>
+            <td width="30">&nbsp;</td>
+            <td width="30">&nbsp;</td>
+            <td width="30"><b>=</b></td>
+            <td colspan="2"><b>6 &minus; z</b></td>
+            <td width="30">&nbsp;</td>
+            <td width="30">&nbsp;</td>
+          </tr>
+          <tr align="center">
+            <td>&nbsp;</td>
+            <td>&minus;</td>
+            <td>3y</td>
+            <td>+</td>
+            <td>z</td>
+            <td>=</td>
+            <td width="30">7</td>
+            <td width="30">&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr align="center">
+            <td>2x</td>
+            <td>+</td>
+            <td>y</td>
+            <td>+ </td>
+            <td>3z</td>
+            <td>=</td>
+            <td>15</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+    </tbody></table>
+    
+	  <p class="larger">&nbsp;</p>
+	  <p class="larger">Now replace "x" with "6 &minus; z" in the other equations:</p>
+	  <p>(Luckily there is only one other equation with x in it)</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30">&nbsp;</td>
+        <td width="30">x</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">=</td>
+        <td colspan="2">6 &minus; z</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&minus;</td>
+        <td>3y</td>
+        <td>+</td>
+        <td>z</td>
+        <td>=</td>
+        <td width="30">7</td>
+        <td width="30">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td colspan="2">2<b>(6&minus;z)</b></td>
+        <td>+</td>
+        <td>y</td>
+        <td>+ </td>
+        <td>3z</td>
+        <td>=</td>
+        <td>15</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  
+	  <p class="larger">&nbsp;</p>
+	  <p class="larger">Solve using the usual algebra methods:</p>
+	  <p><b>2(6&minus;z) + y + 3z = 15</b> simplifies to <b>y + z = 3</b>:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30">x</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">=</td>
+        <td colspan="2">6 &minus; z</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&minus;</td>
+        <td>3y</td>
+        <td>+</td>
+        <td>z</td>
+        <td>=</td>
+        <td width="30">7</td>
+        <td width="30">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>y</td>
+        <td>+ </td>
+        <td>z</td>
+        <td>=</td>
+        <td>3</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  <p>Good. We have made some progress, but not there yet.</p>
+	  <p>&nbsp;</p>
+	  <p>Now <b>repeat the process</b>, but just for the last 2 equations.</p>
+	  <p class="larger">&nbsp;</p>
+	  <p class="larger">Write one of the equations so it is in the style "variable = ...":</p>
+	  
+	  <p> Let's choose the last equation and the variable z:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30">x</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">=</td>
+        <td colspan="2">6 &minus; z</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&minus;</td>
+        <td>3y</td>
+        <td>+</td>
+        <td>z</td>
+        <td>=</td>
+        <td width="30">7</td>
+        <td width="30">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><b>z</b></td>
+        <td><b>=</b></td>
+        <td colspan="2"><b>3 &minus; y</b></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  <p class="larger">&nbsp;</p>
+	  <p class="larger">Now replace "z" with "3 &minus; y" in the other equation:</p>
+<table border="0" align="center">
+        <tbody>
+<tr align="center">
+          <td width="30">x</td>
+          <td width="30">&nbsp;</td>
+          <td width="30">&nbsp;</td>
+          <td width="30">&nbsp;</td>
+          <td width="60">&nbsp;</td>
+          <td width="30">=</td>
+          <td colspan="2">6 &minus; z</td>
+          <td width="30">&nbsp;</td>
+          <td width="30">&nbsp;</td>
+        </tr>
+        <tr align="center">
+          <td>&nbsp;</td>
+          <td>&minus;</td>
+          <td>3y</td>
+          <td>+</td>
+          <td><b>3 &minus; y</b></td>
+          <td>=</td>
+          <td width="30">7</td>
+          <td width="30">&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr align="center">
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>z</td>
+          <td>=</td>
+          <td colspan="2">3 &minus; y</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+    </tbody></table>
+	  
+	  <p class="larger">&nbsp;</p>
+	  <p class="larger">Solve using the usual algebra methods:</p>
+	  <p><b>&minus;3y + (3&minus;y) = 7</b> simplifies to <b>&minus;4y = 4</b>, or in other words <b>y = &minus;1</b></p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30">x</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">=</td>
+        <td colspan="2">6 &minus; z</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><b>y</b></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><b>=</b></td>
+        <td width="30"><b>&minus;1</b></td>
+        <td width="30">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>z</td>
+        <td>=</td>
+        <td colspan="2">3 &minus; y</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  <p>Almost Done! </p>
+	  <p>&nbsp;</p>
+	  <p>Knowing that <b>y = &minus;1 </b>we can calculate that <b>z = 3&minus;y = 4</b>:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30">x</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">=</td>
+        <td colspan="2">6 &minus; z</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>y</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>=</td>
+        <td width="30">&minus;1</td>
+        <td width="30">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><b>z</b></td>
+        <td><b>=</b></td>
+        <td><b>4</b></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  <p>And knowing that <b>z = 4 </b>we can calculate that <b>x = 6&minus;z = 2</b>:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30"><b>x</b></td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30"><b>=</b></td>
+        <td><b>2</b></td>
+        <td>&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>y</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>=</td>
+        <td width="30">&minus;1</td>
+        <td width="30">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>z</td>
+        <td>=</td>
+        <td>4</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  <p>&nbsp;</p>
+	  <p>And the answer is:</p>
+	  <p align="center"><span class="large">x = 2<br>
+y = &minus;1<br>
+z = 4</span></p>
+	  <p>&nbsp;</p>
+	  <p>Check: please check this yourself.</p>
+  </div>
+	<p>We can use this method for 4 or more equations and variables... just do the same steps again and again until it is solved.</p>
+	<div class="center80">
+	  <p>Conclusion: Substitution works nicely, but does take a long time to do.</p>
+  </div>
+	<p>&nbsp;</p>
+	<h2>Solving By Elimination</h2>
+	
+	<p>Elimination can be faster ... but needs to be kept neat.</p>
+	<div class="words">
+		<p>"Eliminate"  means to <b>remove</b>: this method works by removing variables until there is just one left.</p>
+	</div>
+	<p>The idea is that we <b>can safely</b>:</p>
+	<ul>
+	  <li><b>multiply</b> an equation by a constant (except zero),</li>
+	  <li><b>add</b> (or subtract) an equation on to another equation</li>
+  </ul>
+	<p>Like in these examples:</p>
+	<p align="center"><img src="images/system-linear-elimination.svg" alt="elimination methods"></p>
+	<div class="fun">
+		<h3>WHY can we add equations to each other?</h3>
+		<p>Imagine two really simple equations: </p>
+		<p class="center">x &minus; 5 = 3 <br>
+			5 = 5 </p>
+		<p>We can add the "5 = 5" to "x &minus; 5 = 3": </p>
+		<p class="center">x &minus; 5 <span class="hilite">+ 5</span> = 3 <span class="hilite">+ 5</span><br>
+			x = 8
+		</p>
+		<p>Try that yourself but use 5 = 3+2 as the 2nd equation</p>
+		<p>It will still work just fine, because both sides are equal (that is what the = is for!)	</p>
+	</div>
+	<p>&nbsp;</p>
+	<p>We can also swap equations around, so the 1st could become the 2nd, etc, if that helps. </p>
+	<p>&nbsp;</p>
+	<p>OK, time for a full example. Let's use the   <b>2 equations in 2 variables</b> example from before:</p>
+	<div class="example">
+      <h3>Example:</h3>
+	  <ul>
+        <li>3x + 2y = 19</li>
+	    <li>x + y = 8</li>
+    </ul>
+	  <p><b>Very</b> important to  keep things neat:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30">3x</td>
+        <td width="30">+</td>
+        <td width="30">2y</td>
+        <td width="30">=</td>
+        <td width="30">19</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+
+      <tr align="center">
+        <td>x</td>
+        <td>+</td>
+        <td>y</td>
+        <td>=</td>
+        <td>8</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+	  
+	  <p class="larger">&nbsp;</p>
+	  <p class="larger">Now ... our aim is to <b>eliminate</b> a variable from an equation. </p>
+	  <p>First we see there is a "2y" and a "y", so let's work on that.</p>
+	  <p><b>Multiply</b> the second equation by 2:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30">3x</td>
+        <td width="30">+</td>
+        <td width="30">2y</td>
+        <td width="30">=</td>
+        <td width="30">19</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td><b>2</b>x</td>
+        <td>+</td>
+        <td><b>2</b>y</td>
+        <td>=</td>
+        <td><b>16</b></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  <p><b>Subtract</b> the second equation from the first equation:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30"><b>x</b></td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30"><b>=</b></td>
+        <td width="30"><b>3</b></td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>2x</td>
+        <td>+</td>
+        <td>2y</td>
+        <td>=</td>
+        <td>16</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+	  
+	  <p><b>Yay! Now we know what x is!</b></p>
+	  <p>&nbsp;</p>
+	  <p>Next we see the 2nd equation has "2x", so let's halve it, and then subtract "x":</p>
+	  <p><b>Multiply</b> the second equation by <b>&frac12;</b> (i.e. divide by 2):</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30">x</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">=</td>
+        <td width="30">3</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td><b>x</b></td>
+        <td><b>+</b></td>
+        <td><b>y</b></td>
+        <td><b>=</b></td>
+        <td><b>8</b></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  <p><b>Subtract</b> the first equation from the second equation:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30">x</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">=</td>
+        <td width="30">3</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><b>y</b></td>
+        <td><b>=</b></td>
+        <td><b>5</b></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  <p><b>Done!</b></p>
+	  
+	  <p>And the answer is:</p>
+	  <p align="center"><span class="large">x = 3</span> and <span class="large">y = 5</span></p>
+	  <p>&nbsp;</p>
+	  <p>And here is the graph: </p>
+	  <p align="center"><img src="images/sim-eq-1.gif" alt="Graph of (19-3x)/2 vs 8-x" height="267" width="291"></p>
+	  <p align="center">The blue line is where <b>3x + 2y = 19</b> is true</p>
+	  <p align="center">The red line is where <b>x + y = 8</b> is true</p>
+	  <p align="center">At x=3, y=5 (where the lines cross) they are <b>both</b> true. <b>That</b> is the answer.</p>
+	</div><p>Here is another example:</p>
+	  <div class="example">
+      <h3>Example:</h3>
+	  <ul>
+        <li>2x &minus; y = 4</li>
+	    <li>6x &minus; 3y = 3</li>
+	    </ul>
+	  <p>Lay it out neatly:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30">2x</td>
+        <td width="30">&minus;</td>
+        <td width="30">y</td>
+        <td width="30">=</td>
+        <td width="30">4</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>6x</td>
+        <td>&minus;</td>
+        <td>3y</td>
+        <td>=</td>
+        <td>3</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+	    
+	  <p><b>Multiply</b> the first equation by 3:</p>
+<table border="0" align="center">
+        <tbody>
+<tr align="center">
+          <td width="30"><b>6x</b></td>
+          <td width="30">&minus;</td>
+          <td width="30"><b>3y</b></td>
+          <td width="30"><b>=</b></td>
+          <td width="30"><b>12</b></td>
+          <td width="30">&nbsp;</td>
+          <td width="30">&nbsp;</td>
+          <td width="30">&nbsp;</td>
+        </tr>
+        <tr align="center">
+          <td>6x</td>
+          <td>&minus;</td>
+          <td>3y</td>
+          <td>=</td>
+          <td>3</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+      </tbody></table>
+	  
+	  <p><b>Subtract</b> the second equation from the first equation:</p>
+<table border="0" align="center">
+        <tbody>
+<tr align="center">
+          <td width="30"><b>0</b></td>
+          <td width="30">&minus;</td>
+          <td width="30"><b>0</b></td>
+          <td width="30"><b>=</b></td>
+          <td width="30"><b>9</b></td>
+          <td width="30">&nbsp;</td>
+          <td width="30">&nbsp;</td>
+          <td width="30">&nbsp;</td>
+        </tr>
+        <tr align="center">
+          <td>6x</td>
+          <td>&minus;</td>
+          <td>3y</td>
+          <td>=</td>
+          <td>3</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+      </tbody></table>
+	  
+	  <p class="large" align="center">0 &minus; 0 = 9 ???</p>
+	  <p><b>What is going on here?</b></p>
+	  <p>&nbsp;</p>
+	  <p class="large" align="center">Quite simply, there is no solution.</p>
+	  <p>&nbsp;</p>
+<table border="0" align="center">
+          <tbody>
+<tr>
+            <td align="right">They are actually parallel lines:</td>
+            <td>&nbsp;</td>
+            <td><img src="images/system-linear-b.svg" alt="graph of two parallel lines"></td>
+          </tr>
+      </tbody></table>
+	  </div>
+	<p>And lastly:</p>
+	<div class="example">
+      <h3>Example:</h3>
+	  <ul>
+        <li>2x &minus; y = 4</li>
+	    <li>6x &minus; 3y = 12</li>
+    </ul>
+	  <p>Neatly:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30">2x</td>
+        <td width="30">&minus;</td>
+        <td width="30">y</td>
+        <td width="30">=</td>
+        <td width="30">4</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>6x</td>
+        <td>&minus;</td>
+        <td>3y</td>
+        <td>=</td>
+        <td>12</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  <p><b>Multiply</b> the first equation by 3:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30"><b>6x</b></td>
+        <td width="30">&minus;</td>
+        <td width="30"><b>3y</b></td>
+        <td width="30"><b>=</b></td>
+        <td width="30"><b>12</b></td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>6x</td>
+        <td>&minus;</td>
+        <td>3y</td>
+        <td>=</td>
+        <td>12</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  <p><b>Subtract</b> the second equation from the first equation:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30"><b>0</b></td>
+        <td width="30">&minus;</td>
+        <td width="30"><b>0</b></td>
+        <td width="30"><b>=</b></td>
+        <td width="30"><b>0</b></td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>6x</td>
+        <td>&minus;</td>
+        <td>3y</td>
+        <td>=</td>
+        <td>3</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  <p class="large" align="center">0 &minus; 0 = 0 </p>
+	  <p><b>Well, that is actually TRUE! Zero does equal zero ...</b></p>
+	  <p>&nbsp;</p>
+	  <p class="larger" align="center">... that is because they are really the same equation ...</p>
+	  <p align="center">&nbsp;</p>
+	  <p class="large" align="center">... so there are an Infinite Number of Solutions</p>
+
+      <table border="0" align="center">
+        <tbody>
+<tr>
+          <td align="right">They are the same line:</td>
+          <td>&nbsp;</td>
+          <td><img src="images/system-linear-c.svg" alt="graph of two lines superimposed"></td>
+        </tr>
+      </tbody></table>
+  </div>
+	<p>And so now we have seen an example of each of the three possible cases:</p>
+	<ul>
+      <li><b>No</b> solution </li>
+	  <li><b>One</b> solution</li>
+	  <li><b>Infinitely many</b> solutions </li>
+  </ul>
+	<h2>Solving By Elimination: 3 equations in 3 variables</h2>
+	<p>Before we start on the next example, let's look at an improved  way to do things.</p>
+	<div class="center80">
+	  <p class="larger">Follow this method and we are less likely to make a mistake.</p>
+  </div>
+	<p>First of all, eliminate the variables <b>in order</b>:</p>
+	<ul>
+      <li>Eliminate <b>x</b>s first (from equation 2 and 3, in order)</li>
+	  <li>then eliminate <b>y</b> (from equation 3)</li>
+  </ul>
+	<p align="center">So this is how we eliminate them:</p>
+	<p align="center"><img src="images/system-linear-elimination-a.gif" alt="elimination methods" height="99" width="183"></p>
+	<p align="center">We then have this "triangle shape":</p>
+	<p align="center"><img src="images/system-linear-elimination-b.gif" alt="elimination methods" height="91" width="169"></p>
+	<p align="center"> Now start at the bottom and <b>work back up</b> (called "Back-Substitution")<br>
+	  (put in<b> z</b> to find <b>y</b>, then <b>z </b>and<b> y</b> to find <b>x</b>):</p>
+	<div align="center"></div>
+	<p align="center"><img src="images/system-linear-elimination-c.gif" alt="elimination methods" height="90" width="165"></p>
+	<p align="center">And we are solved:</p>
+	<p align="center"><img src="images/system-linear-elimination-d.gif" alt="elimination methods" height="90" width="152"></p>
+	<p>ALSO, we will find it is easier to do <b>some</b> of the calculations in our head, or on scratch paper, rather than always working within the set of equations:</p>
+	<div class="example">
+      <h3>Example:</h3>
+	  <ul>
+        <li>x + y + z = 6</li>
+	    <li>2y + 5z = &minus;4</li>
+	    <li>2x + 5y &minus; z = 27</li>
+    </ul>
+	  <p>Written neatly:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30">x</td>
+        <td width="30">+</td>
+        <td width="30">y</td>
+        <td width="30">+</td>
+        <td width="30">z</td>
+        <td width="30">=</td>
+        <td width="30">6</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>2y</td>
+        <td>+</td>
+        <td>5z</td>
+        <td>=</td>
+        <td>&minus;4</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>2x</td>
+        <td>+</td>
+        <td>5y</td>
+        <td>&minus;</td>
+        <td>z</td>
+        <td>=</td>
+        <td>27</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    <p>&nbsp;</p>
+    
+	  <p class="larger">First, eliminate <b>x</b> from 2nd and 3rd equation.</p>
+	  <p>There is no x in the 2nd equation ... move on to the 3rd equation:</p>
+	  <p><b>Subtract 2 times the 1st equation from the 3rd equation</b> (just do this in your head or on scratch paper):</p>
+	  <p align="center"><img src="images/system-linear-elimination-e.gif" alt="elimination methods" height="92" width="340"></p>
+	  <p>And we get:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30">x</td>
+        <td width="30">+</td>
+        <td width="30">y</td>
+        <td width="30">+</td>
+        <td width="30">z</td>
+        <td width="30">=</td>
+        <td width="30">6</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>2y</td>
+        <td>+</td>
+        <td>5z</td>
+        <td>=</td>
+        <td>&minus;4</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><b>3y</b></td>
+        <td>&minus;</td>
+        <td><b>3z</b></td>
+        <td><b>=</b></td>
+        <td><b>15</b></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  <p>&nbsp;</p>
+	  <p class="larger">Next, eliminate <b>y</b> from 3rd equation.</p>
+	  <p>We <b>could</b> subtract 1&frac12; times the 2nd equation from the 3rd equation (because 1&frac12; times 2 is 3) ... </p>
+	  <p>... but we can <b>avoid  fractions</b> if we:</p>
+	  <ul>
+	    <li>multiply the 3rd equation by <b>2</b> and </li>
+	    <li>multiply the  2nd equation by <b>3</b></li>
+    </ul>
+	  <p>and <i>then</i> do  the subtraction ... like this:</p>
+	  <p align="center"><img src="images/system-linear-elimination-f.gif" alt="elimination methods" height="103" width="308"></p>
+	  <p>And we end up with:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30">x</td>
+        <td width="30">+</td>
+        <td width="30">y</td>
+        <td width="30">+</td>
+        <td width="30">z</td>
+        <td width="30">=</td>
+        <td width="30">6</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>2y</td>
+        <td>+</td>
+        <td>5z</td>
+        <td>=</td>
+        <td>&minus;4</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><b>z</b></td>
+        <td><b>=</b></td>
+        <td><b>&minus;2</b></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  <p>We now have that "triangle shape"!</p>
+	  <p>&nbsp;</p>
+	  <p class="larger">Now go back up again "back-substituting":</p>
+	  <p>We know <b>z</b>, so <b>2y+5z=&minus;4</b> becomes <b>2y&minus;10=&minus;4</b>, then<b> 2y=6</b>, so <b>y=3</b>:</p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30">x</td>
+        <td width="30">+</td>
+        <td width="30">y</td>
+        <td width="30">+</td>
+        <td width="30">z</td>
+        <td width="30">=</td>
+        <td width="30">6</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><b>y</b></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><b>=</b></td>
+        <td><b>3</b></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>z</td>
+        <td>=</td>
+        <td>&minus;2</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  <p>Then <b>x+y+z=6</b> becomes <b>x+3&minus;2=6</b>, so <b>x=6&minus;3+2=5</b></p>
+<table border="0" align="center">
+      <tbody>
+<tr align="center">
+        <td width="30"><b>x</b></td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30"><b>=</b></td>
+        <td width="30"><b>5</b></td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>y</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>=</td>
+        <td>3</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr align="center">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>z</td>
+        <td>=</td>
+        <td>&minus;2</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      </tbody></table>
+    
+	  <p>&nbsp;</p>
+	  <p>And the answer is:</p>
+	  <p align="center"><span class="large">x = 5<br>
+y = 3<br>
+z = &minus;2</span></p>
+	  <p>&nbsp;</p>
+	  <p>Check: please check for yourself.</p>
+  </div>
+	<h2>General Advice</h2>
+	<p>Once you get used to the Elimination Method it becomes  easier than Substitution, because you just follow the steps and the answers appear.</p>
+	<p>But sometimes Substitution can give a quicker result.</p>
+	<ul>
+      <li>Substitution is often easier for small cases (like 2 equations, or sometimes 3 equations)</li>
+	  <li>Elimination is easier for larger cases</li>
+  </ul>
+	<p>And it always pays to look over the equations first, to see if there is an easy shortcut ... so experience helps.</p>
+	<p>&nbsp;</p>
+
+    <div class="activity"> 
+
+      <a href="../pencilsandjars.html">Pencils and Jars Puzzle</a></div>
+    <div class="questions"> 
+
+<script type="text/javascript">getQ(591, 592, 593, 594, 1240, 61, 1241, 2863, 8157, 8158);</script>&nbsp;
+
+</div>
+    
+    <div class="related"><a href="linear-equations.html">Linear Equations</a><a href="index.html">Algebra Index</a></div>
+<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script>document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+	<script>document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2019 MathsIsFun.com
+</div>
+<script>document.write(getBodyEnd());</script>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/algebra/systems-linear-equations.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:59:52 GMT -->
+</html>

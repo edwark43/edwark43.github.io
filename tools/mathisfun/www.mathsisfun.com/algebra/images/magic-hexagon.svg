@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="177.5" height="133.1" version="1.1" style="font-family:Georgia; font-size:20px; fill:#ba00ff; stroke-width:0.32px;">
+<defs>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#005c94; stroke:#005c94; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g transform="translate(225.063,490.564)">
+	<path style="fill:#fefad7; stroke:#a40000; stroke-width:0.47;" d="m -105.7,-371.2 -57.7,0 -28.9,-50 28.9,-50 57.7,0 28.9,50 z"/>
+	<path style="fill:none; stroke:black;" d="m -163.5,-471.1 57.5,99.5"/>
+	<path style="fill:none; stroke:black;" d="M -192.2,-421.2 H -77.1"/>
+	<path style="fill:none; stroke:black;" d="m -106,-471.1 -57.3,99.9"/>
+	<text x="-179.5" y="-475.8" style="font-style:italic;">sin</text>
+	<text x="-226.1" y="-416.1" style="font-style:italic;">tan</text>
+	<text x="-116.9" y="-475.8" style="font-style:italic;">cos</text>
+	<text x="-178.1" y="-357.8" style="font-style:italic;">sec</text>
+	<text x="-74.9" y="-416.1" style="font-style:italic;">cot</text>
+	<text x="-117.8" y="-357.8" style="font-style:italic;">csc</text>
+	<text x="-147.3" y="-407.8" transform="scale(1.00188,0.998123)" style="font-family:Arial; font-size:42.7px; fill:black; stroke:white;">1</text>
+</g>
+</svg>

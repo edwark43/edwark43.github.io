@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="124.9"
+   height="197.99"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="place-value-12.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview32"
+     showgrid="false"
+     inkscape:current-layer="svg30" />
+  <defs
+     id="defs8">
+    <marker
+       id="id02"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#dc0000;stroke:#dc0000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="id01"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#267cb2;stroke:#267cb2;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="57.3211"
+     ry="30.2"
+     width="124.9"
+     height="60.3"
+     style="color:#000000;fill:#bce7ff"
+     id="rect10" />
+  <text
+     x="27.9"
+     y="101.221"
+     style="color:#000000;font-size:45.599998px;font-family:'Comic Sans MS';fill:#0065a4"
+     id="text12">1</text>
+  <text
+     x="64.3"
+     y="101.221"
+     style="color:#000000;font-size:45.599998px;font-family:'Comic Sans MS';fill:#dc0000"
+     id="text14">2</text>
+  <text
+     x="3.6"
+     y="197.121"
+     style="color:#000000;font-size:45.599998px;font-family:'Comic Sans MS';fill:#0065a4"
+     id="text16">10</text>
+  <text
+     x="88.7"
+     y="196.621"
+     style="color:#000000;font-size:45.599998px;font-family:'Comic Sans MS';fill:#dc0000"
+     id="text18">2</text>
+  <path
+     style="fill:none;stroke:#267cb2;stroke-width:2.45;marker-end:url(#id01)"
+     d="m 36.4,111.221 -7.4,43.8"
+     id="path20"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#dc0000;stroke-width:2.45;marker-end:url(#id02)"
+     d="m 82.5,109.921 11.9,46.3"
+     id="path22"
+     inkscape:connector-curvature="0" />
+  <text
+     x="-52.7211"
+     y="46.3"
+     transform="rotate(-90)"
+     style="color:#000000;font-size:22.5px;font-family:Arial;fill:#0065a4"
+     id="text24">Tens</text>
+  <text
+     x="-52.9211"
+     y="87.6"
+     transform="rotate(-90)"
+     style="color:#000000;font-size:22.5px;font-family:Arial;fill:#dc0000"
+     id="text26">Ones</text>
+</svg>

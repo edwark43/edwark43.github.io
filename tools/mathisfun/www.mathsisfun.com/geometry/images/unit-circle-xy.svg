@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="296.2"
+   height="288.7"
+   version="1.0"
+   id="svg33"
+   sodipodi:docname="unit-circle-xy.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview35"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg33" />
+  <defs
+     id="defs5">
+    <marker
+       id="id1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-.8 0 0 -.8 -10 0)"
+         style="stroke:black;stroke-width:1pt"
+         d="m0 0 5-5-17.5 5 17.5 5-5-5z"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id14660"
+       inkscape:stockid="id14660">
+      <path
+         transform="matrix(-.8 0 0 -.8 -10 0)"
+         style="stroke:#19aeff;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#19aeff"
+         d="m0 0 5-5-17.5 5 17.5 5-5-5z"
+         id="path926" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id17807"
+       inkscape:stockid="id17807">
+      <path
+         transform="matrix(-.8 0 0 -.8 -10 0)"
+         style="stroke:#3465a4;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#3465a4"
+         d="m0 0 5-5-17.5 5 17.5 5-5-5z"
+         id="path994" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       inkscape:stockid="id178076266"
+       id="id178076266">
+      <path
+         transform="matrix(-.8 0 0 -.8 -10 0)"
+         style="stroke:#19aeff;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#19aeff"
+         d="m0 0 5-5-17.5 5 17.5 5-5-5z"
+         id="path1084" />
+    </marker>
+  </defs>
+  <path
+     style="fill:none;stroke:#19aeff;stroke-width:0.933796;marker-end:url(#id14660)"
+     d="M -0.0174,148.017 H 292.191"
+     id="path7" />
+  <path
+     style="fill:none;stroke:#19aeff;stroke-width:0.923862;marker-end:url(#id178076266)"
+     d="M 145.416,288.682 V 1.68876"
+     id="path9" />
+  <path
+     style="fill:none;stroke:#204a87;stroke-width:1.39076"
+     d="m 253.002,148.017 c 0,-59.4554 -48.18,-107.6353 -107.586,-107.6353 -59.4546,0 -107.6345,48.1799 -107.6345,107.6353 0,59.455 48.1799,107.634 107.6345,107.634 59.406,0 107.586,-48.179 107.586,-107.634 z"
+     id="path11" />
+  <text
+     x="126.393"
+     y="11.1261"
+     style="color:#000000;fill:#19aeff;font-family:Trebuchet MS;font-size:19.868px;font-style:italic;font-weight:bold;stroke:#19aeff;stroke-width:0.4967"
+     id="text13">y</text>
+  <text
+     x="283.251"
+     y="166.792"
+     style="color:#000000;fill:#19aeff;font-family:Trebuchet MS;font-size:19.868px;font-style:italic;font-weight:bold;stroke-width:0.4967"
+     id="text15">x</text>
+  <line
+     x1="145.516"
+     y1="148.613"
+     x2="201.444"
+     y2="56.4251"
+     style="fill:none;stroke:#204a87;stroke-width:2.4984"
+     id="line17" />
+  <text
+     x="168.087"
+     y="164.887"
+     transform="scale(0.998202,1.0018)"
+     style="fill:#fcaf3e;font-family:Trebuchet MS;font-size:20.4681px;stroke-width:0.496798"
+     id="text19">x</text>
+  <text
+     x="208.178"
+     y="116.549"
+     transform="scale(0.998202,1.0018)"
+     style="fill:#fb0f0c;font-family:Trebuchet MS;font-size:20.4681px;stroke-width:1.2569"
+     id="text21">y</text>
+  <line
+     x1="202.239"
+     y1="57.4185"
+     x2="202.239"
+     y2="148.414"
+     style="fill:none;stroke:#fb0f0c;stroke-width:2.4984"
+     id="line23" />
+  <polyline
+     points="84.95 26.58 87.65 20.81 93.43 23.5"
+     transform="matrix(2.35634,-1.07834,1.08877,2.37969,-44.2436,175.832)"
+     style="fill:none;stroke:#3465a4;stroke-width:0.48"
+     id="polyline25" />
+  <path
+     style="fill:#fcaf3e;fill-opacity:0.75;stroke:#fcaf3e;stroke-width:2.4984"
+     d="m 146.708,148.315 h 56.127"
+     id="path27" />
+  <text
+     x="159.989"
+     y="94.0439"
+     transform="scale(0.998202,1.0018)"
+     style="fill:#204a87;font-family:'Trebuchet MS';font-size:20.4681px;stroke-width:1.2569;-inkscape-font-specification:'Trebuchet MS Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+     id="text29">1</text>
+</svg>

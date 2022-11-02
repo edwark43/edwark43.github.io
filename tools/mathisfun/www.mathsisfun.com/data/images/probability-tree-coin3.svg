@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="664.6" height="238.3" version="1.1">
+<defs>
+<marker style="overflow:visible;" orient="auto" id="id01">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;"/>
+</marker>
+<marker style="overflow:visible;" orient="auto" id="id02">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#9ade00; stroke:#9ade00; stroke-width:1pt;"/>
+</marker>
+</defs>
+<g transform="translate(-898.846,1118.81)">
+<rect x="1217.7" y="-1105" ry="0" width="96.9" height="224.4" style="color:black; overflow:visible; fill:#19aeff; fill-opacity:0.39; stroke-width:1.56;"/>
+<path d="m 918.3,-1003.5 c 1.9,-1.4 57.5,-36.9 91.8,-43.8 34.4,-7 57.4,-17.9 147.9,-20 90.4,-2.1 347.3,-2.4 347.3,-2.4" style="fill:none; stroke:#ffff3e; stroke-width:38.5; stroke-opacity:0.32; stroke-linecap:round;"/>
+<text x="1374.6" y="-1064.3" style="font-family:Arial; font-size:18.7px; color:black; overflow:visible; fill:#0e232e; stroke-width:0.55px;">0.5 × 0.5 = 0.25</text>
+<circle cx="916" cy="-1006.6" r="4.34938" style="color:black; overflow:visible; fill:none; stroke:#0084c8; stroke-width:1.8; stroke-linejoin:round;"/>
+<path d="m 923.9,-1009.3 87.4,-38" style="marker-end:url(#id01); fill:none; stroke:black; stroke-width:1.43;"/>
+<path d="m 923.4,-1002.9 87.4,38" style="marker-end:url(#id01); fill:none; stroke:black; stroke-width:1.43;"/>
+<text x="1017.3" y="-1043.1" style="font-family:Georgia; font-size:18.7px; color:black; overflow:visible; fill:#ff6600; stroke-width:0.55px;">Head</text>
+<text x="1018" y="-954.4" style="font-family:Georgia; font-size:18.7px; color:black; overflow:visible; fill:#0084c8; stroke-width:0.55px;">Tail</text>
+<path d="m 1307.6,-1069.8 h 54" style="marker-end:url(#id01); fill:none; stroke:black; stroke-width:1.1; stroke-dasharray:4.4, 4.4;"/>
+<text x="951.8" y="-1034.7" style="font-family:Arial; font-size:18.7px; color:black; overflow:visible; fill:#ff6600; stroke-width:0.55px;">0.5</text>
+<text x="952.1" y="-963.6" style="font-family:Arial; font-size:18.7px; color:black; overflow:visible; fill:#0084c8; stroke-width:0.55px;">0.5</text>
+<path d="m 1064.7,-1052.2 90.6,-15.8" style="marker-end:url(#id01); fill:none; stroke:black; stroke-width:1.43;"/>
+<text x="1374.6" y="-974.1" style="font-family:Arial; font-size:18.7px; color:black; overflow:visible; fill:#0e232e; stroke-width:0.55px;">0.5 × 0.5 = 0.25</text>
+<path d="m 1307.6,-979.6 h 54" style="marker-end:url(#id01); fill:none; stroke:black; stroke-width:1.1; stroke-dasharray:4.4, 4.4;"/>
+<text x="1374.6" y="-1025.4" style="font-family:Arial; font-size:18.7px; color:black; overflow:visible; fill:#0e232e; stroke-width:0.55px;">0.5 × 0.5 = 0.25</text>
+<path d="m 1307.6,-1030.9 h 54" style="marker-end:url(#id01); fill:none; stroke:black; stroke-width:1.1; stroke-dasharray:4.4, 4.4;"/>
+<text x="1374.6" y="-933.9" style="font-family:Arial; font-size:18.7px; color:black; overflow:visible; fill:#0e232e; stroke-width:0.55px;">0.5 × 0.5 = 0.25</text>
+<path d="m 1307.6,-939.4 h 54" style="marker-end:url(#id01); fill:none; stroke:black; stroke-width:1.1; stroke-dasharray:4.4, 4.4;"/>
+<path d="m 1065.2,-1046.5 90.6,15.8" style="marker-end:url(#id01); fill:none; stroke:black; stroke-width:1.43;"/>
+<path d="m 1065.6,-961.7 90.6,-15.8" style="marker-end:url(#id01); fill:none; stroke:black; stroke-width:1.43;"/>
+<path d="m 1066.1,-956 90.6,15.8" style="marker-end:url(#id01); fill:none; stroke:black; stroke-width:1.43;"/>
+<text x="1164.1" y="-1063" style="font-family:Georgia; font-size:18.7px; color:black; overflow:visible; fill:#ff6600; stroke-width:0.55px;">Head</text>
+<text x="1165.7" y="-1026.1" style="font-family:Georgia; font-size:18.7px; color:black; overflow:visible; fill:#0084c8; stroke-width:0.55px;">Tail</text>
+<text x="1165.7" y="-971.1" style="font-family:Georgia; font-size:18.7px; color:black; overflow:visible; fill:#ff6600; stroke-width:0.55px;">Head</text>
+<text x="1167.4" y="-934.2" style="font-family:Georgia; font-size:18.7px; color:black; overflow:visible; fill:#0084c8; stroke-width:0.55px;">Tail</text>
+<text x="1097.9" y="-1066.9" style="font-family:Arial; font-size:18.7px; color:black; overflow:visible; fill:#ff6600; stroke-width:0.55px;">0.5</text>
+<text x="1098.7" y="-1020.2" style="font-family:Arial; font-size:18.7px; color:black; overflow:visible; fill:#0084c8; stroke-width:0.55px;">0.5</text>
+<text x="1097.9" y="-975.6" style="font-family:Arial; font-size:18.7px; color:black; overflow:visible; fill:#ff6600; stroke-width:0.55px;">0.5</text>
+<text x="1098.7" y="-928.8" style="font-family:Arial; font-size:18.7px; color:black; overflow:visible; fill:#0084c8; stroke-width:0.55px;">0.5</text>
+<text x="1219.8" y="-1064.6" style="font-family:Georgia; font-size:16px; font-style:italic; color:black; overflow:visible; fill:#2d2d2d; stroke-width:0.55px;">Head, Head</text>
+<text x="1225.3" y="-1026.9" style="font-family:Georgia; font-size:16px; font-style:italic; color:black; overflow:visible; fill:#2d2d2d; stroke-width:0.55px;">Head, Tail</text>
+<text x="1225.5" y="-973.4" style="font-family:Georgia; font-size:16px; font-style:italic; color:black; overflow:visible; fill:#2d2d2d; stroke-width:0.55px;">Tail, Head</text>
+<text x="1231.1" y="-935.6" style="font-family:Georgia; font-size:16px; font-style:italic; color:black; overflow:visible; fill:#2d2d2d; stroke-width:0.55px;">Tail, Tail</text>
+<text x="1213.5" y="-808.7" transform="rotate(-13.5654)" style="font-family:Georgia; font-size:32px; color:black; overflow:visible; fill:#ff9900; stroke-width:0.55px;">Multiply</text>
+<path d="m 1532,-1076.2 v 171" style="marker-end:url(#id02); fill:#9ade00; stroke:#9ade00; stroke-width:3.58;"/>
+<text x="1505.6" y="-994.6" style="font-family:Georgia; font-size:32px; color:black; overflow:visible; fill:#009100; stroke-width:0.55px;">Add</text>
+<text x="1468.4" y="-896.4" style="font-family:Arial; font-size:18.7px; color:black; overflow:visible; fill:#0e232e; stroke-width:0.55px;">1.00</text>
+<path d="m 1460.1,-891 h 47.6" style="fill:none; stroke:black; stroke-width:0.58px;"/>
+<path d="m 1460.1,-915 h 47.6" style="fill:none; stroke:black; stroke-width:0.58px;"/>
+</g>
+</svg>

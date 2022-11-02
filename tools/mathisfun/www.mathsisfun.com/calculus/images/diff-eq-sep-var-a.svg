@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="129.3" height="151.6" version="1.1" style="font-family:'Comic Sans MS'; font-size:21.4px; fill:#666666; stroke-width:0.5px;">
+<g transform="translate(-1605.55,-719.245)">
+	<text x="1619.1" y="865" style="fill:#c4a000; fill-opacity:0.29;">dx</text>
+	<text x="1609.2" y="843.6" style="fill:#c4a000;">dy</text>
+	<text x="1710.3" y="853" style="fill:#c4a000;">dx</text>
+	<text x="1694.3" y="853.5">x</text>
+	<text x="1682.4" y="853.5">5</text>
+	<text x="1654.8" y="853.6" style="fill:#007ad2;">=</text>
+	<path style="fill:black; stroke:#c4a000; stroke-width:1.53;" d="m 1605.8,847.2 h 31.7"/>
+	<text x="1606.6" y="864.8">y</text>
+	<g transform="matrix(-0.490668,0.096151,0.096151,0.490668,2287.22,438.462)"/>
+	<g transform="matrix(0.379815,0.035022,-0.035022,0.379815,1131.03,305.646)">
+		<path style="stroke-width:1px;" d="m 1407.4,1194.9 c 11.4,-3.1 22.8,-6.2 33.4,-11.4 -0.7,4.3 0.6,10.1 -5.6,10.3 -9.5,4 -19.7,6.4 -29.6,9.3 0.6,-2.7 1.2,-5.5 1.8,-8.2 z"/>
+		<path style="stroke-width:1px;" d="m 1410.1,1195.2 c 12,3 23.5,8.1 33.1,16.1 -3.8,2.5 -7.3,8.8 -11.3,2.5 -8,-5.9 -17.6,-8.9 -27.1,-11.4 1.8,-2.4 3.6,-4.8 5.4,-7.2 z"/>
+		<path style="stroke-width:1px;" d="m 1621.8,1162.7 c -8.9,4.3 -17.5,8.4 -17.5,8.3 -45,19.1 -93.8,27.2 -142.2,31.1 -19.3,1.3 -38.7,1.1 -58,0.5 2.4,-4.9 4,-11 11.1,-7.8 48.3,1.6 96.7,-4.1 143.5,-16 14.7,-4.1 29.2,-8.7 43.3,-14.6 -10.1,4.6 11.3,-5.2 0.7,-0.3 4.1,-2 19.9,-9.6 11.3,-5.5 2.6,1.5 5.2,3 7.8,4.4 z"/>
+	</g>
+	<text x="1609.2" y="784.1" style="fill:#c4a000;">dy</text>
+	<text x="1619.5" y="806.4" style="fill:#c4a000;">dx</text>
+	<text x="1605.6" y="807.2">y</text>
+	<text x="1682.4" y="794">5</text>
+	<text x="1654.8" y="794.1" style="fill:#007ad2;">=</text>
+	<path style="fill:black; stroke:#c4a000; stroke-width:1.53;" d="m 1605.8,787.7 h 31.7"/>
+	<text x="1693.9" y="794.4">x</text>
+	<g transform="matrix(0.342465,-0.011319,0.009975,0.333353,1159.29,554.136)">
+		<path style="fill:#c4a000; stroke-width:1px;" d="m 1590,958.4 c -10.9,2.1 -27.1,0.6 -34.7,2.5 1.6,8.8 10.7,6.4 17.6,6.3 5.3,-1.9 21.9,1.4 20.1,-4.1 -1,-1.6 -2.1,-3.2 -3.1,-4.8 z"/>
+		<path style="fill:#c4a000; stroke-width:1px;" d="m 1587.6,959.6 c -9.7,6.9 -20.8,16.8 -24.5,27.1 7.7,5.2 11.2,-0.9 15.2,-7.6 2,-7.1 24.1,-12.9 11.8,-17.9 -0.8,-0.5 -1.7,-1 -2.5,-1.6 z"/>
+		<path style="fill:#c4a000; stroke-width:1px;" d="m 1386.5,967.5 c 39.3,6.4 78.8,13.8 118.7,13.5 27.2,-0.9 54.6,-7 77.9,-21.4 3.6,-1 1,12.1 -5.2,11.2 -38,21 -83.2,20.8 -125.1,15.3 -23.8,-2.7 -47.3,-6.7 -70.9,-10.8 1.5,-2.6 3,-5.2 4.5,-7.8 z"/>
+	</g>
+	<text x="1610.1" y="735.9" style="fill:#c4a000;">dy</text>
+	<text x="1609.4" y="758.2" style="fill:#c4a000;">dx</text>
+	<text x="1683.3" y="745.8">5</text>
+	<text x="1655.7" y="745.9" style="fill:#007ad2;">=</text>
+	<path style="fill:black; stroke:#c4a000; stroke-width:1.53;" d="m 1606.8,739.5 h 31.7"/>
+	<text x="1707.1" y="745.5">y</text>
+	<text x="1694.7" y="745.5">x</text>
+	<text x="1706.7" y="794.6" style="fill-opacity:0.26;">y</text>
+</g>
+</svg>

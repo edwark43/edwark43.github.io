@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140.4" height="95.1" version="1.1" style="font-family:'Trebuchet MS'; font-size:28px; stroke-width:1pt;">
+<defs>
+	<marker id="aa10" style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa11" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<linearGradient id="aa1">
+		<stop offset="0" style="stop-color:#939393; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:1;"/>
+	</linearGradient>
+	<marker id="aa9" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#204a87; stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa8" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#204a87; stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa7" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#204a87; stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa6" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#204a87; stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa4" style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#204a87; stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa5" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#204a87; stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa2" style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#ff6600; stroke:#ff6600;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa3" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ff6600; stroke:#ff6600;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g style="display:none;" transform="translate(1285.26,408.416)">
+	<image x="-1413.5" y="148.4" width="1305" height="787.4" xlink:href="../../Images/SVG/inkscape_pasted_image_20101001_094421.html"/>
+</g>
+<g transform="translate(1285.26,408.416)">
+	<rect x="-891.4" y="-412" width="92.4" height="91.6" style="fill:#8d66ff; fill-opacity:0.1; stroke:#00009a; stroke-width:2.99;"/>
+	<rect x="-1283.7" y="-406.9" width="94.1" height="91.6" style="fill:#8d66ff; fill-opacity:0.1; stroke:#00009a; stroke-width:2.99;"/>
+	<path style="marker-start:url(#aa2); marker-end:url(#aa3); fill:none; stroke:#ff6600; stroke-width:1.8;" d="m -1169.4,-316.8 c 0,-28.7 0,-57.4 0,-86.1"/>
+	<text x="-1158.3" y="-351.6" transform="scale(1.00019,0.999807)" style="fill:#ff6600; stroke-width:0.6;">a</text>
+	<path style="marker-start:url(#aa4); marker-end:url(#aa5); fill:none; stroke:#204a87; stroke-width:1.8;" d="m -607.7,-325.7 c 0,-28.7 0,-57.4 0,-86.1"/>
+	<text x="-596.6" y="-360.4" transform="scale(1.00019,0.999807)" style="fill:#204a87; stroke-width:0.6;">5 m</text>
+	<rect x="-471.6" y="-410.8" width="94.1" height="91.6" style="fill:#8d66ff; fill-opacity:0.1; stroke-width:0.6;"/>
+	<path style="marker-end:url(#aa6); fill:none; stroke:#204a87; stroke-width:1.8;" d="m -378.8,-320.2 c 0,-28.7 0,-57.4 0,-86.1"/>
+	<path style="marker-end:url(#aa7); fill:none; stroke:#204a87; stroke-width:1.8;" d="m -379.3,-409.3 c -28.7,0 -57.4,0 -86.1,0"/>
+	<path style="marker-end:url(#aa8); fill:none; stroke:#204a87; stroke-width:1.8;" d="m -469.2,-409.6 c 0,28.7 0,57.4 0,86.1"/>
+	<path style="marker-end:url(#aa9); fill:none; stroke:#204a87; stroke-width:1.8;" d="m -469,-320.4 c 28.7,0 57.4,0 86.1,0"/>
+	<text x="-373.7" y="-356.2" transform="scale(1.00019,0.999809)" style="fill:black; stroke-width:0.6;">a</text>
+	<text x="-430.7" y="-414.6" transform="scale(1.00019,0.999809)" style="fill:black; stroke-width:0.6;">a</text>
+	<text x="-492.3" y="-360.3" transform="scale(1.00019,0.999809)" style="fill:black; stroke-width:0.6;">a</text>
+	<text x="-433" y="-300.3" transform="scale(1.00019,0.999809)" style="fill:black; stroke-width:0.6;">a</text>
+	<rect x="-1073.9" y="-412" width="92.4" height="91.6" style="fill:#8d66ff; fill-opacity:0.1; stroke:#00009a; stroke-width:2.99;"/>
+	<path style="marker-start:url(#aa10); marker-end:url(#aa11); fill:#f57900; stroke:#4e9a06; stroke-width:1.5; stroke-dasharray:9, 1.5;" d="m -983.8,-321.5 -87.3,-87"/>
+	<path style="marker-start:url(#aa10); marker-end:url(#aa11); fill:#f57900; stroke:#4e9a06; stroke-width:1.5; stroke-dasharray:9, 1.5;" d="m -1071.1,-322.4 87.3,-87"/>
+	<path style="marker-start:url(#aa10); marker-end:url(#aa11); fill:#f57900; stroke:#4e9a06; stroke-width:1.5; stroke-dasharray:9, 1.5;" d="m -801.3,-321.5 -87.3,-87"/>
+	<rect x="-715.1" y="-415.3" width="92.4" height="91.6" style="fill:#8d66ff; fill-opacity:0.1; stroke:#00009a; stroke-width:2.99;"/>
+	<path style="marker-start:url(#aa10); marker-end:url(#aa11); fill:#f57900; stroke:#4e9a06; stroke-width:1.5; stroke-dasharray:9, 1.5;" d="m -625,-324.9 -87.3,-87"/>
+	<text x="-844.1" y="-371.6" transform="scale(1.00019,0.999809)" style="fill:#4e9a06; stroke-width:0.6;">d</text>
+	<text x="-666" y="-375.9" transform="scale(1.00019,0.99981)" style="fill:#4e9a06; stroke-width:0.6;">d</text>
+</g>
+</svg>

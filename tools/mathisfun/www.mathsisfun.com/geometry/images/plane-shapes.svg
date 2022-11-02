@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="154.822"
+   height="106.944"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="plane-shapes.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview16"
+     showgrid="false"
+     inkscape:current-layer="svg14" />
+  <defs
+     id="defs2" />
+  <g
+     transform="matrix(1.17713,0,0,1.17713,-13.3902,-528)"
+     id="g12">
+    <ellipse
+       cx="-264.8"
+       cy="433.3"
+       rx="43.2"
+       ry="16.9"
+       transform="matrix(0.84966,-0.527331,0.633744,0.773543,0,0)"
+       style="fill:#ff007e;stroke-width:1.23"
+       id="ellipse4" />
+    <path
+       style="fill:#0000ff;stroke-width:1.87"
+       d="m 134.3,526.7 -29.4,0.6 -9.7,-27.8 23.5,-17.8 24.2,16.8 z"
+       id="path6"
+       inkscape:connector-curvature="0" />
+    <rect
+       x="94.3"
+       y="454.5"
+       width="47.8"
+       height="19.3"
+       style="fill:#00ff00;stroke-width:1.87"
+       id="rect8" />
+    <path
+       style="fill:#8991f9;stroke-width:1.87"
+       d="m 88.5,530.5 -38.1,8.9 11.4,-37.5 z"
+       id="path10"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="152" height="193.2" version="1.1">
+<defs>
+<marker id="id8" style="overflow:visible;" orient="auto">
+<path transform="scale(0.8) rotate(180) translate(12.5,0)" style="fill:#c17d11; stroke:#c17d11; stroke-width:1pt;" d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "/>
+</marker>
+<linearGradient id="id1">
+<stop offset="0" style="stop-color:#04c300; stop-opacity:0.07;"/>
+<stop offset="1" style="stop-color:#026300; stop-opacity:0.66;"/>
+</linearGradient>
+<marker id="id9" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#204a87; stroke:#204a87; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<linearGradient id="id2">
+<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+</linearGradient>
+<linearGradient id="id3">
+<stop offset="0" style="stop-color:#04c300; stop-opacity:0.14;"/>
+<stop offset="1" style="stop-color:#026300; stop-opacity:0.94;"/>
+</linearGradient>
+<radialGradient id="id7" r="18.6367" fx="-52.1411" fy="134.894" cx="-52.1" cy="134.9" gradientTransform="matrix(0.531954,0,0,1.4461,39.667,-131.688)" xlink:href="#id2" gradientUnits="userSpaceOnUse"/>
+<radialGradient id="id6" r="18.6367" fx="-52.1411" fy="134.894" cx="-52.1" cy="134.9" gradientTransform="matrix(0.987542,0,0,2.43987,69.147,-191.936)" xlink:href="#id2" gradientUnits="userSpaceOnUse"/>
+<marker id="id5" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#19aeff; stroke:#19aeff; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<linearGradient id="id4" gradientTransform="matrix(0.665129,0,0,0.718978,120.09,-249.171)" xlink:href="#id3" x1="-179.9" y1="489.6" x2="-35.2" y2="489.6" gradientUnits="userSpaceOnUse"/>
+</defs>
+<text x="101.7" y="109.3" style="font-family:'Comic Sans MS'; font-size:25.7px; font-style:italic; color:black; overflow:visible; fill:#19aeff; stroke:black; stroke-width:0.08;">h</text>
+<path style="fill:#25d01e; stroke-width:0.69;" d="m 95.4,165.6 a 47.6,28 0 0 1 -95.1,0 47.6,28 0 1 1 95.1,0 z"/>
+<path style="fill:#c17d11; stroke-width:0.69;" d="m 96,35.3 a 47.6,28 0 0 1 -95.1,0 47.6,28 0 1 1 95.1,0 z"/>
+<path style="color:black; overflow:visible; fill:url(#id4); stroke-width:0.69; stroke-linejoin:round;" d="m 48.2,6.8 c -26.4,0 -48.7,13.9 -48,28.2 -0.2,4.9 0.1,131 0.1,131 0.6,14.7 22.2,27.2 48.3,27.2 26.2,0 46.8,-13.8 46.9,-25.8 l 0.4,-132.9 C 96.1,21.9 74.5,6.8 48.2,6.8 Z"/>
+<path style="marker-end:url(#id5); fill:none; stroke:#19aeff; stroke-width:1.02; stroke-linecap:round; stroke-linejoin:round;" d="m 101.9,166 -0.6,-129.5"/>
+<ellipse cx="17.7" cy="137.2" rx="17.7" ry="44.7" style="color:black; overflow:visible; fill:url(#id6); stroke-width:1.47;"/>
+<ellipse cx="11.9" cy="63.4" rx="9.5" ry="26.5" style="color:black; overflow:visible; fill:url(#id7); stroke-width:0.83;"/>
+<path style="fill:#25d01e; stroke-width:0.69;" d="m 96,29.3 a 47.6,28 0 0 1 -95.1,0 47.6,28 0 1 1 95.1,0 z"/>
+<path style="marker-end:url(#id8); fill:none; stroke:#c17d11; stroke-width:1.02; stroke-linecap:round; stroke-linejoin:round;" d="m 124.7,166 -0.6,-134.9"/>
+<text x="124.6" y="107.4" style="font-family:'Comic Sans MS'; font-size:25.7px; font-style:italic; color:black; overflow:visible; fill:#c17d11; stroke:black; stroke-width:0.08;">h+</text>
+<text x="60.5" y="22.8" style="font-family:'Comic Sans MS'; font-size:25.7px; font-style:italic; color:black; overflow:visible; fill:#204a87; stroke:black; stroke-width:0.08;">r</text>
+<path style="marker-end:url(#id9); fill:#204a87; stroke:#204a87; stroke-width:0.62; stroke-linecap:round; stroke-linejoin:round;" d="M 48.5,30 93.7,23.2"/>
+<path style="fill:none; stroke:black; stroke-width:1px;" d="m 96,35.3 h 17"/>
+<path style="fill:none; stroke:black; stroke-width:1px;" d="m 96,29.3 h 34.3"/>
+</svg>

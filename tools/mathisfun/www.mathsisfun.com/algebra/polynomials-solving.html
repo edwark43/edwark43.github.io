@@ -1,0 +1,370 @@
+<!doctype html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/algebra/polynomials-solving.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:03:09 GMT -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Solving Polynomials</title>
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=true;" />
+<meta name="HandheldFriendly" content="true"/>
+<meta http-equiv="pics-label" content='(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://www.mathsisfun.com" r (SS~~000 1))' />
+<link rel="stylesheet" type="text/css" href="../style3.css" />
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun" /></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran"><script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus"><script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort"><script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search"><script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->				<h1 align="center">Solving Polynomials</h1>
+				<span class="larger">A <a href="polynomials.html">polynomial</a> looks like this:</span>
+				<div class="beach">
+					<table border="0" align="center" cellpadding="5">
+						<tr align="center">
+							<td><img src="images/polynomial-1var-example.svg" alt="polynomial example" /></td>
+						</tr>
+						<tr align="center">
+							<td>example of a polynomial<br /></td>
+						</tr>
+					</table>
+				</div>
+				<h2>Solving</h2>
+				<p>&quot;Solving&quot; means finding the &quot;roots&quot; ... </p>
+				<p class="center">... a &quot;root&quot; (or &quot;zero&quot;) is where the function <b>is equal to zero</b>: </p>
+				<p class="center"><img src="images/inequality-graph-function.svg" alt="Graph of Inequality"  /></p>
+				<p class="center">In between the roots the function is either  entirely above, <br />
+or entirely below, the x-axis</p>
+				<div class="example">
+					<h3>Example: −2 and 2 are the roots of the function x<sup>2</sup> − 4</h3>
+					<p class="center"><img src="images/root-function.svg" alt="roots (zeros) of x^2-4"></p>
+					<p>Let's check:</p>
+					<ul>
+						<li>when  x = −2, then x<sup>2</sup> − 4 = (−2)<sup>2</sup> − 4 = 4 − 4 = <b>0</b></li>
+						<li>when  x = 2, then x<sup>2</sup> − 4 = 2<sup>2</sup> − 4 = 4 − 4 = <b>0</b></li>
+					</ul>
+				</div><p>&nbsp;</p>
+				<p class="center larger"><b>How</b> do we solve polynomials? That depends on the <b>Degree</b>!</p>
+				<h2>Degree</h2>
+				<p>The <b>first step</b> in solving a polynomial is to find its degree.</p>
+				<p>The <a href="degree-expression.html">Degree</a> of a Polynomial with  one variable is ...</p>
+				<p align="center">... the <a href="../exponent.html">largest exponent</a> of that variable.</p>
+				<h3 align="center"><img src="images/degree-example-a.svg" alt="polynomial" /></h3>
+				<p>When we know the degree we can also give the polynomial a name:</p>
+				<div class="simple">
+					<table border="0" align="center" cellpadding="0" cellspacing="0">
+						<tr align="center" class="larger">
+							<th>Degree</th>
+							<th>Name</th>
+							<th>Example</th>
+							<th>Graph Looks Like</th>
+						</tr>
+						<tr align="center" class="larger">
+							<td height="50" align="center">0</td>
+							<td height="50">Constant</td>
+							<td height="50" class="large">7</td>
+							<td rowspan="4"><img src="images/polynomial-degree-graphs.svg" alt="polynomial degree graphs" /></td>
+						</tr>
+						<tr align="center" class="larger">
+							<td height="50" align="center">1</td>
+							<td height="50"><a href="linear-equations.html">Linear</a></td>
+							<td height="50" class="large">4x+3</td>
+						</tr>
+						<tr align="center" class="larger">
+							<td height="50" align="center">2</td>
+							<td height="50"><a href="quadratic-equation.html">Quadratic</a></td>
+							<td height="50" class="large">x<sup>2</sup>&minus;3x+2</td>
+						</tr>
+						<tr align="center" class="larger">
+							<td height="50" align="center">3</td>
+							<td height="50">Cubic </td>
+							<td height="50" class="large">2x<sup>3</sup>&minus;5x<sup>2</sup></td>
+						</tr>
+						<tr align="center" class="larger">
+							<td height="50" align="center">4</td>
+							<td height="50">Quartic</td>
+							<td height="50" class="large">x<sup>4</sup>+3x&minus;2</td>
+							<td>...</td>
+						</tr>
+						<tr align="center" class="larger">
+							<td height="50" align="center">etc</td>
+							<td height="50">...</td>
+							<td height="50">...</td>
+							<td>...</td>
+						</tr>
+					</table>
+				</div>
+				<h2>How To Solve</h2>
+				<p>So now we know the degree, how to solve?</p>
+				<div class="bigul">
+					<ul>
+						<li>Read how to solve <a href="linear-equations.html">Linear Polynomials</a> (Degree 1)  using simple algebra.</li>
+						<li>Read how to solve <a href="quadratic-equation.html">Quadratic Polynomials</a> (Degree 2) with a little work,</li>
+						<li>It can be hard to  solve Cubic (degree 3) and  Quartic (degree 4) equations,</li>
+						<li>And beyond that it <b>can be impossible</b> to solve polynomials directly.</li>
+					</ul>
+				</div>
+				<p>So what do we do with ones we can't solve? Try to solve them a piece at a time!</p>
+				<div class="center80">
+					<p>If we find  one root, we can then <b>reduce the polynomial by one degree</b> (example later) and this may be enough to solve the whole polynomial.</p>
+				</div>
+				<p>Here are some main ways to find roots.</p>
+				<h3>1. Basic Algebra</h3>
+				<p>We may be able to solve using basic algebra:</p>
+				<div class="example">
+					<h3>Example: <b>2x+1</b> </h3>
+					<p><b>2x+1</b> is a linear polynomial:</p>
+					<p align="center"><img src="images/graph-line.svg" alt="line on a graph" /></p>
+					<p align="center">The graph of <b>y = 2x+1</b> is a straight line</p>
+					<p>It is linear so there is one root. </p>
+					<p>Use Algebra to solve:</p>
+					<p align="center">A &quot;root&quot; is when y is zero: <span class="larger">2x+1 = 0</span></p>
+					<p align="center">Subtract 1 from both sides: <span class="larger">2x = &minus;1</span></p>
+					<p align="center">Divide both sides by 2: <span class="larger">x = &minus;1/2</span></p>
+					<p>And that is the solution: </p>
+					<p align="center" class="large"> x = &minus;1/2</p>
+					<p>(You can also see this on the graph)</p>
+				</div>
+				<p>We can also solve <a href="quadratic-equation.html">Quadratic Polynomials</a> using basic algebra (read that page for an explanation).</p>
+				<p>&nbsp;</p>
+				<h3>2. By experience, or simply guesswork. </h3>
+				<p>It is always a good idea to see if we can do simple factoring:</p>
+				<div class="example">
+					<h3>Example: x<sup>3</sup>+2x<sup>2</sup>&minus;x</h3>
+					<p>This is cubic ... but wait ... we can factor out &quot;x&quot;:</p>
+					<p align="center" class="larger">x<sup>3</sup>+2x<sup>2</sup>&minus;x = x(x<sup>2</sup>+2x&minus;1)</p>
+					<p>Now we have one root (x=0) and what is left is quadratic, which we can solve exactly.</p>
+				</div>
+				Or we may notice a familiar pattern:
+				<div class="example">
+					<h3>Example: x<sup>3</sup>&minus;8</h3>
+					<p>Again this is cubic ... but it is also the &quot;<a href="polynomials-difference-two-cubes.html">difference of two cubes</a>&quot;:</p>
+					<p align="center" class="larger">x<sup>3</sup>&minus;8 = x<sup>3</sup>&minus;2<sup>3</sup></p>
+					<p>And so we can turn it into this:</p>
+					<p align="center" class="larger">x<sup>3</sup>&minus;8  = (x&minus;2)(x<sup>2</sup>+2x+4) </p>
+					<p>There is a root at x=2, because:</p>
+					<p align="center"> <span class="larger">(2&minus;2)(2<sup>2</sup>+2&times;2+4) = <b>(0)</b>(2<sup>2</sup>+2&times;2+4)</span></p>
+					<p>And we can then  solve the quadratic <span class="larger">x<sup>2</sup>+2x+4</span> and we are done</p>
+				</div>
+				<p>&nbsp;</p>
+				<h3>3. Graphically. </h3>
+				<p>Graph the polynomial and see where it crosses the x-axis.</p>
+				<table width="80%" border="0" align="center">
+					<tr>
+						<td><a href="../data/function-grapher.html"><img src="../data/images/function-grapher-sm.gif" alt="Function Grapher" width="86" height="55" /></a></td>
+						<td>&nbsp;</td>
+						<td>We can enter the polynomial into the <a href="../data/function-grapher.html">Function Grapher</a>, and then zoom in to find where it crosses the x-axis.</td>
+					</tr>
+				</table>
+				<p>Graphing is  a good way to find approximate answers, and we may also get lucky and discover an exact answer.</p>
+				<div class="center80">
+					<p class="larger">Caution:  before you jump in and graph it, you should really know <a href="polynomials-behave.html">How Polynomials Behave</a>, so you find all the possible answers!</p>
+				</div>
+				<h2>Factors</h2>
+				<p><b>This is useful to know:</b> When  a polynomial is factored like this:</p>
+				<p align="center" class="large">f(x) = (x&minus;a)(x&minus;b)(x&minus;c)...</p>
+				<p class="larger center">Then a, b, c, etc are the <b>roots</b>!</p>
+				<p>So Linear Factors and Roots are related, know one and we can find the other.</p>
+				<p>(Read <a href="polynomials-remainder-factor.html">The Factor Theorem</a> for more details.)</p>
+				<div class="example">
+					<h3>Example: f(x) = (x<sup>3</sup>+2x<sup>2</sup>)(x&minus;3)</h3>
+					<p>We see &quot;(x&minus;3)&quot;, and that means that 3 is a root (or &quot;zero&quot;) of the function.</p>
+					<p><b>Sure?</b></p>
+					<p>Well, let us put &quot;3&quot; in place of x:</p>
+					<p align="center" class="larger">f(x) = (3<sup>3</sup>+2&middot;3<sup>2</sup>)(3&minus;3)</p>
+					<p align="center" class="larger">f(3) = (3<sup>3</sup>+2&middot;3<sup>2</sup>)(<span class="hi">0</span>)</p>
+					<p><b>Yes!</b> f(3)=0,  so 3 is a root.</p>
+				</div>
+				
+				<h2>How to Check</h2>
+				<p>Found a root?  <b>Check it! </b></p>
+				<p>Simply put the root in place of &quot;x&quot;: the polynomial should be equal to zero.</p>
+				<div class="example">
+					<h3>Example: 2x<sup>3</sup>&minus;x<sup>2</sup>&minus;7x+2</h3>
+					<p>The polynomial is degree 3, and could be difficult to solve. So let us plot it first:</p>
+					<p align="center"><img src="images/graph-2x3mx2m7xp2.gif" alt="2x^3&minus;x^2&minus;7x+2" width="248" height="134" /></p>
+					<p>The curve crosses the x-axis at three points, and one of them <b>might be at 2</b>. We can check easily, just put &quot;2&quot; in place of &quot;x&quot;:</p>
+					<p align="center"><b>f(2)</b> = 2(2)<sup>3</sup>&minus;(2)<sup>2</sup>&minus;7(2)+2 <br>
+					= 16&minus;4&minus;14+2 <br>
+					= <b>0</b></p>
+					<p>Yes! <b>f(2)=0</b>, so we have found a root!</p>
+					<p align="center">&nbsp;</p>
+					<p>How about where it crosses near <b>&minus;1.8</b>:</p>
+					<p align="center"><b>f(&minus;1.8)</b> = 2(&minus;1.8)<sup>3</sup>&minus;(&minus;1.8)<sup>2</sup>&minus;7(&minus;1.8)+2 <br>
+					= &minus;11.664&minus;3.24+12.6+2 <br>
+					= <b>&minus;0.304</b></p>
+					<p>No, it isn't equal to zero, so &minus;1.8 will not be a root (but it may be close!)</p>
+				</div>
+				<p>But we <b>did</b> discover one root, and we can use that to simplify the polynomial, like this</p>
+				<div class="example">
+					<h3>Example (continued): 2x<sup>3</sup>&minus;x<sup>2</sup>&minus;7x+2					</h3>
+					<p>So, <b>f(2)=0</b> is a root ... that means we also know a factor:</p>
+					<p align="center"><span class="large">(x&minus;2)</span> must be a factor of <span class="large">2x<sup>3</sup>&minus;x<sup>2</sup>&minus;7x+2</span></p>
+					<p>&nbsp;</p>
+					<p>Next, divide <span class="large">2x<sup>3</sup>&minus;x<sup>2</sup>&minus;7x+2</span> by <span class="large">(x&minus;2)</span> using <a href="polynomials-division-long.html">Polynomial Long Division</a> to find:</p>
+					<p align="center"><span class="large">2x<sup>3</sup>&minus;x<sup>2</sup>&minus;7x+2</span> = <span class="large">(x&minus;2)(2x<sup>2</sup>+3x&minus;1)</span></p>
+					<p align="center">&nbsp;</p>
+					<p>So now we can solve <span class="large">2x<sup>2</sup>+3x&minus;1</span> as a Quadratic Equation and we will know all the roots.</p>
+				</div>
+				<p>That last example showed  how useful it is to find just one root. Remember:</p>
+				<div class="center80">
+					<p>If we find  one root, we can then <b>reduce the polynomial by one degree</b> and this may be enough to solve the whole polynomial.</p>
+				</div>
+				<h2>How Far Left or Right</h2>
+				<p>When trying to find roots, <b>how far left and right</b> of zero should we go?</p>
+				<p>There is a way to tell,<b></b> and there are a few calculations to do, but it is all simple arithmetic. Read <a href="polynomials-bounds-zeros.html">Bounds on Zeros</a> for all the details.</p>
+				<h2>Have We Got All The Roots?</h2>
+				<p>There is an easy way to know <b>how many roots</b> there are. The <a href="fundamental-theorem-algebra.html">Fundamental Theorem of Algebra</a> says:</p>
+				<div class="center80">
+					<p align="center"><span class="larger">A polynomial of degree <b>n</b> ... <br>
+						...
+						has <b>n</b> roots (zeros)</span><br />
+						but we may need to use <a href="../numbers/complex-numbers.html">complex numbers</a></p>
+				</div>
+				<p>So: <b>number of roots = the degree of polynomial</b>.</p>
+				<div class="example">
+					<h3>Example: 2x<sup>3</sup> + 3x &minus; 6</h3>
+					<p>The degree is 3 (because the largest exponent is 3), and so:</p>
+					<p align="center" class="larger">There are <b>3</b> roots.</p>
+				</div>
+				<h2>But Some Roots May Be Complex</h2>
+				<p>Yes, indeed, some roots may be <a href="../numbers/complex-numbers.html">complex numbers</a> (ie have an <a href="../numbers/imaginary-numbers.html">imaginary</a> part), and so will not show up as a simple &quot;crossing of the x-axis&quot; on a graph.</p>
+				<p>But there is an interesting fact:</p>
+				<p align="center" class="larger">Complex Roots <b>always come in pairs</b>!</p>
+				<p align="center"><img src="images/complex-conjugate-pair.gif" alt="Complex Conjugate Pairs" width="227" height="171" />
+				</p>
+				<p>So we either get <b>no</b> complex roots, or <b>2</b> complex roots, or <b>4</b>, etc... Never an odd number.</p>
+				<p>Which means we automatically know this:</p>
+				<div class="simple">
+					<table border="0" align="center">
+						<tr>
+							<th>Degree</th>
+							<th align="center">Roots</th>
+							<th align="center">Possible Combinations</th>
+						</tr>
+						<tr align="center">
+							<td>1</td>
+							<td>1</td>
+							<td> 1 Real Root </td>
+						</tr>
+						<tr align="center">
+							<td> 2 </td>
+							<td>2</td>
+							<td>2 Real Roots, <b>or</b> 2 Complex Roots </td>
+						</tr>
+						<tr align="center">
+							<td>3</td>
+							<td>3</td>
+							<td>3 Real Roots, <b>or</b> 1 Real  and 2 Complex Roots</td>
+						</tr>
+						<tr align="center">
+							<td>4</td>
+							<td>4</td>
+							<td>4 Real Roots, <b>or</b> 2 Real and 2 Complex Roots, <b>or</b> 4 Complex Roots </td>
+						</tr>
+						<tr align="center">
+							<td>etc</td>
+							<td>&nbsp;</td>
+							<td>etc!</td>
+						</tr>
+					</table>
+				</div>
+				<h2>Positive or Negative Roots?</h2>
+				<p>There is also a special way to tell how many of the roots are <b>negative</b> or <b>positive</b> called the <a href="polynomials-rule-signs.html">Rule of Signs</a> that you may like to read about.</p>
+				<h2>Multiplicity of a Root</h2>
+				<p>Sometimes a factor appears more than once. We call that <b>Multiplicity</b>:</p>
+				<div class="center80">
+					<p align="center"><b>Multiplicity</b> is how often a certain root is part of the factoring.</p>
+				</div>
+				<div class="example">
+					<h3>Example: f(x) = (x&minus;5)<sup>3</sup>(x+7)(x&minus;1)<sup>2</sup></h3>
+					<p>This could be written out in a more lengthy way like this:</p>
+					<p align="center" class="larger"> f(x) = (x&minus;5)(x&minus;5)(x&minus;5)(x+7)(x&minus;1)(x&minus;1)</p>
+					<p><span class="large"> (x&minus;5)</span> is used 3 times, so the root &quot;5&quot; has a multiplicity of <b>3</b>, likewise <span class="large">(x+7)</span> appears once and<span class="large"> (x&minus;1)</span> appears twice. So:</p>
+					<ul>
+						<li>the root <span class="larger">+5</span> has a multiplicity of <b>3</b></li>
+						<li>the root <span class="larger">&minus;7</span> has a multiplicity of <b>1</b> (a &quot;simple&quot; root)</li>
+						<li>the root <span class="larger">+1</span> has a multiplicity of <b>2</b></li>
+					</ul>
+				</div>
+				<p class="larger">Q: Why is this useful? <br />
+					A: It makes the graph behave in a special way!</p>
+				<p>When we see a factor like <b>(x-r)<sup>n</sup></b>, &quot;n&quot; is the multiplicity, and</p>
+				<ul>
+					<li>even multiplicity <b>just touches the axis</b> at &quot;r&quot; (and otherwise stays one side of the x-axis)</li>
+					<li>odd multiplicity <b>crosses the axis</b> at &quot;r&quot; (changes from one side of the x-axis to the other)</li>
+				</ul>
+				<p>We can see it on  this graph:</p>
+				<div class="example">
+					<h3>Example: f(x) = (x&minus;2)<sup>2</sup>(x&minus;4)<sup>3</sup></h3>
+					<p><span class="larger">(x&minus;2)</span> has <b>even multiplicity</b>, so it just touches the axis at x=2</p>
+					<p><span class="larger">(x&minus;4)</span> has <b>odd multiplicity</b>, so it crosses the axis at x=4</p>
+					<p>Like this:</p>
+					<p align="center"><img src="images/polynomial-multiplicity-example.gif" alt="(x&minus;2)^2(x&minus;4)^3" width="320" height="194" /></p>
+				</div>
+				<h2>Summary</h2>
+				<ul>
+					<div class="bigul">
+						<li>We can directly solve polynomials of Degree 1 (linear) and 2 (quadratic)</li>
+						<li>For Degree 3 and up, graphs can be helpful</li>
+						<li>It is also helpful to:
+							<ul>
+								<li>Know how far left or right the roots may be</li>
+								<li>Know how many roots (the same as its degree)</li>
+								<li>Estimate how many may be complex, positive or negative</li>
+							</ul>
+						</li>
+						<li>Multiplicity is how often a certain root is part of the factoring.</li>
+						<br />
+					</div>
+				</ul>
+				<div class="questions"> 
+					<script type="text/javascript">getQ(466,467,468,469,1116,1117, 2276, 2277, 2278, 2279);</script>&nbsp; </div>
+				<div class="related"> <a href="introduction.html">Introduction to Algebra</a> <a href="definitions.html">Algebra &minus; Basic Definitions</a> <a href="index.html">Algebra Index</a> </div>
+<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2017 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body>
+<!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/algebra/polynomials-solving.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:03:10 GMT -->
+</html>

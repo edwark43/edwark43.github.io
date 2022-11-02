@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="269" version="1.1" style="font-family:'Comic Sans MS'; font-size:30.8px; fill:#c4a000; stroke-width:1px;">
+<g transform="translate(2014.02,-437.313)">
+	<rect x="-1968.4" y="437.3" ry="5.9" width="270.3" height="65.1" style="color:black; overflow:visible; fill:#007ad2; stroke-width:0.55px;"/>
+	<rect x="-1718.1" y="446.8" ry="1.9" width="26.4" height="16.1" style="color:black; overflow:visible; fill:#007ad2; stroke-width:0.55px;"/>
+	<text x="-1873.4" y="474.2" style="font-size:28.4px; color:black; overflow:visible; fill:#19aeff; stroke-width:0.55px;">gallon</text>
+	<g transform="matrix(0.478214,0,0,0.478214,-933.532,280.845)">
+		<rect x="-2207.9" y="479.2" ry="15" width="81" height="164.2" style="color:black; overflow:visible; fill:#19aeff;"/>
+		<rect x="-2183.6" y="466.2" ry="2.4" width="32.5" height="20.4" style="color:black; overflow:visible; fill:#19aeff;"/>
+		<text x="-611.3" y="-2158.5" transform="rotate(-90)" style="font-size:43.2px; color:black; overflow:visible; fill:#0065a4;">quart</text>
+		<g>
+			<g>
+				<path style="color:black; overflow:visible; fill:#ff9900;" d="m -2243.2,643.4 60.5,0.3 -7.2,111.5 h -46 z"/>
+				<text x="-725" y="-2205.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">pint</text>
+			</g>
+			<g transform="translate(1.51585)">
+				<text x="-819.3" y="-2193.7" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2214.1,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2260.9,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<text x="-819.3" y="-2232.8" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<text x="-819.3" y="-2185.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+			</g>
+		</g>
+		<g transform="translate(93.5584)">
+			<g>
+				<path style="color:black; overflow:visible; fill:#ff9900;" d="m -2243.2,643.4 60.5,0.3 -7.2,111.5 h -46 z"/>
+				<text x="-725" y="-2205.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">pint</text>
+			</g>
+			<g transform="translate(1.51585)">
+				<text x="-819.3" y="-2193.7" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2214.1,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2260.9,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<text x="-819.3" y="-2232.8" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<text x="-819.3" y="-2185.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix(0.478214,0,0,0.478214,-843.27,280.845)">
+		<rect x="-2207.9" y="479.2" ry="15" width="81" height="164.2" style="color:black; overflow:visible; fill:#19aeff;"/>
+		<rect x="-2183.6" y="466.2" ry="2.4" width="32.5" height="20.4" style="color:black; overflow:visible; fill:#19aeff;"/>
+		<text x="-611.3" y="-2158.5" transform="rotate(-90)" style="font-size:43.2px; color:black; overflow:visible; fill:#0065a4;">quart</text>
+		<g>
+			<g>
+				<path style="color:black; overflow:visible; fill:#ff9900;" d="m -2243.2,643.4 60.5,0.3 -7.2,111.5 h -46 z"/>
+				<text x="-725" y="-2205.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">pint</text>
+			</g>
+			<g transform="translate(1.51585)">
+				<text x="-819.3" y="-2193.7" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2214.1,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2260.9,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<text x="-819.3" y="-2232.8" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<text x="-819.3" y="-2185.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+			</g>
+		</g>
+		<g transform="translate(93.5584)">
+			<g>
+				<path style="color:black; overflow:visible; fill:#ff9900;" d="m -2243.2,643.4 60.5,0.3 -7.2,111.5 h -46 z"/>
+				<text x="-725" y="-2205.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">pint</text>
+			</g>
+			<g transform="translate(1.51585)">
+				<text x="-819.3" y="-2193.7" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2214.1,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2260.9,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<text x="-819.3" y="-2232.8" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<text x="-819.3" y="-2185.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix(0.478214,0,0,0.478214,-753.008,280.845)">
+		<rect x="-2207.9" y="479.2" ry="15" width="81" height="164.2" style="color:black; overflow:visible; fill:#19aeff;"/>
+		<rect x="-2183.6" y="466.2" ry="2.4" width="32.5" height="20.4" style="color:black; overflow:visible; fill:#19aeff;"/>
+		<text x="-611.3" y="-2158.5" transform="rotate(-90)" style="font-size:43.2px; color:black; overflow:visible; fill:#0065a4;">quart</text>
+		<g>
+			<g>
+				<path style="color:black; overflow:visible; fill:#ff9900;" d="m -2243.2,643.4 60.5,0.3 -7.2,111.5 h -46 z"/>
+				<text x="-725" y="-2205.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">pint</text>
+			</g>
+			<g transform="translate(1.51585)">
+				<text x="-819.3" y="-2193.7" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2214.1,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2260.9,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<text x="-819.3" y="-2232.8" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<text x="-819.3" y="-2185.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+			</g>
+		</g>
+		<g transform="translate(93.5584)">
+			<g>
+				<path style="color:black; overflow:visible; fill:#ff9900;" d="m -2243.2,643.4 60.5,0.3 -7.2,111.5 h -46 z"/>
+				<text x="-725" y="-2205.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">pint</text>
+			</g>
+			<g transform="translate(1.51585)">
+				<text x="-819.3" y="-2193.7" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2214.1,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2260.9,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<text x="-819.3" y="-2232.8" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<text x="-819.3" y="-2185.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix(0.478214,0,0,0.478214,-662.746,280.845)">
+		<rect x="-2207.9" y="479.2" ry="15" width="81" height="164.2" style="color:black; overflow:visible; fill:#19aeff;"/>
+		<rect x="-2183.6" y="466.2" ry="2.4" width="32.5" height="20.4" style="color:black; overflow:visible; fill:#19aeff;"/>
+		<text x="-611.3" y="-2158.5" transform="rotate(-90)" style="font-size:43.2px; color:black; overflow:visible; fill:#0065a4;">quart</text>
+		<g>
+			<g>
+				<path style="color:black; overflow:visible; fill:#ff9900;" d="m -2243.2,643.4 60.5,0.3 -7.2,111.5 h -46 z"/>
+				<text x="-725" y="-2205.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">pint</text>
+			</g>
+			<g transform="translate(1.51585)">
+				<text x="-819.3" y="-2193.7" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2214.1,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2260.9,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<text x="-819.3" y="-2232.8" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<text x="-819.3" y="-2185.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+			</g>
+		</g>
+		<g transform="translate(93.5584)">
+			<g>
+				<path style="color:black; overflow:visible; fill:#ff9900;" d="m -2243.2,643.4 60.5,0.3 -7.2,111.5 h -46 z"/>
+				<text x="-725" y="-2205.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">pint</text>
+			</g>
+			<g transform="translate(1.51585)">
+				<text x="-819.3" y="-2193.7" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2214.1,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<path style="color:black; overflow:visible; fill:#ffc66e;" d="m -2260.9,757.7 46.2,0.2 -5.5,77.5 h -35.2 z"/>
+				<text x="-819.3" y="-2232.8" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+				<text x="-819.3" y="-2185.5" transform="rotate(-90)" style="color:black; overflow:visible; fill:white;">cup</text>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-795.169,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-772.624,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-750.078,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-727.532,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-704.987,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-682.442,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-659.896,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-614.805,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-637.351,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-592.26,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-569.714,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-547.169,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-524.623,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-502.077,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-479.532,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+	<g transform="matrix(0.586966,0,0,0.427481,-456.986,337.631)">
+		<text x="-2068.2" y="840" style="font-size:41.4px; color:black; overflow:visible;">8</text>
+		<text x="-2919" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">fl</text>
+		<text x="-2901.8" y="610.9" transform="scale(0.710034,1.40838)" style="font-weight:900; font-size:17.6px; color:black; overflow:visible;">oz</text>
+	</g>
+</g>
+</svg>

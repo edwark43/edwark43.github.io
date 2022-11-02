@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/algebra/matrix-determinant.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:36:42 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+<!-- #BeginEditable "doctitle" -->
+<title>Determinant of a Matrix</title>
+<meta name="Description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents.">
+
+  
+  
+  <style>
+
+.mat {
+  font: 20px Verdana, Arial, Trebuchet MS, Tahoma, Geneva, Verdana, sans-serif;
+	color: #f30;
+	
+  background-image: linear-gradient(#07c, #07c),
+    linear-gradient(#07c, #07c),
+    linear-gradient(#07c, #07c),
+    linear-gradient(#07c, #07c);
+  
+  background-repeat: no-repeat;
+  background-size: 7px 2px;
+  background-position: top left, top right, bottom left, bottom right;
+
+  border: solid #07c;
+  
+  border-width: 0 2px;
+  display: inline-block;
+  vertical-align: middle;
+
+  padding: 2px 9px 3px 9px;
+	
+	border-radius:3px;
+  
+}
+
+
+.cols1, .cols2, .cols3, .cols4 {
+	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;	
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.cols1 { grid-template-columns: max-content; }
+.cols2 { grid-template-columns: repeat(2, max-content); }
+.cols3 { grid-template-columns: repeat(3, max-content); }
+.cols4 { grid-template-columns: repeat(4, max-content); }
+
+.txt {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 3px 3px;
+	font: 1.5rem Verdana, Geneva, sans-serif;
+	color: orange;
+	text-align: center;
+	min-width: 25px;
+}
+    .txt .intbl {font-size: 90%; }
+    
+    .inv { color:#07c; display:inline-block; transform: translateX(-0.1em) translateY(-1.1em); font-size: 90%; }
+    
+</style>  
+  
+  
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">Determinant of a Matrix</h1>
+
+<p>The determinant is a <b>special number</b> that can be calculated from a <a href="matrix-introduction.html">matrix</a>.</p>
+  <p>The matrix has to be square (same number of rows and columns) like this one:</p>
+ 
+  <div style="text-align: center; transform: scale(1.2);">
+<div class="mat">
+<div class="cols2">
+<span>3</span><span>8</span>
+<span>4</span><span>6</span>
+</div>
+</div>
+</div>
+<!-- [3,8~4,6] -->
+  
+  <p class="center"><span class="large">A Matrix</span><br>
+(This one has 2 Rows and 2 Columns)</p>
+  <p>Let us calculate the determinant of that matrix:</p>
+  <p class="center larger">3×6 − 8×4<br> = 18 − 32<br> = <b>−14</b></p>
+
+<p>Easy, hey? Here is another example:</p>
+
+
+  <div class="example">
+    <h3>Example:
+
+<div style="text-align: center;">
+<div class="txt">B =</div>
+<div class="mat">
+<div class="cols2">
+<span>1</span><span>2</span>
+<span>3</span><span>4</span>
+</div>
+</div>
+</div>
+<!-- A = [1,2~3,4] --></h3>
+     
+<p>The <b>symbol</b> for determinant is two vertical lines either side like this:</p>    
+     <p class="center larger"><b>|B|</b>  = 1×4 − 2×3<br>= 4 − 6<br> = <b>−2</b></p>
+
+  <p>(Note: it is the  same symbol as <a href="../numbers/absolute-value.html">absolute value</a>.)</p>
+
+   </div> 
+  
+<h2>What is it for?</h2>
+
+<p>The determinant  helps us  find the <a href="matrix-inverse-minors-cofactors-adjugate.html">inverse of a matrix</a>, tells us things about the matrix that are useful in <a href="systems-linear-equations.html">systems of linear equations</a>, <a href="../calculus/index.html">calculus</a> and more.</p>
+
+
+
+<h2>Calculating the Determinant</h2>
+
+<p>First of all the matrix must be <b>square</b> (i.e. have the same number of rows as columns). Then it is just arithmetic. </p>
+
+
+<h2>For a 2×2 Matrix</h2>
+
+<p>For a  <span class="number large">2×2</span> matrix (2 rows and 2 columns):</p>
+<div style="text-align: center;">
+<div class="txt">A =</div>
+<div class="mat">
+<div class="cols2">
+<span>a</span><span>b</span>
+<span>c</span><span>d</span>
+</div>
+</div>
+</div>
+<!-- A = [a,b~c,d] -->
+  
+
+  <p>The determinant is:</p>
+  <p class="center"><span class="larger">|A| = ad − bc</span><span class="large"><br>
+</span><i>"The determinant of A equals a times d minus b times c"</i></p>
+  <table style="border: 0;">
+      <tbody>
+<tr>
+        <td>
+<p>It is easy to remember when you think of a cross:</p>
+            <ul>
+              <li><span class="style1">Blue</span> is positive (+ad),</li>
+              <li><span class="style2">Red</span> is negative (−bc)</li>
+            </ul></td>
+        <td>&nbsp;</td>
+        <td>
+          
+          <img src="images/matrix-2x2-det.svg" alt="a by d, b by c">  
+  
+  </td>
+      </tr>
+    </tbody></table><br>
+<div class="example">
+
+<h3>Example: find the determinant of
+  
+
+
+
+
+
+
+
+
+
+<div style="text-align: center;">
+<div class="txt">C =</div>
+<div class="mat">
+<div class="cols2">
+<span>4</span><span>6</span>
+<span>3</span><span>8</span>
+</div>
+</div>
+</div>
+<!-- B = [4,6~3,8] -->
+ </h3> 
+<p>
+  Answer:
+  </p>
+<div class="tbl">
+<div class="row"><span class="left"><span class="larger"><span class="large">|C|</span></span></span><span class="right"><span class="larger"><span class="large">= 4×8 − 6×3</span></span></span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right"><span class="larger"><span class="large">= 32 − 18</span></span></span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right"><span class="larger"><span class="large">= 14</span></span></span></div>
+</div>
+  </div>
+ 
+
+
+<h2>For a 3×3 Matrix</h2>
+
+<p>For a <span class="number large">3×3</span> matrix (3 rows and 3 columns):</p>
+  
+  <div style="text-align: center;">
+<div class="txt">A =</div>
+<div class="mat">
+<div class="cols3">
+<span>a</span><span>b</span><span>c</span>
+<span>d</span><span>e</span><span>f</span>
+<span>g</span><span>h</span><span>i</span>
+</div>
+</div>
+</div>
+<!-- A = [a,b,c~d,e,f~g,h,i] -->
+  
+
+  <p>The determinant is:</p>
+  <p class="center"><span class="larger">|A| = a(ei − fh) − b(di − fg) + c(dh − eg)</span><span class="large"><br>
+</span><i>"The determinant of A equals ... etc"</i></p>
+  <p>It may look complicated, but<b> there is a pattern</b>:</p>
+  <p class="center">
+   
+        <img src="images/matrix-3x3-det.svg" alt="multiply pattern">   </p> 
+  
+  
+
+  <p>To work out the determinant of a <b>3×3</b> matrix:</p>
+  <ul>
+    <li>Multiply <b>a</b> by the <b>determinant of the   2×2 matrix</b> that  is<b> not in a</b>'s row or column.</li>
+    <li>Likewise for <b>b</b>, and for <b>c</b></li>
+    <li>Sum them up, but remember the minus in front of the  <b>b</b></li>
+  </ul>
+  <p>As a formula <i>(remember the vertical bars</i> ||<i> mean "determinant of")</i>:</p>
+  <p class="center"><img style="background-color: hsl(240,100%,92%);" src="images/matrix-3x3-det-latex.gif" alt="A Matrix" height="56" width="329"><br>
+<i>"The determinant of A equals a times the determinant of ... etc"</i></p>
+  <div class="example">
+
+<h3>Example:
+    
+    
+
+
+
+
+
+
+
+<div style="text-align: center;">
+<div class="txt">D =</div>
+<div class="mat">
+<div class="cols3">
+<span>6</span><span>1</span><span>1</span>
+<span>4</span><span>−2</span><span>5</span>
+<span>2</span><span>8</span><span>7</span>
+</div>
+</div>
+</div>
+<!-- C = [6,1,1~4,-2,5~2,8,7] -->
+    
+    </h3>
+
+<div class="tbl">
+<div class="row"><span class="left"><span class="large"><b>|D|</b></span></span><span class="right"><span class="large">= 6×(−2×7 − 5×8) − 1×(4×7 − 5×2) + 1×(4×8 − (−2×2))</span></span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right"><span class="large">= 6×(−54) − 1×(18) + 1×(36)</span></span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right"><span class="large">= <b>−306</b></span></span></div>
+</div>
+  </div>
+
+
+<h2>For 4×4 Matrices and Higher</h2>
+
+<p>The pattern continues for <span class="number">4×4</span> matrices:</p>
+    <ul>
+      <li><b>plus</b> <b>a</b> times the determinant of the   matrix that  is<b> not</b> in <b>a</b>'s row or column,</li>
+      <li><b>minus b</b> times the determinant of the   matrix that  is<b> not</b> in <b>b</b>'s row or column,</li>
+      <li><b>plus c</b> times the determinant of the   matrix that  is<b> not</b> in <b>c</b>'s row or column,</li>
+      <li><b>minus d</b> times the determinant of the   matrix that  is<b> not</b> in <b>d</b>'s row or column,</li>
+    </ul>
+    
+    <p class="center">
+           <img src="images/matrix-4x4-det.svg" alt="multiply pattern">   </p><p></p>
+<p>As a formula:</p>
+    <p class="center"><img style="background-color: hsl(240,100%,92%);" src="images/matrix-4x4-det-latex.gif" alt="4x4 determinant formula" height="79" width="561"></p>
+  <p class="center">Notice the <b>+−+−</b> pattern (<span class="hilite">+</span>a... <span class="hilite">−</span>b... <span class="hilite">+</span>c... <span class="hilite">−</span>d...). This is important to remember.</p>
+  <p>&nbsp;</p>
+  <p>The pattern continues for  <span class="number">5×5</span> matrices and higher. Usually best to use a <a href="matrix-calculator.html">Matrix Calculator</a> for those!</p>
+  <p>&nbsp;</p>
+
+
+<h2>Not The Only Way</h2>
+
+<p>This method of calculation is called the "Laplace expansion" and I like it because the pattern is easy to remember. But there are other methods (just so you know).</p>
+
+
+<h2>Summary</h2>
+
+<ul>
+    <div class="bigul">
+      <li>For a <span class="number">2×2</span> matrix the determinant is<b> ad - bc</b></li>
+      <li>For a <span class="number">3×3</span> matrix multiply <b>a</b> by the <b>determinant of the   2×2 matrix</b> that  is<b> not</b> in <b>a</b>'s row or column, likewise for <b>b</b> and <b>c</b>, but remember that <b>b</b> has a negative sign!</li>
+      <li>The pattern continues for larger matrices: multiply <b>a</b>  by the <b>determinant of the   matrix</b> that  is<b> not</b> in <b>a</b>'s row or column, continue like this across the whole row, but remember the + − + − pattern.</li>
+      </div>
+  </ul>
+  <p>&nbsp;</p>
+<div class="questions">718,2390,2391,2392,8477,719,2393,8478,8479,8480</div>
+
+<div class="related">  
+  <a href="matrix-introduction.html">Matrices</a>  
+  <a href="matrix-calculator.html">Matrix Calculator</a>  
+  <a href="index.html">Algebra Index</a>
+</div>
+<!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2021 MathsIsFun.com</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/algebra/matrix-determinant.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:36:43 GMT -->
+</html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="342.9" height="150.5" version="1.1">
+<defs/>
+<path d="M 276.2,84.8 V 0" style="fill:none; stroke:black; stroke-width:1.01;"/>
+<path d="m 276.6,73.2 -8,13.8 -2,3.5 h -19.8 v 59.5 h 59.5 v -59.5 h -19.8 l -2,-3.5 z" style="color:black; overflow:visible; fill:#3efbff; stroke:black; stroke-width:1;"/>
+<path d="M 170,84.8 V 0" style="fill:none; stroke:black; stroke-width:1.01;"/>
+<path d="m 170.1,72.2 -8,13.8 -2.4,4.3 h -49.3 v 59.5 h 119.4 v -59.5 h -49.2 l -2.4,-4.3 z" style="color:black; overflow:visible; fill:#3efbff; stroke:black; stroke-width:1;"/>
+<path d="M 61.8,84.8 V 0" style="fill:none; stroke:black; stroke-width:1.01;"/>
+<path d="m 62.1,73.2 -8,13.8 -2,3.5 h -19.8 v 59.5 h 59.5 v -59.5 h -19.8 l -2,-3.5 z" style="color:black; overflow:visible; fill:#3efbff; stroke:black; stroke-width:1;"/>
+<text x="62" y="105.7" style="font-family:Arial; text-align:center; text-anchor:middle; font-size:16px; fill:black; stroke-width:0.5;">Q1</text>
+<text x="169.7" y="105.6" style="font-family:Arial; text-align:center; text-anchor:middle; font-size:16px; fill:black; stroke-width:0.5;">Q2</text>
+<text x="275.8" y="105.7" style="font-family:Arial; text-align:center; text-anchor:middle; font-size:16px; fill:black; stroke-width:0.5;">Q3</text>
+<text x="52.3" y="45.2" style="font-family:Arial; font-size:37.3px; fill:#ba00ff; stroke-width:0.5;">4,</text>
+<text x="263.8" y="45.2" style="font-family:Arial; font-size:37.3px; fill:#ba00ff; stroke-width:0.5;">7,</text>
+<text x="-1.1" y="45.2" style="font-family:Arial; font-size:37.3px; fill:#ba00ff; stroke-width:0.5;">2,</text>
+<text x="212.6" y="45.2" style="font-family:Arial; font-size:37.3px; fill:#ba00ff; stroke-width:0.5;">6,</text>
+<text x="107" y="45.2" style="font-family:Arial; font-size:37.3px; fill:#ba00ff; stroke-width:0.5;">4,</text>
+<text x="157.8" y="45.2" style="font-family:Arial; font-size:37.3px; fill:#ba00ff; stroke-width:0.5;">5,</text>
+<text x="322.1" y="46" style="font-family:Arial; font-size:37.3px; fill:#ba00ff; stroke-width:0.5;">8</text>
+<text x="60.2" y="125" style="font-family:Arial; text-align:center; text-anchor:middle; font-size:16px; fill:black; stroke-width:0.5;">lower</text>
+<text x="169.4" y="124.9" style="font-family:Arial; text-align:center; text-anchor:middle; font-size:16px; fill:black; stroke-width:0.5;">middle quartile</text>
+<text x="275.1" y="125" style="font-family:Arial; text-align:center; text-anchor:middle; font-size:16px; fill:black; stroke-width:0.5;">upper</text>
+<text x="60.9" y="145.2" style="font-family:Arial; text-align:center; text-anchor:middle; font-size:16px; fill:black; stroke-width:0.5;">quartile</text>
+<text x="169.4" y="145.1" style="font-family:Arial; text-align:center; text-anchor:middle; font-size:16px; fill:black; stroke-width:0.5;">(median)</text>
+<text x="275.8" y="145.2" style="font-family:Arial; text-align:center; text-anchor:middle; font-size:16px; fill:black; stroke-width:0.5;">quartile</text>
+</svg>

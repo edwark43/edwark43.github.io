@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/data/bayes-theorem.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:42:18 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Bayes' Theorem</title>
+
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.">
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+<link rel="stylesheet" type="text/css" href="../style3.css">
+<script src="../main3.js"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun"></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran">
+		<script>document.write(getTrans());</script>
+	</div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script>document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script>document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort">
+			<script>document.write(getLinks());</script>
+		</div>
+	</div>
+	<div id="search" role="search">
+		<script>document.write(getSearch());</script>
+	</div>
+	<div id="menuSlim" class="menu"> 
+		<script>document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script>document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main">
+<!-- #BeginEditable "Body" -->
+				<h1 class="center">Bayes' Theorem</h1>
+			<p><b>Bayes can do magic!</b></p>
+			<p>Ever wondered how computers learn about people? </p>
+			<div class="example">
+				<p style="float:right; margin: 0 0 5px 10px;"><img src="images/shoe-laces.jpg" alt="shoe laces" height="151" width="229"></p>
+				<h3>Example: </h3>
+				<p>An internet search for "movie automatic shoe laces" brings up "Back to the future"</p>
+				<p>Has the search&nbsp;engine watched the movie? No, but it knows from lots of other searches what people are <b>probably</b> looking for. </p>
+				<p>And it calculates that probability using Bayes' Theorem.</p>
+			</div>
+			<p><span class="large">Bayes' Theorem</span> is a way of finding a <a href="probability.html">probability</a> when we  know certain other probabilities. </p>
+			<p>The formula is:</p>
+<p class="center large">P(A|B) =	<span class="intbl"><em>P(A) P(B|A)</em><strong>P(B)</strong></span></p>
+<br>
+
+<table align="center" border="0">
+	<tbody>
+<tr>
+		<td align="right">Which tells us:</td>
+		<td>&nbsp;</td>
+		<td>how often A happens <i>given that B happens</i>, written <b>P(A|B)</b>, </td>
+		</tr>
+	<tr>
+		<td align="right">When we know:</td>
+		<td>&nbsp;</td>
+		<td>how often B happens <i>given that A happens</i>, written <b>P(B|A)</b></td>
+		</tr>
+	<tr>
+		<td align="right">&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>and how likely A is on its own, written <b>P(A)</b></td>
+	</tr>
+	<tr>
+		<td align="right">&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>and how likely B is on its own, written <b>P(B)</b></td>
+	</tr>
+</tbody></table>
+<p class="center">&nbsp;</p>
+<p>Let us say  P(Fire)  means how often there is fire, and P(Smoke) means how often we see smoke, then:</p>
+			<p class="center"> P(Fire|Smoke) means how often there is fire when we can see smoke   <br>
+	P(Smoke|Fire) means how often we can see smoke when there is fire</p>
+			<p>So the formula kind of tells us "forwards" <span class="center">P(Fire|Smoke)</span> when we know "backwards" <span class="center">P(Smoke|Fire)</span></p>
+			<div class="example">
+				<h3>Example: 
+					
+
+
+<ul>
+	<li>
+dangerous fires are rare (1%) </li>
+<li>but smoke is fairly common (10%)  due to  barbecues,</li>
+<li>and 90% of dangerous fires make smoke</li>
+				</ul>
+</h3>
+ <p>We can then discover the <b>probability of dangerous Fire when there is Smoke</b>:</p>
+	<div class="tbl">
+<div class="row"><span class="left">P(Fire|Smoke) =</span><span class="right"><span class="intbl"><em>P(Fire) P(Smoke|Fire)</em><strong>P(Smoke)</strong></span></span></div>
+<div class="row"><span class="left">=</span><span class="right"><span class="intbl"><em>1% x 90%</em><strong>10%</strong></span></span></div>
+<div class="row"><span class="left">=</span><span class="right">9%</span></div>
+</div>
+<p>So it is still worth checking out any smoke to be sure.</p>
+		</div>
+			<div class="example">
+								<p style="float:right; margin: 0 0 5px 10px;"><img src="images/picnic.jpg" alt="picnic" height="131" width="240"></p>
+<h3>Example: Picnic Day</h3>
+				<p>You are planning a picnic today, but the morning is cloudy</p>
+				<ul>
+					<li>Oh no! 50% of all rainy days start off cloudy!</li>
+					<li>But cloudy mornings are common (about 40% of days start cloudy)</li>				
+<li>And this is usually a dry month (only 3 of 30 days tend to be  rainy, or 10%)</li>
+					
+				</ul>
+				<p><b>What is the  chance of rain during the day?</b></p>
+				<p>We will use Rain to mean rain during the day, and Cloud to mean cloudy morning.</p>
+				<p>The chance of Rain given Cloud is written P(Rain|Cloud)</p>
+				<p>So let's put that in the formula:</p>
+<p class="center large">P(Rain|Cloud) = <span class="intbl"><em>P(Rain) P(Cloud|Rain)</em><strong>P(Cloud)</strong></span> </p>
+<ul>
+	<li>P(Rain) is Probability of Rain = 10%</li>
+					<li>P(Cloud|Rain) is Probability of Cloud, given that Rain happens = 50%</li>
+					<li>P(Cloud) is Probability of Cloud = 40%</li>
+			</ul>
+<p class="center large">P(Rain|Cloud) = <span class="intbl"><em>0.1 x 0.5</em><strong>0.4</strong></span> &nbsp;= .125</p>
+<p>Or a 12.5% chance of rain. Not too bad, let's have a picnic!</p>
+		</div>
+			<h2>Just 4 Numbers</h2>
+			<p>Imagine 100 people at a party, and you tally how many wear pink or not, and if  a man or not, and  get these numbers:</p>
+	<p class="center"><img src="images/bayes-table-pink-man.svg" alt="bayes table"></p>
+			<p>Bayes' Theorem is based off just those 4 numbers! </p>
+			<p>Let us do some totals:</p>
+			<p class="center"><img src="images/bayes-table-pink-man-tot.svg" alt="bayes table totals"></p>
+			<p>And calculate some  probabilities:	</p>
+	<ul>
+		<li>the probability of being a man is P(Man) = <span class="intbl"><em>40</em><strong>100</strong></span> = 0.4</li>
+				<li>the probability of wearing pink is P(Pink) = <span class="intbl"><em>25</em><strong>100</strong></span> = 0.25</li>
+				<li>the probability that a man wears  pink is P(Pink|Man) = <span class="intbl"><em>5</em><strong>40</strong></span> = 0.125</li>
+				<li>the probability that a person wearing pink is a man  <b>P(Man|Pink) = ...</b></li>
+	</ul>
+	
+	<p style="float:left; margin: 0 10px 5px 0;"><img src="images/arrow-pup-rip.jpg" alt="puppy rips" height="101" width="120"></p>
+<p>&nbsp;</p>
+	<p>And then the puppy arrives! Such a cute puppy.</p>
+	<p>&nbsp;</p>
+	<p>But all your data is<b> ripped up</b>! Only 3 values survive:</p>
+	<ul>
+		<li><b> P(Man) = 0.4, </b></li>
+		<li><b>P(Pink) = 0.25 and  </b></li>
+		<li><b>P(Pink|Man) = 0.125</b></li>
+	</ul>
+	<p class="center">Can you discover <b>P(Man|Pink)</b> ?</p>
+			<p>Imagine a pink-wearing guest leaves money behind ...   was it  a man? We can answer this question using Bayes' Theorem:</p>
+			<p class="center large">P(Man|Pink) = <span class="intbl"><em>P(Man) P(Pink|Man)</em><strong>P(Pink)</strong></span></p>	<!-- P(Man|Pink) = P(Man)P(Pink|Man)/P(Pink) -->
+
+			<p class="center large">P(Man|Pink) = <span class="intbl"><em>0.4 × 0.125</em><strong>0.25</strong></span> = 0.2</p>
+<!-- P(Man|Pink) = 0.4*0.125/0.25 = 0.2 -->
+<i>Note: if we still had  the raw data we could  calculate directly <span class="intbl"><em>5</em><strong>25</strong></span> = 0.2</i>
+			
+			<h2>Being General</h2>
+			<p>Why does it work?</p>
+			<p>Let us replace the numbers with letters:</p>
+			<p class="center"><img src="images/bayes-table.svg" alt="bayes table"></p>
+			<p>Now let us look at <b>probabilities</b>. So we  take some ratios:</p>
+			<ul>
+				<li>the overall probability of "A" is  P(A) = <span class="intbl"><em>s+t</em><strong>s+t+u+v</strong></span></li>
+				<li>the  probability of "B given A" is  P(B|A) = <span class="intbl"><em>s</em><strong>s+t</strong></span></li>
+			</ul>
+			<p>And then multiply them together like this:</p>
+			<p class="center"><img src="images/bayes-table-math-a.svg" alt="bayes table math P(A)"></p>
+			<p>&nbsp;</p>
+			<p>Now let us do that again but use  <b>P(B)</b> and <b>P(A|B)</b>:</p>
+			<p class="center"><img src="images/bayes-table-math-b.svg" alt="bayes table math P(B)"></p>
+			
+			<p>&nbsp;</p>
+			<p>Both ways get   the <b>same result</b> of <span class="intbl"><em>s</em><strong>s+t+u+v</strong></span></p>
+			<p>So we can see that:</p>
+			<p class="center large">P(B) P(A|B) = P(A) P(B|A)</p>
+			<p><i>Nice and symmetrical isn't it?</i></p>
+<p>
+			It actually <i>has</i> to be symmetrical as we can swap rows and columns and get the same top-left corner.</p>
+			<p>And it is also <b>Bayes Formula</b> ... just  divide both sides by P(B):</p>
+			<div class="def">
+				<p class="center large">P(A|B) = <span class="intbl"><em>P(A) P(B|A)</em><strong>P(B)</strong></span></p>
+			</div>
+			
+			<h2>Remembering</h2>
+			<p>First think "AB AB AB" then  remember to group it like: "AB = A BA / B"</p>
+<p class="center large">P(<span class="largest">A</span>|<span class="largest">B</span>) = <span class="intbl"><em>P(<span class="largest">A</span>) P(<span class="largest">B</span>|<span class="largest">A</span>)</em><strong>P(<span class="largest">B</span>)</strong></span> </p>
+<h2>Cat Allergy?</h2>
+			<p>One of the famous uses for Bayes Theorem is <a href="probability-false-negatives-positives.html">False Positives and False Negatives</a>.</p>
+			<p>For those we have two possible cases for "A", such as  <b>Pass</b>/<b>Fail</b> (or Yes/No etc)</p>
+			<div class="example">
+				<h3>Example: Allergy or Not?</h3>
+				<p style="float:right; margin: 0 0 5px 10px;"><img src="images/cat.jpg" alt="cat" height="151" width="100"></p>
+				<p>Hunter says she is  itchy. There is a test for   Allergy to Cats,  but this test is not always right:</p>
+				<ul>
+					<li>For people that <b>really do</b> have the allergy, the test says "Yes" <b>80%</b> of the time </li>
+					<li>For people that <b>do not</b> have the allergy, the test says "Yes" <b>10%</b> of the time ("false positive")</li>
+				</ul>
+				<p><span class="larger"> If 1% of the population  have the allergy, and <b>Hunter's test says "Yes"</b>,
+				what are the chances that Hunter really has the allergy?</span></p>
+			</div>
+			<p>We want to know the chance of having the allergy when test says "Yes", written <b>P(Allergy|Yes)</b></p>
+			<p>Let's get our formula:</p>
+<p class="center large">P(Allergy|Yes) = <span class="intbl"><em>P(Allergy) P(Yes|Allergy)</em><strong>P(Yes)</strong></span> </p>
+<ul>
+	<li>P(Allergy) is Probability of Allergy = 1%</li>
+				<li>P(Yes|Allergy) is Probability of test saying "Yes" for people with allergy = 80%</li>
+				<li>P(Yes) is Probability of test saying "Yes" (to anyone) = ??%</li>
+	</ul>
+			<p>Oh no! We <b>don't know</b> what the <b>general</b> chance of the test saying "Yes" is ...</p>
+			<p>... but we can calculate it&nbsp;by adding up  those  <b>with</b>, and those <b>without</b> the allergy:</p>
+			<ul>
+				<li>1% have the allergy, and the test says "Yes" to 80% of them</li>
+				<li>99% do <b>not</b> have the allergy&nbsp;and the test says "Yes" to 10% of them</li>
+			</ul>
+			<p>Let's add that up:</p>
+			<p class="center larger"> P(Yes) = 1% × 80% + 99% × 10% = 10.7%</p>
+			<p>Which means that about 10.7% of the population will get a "Yes" result.</p>
+			<p>So now we can complete our formula:</p>
+<p class="center larger">P(Allergy|Yes) = <span class="intbl"><em>1% × 80%</em><strong>10.7%</strong></span> &nbsp;= 7.48%</p>
+<p class="center larger">P(Allergy|Yes) = about <b>7%</b></p>
+			<p>This is the same result we got on <span class="center"><a href="probability-false-negatives-positives.html">False Positives and False Negatives</a></span>.</p>
+			<p>In fact we can write a special version of the Bayes' formula just for things like this:</p>
+<p class="center larger">P(A|B) = <span class="intbl"><em>P(A)P(B|A)</em><strong> P(A)P(B|A) + P(not A)P(B|not A)</strong></span> </p>
+<h2>"A" With Three (or more) Cases</h2>
+			<p>We just saw "A" with two cases (A and not A), which we took care of in the bottom line.</p>
+			<p>When "A" has  3 or more cases we include them all  in the bottom line:</p>
+<p class="center larger">P(A1|B) = <span class="intbl"><em>P(A1)P(B|A1)</em><strong> P(A1)P(B|A1) + P(A2)P(B|A2) + P(A3)P(B|A3) + ...etc</strong></span> </p>
+<div class="example">
+	<p style="float:right; margin: 0 0 5px 10px;"><img src="images/art-show.jpg" alt="art show" height="137" width="240"></p>
+				<h3>Example: The Art Competition has entries from three painters: Pam, Pia and Pablo</h3>
+<div style="clear:both"></div>
+				<ul>
+					<li>Pam put in 15 paintings,  4% of her works have won  First Prize. </li>
+					<li>Pia put in 5 paintings,  6% of her works have won  First Prize. </li>
+					<li>Pablo put in 10 paintings,  3% of his works have won  First Prize. </li>
+				</ul>
+				<p>What is the chance that Pam will win  First Prize?</p>
+<p class="center larger">P(Pam|First) = <span class="intbl"><em>P(Pam)P(First|Pam)</em><strong> P(Pam)P(First|Pam) + P(Pia)P(First|Pia) + P(Pablo)P(First|Pablo)</strong></span></p>
+<p>Put in the values:</p>
+<div class="tbl">
+	<div class="row"><span class="left">P(Pam|First) =</span><span class="right"><span class="intbl"><em>(15/30) × 4%</em><strong> (15/30) × 4% + (5/30) × 6% + (10/30) × 3%</strong></span></span></div>
+</div>
+<p>Multiply all by 30 (makes calculation easier):</p>
+
+<div class="tbl">
+<div class="row"><span class="left">P(Pam|First) =</span><span class="right"><span class="intbl"><em>15 × 4%</em><strong> 15 × 4% + 5 × 6% + 10 × 3%</strong></span></span></div>
+<div class="row"><span class="left">=</span><span class="right"><span class="intbl"><em>0.6</em><strong>0.6 + 0.3 + 0.3</strong></span></span></div>
+<div class="row"><span class="left">=</span><span class="right">50%</span></div>
+</div>
+<p>A good chance!</p>
+				<p>Pam isn't the most successful artist, but she did put in lots of entries.</p>			</div>
+			<div class="fun">
+				<h3>Now, back to Search Engines.</h3>
+				<p>Search Engines take this idea and scale it up a lot (plus some  other tricks).				</p>
+				<p> It makes them look like they can read your mind!</p>
+				<p>It can also be used for mail filters, music recommendation services and more.</p>
+			</div>
+			<p>&nbsp;</p>
+			<div class="questions"> 
+
+<script>getQ(11273, 11274, 11275, 11276, 11277, 11278, 11279, 11280, 11281, 11282);</script>&nbsp;
+
+</div>
+			<div class="related">
+<a href="probability-false-negatives-positives.html">False Positives and False Negatives</a>				
+<a href="probability-events-conditional.html">Conditional Probability</a> 
+<a href="probability.html">Probability</a> 
+<a href="index.html">Data Index</a>			
+</div>
+			<!-- #EndEditable -->
+</div>
+<div id="adend" class="centerfull noprint"> 
+	<script>document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+	<script>document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright © 2020 MathsIsFun.com
+</div>
+<script>document.write(getBodyEnd());</script>
+
+
+</body>
+<!-- Mirrored from www.mathsisfun.com/data/bayes-theorem.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:42:20 GMT -->
+</html>

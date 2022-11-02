@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="500px" height="80px" xmlns="http://www.w3.org/2000/svg">
+<desc>SVG Output</desc>
+
+<circle cx="10" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="25" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="10" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="25" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="10" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="25" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<text x="17.5px" y="66.25px" style="font:16px Verdana;  fill:#3366aa; stroke:none; text-anchor:middle;" transform="rotate(0 17.5 66.25)" >a</text>
+<circle cx="55" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="70" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="55" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="70" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="55" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="70" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<text x="62.5px" y="66.25px" style="font:16px Verdana;  fill:#3366aa; stroke:none; text-anchor:middle;" transform="rotate(0 62.5 66.25)" >b</text>
+<circle cx="100" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="115" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="100" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="115" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="100" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="115" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<text x="107.5px" y="66.25px" style="font:16px Verdana;  fill:#3366aa; stroke:none; text-anchor:middle;" transform="rotate(0 107.5 66.25)" >c</text>
+<circle cx="145" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="160" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="145" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="160" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="145" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="160" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<text x="152.5px" y="66.25px" style="font:16px Verdana;  fill:#3366aa; stroke:none; text-anchor:middle;" transform="rotate(0 152.5 66.25)" >d</text>
+<circle cx="190" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="205" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="190" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="205" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="190" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="205" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<text x="197.5px" y="66.25px" style="font:16px Verdana;  fill:#3366aa; stroke:none; text-anchor:middle;" transform="rotate(0 197.5 66.25)" >e</text>
+<circle cx="235" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="250" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="235" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="250" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="235" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="250" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<text x="242.5px" y="66.25px" style="font:16px Verdana;  fill:#3366aa; stroke:none; text-anchor:middle;" transform="rotate(0 242.5 66.25)" >f</text>
+<circle cx="280" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="295" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="280" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="295" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="280" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="295" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<text x="287.5px" y="66.25px" style="font:16px Verdana;  fill:#3366aa; stroke:none; text-anchor:middle;" transform="rotate(0 287.5 66.25)" >g</text>
+<circle cx="325" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="340" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="325" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="340" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="325" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="340" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<text x="332.5px" y="66.25px" style="font:16px Verdana;  fill:#3366aa; stroke:none; text-anchor:middle;" transform="rotate(0 332.5 66.25)" >h</text>
+<circle cx="370" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="385" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="370" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="385" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="370" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="385" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<text x="377.5px" y="66.25px" style="font:16px Verdana;  fill:#3366aa; stroke:none; text-anchor:middle;" transform="rotate(0 377.5 66.25)" >i</text>
+<circle cx="415" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="430" cy="10" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="415" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="430" cy="25" r="4.5" stroke-width='1' stroke='#3366aa' fill='#3366aa' fill-opacity='1'  />
+<circle cx="415" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<circle cx="430" cy="40" r="4.5" stroke-width='1' stroke='#3366aa' fill='none' fill-opacity='1'  />
+<text x="422.5px" y="66.25px" style="font:16px Verdana;  fill:#3366aa; stroke:none; text-anchor:middle;" transform="rotate(0 422.5 66.25)" >j</text>
+</svg>

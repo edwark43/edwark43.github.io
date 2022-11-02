@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/geometry/circle-intersect-secants-angle.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:44:07 GMT -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Angle of Intersecting Secants Theorem</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents." />
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=true;" />
+<meta name="HandheldFriendly" content="true"/>
+<meta http-equiv="pics-label" content='(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://www.mathsisfun.com" r (SS~~000 1))' />
+<meta name="referrer" content="always">
+<link rel="stylesheet" type="text/css" href="../style3.css" />
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun" /></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran"><script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus"><script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort"><script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search"><script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+
+	<h1 class="center">Angle of Intersecting Secants</h1>
+	<p>This is the idea (a,b and c are angles):</p>
+	<p class="center"><img src="images/circle-intersect-angle.svg" alt="Angle of Intersecting Secants" ></p>
+	<p>And here it is with some actual values:</p>
+	<p class="center"><img src="images/circle-intersect-angle-ex.svg" alt="Angle of Intersecting Secants example" ></p>
+	<p>In words: <i>the angle made by two <a href="tangent-secant-lines.html">secants</a> (a line that cuts a circle at two points) that <b>intersect outside</b> the circle is half of the furthest   arc minus the nearest  arc.</i></p>
+	<p>&nbsp;</p>
+	<p class="center larger">Why not try drawing one yourself, measure it using a protractor, <br>
+	and see what you get?</p>
+	<p>&nbsp;</p>
+	<p>It also works when either line is a <a href="tangent-secant-lines.html">tangent</a> (a line that just touches  a circle at one point). Here we see the &quot;both are tangents&quot; case:</p>
+	<p class="center"><img src="images/circle-intersect-angle-ex2.svg" alt="Angle of Intersecting Secants example" ></p>
+	<p>That's it! You know it now.</p>
+	<p>&nbsp;</p>
+	<div class="fun">
+		<h3>But How Come?</h3>
+		<p>Is this magic?</p>
+		<p>Well, we can prove it if you want:</p>
+		<p>AC and BD are two secants  that intersect at the point P outside the circle. What is the relationship between the angle CPD and the arcs AB and CD?</p>
+		<p class="center"><img src="images/lines-circle-sec-sec-detail.svg" alt="Two lines intersecting a circle where vertex is inside the circle "></p>
+		<p>We start by saying that  the angle subtended by arc CD at O is <b>2&theta;</b> and the arc subtended by arc AB at O is <b>2&Phi; </b></p>
+		<p>By the <a href="circle-theorems.html">Angle at the Center Theorem</a>: </p>
+		<p class="so">&ang;DAC = &ang;DBC = &theta; and &ang;ADB = &ang;ACB = &Phi; </p>
+		<p>And PAC is 180&deg;, so:</p>
+		<p class="so">&ang;DAP = 180&deg; &minus; &theta; </p>
+		<p>Now use <a href="../proof180deg.html">angles of a triangle add to 180&deg;</a> in triangle APD: </p>
+		<p class="so">&ang;CPD = 180&deg; &minus; (&ang;DAP + &ang;ADP) </p>
+		<p class="so">&ang;CPD = 180&deg; &minus; (180&deg; &minus; &theta; + &Phi;) = &theta; &minus; &Phi;</p>
+		<p class="so">&ang;CPD =  &theta; &minus; &Phi;</p>
+		<p class="so">&ang;CPD =  &frac12;(2&theta; &minus; 2&Phi;) </p>		
+		<p>Done! </p>
+	</div>
+	<p>&nbsp;</p>
+	<div class="questions">
+<script type="text/javascript">getQ(7385, 7386, 7387, 7388, 7389, 13611, 13612, 13613, 13614, 13615);</script>&nbsp;
+</div>
+<div class="related">
+<a href="tangent-secant-lines.html">Tangent and Secant Lines</a> <a href="index.html">Geometry Index</a>
+</div>
+<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2018 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body>
+<!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/geometry/circle-intersect-secants-angle.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:44:08 GMT -->
+</html>

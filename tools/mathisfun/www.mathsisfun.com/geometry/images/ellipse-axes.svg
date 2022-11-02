@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="286.5"
+   height="142.7"
+   version="1.0"
+   id="svg48"
+   sodipodi:docname="ellipse-axes.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview50"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg48" />
+  <defs
+     id="defs8">
+    <marker
+       id="id2"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       id="id1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id14279"
+       inkscape:stockid="id14279">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="stroke:#3465a4;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#3465a4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path964" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id26343"
+       inkscape:stockid="id26343">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:#3465a4;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#3465a4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path967" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id19085"
+       inkscape:stockid="id19085">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="stroke:#f57900;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#f57900"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path970" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id22406"
+       inkscape:stockid="id22406">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:#f57900;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#f57900"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path973" />
+    </marker>
+  </defs>
+  <ellipse
+     cx="96.1"
+     cy="63.5"
+     rx="95.4"
+     ry="61.8"
+     style="color:black;overflow:visible;fill:none;stroke:#c4a000;stroke-width:1.05"
+     id="ellipse10" />
+  <path
+     style="marker-start:url(#id14279);marker-end:url(#id26343);fill:#3465a4;fill-opacity:0.75;stroke:#3465a4;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 1.2,51.5 95,51.9"
+     id="path12" />
+  <text
+     x="41.0959"
+     y="48.338"
+     style="font-size:29px;font-family:'Comic Sans MS';fill:#3465a4;stroke-width:0.29"
+     id="text16">a</text>
+  <path
+     style="marker-start:url(#id19085);marker-end:url(#id22406);fill:none;fill-opacity:0.75;stroke:#f57900;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 110.2,61.7 109.8,1.1"
+     id="path18" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#3465a4;stroke-width:0.9;stroke-dasharray:7.2, 7.2"
+     d="M 0.6,63.5 H 191.6"
+     id="path20" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#f57900;stroke-width:0.9;stroke-dasharray:7.2, 7.2"
+     d="M 95.4,1 V 126"
+     id="path22" />
+  <text
+     x="113.301"
+     y="40.7463"
+     style="font-size:29px;font-family:'Comic Sans MS';fill:#f57900;stroke-width:0.29"
+     id="text26">b</text>
+  <text
+     x="189.2"
+     y="105.5"
+     style="font-family:'Comic Sans MS';font-size:18.7px;font-style:italic;color:black;overflow:visible;fill:#3465a4;stroke-width:0.29px"
+     id="text28">Major Axis</text>
+  <text
+     x="148.5"
+     y="141.9"
+     style="font-family:'Comic Sans MS';font-size:18.7px;font-style:italic;color:black;overflow:visible;fill:#f57900;stroke-width:0.29px"
+     id="text30">Minor Axis</text>
+  <g
+     transform="translate(-0.007083)"
+     id="g38">
+    <path
+       style="fill:#3465a4;stroke-width:0.29"
+       d="m 151,70 c 1.5,3.9 2.7,7.9 4.8,11.5 2.6,4.7 6.3,8.8 10.9,11.6 4.7,3 10.2,5 15.7,5.8 0.7,0.3 4.5,-0.4 3.2,0.8 -0.8,0.7 -1.7,1.3 -2.4,2 -4.3,-0 -8.4,-1.3 -12.4,-2.8 -5.9,-2.4 -11.5,-6.1 -15.4,-11.3 -3.3,-4.2 -5.4,-9.2 -7.1,-14.2 -0.3,-1 -1.6,-2.6 0.2,-2.6 0.8,-0.3 1.6,-0.5 2.4,-0.8 z"
+       id="path32" />
+    <path
+       style="fill:#3465a4;stroke-width:0.29"
+       d="m 150,68.4 c 2.6,2.8 5.4,5.9 9.4,6.6 0.9,0.3 3.2,0.4 3.2,0.9 -0.8,0.8 -1.6,1.6 -2.4,2.3 -2.7,-0.6 -5.5,-1.1 -7.7,-2.8 -2.2,-1.5 -4,-3.5 -5.7,-5.4 1.1,-0.5 2.2,-1 3.3,-1.6 z"
+       id="path34" />
+    <path
+       style="fill:#3465a4;stroke-width:0.29"
+       d="m 151,70 c -0.1,3.6 -1.4,7.1 -2.9,10.3 -0.4,1.7 -1.6,3.1 -2.7,4.4 -1.2,-0.1 -2.5,-0.3 -3.6,-0.5 1.1,-1.4 2.4,-2.7 2.9,-4.5 1.3,-3 2.6,-6 2.7,-9.3 1.2,-0.2 2.4,-0.3 3.6,-0.5 z"
+       id="path36" />
+  </g>
+  <g
+     transform="translate(-0.007083)"
+     id="g46">
+    <path
+       style="fill:#f57900;stroke-width:0.29"
+       d="m 110.8,101.4 c 4.7,0.5 9.3,2.5 12.5,6 4.3,4.1 6.7,9.5 9.4,14.7 1.8,3 3.8,6.1 6.8,8 1.5,1.1 3.2,2 4.7,3.1 1,0.1 3,0.7 3.4,0.9 -0.8,0.8 -1.6,1.6 -2.5,2.4 -2,-0.4 -3.9,-1.1 -5.5,-2.3 -3.1,-1.9 -6.2,-4 -8.2,-7.2 -3.7,-5.3 -5.7,-11.8 -10.3,-16.6 -2.1,-2.4 -4.7,-4.4 -7.8,-5.4 -1.6,-0.6 -3.8,-0.8 -5.2,-1.1 0.9,-0.8 1.7,-1.6 2.6,-2.4 z"
+       id="path40" />
+    <path
+       style="fill:#f57900;stroke-width:0.29"
+       d="m 109.6,100 c 2.7,0.4 5.3,-0.4 8,-0.9 -1.3,0.4 -1.2,0.3 0,-0 1,-0.3 4.2,-1.1 1.6,-0.4 -0.4,0.4 1.9,-1.1 2.8,-0.7 1,0.3 2,0.6 3,0.8 -1.1,0.8 -2.6,1.3 -4,1.8 -0.8,0.3 -4,1 -1.6,0.4 0.5,-0.1 -2,0.6 -2.7,0.7 -3,0.7 -6.1,1.4 -9.2,1 -1.1,0 0.6,-0.9 0.8,-1.4 0.4,-0.4 0.8,-0.8 1.2,-1.2 z"
+       id="path42" />
+    <path
+       style="fill:#f57900;stroke-width:0.29"
+       d="m 110.8,101.4 c 0.6,3.3 1.7,6.5 2.4,9.9 -0,1.4 1.7,3.1 -0,3.3 -0.8,0.4 -1.7,0.8 -2.5,1.1 -1,-3.4 -1.6,-6.9 -2.6,-10.2 0.1,-1.1 -1.6,-3.3 0,-3.4 0.9,-0.2 1.9,-0.5 2.8,-0.7 z"
+       id="path44" />
+  </g>
+</svg>

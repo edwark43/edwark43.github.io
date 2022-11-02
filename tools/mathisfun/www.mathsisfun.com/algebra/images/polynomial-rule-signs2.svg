@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="302.4" height="35.1" version="1.1">
+<defs/>
+<text x="69.5" y="17.3" style="font-family:'Comic Sans MS'; font-size:22.7px; color:black; overflow:visible; fill:#5c3566; stroke-width:1px;">5</text>
+<text x="157.7" y="16.2" style="font-family:'Comic Sans MS'; font-size:22.7px; color:black; overflow:visible; fill:#5c3566; stroke-width:1px;">2</text>
+<circle cx="41.8" cy="23" r="11.4101" style="color:black; overflow:visible; fill:#ccff99; stroke-width:1.01px;"/>
+<circle cx="129.6" cy="22.6" r="11.4101" style="color:black; overflow:visible; fill:#ccff99; stroke-width:1.01px;"/>
+<circle cx="230.9" cy="23.1" r="11.4101" style="color:black; overflow:visible; fill:#ccff99; stroke-width:1.01px;"/>
+<text x="-1.4" y="29.7" style="font-family:'Comic Sans MS'; font-size:25.8px; color:black; overflow:visible; stroke-width:1.25px;">-3(-x)   + (-x)   + 4(-x) - 2</text>
+</svg>

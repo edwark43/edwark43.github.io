@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="160.2" version="1.1" style="stroke-width:0.26px;">
+<defs/>
+<g transform="translate(387.25,-40.7322)">
+	<g id="id5" transform="translate(-1.77145)">
+		<circle id="id1" cx="-373.8" cy="46.8" r="6.0476" style="fill:#45bdff; stroke-width:1.4;"/>
+		<use id="id2" transform="translate(18.0169,4e-6)" xlink:href="#id1" x="0" y="0"/>
+		<use id="id3" transform="translate(18.0169)" xlink:href="#id2" x="0" y="0"/>
+		<use id="id4" transform="translate(18.0168,-2e-6)" xlink:href="#id3" x="0" y="0"/>
+		<use transform="translate(18.0169)" xlink:href="#id4" x="0" y="0"/>
+	</g>
+	<use id="id6" transform="translate(4e-6,16.4549)" xlink:href="#id5" x="0" y="0"/>
+	<use id="id7" transform="translate(4e-6,16.455)" xlink:href="#id6" x="0" y="0"/>
+	<use id="id8" transform="translate(0,16.4549)" xlink:href="#id7" x="0" y="0"/>
+	<use id="id9" transform="translate(4e-6,16.4549)" xlink:href="#id8" x="0" y="0"/>
+	<use id="id10" transform="translate(-3e-6,16.4549)" xlink:href="#id9" x="0" y="0"/>
+	<use id="id11" transform="translate(-3e-6,16.455)" xlink:href="#id10" x="0" y="0"/>
+	<use id="id12" transform="translate(0,16.455)" xlink:href="#id11" x="0" y="0"/>
+	<use id="id13" transform="translate(0,16.455)" xlink:href="#id12" x="0" y="0"/>
+	<use transform="translate(0,16.4549)" xlink:href="#id13" x="0" y="0"/>
+	<circle id="id14" cx="-339.6" cy="63.2" r="6.94901" style="fill:black; stroke-width:1.66;"/>
+	<use transform="translate(18.0172,3.16577e-6)" xlink:href="#id14" x="0" y="0"/>
+	<use transform="translate(-36.0334,1.16577e-6)" xlink:href="#id14" x="0" y="0"/>
+	<use transform="translate(-1.62301e-4,65.8197)" xlink:href="#id14" x="0" y="0"/>
+	<use transform="translate(-18.0165,65.8197)" xlink:href="#id14" x="0" y="0"/>
+	<use transform="translate(36.0341,65.8197)" xlink:href="#id14" x="0" y="0"/>
+	<use transform="translate(-18.0171,-4e-6)" xlink:href="#id14" x="0" y="0"/>
+	<use transform="translate(-36.0334,65.8197)" xlink:href="#id14" x="0" y="0"/>
+	<use transform="translate(36.0341,3.16577e-6)" xlink:href="#id14" x="0" y="0"/>
+	<use transform="translate(18.0172,65.8197)" xlink:href="#id14" x="0" y="0"/>
+	<path style="fill:none; stroke:black;" d="m -387.3,54.8 h 100"/>
+	<path style="fill:none; stroke:black;" d="m -387.3,71.3 h 100"/>
+	<path style="fill:none; stroke:black;" d="m -387.3,87.7 h 100"/>
+	<path style="fill:none; stroke:black;" d="m -387.3,104.1 h 100"/>
+	<path style="fill:none; stroke:black;" d="m -387.3,120.6 h 100"/>
+	<path style="fill:none; stroke:black;" d="m -387.3,137 h 100"/>
+	<path style="fill:none; stroke:black;" d="m -387.3,153.5 h 100"/>
+	<path style="fill:none; stroke:black;" d="m -387.3,169.9 h 100"/>
+	<path style="fill:none; stroke:black;" d="m -387.3,186.3 h 100"/>
+</g>
+</svg>

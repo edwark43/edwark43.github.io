@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="250.9" height="252.1" version="1.1">
+<defs>
+</defs>
+<text x="20" y="203.5" style="font-family:Georgia; font-size:12px; fill:#121513; stroke-width:0.5;">0</text>
+<text x="22" y="172" style="font-family:Georgia; font-size:12px; fill:#121513; stroke-width:0.5;">1</text>
+<text x="20.6" y="139.4" style="font-family:Georgia; font-size:12px; fill:#121513; stroke-width:0.5;">2</text>
+<text x="20.7" y="107" style="font-family:Georgia; font-size:12px; fill:#121513; stroke-width:0.5;">3</text>
+<text x="20.4" y="74.9" style="font-family:Georgia; font-size:12px; fill:#121513; stroke-width:0.5;">4</text>
+<text x="20.9" y="42.4" style="font-family:Georgia; font-size:12px; fill:#121513; stroke-width:0.5;">5</text>
+<text x="35.5" y="221.4" style="font-family:Georgia; font-size:14.2px; fill:#013397; stroke-width:0.5;">−0.5</text>
+<text x="83" y="221.4" style="font-family:Georgia; font-size:14.2px; fill:black; stroke-width:0.5;">0</text>
+<text x="113.8" y="221.4" style="font-family:Georgia; font-size:14.2px; fill:#013397; stroke-width:0.5;">0.5</text>
+<text x="156.8" y="221.4" style="font-family:Georgia; font-size:14.2px; fill:#013397; stroke-width:0.5;">1</text>
+<text x="187.7" y="221.4" style="font-family:Georgia; font-size:14.2px; fill:#013397; stroke-width:0.5;">1.5</text>
+<text x="230.5" y="221.4" style="font-family:Georgia; font-size:14.2px; fill:#013397; stroke-width:0.5;">2</text>
+<text x="30.3" y="16.3" style="font-family:Georgia; font-size:21.3px; font-style:italic; color:black; overflow:visible; fill:#d3bd00; stroke:#edd400; stroke-width:0.5px;">Puppy Weight Change</text>
+<text x="81.8" y="242.9" style="font-family:Georgia; font-size:17.3px; font-style:italic; color:black; overflow:visible; fill:#013397; stroke-width:0.5px;">Weight Change</text>
+<text x="-144.8" y="14.1" transform="rotate(-90)" style="font-family:Georgia; font-size:18.7px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:0.5px;">Months</text>
+<rect x="38.1" y="28" width="207.3" height="175.2" style="color:black; overflow:visible; fill:none; stroke:black; stroke-width:0.52;" />
+<path d="m 232.6,203.2 v 5.7" style="fill:none; stroke:black; stroke-width:0.82;" />
+<path d="m 48.2,203.2 v 5.7" style="fill:none; stroke:black; stroke-width:0.82;" />
+<path d="m 85.5,203.2 v 5.7" style="fill:none; stroke:black; stroke-width:0.82;" />
+<path d="m 122.4,203.2 v 5.7" style="fill:none; stroke:black; stroke-width:0.82;" />
+<path d="m 159,203.2 v 5.7" style="fill:none; stroke:black; stroke-width:0.82;" />
+<path d="m 195.8,203.2 v 5.7" style="fill:none; stroke:black; stroke-width:0.82;" />
+<g transform="matrix(37.4107,0,0,1,9276.44,-5.1957)">
+<path d="m -247.1,46.4 h 5.7" style="fill:none; stroke:black; stroke-width:0.13;" />
+<path d="m -247.1,208.4 h 5.7" style="fill:none; stroke:black; stroke-width:0.13;" />
+<path d="m -247.1,176 h 5.7" style="fill:none; stroke:black; stroke-width:0.13;" />
+<path d="m -247.1,143.6 h 5.7" style="fill:none; stroke:black; stroke-width:0.13;" />
+<path d="m -247.1,111.2 h 5.7" style="fill:none; stroke:black; stroke-width:0.13;" />
+<path d="m -247.1,78.8 h 5.7" style="fill:none; stroke:black; stroke-width:0.13;" />
+</g>
+<rect x="48.2" y="170.3" width="37.3" height="33" style="color:black; overflow:visible; fill:#cbb500; fill-opacity:0.64; stroke:black; stroke-width:0.5;" />
+<rect x="85.5" y="41.2" width="36.8" height="162" style="color:black; overflow:visible; fill:#cbb500; fill-opacity:0.64; stroke:black; stroke-width:0.5;" />
+<rect x="122.3" y="106.4" width="36.8" height="96.8" style="color:black; overflow:visible; fill:#cbb500; fill-opacity:0.64; stroke:black; stroke-width:0.5;" />
+<rect x="195.8" y="170.5" width="36.8" height="32.7" style="color:black; overflow:visible; fill:#cbb500; fill-opacity:0.64; stroke:black; stroke-width:0.5;" />
+</svg>

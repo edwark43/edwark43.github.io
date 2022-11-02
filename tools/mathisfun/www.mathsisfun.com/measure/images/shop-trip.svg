@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="328.6" height="164" version="1.1">
+<defs>
+</defs>
+<g transform="translate(517.789,-2269.79)">
+<rect x="-517.8" y="2269.8" ry="21.4" width="328.6" height="164" style="color:black; overflow:visible; fill:white; stroke-width:5.3;"/>
+<rect x="-621.7" y="2192.1" rx="5.2" width="248.4" height="118.5" style="color:black; overflow:visible; fill:none; stroke:black; stroke-width:0.49;"/>
+<rect x="-622.4" y="2339.5" rx="3.9" width="187.6" height="118.5" style="color:black; overflow:visible; fill:none; stroke:black; stroke-width:0.49;"/>
+<rect x="-412.8" y="2339.5" rx="3.9" width="187.6" height="118.5" style="color:black; overflow:visible; fill:none; stroke:black; stroke-width:0.49;"/>
+<rect x="-498.8" y="2274.3" rx="2.1" width="65.9" height="56.9" style="color:black; overflow:visible; fill:white; stroke-width:1.18; stroke-dasharray:4.7, 4.7;"/>
+<rect x="-351.2" y="2192.1" rx="3.9" width="187.6" height="118.5" style="color:black; overflow:visible; fill:none; stroke:black; stroke-width:0.49;"/>
+<rect x="-141.6" y="2192.1" rx="3.9" width="187.6" height="118.5" style="color:black; overflow:visible; fill:none; stroke:black; stroke-width:0.49;"/>
+<rect x="-203.1" y="2339.5" rx="3.9" width="187.6" height="118.5" style="color:black; overflow:visible; fill:none; stroke:black; stroke-width:0.49;"/>
+<rect x="-500.1" y="2368.9" width="65.3" height="31.4" style="color:black; overflow:visible; fill:#19aeff; stroke:#005c94; stroke-width:0.98;"/>
+<text x="-493.3" y="2391.3" style="font-family:'Comic Sans MS'; font-size:17.1px; color:black; overflow:visible; fill:white; stroke-width:0.49px;">Home</text>
+<rect x="-292.7" y="2372.9" width="67.6" height="51.9" style="color:black; overflow:visible; fill:#19aeff; stroke:#005c94; stroke-width:0.98;"/>
+<text x="-280.3" y="2416.5" style="font-family:Comic Sans MS; font-size:17.1px; color:black; overflow:visible; fill:white; stroke-width:0.49px;">Shop</text>
+<text x="-363.2" y="2330" style="font-family:'Comic Sans MS'; font-size:21.3px; color:black; overflow:visible; fill:#3465a4; stroke-width:0.49px;">220 m</text>
+<text x="-130.4" y="2406.2" transform="rotate(5.97051)" style="font-family:'Comic Sans MS'; font-size:21.3px; color:black; overflow:visible; fill:#73d216; stroke-width:0.49px;">130 m</text>
+<g transform="matrix(0.285314,0.066021,-0.066021,0.285314,-381.204,1814.44)">
+<path style="fill:#848484;" d="m 137.4,1691.1 -0.1,-2.4 -0.2,-2.4 -0.3,-2.5 -0.5,-2.4 -0.5,-2.3 -0.8,-2.4 -0.9,-2.3 -1,-2.2 -1.1,-2.2 -1.3,-2.1 -1.3,-2.1 -1.5,-2 -1.5,-1.9 -1.7,-1.7 -1.7,-1.7 -1.8,-1.5 -2,-1.5 -2.1,-1.3 -2.1,-1.3 -2.2,-1.1 -2.2,-1 -2.3,-0.9 -2.4,-0.8 -2.3,-0.5 -2.4,-0.6 -2.5,-0.3 -2.4,-0.2 -2.4,-0.1 -2.4,0.1 -2.4,0.2 -2.5,0.3 -2.4,0.6 -2.3,0.5 -2.4,0.8 -2.3,0.9 -2.2,1 -2.2,1.1 -2.1,1.3 -2.1,1.3 -2,1.5 -1.8,1.5 -1.7,1.7 -1.7,1.7 -1.5,1.9 -1.5,2 -1.3,2.1 -1.3,2.1 -1.1,2.2 -1,2.2 -0.9,2.3 -0.8,2.4 -0.5,2.3 -0.5,2.4 -0.3,2.5 -0.2,2.4 -0.1,2.4 0.1,2.4 0.2,2.4 0.3,2.5 0.5,2.4 0.5,2.3 0.8,2.4 0.9,2.3 1,2.2 1.1,2.2 1.3,2.1 1.3,2.1 1.5,2 1.5,1.9 1.7,1.7 1.7,1.7 1.8,1.5 2,1.5 2.1,1.3 2.1,1.3 2.2,1.1 2.2,1 2.3,0.9 2.4,0.8 2.3,0.5 2.4,0.6 2.5,0.3 2.4,0.2 2.4,0.1 2.4,-0.1 2.4,-0.2 2.5,-0.3 2.4,-0.6 2.3,-0.5 2.4,-0.8 2.3,-0.9 2.2,-1 2.2,-1.1 2.1,-1.3 2.1,-1.3 2,-1.5 1.8,-1.5 1.7,-1.7 1.7,-1.7 1.5,-1.9 1.5,-2 1.3,-2.1 1.3,-2.1 1.1,-2.2 1,-2.2 0.9,-2.3 0.8,-2.4 0.5,-2.3 0.5,-2.4 0.3,-2.5 0.2,-2.4 z"/>
+<path style="fill:#848484;" d="m 137.3,1691 v 2.3 l -0.2,2.2 -0.7,4.4 -1.1,4.1 -1.4,4 -1.8,3.8 -2.2,3.6 -2.5,3.4 -2.8,3.1 -3,2.8 -3.4,2.5 -3.5,2.2 -3.8,1.9 -4,1.4 -4.1,1.1 -4.4,0.7 -2.2,0.2 h -2.3 -2.3 l -2.2,-0.2 -4.4,-0.7 -4.1,-1.1 -4,-1.4 -3.7,-1.9 -3.6,-2.2 -3.4,-2.5 -3,-2.8 -2.8,-3.1 -2.5,-3.4 -2.2,-3.6 -1.8,-3.8 -1.4,-4 -1.1,-4.1 -0.7,-4.4 -0.1,-2.2 -0.1,-2.3 0.1,-2.2 0.1,-2.3 0.7,-4.2 1.1,-4.1 1.4,-4 1.8,-3.8 2.2,-3.6 2.5,-3.4 2.8,-3.1 3,-2.8 3.4,-2.5 3.6,-2.2 3.7,-1.9 4,-1.4 4.1,-1.1 4.4,-0.7 2.2,-0.1 2.3,-0.1 2.3,0.1 2.2,0.1 4.4,0.7 4.1,1.1 4,1.4 3.8,1.9 3.5,2.2 3.4,2.5 3,2.8 2.8,3.1 2.5,3.4 2.2,3.6 1.8,3.8 1.4,4 1.1,4.1 0.7,4.2 0.2,2.3 v 2.2 H 93.9 Z"/>
+<path style="fill:#19aeff; stroke:black; stroke-width:0.18;" d="m 137.3,1691 v 2.3 l -0.2,2.2 -0.7,4.4 -1.1,4.1 -1.4,4 -1.8,3.8 -2.2,3.6 -2.5,3.4 -2.8,3.1 -3,2.8 -3.4,2.5 -3.5,2.2 -3.8,1.9 -4,1.4 -4.1,1.1 -4.4,0.7 -2.2,0.2 h -2.3 -2.3 l -2.2,-0.2 -4.4,-0.7 -4.1,-1.1 -4,-1.4 -3.7,-1.9 -3.6,-2.2 -3.4,-2.5 -3,-2.8 -2.8,-3.1 -2.5,-3.4 -2.2,-3.6 -1.8,-3.8 -1.4,-4 -1.1,-4.1 -0.7,-4.4 -0.1,-2.2 -0.1,-2.3 0.1,-2.2 0.1,-2.3 0.7,-4.2 1.1,-4.1 1.4,-4 1.8,-3.8 2.2,-3.6 2.5,-3.4 2.8,-3.1 3,-2.8 3.4,-2.5 3.6,-2.2 3.7,-1.9 4,-1.4 4.1,-1.1 4.4,-0.7 2.2,-0.1 2.3,-0.1 2.3,0.1 2.2,0.1 4.4,0.7 4.1,1.1 4,1.4 3.8,1.9 3.5,2.2 3.4,2.5 3,2.8 2.8,3.1 2.5,3.4 2.2,3.6 1.8,3.8 1.4,4 1.1,4.1 0.7,4.2 0.2,2.3 v 2.2"/>
+<path style="fill:white; stroke:white; stroke-width:0.18;" d="m 126.5,1691.1 -0.1,-2.1 -0.2,-2.2 -0.3,-2.1 -0.5,-2.1 -0.5,-2.1 -0.8,-2 -0.9,-2 -1.1,-1.9 -1.1,-1.9 -1.2,-1.7 -1.4,-1.6 -1.4,-1.6 -1.6,-1.4 -1.6,-1.4 -1.7,-1.2 -1.7,-1.1 -2,-1.1 -2,-0.9 -2,-0.8 -2.1,-0.6 -2.1,-0.5 -2.1,-0.3 -2.2,-0.2 -2.1,-0.1 -2.1,0.1 -2.2,0.2 -2.1,0.3 -2.1,0.5 -2.1,0.6 -2,0.8 -2,0.9 -1.8,1.1 -1.8,1.1 -1.7,1.2 -1.6,1.4 -1.6,1.4 -1.4,1.6 -1.4,1.6 -1.2,1.7 -1.1,1.9 -1.1,1.9 -0.9,2 -0.8,2 -0.5,2.1 -0.5,2.1 -0.3,2.1 -0.2,2.2 -0.1,2.1 0.1,2.1 0.2,2.2 0.3,2.1 0.5,2.1 0.5,2.1 0.8,2 0.9,2 1.1,2 1.1,1.7 1.2,1.7 1.4,1.6 1.4,1.6 1.6,1.4 1.6,1.4 1.7,1.2 1.8,1.1 1.8,1.1 2,0.9 2,0.8 2.1,0.5 2.1,0.5 2.1,0.3 2.2,0.2 2.1,0.1 2.1,-0.1 2.2,-0.2 2.1,-0.3 2.1,-0.5 2.1,-0.5 2,-0.8 2,-0.9 2,-1.1 1.7,-1.1 1.7,-1.2 1.6,-1.4 1.6,-1.4 1.4,-1.6 1.4,-1.6 1.2,-1.7 1.1,-1.7 1.1,-2 0.9,-2 0.8,-2 0.5,-2.1 0.5,-2.1 0.3,-2.1 0.2,-2.2 z"/>
+<path style="fill:white;" d="m 126.4,1691.1 -0.2,3.4 -0.4,3.2 -0.8,3.2 -1.1,2.9 -1.4,2.8 -1.6,2.7 -1.8,2.5 -2.2,2.3 -2.3,2.2 -2.5,1.9 -2.7,1.6 -2.8,1.4 -2.9,1.1 -3.2,0.8 -3.2,0.4 -3.4,0.2 -3.4,-0.2 -3.2,-0.4 -3.2,-0.8 -2.9,-1.1 -2.8,-1.4 -2.7,-1.6 -2.5,-1.9 -2.3,-2.2 -2.2,-2.3 -1.8,-2.5 -1.6,-2.7 -1.3,-2.8 -1.2,-2.9 -0.8,-3.2 -0.4,-3.2 -0.2,-3.4 0.2,-3.4 0.4,-3.3 0.8,-3.1 1.2,-3 1.3,-2.8 1.6,-2.7 1.8,-2.5 2.2,-2.3 2.3,-2.2 2.5,-1.9 2.7,-1.6 2.8,-1.3 2.9,-1.2 3.2,-0.8 3.2,-0.4 3.4,-0.2 3.4,0.2 3.2,0.4 3.2,0.8 2.9,1.2 2.8,1.3 2.7,1.6 2.5,1.9 2.3,2.2 2.2,2.3 1.8,2.5 1.6,2.7 1.4,2.8 1.1,3 0.8,3.1 0.4,3.3 0.2,3.4 H 93.9 Z"/>
+<path style="stroke:black; stroke-width:0.18;" d="m 126.4,1691.1 -0.2,3.4 -0.4,3.2 -0.8,3.2 -1.1,2.9 -1.4,2.8 -1.6,2.7 -1.8,2.5 -2.2,2.3 -2.3,2.2 -2.5,1.9 -2.7,1.6 -2.8,1.4 -2.9,1.1 -3.2,0.8 -3.2,0.4 -3.4,0.2 -3.4,-0.2 -3.2,-0.4 -3.2,-0.8 -2.9,-1.1 -2.8,-1.4 -2.7,-1.6 -2.5,-1.9 -2.3,-2.2 -2.2,-2.3 -1.8,-2.5 -1.6,-2.7 -1.3,-2.8 -1.2,-2.9 -0.8,-3.2 -0.4,-3.2 -0.2,-3.4 0.2,-3.4 0.4,-3.3 0.8,-3.1 1.2,-3 1.3,-2.8 1.6,-2.7 1.8,-2.5 2.2,-2.3 2.3,-2.2 2.5,-1.9 2.7,-1.6 2.8,-1.3 2.9,-1.2 3.2,-0.8 3.2,-0.4 3.4,-0.2 3.4,0.2 3.2,0.4 3.2,0.8 2.9,1.2 2.8,1.3 2.7,1.6 2.5,1.9 2.3,2.2 2.2,2.3 1.8,2.5 1.6,2.7 1.4,2.8 1.1,3 0.8,3.1 0.4,3.3 0.2,3.4"/>
+<path style="fill:black;" d="m 94,1690.2 -0.1,-69.8 10.9,59.8 -10.9,10.9 z"/>
+<path style="stroke:black; stroke-width:0.18;" d="m 94,1690.2 -0.1,-69.8 10.9,59.8 -10.9,10.9"/>
+<path style="fill:black;" d="m 94,1690.2 70.7,0.9 -59.9,10.8 -10.9,-10.8 z"/>
+<path style="stroke:black; stroke-width:0.18;" d="m 94,1690.2 70.7,0.9 -59.9,10.8 -10.9,-10.8"/>
+<path style="fill:black;" d="m 94,1690.2 -70.7,0.9 59.7,-10.9 10.9,10.9 z"/>
+<path style="stroke:black; stroke-width:0.18;" d="m 94,1690.2 -70.7,0.9 59.7,-10.9 10.9,10.9"/>
+<path style="fill:black;" d="m 94,1690.2 -11,11.6 10.9,54.5 v -65.3 z"/>
+<path style="stroke:black; stroke-width:0.18;" d="m 94,1690.2 -11,11.6 10.9,54.5 v -65.3"/>
+<path style="fill:white;" d="m 104.7,1679.7 11,-10.3 -10.9,5.3 v 5.6 z"/>
+<path style="stroke:black; stroke-width:0.18;" d="m 104.7,1679.7 11,-10.3 -10.9,5.3 v 5.6"/>
+<path style="fill:black;" d="m 104.7,1679.7 11,-10.3 -5.4,10.9 h -5.4 z"/>
+<path style="stroke:black; stroke-width:0.18;" d="m 104.7,1679.7 11,-10.3 -5.4,10.9 h -5.4"/>
+<path style="fill:white;" d="m 82.9,1680.2 -10.8,-10.9 5.4,10.9 z"/>
+<path style="stroke:black; stroke-width:0.18;" d="m 82.9,1680.2 -10.8,-10.9 5.4,10.9"/>
+<path style="fill:black;" d="m 82.9,1680.2 -10.8,-10.9 10.9,5.3 z"/>
+<path style="stroke:black; stroke-width:0.18;" d="m 82.9,1680.2 -10.8,-10.9 10.9,5.3"/>
+<path style="fill:white;" d="m 82.9,1701.9 -10.8,10.9 10.9,-5.3 v -5.5 z"/>
+<path style="stroke:black; stroke-width:0.18;" d="m 82.9,1701.9 -10.8,10.9 10.9,-5.3 v -5.5"/>
+<path style="fill:black;" d="m 82.9,1701.9 -10.8,10.9 5.4,-10.9 z"/>
+<path style="stroke:black; stroke-width:0.18;" d="m 82.9,1701.9 -10.8,10.9 5.4,-10.9"/>
+<path style="fill:white;" d="m 104.7,1701.9 11,10.9 -5.4,-10.9 z"/>
+<path style="stroke:black; stroke-width:0.18;" d="m 104.7,1701.9 11,10.9 -5.4,-10.9"/>
+<path style="fill:black;" d="m 104.7,1701.9 11,10.9 -10.9,-5.3 z"/>
+<path style="stroke:black; stroke-width:0.18;" d="m 104.7,1701.9 11,10.9 -10.9,-5.3"/>
+<path style="fill:white;" d="m 93.9,1690.8 v 65.6 l 10.9,-54.5 z"/>
+<path style="fill:white;" d="m 93.9,1690.8 70.8,0.3 -59.9,-10.9 z"/>
+<path style="fill:white;" d="m 94.1,1690.8 -70.8,0.3 59.7,10.8 z"/>
+<path style="fill:white;" d="m 93.9,1690.8 v -5.1 -65.3 l -10.9,59.8 z"/>
+<text x="82.1" y="1624.5" style="font-family:Comic Sans MS; font-weight:bold; font-size:35px; color:black; overflow:visible; fill:black; stroke-width:1px;">N</text>
+<text x="82.1" y="1781.9" style="font-family:Comic Sans MS; font-weight:bold; font-size:35px; color:black; overflow:visible; fill:black; stroke-width:1px;">S</text>
+<text x="165.5" y="1704.1" style="font-family:Comic Sans MS; font-weight:bold; font-size:35px; color:black; overflow:visible; fill:black; stroke-width:1px;">E</text>
+<text x="-8.4" y="1702.8" style="font-family:Comic Sans MS; font-weight:bold; font-size:35px; color:black; overflow:visible; fill:black; stroke-width:1px;">W</text>
+</g>
+<circle cx="-445.8" cy="2378.5" r="4.09991" style="color:black; overflow:visible; fill:black; stroke-width:5.3;"/>
+<circle cx="-257" cy="2394.1" r="4.09991" style="color:black; overflow:visible; fill:black; stroke-width:5.3;"/>
+<path style="fill:none; stroke:#3465a4; stroke-width:1.95;" d="m -447,2378.2 h 29.6 v -44.8 h 195.2 v 60.8 h -35.7"/>
+<path style="fill:none; stroke:#73d216; stroke-width:1.95; stroke-dasharray:5.9,5.9;" d="m -443.9,2378.2 188.4,16.7"/>
+</g>
+</svg>

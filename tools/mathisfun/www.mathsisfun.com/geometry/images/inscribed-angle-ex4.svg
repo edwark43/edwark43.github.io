@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" width="165.3" height="153.6" version="1.1" style="font-family:'Trebuchet MS'; font-size:16px; fill:#204a87;">
+<defs>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#ba00ff; stroke:#ba00ff; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ba00ff; stroke:#ba00ff; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g transform="translate(-530.318,-1821.44)">
+	<ellipse cx="622.4" cy="1901.2" rx="72.8" ry="72.8" style="font-family:Arial; font-size:78.3px; fill:none; stroke:#f57900; stroke-width:1;"/>
+	<path style="fill:none; stroke:#3465a4; stroke-width:1;" d="m 549.7,1904 c 29,54 29.2,55.5 29.2,55.5 l 93.2,-5.5 -19.1,-119 z"/>
+	<text x="626.4" y="1905" style="stroke-width:1;">O</text>
+	<text x="569.9" y="1975.1" style="stroke-width:1;">X</text>
+	<text x="658" y="1832.9" style="stroke-width:1;">Z</text>
+	<text x="530.1" y="1912.4" style="stroke-width:1;">W</text>
+	<text x="628.8" y="1869.3" style="stroke-width:1;">69</text>
+	<circle cx="622.7" cy="1904.4" r="1.66332" style="font-family:Arial; font-size:116.6px; fill:#ba00ff; stroke:#ba00ff; stroke-width:0.55;"/>
+	<path style="fill:none; stroke:#0084c8; stroke-width:0.58;" d="m 654.6,1847.9 a 12.5,12.5 0 0 1 -12.7,-5.5" sodipodi:type="arc" sodipodi:cx="652.425" sodipodi:cy="1835.54" sodipodi:rx="12.5333" sodipodi:ry="12.5333" sodipodi:start="1.39626" sodipodi:end="2.56214" sodipodi:arc-type="arc"/>
+	<text x="675.5" y="1966.9" style="stroke-width:1;">Y</text>
+	<text x="664.5" y="1811.8" transform="scale(0.973467,1.02726)" style="font-size:9.8px; stroke-width:1;">O</text>
+</g>
+</svg>

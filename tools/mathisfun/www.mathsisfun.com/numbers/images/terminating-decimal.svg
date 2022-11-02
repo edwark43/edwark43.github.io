@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="126.9" height="97.9" version="1.1" style="font-family:'Comic Sans MS';">
+<defs>
+	<marker id="id1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:black; stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g transform="translate(-12.2561,-95.416)">
+	<text x="9.8" y="124.1" style="font-size:37.7px; font-style:italic; fill:#0084c8; stroke-width:1.89px;">0.25</text>
+	<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:1;" d="M 92.4,157 V 125.5"/>
+	<text x="36.7" y="170.6" style="font-size:20px; font-style:italic; fill:black; stroke-width:1px;">terminates</text>
+	<text x="59.2" y="189.1" style="font-size:20px; font-style:italic; fill:black; stroke-width:1px;">(ends)</text>
+</g>
+</svg>

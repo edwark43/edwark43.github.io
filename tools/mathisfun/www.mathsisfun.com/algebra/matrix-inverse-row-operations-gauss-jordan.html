@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/algebra/matrix-inverse-row-operations-gauss-jordan.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:03:22 GMT -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Inverse of a Matrix using Elementary Row Operations (Gauss-Jordan)</title>
+<meta name="Description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents." />
+
+
+<style>
+.boxa {
+	text-align: center;
+	display: inline-block;
+	vertical-align:top;
+	margin: 0 0 0 0;
+width: 30%;
+}
+</style> 
+
+
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=true;" />
+<meta name="HandheldFriendly" content="true"/>
+<meta http-equiv="pics-label" content='(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://www.mathsisfun.com" r (SS~~000 1))' />
+<link rel="stylesheet" type="text/css" href="../style3.css" />
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun" /></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran"><script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus"><script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort"><script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search"><script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" --> 
+			<h1 align="center">Inverse of a Matrix <br />
+			using Elementary Row Operations</h1>
+	<p class="center"><i>Also called the Gauss-Jordan method.</i></p>
+			<p>This is a fun way to find the Inverse of a Matrix:			</p>
+			<div class="center simple">
+				<div class="boxa"> Play around with the rows
+						(adding, multiplying or swapping)
+					until we make  Matrix <b>A</b>				into the Identity Matrix <b>I</b>					</div>
+				<div class="boxa"> <img src="images/matrix-gauss-jordan1.svg"  alt="matrix A | I becomes I | A inverse" />			</div>
+				<div class="boxa"> And by ALSO doing the changes to an Identity Matrix it magically turns into the Inverse!					</div>
+			</div>
+
+			
+			<p>The <b>&quot;Elementary Row Operations&quot;</b> are simple things like adding rows, multiplying and swapping  ... but let's see with an example:</p>
+			<h2>Example: find the Inverse of &quot;A&quot;:</h2>
+			<p align="center"><img src="images/matrix-gauss-jordan3.gif" width="173" height="73"  alt="matrix A" /></p>
+			<p>We start with the matrix <span class="larger">A</span>, and write it down with an Identity Matrix <span class="larger">I</span> next to it:</p>
+			<p align="center"><img src="images/matrix-gauss-jordan6.gif" width="243" height="110"  alt="matrix A augmented" /><br />
+				(This is called the &quot;Augmented Matrix&quot;)
+			</p>
+			<div class="center80">
+				<h3>Identity Matrix</h3>
+				<p>The &quot;Identity Matrix&quot; is the matrix equivalent of the number &quot;1&quot;:</p>
+				<p align="center"><img src="images/matrix-identity.gif" alt="Identity Matrix" width="186" height="95" /><br />
+					<span class="large">A 3x3 Identity Matrix</span><br />
+				</p>
+				<ul>
+					<li>It is &quot;square&quot; (has same number of rows as columns),</li>
+					<li>It has <b>1</b>s on the diagonal and <b>0</b>s everywhere else. </li>
+					<li>It's symbol is the capital letter <b>I</b>.			</li>
+				</ul>
+			</div>
+			<p>&nbsp;</p>
+			<p>Now we do our best to turn &quot;A&quot; (the Matrix on the left) into an Identity Matrix.			The goal is to make Matrix A have <b>1</b>s on the diagonal and <b>0</b>s elsewhere (an Identity Matrix)  ... and the right hand side comes along for the ride, with every operation being done on it as well.</p>
+			<p>But we can only do these <b>&quot;Elementary Row Operations&quot;</b>:</p>
+			<ul>
+				<li><b>swap</b> rows</li>
+				<li><b>multiply</b> or divide each element in a a row by a constant</li>
+				<li>replace a row by  <b>adding</b> or subtracting a multiple of another row to it</li>
+			</ul>
+			<p>And we must do it to the <b>whole row</b>, like this:			</p>
+			<p style="float:left; margin: 0 10px 5px 0;"><img src="images/matrix-gauss-jordan2.svg" alt="matrix row steps" /></p>
+			
+	<div>
+<p>&nbsp;</p>
+				<p>Start&nbsp;with&nbsp;<b>A</b>&nbsp;next&nbsp;to&nbsp;<b>I</b></p>
+				<p>&nbsp;</p>
+				<p>Add row 2 to row 1,</p>
+<p>&nbsp;</p>
+				<p>then divide row 1 by 5,</p>
+				<p>&nbsp;</p>
+				<p>Then take 2 times the first row, and subtract it from the second row,</p>
+				<p>&nbsp;</p>
+				<p>Multiply second row by -1/2,</p>
+<p>&nbsp;</p>
+				<p>Now swap the second and third row,</p>
+<p>&nbsp;</p>
+				<p>Last, subtract the third row from the second row,</p>
+				<p>And we are done!</p>
+			</div>
+			<p>&nbsp;</p>
+			<p align="left" class="larger">And matrix <b>A</b> has been made into  an Identity Matrix ...</p>
+<p align="center" class="larger">... and at the same time an Identity Matrix got made into <b>A<sup>-1</sup></b></p>
+<p align="center"><img src="images/matrix-gauss-jordan4.gif" width="189" height="72"  alt="matrix A inverse" /></p>
+<p align="center">DONE! Like magic, and just as fun as solving any puzzle.</p>
+<p align="left"><b>And note: there is no &quot;right way&quot; to do this, just keep playing around until we succeed!</b></p>
+<p align="left">(Compare this answer with the one we got on <a href="matrix-inverse-minors-cofactors-adjugate.html">Inverse of a Matrix using Minors, Cofactors and Adjugate</a>. Is it the same? Which method do you prefer?)</p>
+<h2 align="left">Larger Matrices</h2>
+<p align="left">We can do this with larger matrices, for example, try this 4x4 matrix:</p>
+<p align="center"><img src="images/matrix-gauss-jordan8.gif" width="175" height="72"  alt="matrix B" /></p>
+<p>Start Like this:</p>
+<p align="center"><img src="images/matrix-gauss-jordan9.gif" width="243" height="70"  alt="matrix B augmented" /></p>
+<p>See if you can do it yourself (I would begin by dividing the first row by 4, but you  do it your way).</p>
+<p>You can check your answer using the <a href="matrix-calculator.html">Matrix Calculator</a> (use the &quot;inv(A)&quot; button).<br />
+</p>
+<h2>Why it Works</h2>
+<p style="float:right; margin: 0 0 5px 10px;"><img src="images/matrix-gauss-jordan5.svg" alt="8|1 becomes 1|(1/8)" /></p>
+<p>I like to think of it this way: </p>
+<ul>
+	<li>when we turn &quot;8&quot; into &quot;1&quot; by dividing by 8, </li>
+	<li>and do the same thing to &quot;1&quot;, it  turns into &quot;1/8&quot;</li>
+</ul>
+<p>And &quot;1/8&quot; is the (multiplicative)<b> inverse of 8</b></p>
+<div style="clear:both"></div>
+<p>&nbsp;</p>
+<p>Or, more technically:</p>
+<p style="float:right; margin: 0 0 5px 10px;"><img src="images/matrix-gauss-jordan7.svg" alt="matrix A | I becomes I | A inverse" /></p>
+<p>The <b>total effect of all the row operations</b> is the same as <b>multiplying by <span class="larger">A<sup>-1</sup></span></b></p>
+<p>So <b><span class="larger">A</span></b> becomes <span class="larger">I</span> (because <b><span class="larger">A<sup>-1</sup></span></b><b><span class="larger">A</span></b> = <b><span class="larger">I</span></b>)<br />
+	And <span class="larger">I</span> becomes <b><span class="larger">A<sup>-1</sup></span></b> (because <b><span class="larger">A<sup>-1</sup></span></b><b><span class="larger">I</span></b> = <b><span class="larger">A<sup>-1</sup></span></b>)</p>
+<div style="clear:both"></div>
+<p>&nbsp;</p>
+<div class="questions">
+<script type="text/javascript">getQ(2613, 2614, 8494, 8495, 8496, 2615, 2616, 8497, 8498, 8499);</script>&nbsp;
+</div>
+<div class="related">
+	<a href="matrix-multiplying.html">Multiplying Matrices</a>
+	<a href="matrix-determinant.html">Determinant of a Matrix</a> 
+	<a href="matrix-calculator.html">Matrix Calculator</a>
+<a href="matrix-inverse-row-operations-gauss-jordan.html">Inverse of a Matrix 
+using Elementary Row Operations</a>
+	<a href="index.html">Algebra Index</a>    </div>
+			<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2017 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body>
+<!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/algebra/matrix-inverse-row-operations-gauss-jordan.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:03:24 GMT -->
+</html>

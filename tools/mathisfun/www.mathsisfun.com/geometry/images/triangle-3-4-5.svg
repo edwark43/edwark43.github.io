@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="272.127"
+   height="152.363"
+   version="1.1"
+   id="svg27"
+   sodipodi:docname="triangle-3-4-5.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg27" />
+  <defs
+     id="defs5">
+    <marker
+       id="id1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#005c94;stroke:#005c94;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+  </defs>
+  <text
+     x="4.03281"
+     y="72.2804"
+     style="font-style:italic;font-size:21.3px;font-family:'Trebuchet MS';overflow:visible;fill:#005c94;stroke-width:3.65"
+     id="text9">Right</text>
+  <text
+     x="82.1771"
+     y="834.95"
+     style="font-size:16.6px;font-family:'Trebuchet MS';fill:#000000"
+     id="text11" />
+  <g
+     id="g839"
+     transform="matrix(0,-1,-1,0,272.127,227.394)">
+    <path
+       style="overflow:visible;fill:#f2ffe5;fill-opacity:1;stroke:#000000;stroke-width:1.56"
+       d="M 101.333,2.33887 V 168.239 h 124.5 z"
+       id="path7" />
+    <path
+       style="overflow:visible;fill:none;fill-opacity:0.19;stroke:#005c94;stroke-width:1.5"
+       d="m 101.233,146.539 h 21.6 v 21.6"
+       id="path13" />
+  </g>
+  <text
+     x="79.6086"
+     y="72.8779"
+     style="color:#000000;font-style:italic;font-size:28px;font-family:'Trebuchet MS';overflow:visible;fill:#c4a000;stroke-width:1px"
+     id="text15">3</text>
+  <text
+     x="175.021"
+     y="152.363"
+     style="color:#000000;font-style:italic;font-size:28px;font-family:'Trebuchet MS';overflow:visible;fill:#c4a000;stroke-width:1px"
+     id="text17">4</text>
+  <text
+     x="184.75"
+     y="51.4735"
+     style="color:#000000;font-style:italic;font-size:28px;font-family:'Trebuchet MS';overflow:visible;fill:#c4a000;stroke-width:1px"
+     id="text19">5</text>
+  <path
+     style="fill:none;stroke:#005c94;stroke-width:1.09;marker-end:url(#id1)"
+     d="m 38.2446,96.7102 c 0,0 -1.8,13.4008 9.9,20.9008 11.8,7.5 28.9,3.9 45.9,2.1"
+     id="path21" />
+  <text
+     x="0.332812"
+     y="92.8802"
+     style="font-style:italic;font-size:21.3px;font-family:'Trebuchet MS';overflow:visible;fill:#005c94;stroke-width:3.65"
+     id="text23">Angle</text>
+</svg>

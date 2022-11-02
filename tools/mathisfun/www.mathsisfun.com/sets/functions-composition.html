@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en"><!-- #BeginTemplate "../Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/sets/functions-composition.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:00:35 GMT -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Composition of Functions</title>
+<meta name="Description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents." />
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=true;" />
+<meta name="HandheldFriendly" content="true"/>
+<meta http-equiv="pics-label" content='(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://www.mathsisfun.com" r (SS~~000 1))' />
+<link rel="stylesheet" type="text/css" href="../style3.css" />
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun" /></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran"><script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus"><script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort"><script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search"><script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+  
+	<h1 align="center">Composition of Functions</h1>
+	<p>&quot;Function Composition&quot; is applying one function to the results of another:</p>
+	<p align="center"><img src="images/function-composition.svg" alt="Function Composition" /></p>
+	<p align="center">The result of <span class="large">f()</span> is sent through <span class="large">g()</span></p>
+	<p align="center">It is  written: <span class="largest">(g <span style="font-size: 75%;">&ordm;</span> f)(x)</span></p>
+	<p align="center">Which means: <span class="largest">g(f(x))</span></p>
+	<p>&nbsp;</p>
+	<div class="example">
+	  <h3>Example: <b>f(x)  = 2x+3</b> and <b>g(x) = x<sup>2</sup></b></h3>
+	  <p><b>&quot;x&quot; is just a placeholder</b>. To avoid confusion let's just call it &quot;input&quot;:</p>
+	  <p align="center"><b>f(input)  = 2(input)+3</b></p>
+	  <p align="center"><b>g(input) = (input)<sup>2</sup></b></p>
+	  <p>Let's start:</p>
+	  <p align="center" class="large">(g <span style="font-size: 75%;">&ordm;</span> f)(x) = g(f(x))</p>
+	  <p>First we apply <span class="large">f</span>, then apply <span class="large">g</span> to that result:</p>
+	  <p align="center"><img src="images/function-composition-a.svg" alt="Function Composition" /></p>
+	  <p align="center" class="large">(g <span style="font-size: 75%;">&ordm;</span> f)(x) = (2x+3)<sup>2</sup></p>
+	  <p>&nbsp;</p>
+	  <p>What if we <b>reverse</b> the order of <span class="large">f</span> and <span class="large">g</span>?</p>
+	  <p align="center" class="large">(f <span style="font-size: 75%;">&ordm;</span> g)(x) = f(g(x))</p>
+	  <p>First we apply <span class="large">g</span>, then apply <span class="large">f</span> to that result:</p>
+	  <p align="center"><img src="images/function-composition-b.svg" alt="Function Composition" /></p>
+	  <p align="center" class="large">(f <span style="font-size: 75%;">&ordm;</span> g)(x) = 2x<sup>2</sup>+3</p>
+	  
+	  <p align="center">&nbsp;</p>
+	  <p><b>We get a different result!</b> </p>
+	  <p>When we reverse the order the result is rarely the same.</p>
+	  <p>So be careful which function comes first.</p>
+	</div>
+	<h2>Symbol</h2>
+	<div class="center80">
+	  <p>The symbol for composition is a small circle:</p>
+	  <p class="center largest">(g <span style="font-size: 75%;">&ordm;</span> f)(x)</p>
+	  </div>
+	<p>It is <b>not</b> a filled in dot:  <span class="large">(g &middot; f)(x)</span>, as that means <b>multiply</b>.</p>
+	<h2>Composed With Itself</h2>
+	<p>We can even compose a function with itself!</p>
+	<div class="example">
+      <h3>Example: <b>f(x)  = 2x+3</b></h3>
+	  <p>&nbsp;</p>
+	  <p align="center" class="large">(f <span style="font-size: 75%;">&ordm;</span> f)(x) = f(f(x))</p>
+	  <p>First we apply <span class="large">f</span>, then apply <span class="large">f</span> to that result:</p>
+	  <p align="center"><img src="images/function-composition-d.svg" alt="Function Composition" /></p>
+	  <p align="center" class="large">(f <span style="font-size: 75%;">&ordm;</span> f)(x) = 2(2x+3)+3 = 4x + 9</p>
+	  <p>We should be able to do it without the pretty diagram:</p>
+<div class="tbl">
+<div class="row"><span class="left"><span class="large">(f <span style="font-size: 75%;">&ordm;</span> f)(x)</span></span><span class="right">= <span class="large"> f(f(x))</span></span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right">= <span class="large"> f(2x+3)</span></span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right">= <span class="large">2(2x+3)+3</span></span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right"><span class="large">= 4x + 9</span></span></div>
+</div>
+	</div>
+
+	<h2>Domains</h2>
+    <p>It has  been easy so far, but now we must consider the <b><a href="domain-range-codomain.html">Domains</a></b> of the functions.</p>
+    <p style="float:left; margin: 0 10px 5px 0;"><img src="images/range-domain-graph.svg" alt="domain and range graph" /></p>
+    <p>The&nbsp;domain is <b>the set of all the values</b> that go into a function.</p>
+		<p>The function must work for all values we give it, so it is <b>up to us</b> to make sure we get the domain correct!</p>
+		<div style="clear:both"></div>
+    <div class="example">
+      <h3>Example: the domain for &radic;x (the square root of x) </h3>
+      <p>We can't have the square root of a negative number (unless we use imaginary numbers, but we aren't), so we must <b>exclude</b> negative numbers:</p>
+      <p align="center" class="larger">The Domain of &radic;x is all non-negative Real Numbers</p>
+      <p>On the Number Line it looks like:</p>
+      <p align="center"><img src="images/interval-0-on.gif" alt="zero onwards" width="216" height="50" /></p>
+      <p>Using <a href="set-builder-notation.html">set-builder notation</a> it is written:</p>
+      <p align="center"><span class="larger">{ x<img src="../images/symbols/member-of-sm.gif" alt="member of" width="14" height="19" style="vertical-align:middle;" /><img src="../images/symbols/set-r.svg" alt="reals" height="16" style="vertical-align:middle;" /> | x &ge; 0}</span></p>
+      <p>Or using <a href="intervals.html">interval notation</a> it is:</p>
+      <p align="center" class="larger">[0,+&infin;)</p>
+    </div>
+    <p>It is important to get the Domain right, or we will get bad results!</p>
+    <h2>Domain of Composite Function</h2>
+    <p>We must get <b>both Domains</b> right (the composed function <b>and</b> the first function used).</p>
+    <p>When doing, for example, <span class="large">(g <span style="font-size: 75%;">&ordm;</span> f)(x) = g(f(x))</span>:</p>
+    <ul>
+      <li>Make sure we get the Domain for <b>f(x)</b> right,</li>
+      <li>Then also make sure that  <b>g(x)</b> gets   the correct Domain</li>
+    </ul>
+    <div class="example">
+      <h3>Example: <b>f(x)  = &radic;x</b> and <b>g(x) = x<sup>2</sup></b></h3>
+      <p class="larger">The Domain of <b>f(x)  = &radic;x</b> is all non-negative Real Numbers</p>
+      <p class="larger">The Domain of <b>g(x) = x<sup>2</sup></b> is all the Real Numbers</p>
+      
+      <p>The composed function is:</p>
+<div class="tbl">
+<div class="row"><span class="left"><span class="large">(g <span style="font-size: 75%;">&ordm;</span> f)(x) </span></span><span class="right"><span class="large">= g(f(x)) </span></span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right"><span class="large">= (&radic;x)<sup>2</sup></span></span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right"><span class="large">= x</span></span></div>
+</div>
+<p>Now, &quot;x&quot;  normally has the Domain of all Real Numbers ...</p>
+      <p align="center">... but because it is a <b>composed function</b> we must<b> also consider f(x)</b>,</p>
+      <p class="larger">So the Domain is all non-negative Real Numbers</p>
+    </div>
+    <h2>Why Both Domains?</h2>
+    <p>Well, imagine the functions are machines ... the first one melts a hole with a flame (only for  metal), the second one drills the hole a little bigger (works on wood or metal):</p>
+    <p align="center"><img src="images/function-composition-c.svg" alt="Function Composition" /></p>
+    <table width="85%" border="0" align="center">
+      <tr>
+        <td><img src="../images/flame.jpg" alt="Fire" width="90" height="120" /></td>
+        <td><p>What we see at the end is a drilled hole, and we may think &quot;that should work for wood <b>or</b> metal&quot;. </p>
+          <p>But if we put wood into <span class="large">g <span style="font-size: 75%;">&ordm;</span> f</span> then the first function <span class="large">f</span> will make a fire and burn everything down!</p></td>
+      </tr>
+    </table>
+    <p align="center" class="larger">So what happens &quot;inside the machine&quot; is important.</p>
+    <p>&nbsp;</p>
+    <h2>De-Composing Function</h2>
+    <p>We can go the other way and <b>break up a function</b> into a composition of other functions.</p>
+  <div class="example">
+      <h3>Example: <b>  (x+1/x)<sup>2</sup></b></h3>
+      <p>That function can  be made from these two functions:</p>
+      <p align="center" class="large">f(x) = x + 1/x</p>
+      <p align="center" class="large">g(x) = x<sup>2</sup></p>
+      
+      <p>And we get:</p>
+<div class="tbl">
+<div class="row"><span class="left"><span class="large">(g <span style="font-size: 75%;">&ordm;</span> f)(x) </span></span><span class="right"><span class="large">= g(f(x))</span></span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right"><span class="large">= g(x + 1/x)</span></span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right"><span class="large">= (x + 1/x)<sup>2</sup></span></span></div>
+</div>
+    </div>
+    <p>This can be useful if the original function is too complicated to work on.</p>
+    <h2>Summary</h2>
+    <ul>
+      <div class="bigul">
+        <li>&quot;Function Composition&quot; is applying one function to the results of another.</li>
+        <li><b>(g <span style="font-size: 75%;">&ordm;</span> f)(x) = g(f(x))</b>, first apply f(), then apply g()</li>
+        <li>We must also respect the domain of the first function</li>
+        <li>Some functions can be de-composed  into two (or more) simpler functions.</li>
+      </div>
+    </ul>
+    <p>&nbsp;</p>
+    <div class="questions"> 
+
+
+<script type="text/javascript">getQ(561,562,2427, 2428, 563,564,1195,1196,2429, 2430);</script>&nbsp;
+
+
+    </div>
+    
+    <div class="related">
+    <a href="functions-operations.html">Operations with Functions</a>
+    <a href="../algebra/index.html">Algebra Index</a>    </div>
+<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2017 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body>
+<!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/sets/functions-composition.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:00:37 GMT -->
+</html>

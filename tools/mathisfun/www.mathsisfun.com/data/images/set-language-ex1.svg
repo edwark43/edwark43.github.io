@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="280.7" height="121.2" version="1.1">
+<defs>
+<marker style="overflow:visible;" orient="auto" id="id01">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;"/>
+</marker>
+</defs>
+<text x="-2018.9" y="335.5" style="font-family:Arial; font-size:15.2px; fill:black; stroke-width:0.38;"/>
+  
+<ellipse cx="113.6" cy="71.8" rx="48.9" ry="48.8" style="fill:#005c94; fill-opacity:0.35; stroke:black; stroke-width:1.35;"/>
+<ellipse cx="171.7" cy="71.8" rx="48.9" ry="48.8" style="fill:#9ade00; fill-opacity:0.35; stroke:black; stroke-width:1.35;"/>
+<text x="32" y="26" style="font-family:Georgia; text-align:center; text-anchor:middle; font-size:20px; font-style:italic; fill:#005c94; stroke:#005c94; stroke-width:0.48;">French</text>
+<text x="94.3" y="84.9" style="font-family:Arial; text-align:center; text-anchor:middle; font-size:17.4px; color:black; overflow:visible; fill:black; stroke-width:0.38px;">16-b</text>
+<text x="143.8" y="84" style="font-family:Arial; text-align:center; text-anchor:middle; font-size:17.4px; color:black; overflow:visible; fill:black; stroke-width:0.38px;">b</text>
+<text x="190" y="85" style="font-family:Arial; text-align:center; text-anchor:middle; font-size:17.4px; color:black; overflow:visible; fill:black; stroke-width:0.38px;">21-b</text>
+<text x="245.1" y="26" style="font-family:Georgia; text-align:center; text-anchor:middle; font-size:20px; font-style:italic; fill:#005c94; stroke:#005c94; stroke-width:0.48;">Spanish</text>
+<text x="122.3" y="15.4" style="font-family:Georgia; font-size:20px; font-style:italic; fill:#005c94; stroke:#005c94; stroke-width:0.48;">Both</text>
+<path d="m 67.1,31.4 24.2,21.2" style="marker-end:url(#id01); fill:none; stroke:black; stroke-width:2;"/>
+<path d="m 212.3,31.4 -24.2,21.2" style="marker-end:url(#id01); fill:none; stroke:black; stroke-width:2;"/>
+<path d="m 143.8,19.9 -0.9,32.2" style="marker-end:url(#id01); fill:none; stroke:black; stroke-width:2;"/>
+<text x="32" y="46" style="font-family:Georgia; text-align:center; text-anchor:middle; font-size:20px; font-style:italic; fill:#005c94; stroke:#005c94; stroke-width:0.48;">Only</text>
+<text x="245.1" y="46" style="font-family:Georgia; text-align:center; text-anchor:middle; font-size:20px; font-style:italic; fill:#005c94; stroke:#005c94; stroke-width:0.48;">Only</text>
+</svg>

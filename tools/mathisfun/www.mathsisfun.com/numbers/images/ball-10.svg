@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="21.9046"
+   height="219.191"
+   version="1.1"
+   id="svg52"
+   sodipodi:docname="ball-10.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview54"
+     showgrid="false"
+     inkscape:current-layer="svg52"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs22">
+    <marker
+       id="id8"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="id7"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <radialGradient
+       id="id3"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.424455,0,0,0.26188,-142.465,-87.0961)"
+       xlink:href="#id1"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="id1">
+      <stop
+         offset="0"
+         style="stop-color:white;stop-opacity:1"
+         id="stop9" />
+      <stop
+         offset="1"
+         style="stop-color:white;stop-opacity:0"
+         id="stop11" />
+    </linearGradient>
+    <radialGradient
+       id="id4"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.096273,0,0,0.076966,-147.636,-46.5263)"
+       xlink:href="#id2"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="id2">
+      <stop
+         offset="0"
+         style="stop-color:white;stop-opacity:1"
+         id="stop15" />
+      <stop
+         offset="1"
+         style="stop-color:#cecece;stop-opacity:0"
+         id="stop17" />
+    </linearGradient>
+    <radialGradient
+       id="id5"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.176111,0,0,0.115082,-63.122,-21.7756)"
+       xlink:href="#id1"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="id6"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.068558,0,0,0.05481,-9.99109,4.06642)"
+       xlink:href="#id2"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#id1"
+       id="radialGradient1128"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.424455,0,0,0.26188,-238.436,-223.408)"
+       cx="331.2"
+       cy="530"
+       fx="331.18"
+       fy="530"
+       r="178.23" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2734">
+      <ellipse
+         cx="-107.684"
+         cy="47.2229"
+         style="color:#000000;overflow:visible;fill:#000000;stroke-width:0.494676;stroke-linejoin:round"
+         id="circle2736"
+         rx="47.5233"
+         ry="52.4184"
+         transform="matrix(0.633253,0.773945,-0.762473,0.64702,0,0)" />
+    </clipPath>
+  </defs>
+  <g
+     id="g2948"
+     transform="matrix(0.88,0,0,0.88,0,4.19823e-6)">
+    <circle
+       cx="12.4458"
+       cy="12.53"
+       r="12.4458"
+       style="color:#000000;overflow:visible;fill:#0084c8;stroke-width:0.123353;stroke-linejoin:round"
+       id="circle24" />
+    <ellipse
+       cx="-97.8876"
+       cy="-84.5992"
+       rx="75.6429"
+       ry="46.6639"
+       transform="matrix(0.169474,-0.183789,0.199715,0.150379,40.647,1.23359)"
+       style="color:#000000;overflow:visible;fill:url(#radialGradient1128);stroke-width:0.822892;stroke-linejoin:round"
+       id="ellipse1126"
+       clip-path="url(#clipPath2734)" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g2948"
+     id="use2950"
+     transform="translate(0,21.9125)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g2948"
+     id="use2952"
+     transform="translate(0,43.825)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g2948"
+     id="use2954"
+     transform="translate(0,65.7375)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g2948"
+     id="use2956"
+     transform="translate(0,87.6502)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g2948"
+     id="use2958"
+     transform="translate(0,109.563)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g2948"
+     id="use2960"
+     transform="translate(0,131.475)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g2948"
+     id="use2962"
+     transform="translate(0,153.388)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g2948"
+     id="use2964"
+     transform="translate(0,175.3)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g2948"
+     id="use2966"
+     transform="translate(0,197.212)"
+     width="100%"
+     height="100%" />
+</svg>

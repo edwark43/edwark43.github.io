@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" width="158.8" height="161.6" version="1.1" style="font-size:24px; fill:#0084c8; stroke-width:1pt;">
+<defs>
+	<marker id="aa9" style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.8,0,0,0.8,10,0)" style="stroke:#0084c8;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa10" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#0084c8;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa7" style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.8,0,0,0.8,10,0)" style="stroke:#0084c8;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa8" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#0084c8;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa5" style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.8,0,0,0.8,10,0)" style="stroke:#0084c8;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa6" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#0084c8;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa3" style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.8,0,0,0.8,10,0)" style="stroke:#0084c8;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa4" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#0084c8;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.8,0,0,0.8,10,0)" style="stroke:#0084c8;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa2" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#0084c8;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g transform="translate(423.471,-324.737)">
+	<path transform="matrix(0.336043,0,0,0.336035,-164.559,304.863)" style="fill:none; stroke:#f57900; stroke-width:5.95;" d="M -364.4,412.8 -581.1,509.2 -739.8,333 -621.2,127.6 -389.2,176.9 Z" sodipodi:type="star" sodipodi:cx="-539.104" sodipodi:cy="311.879"/>
+	<path style="marker-start:url(#aa1); marker-end:url(#aa2); fill:none; stroke:#0084c8; stroke-width:0.6px;" d="m -284.1,361.9 7.9,78.3"/>
+	<path style="marker-start:url(#aa3); marker-end:url(#aa4); fill:none; stroke:#0084c8; stroke-width:0.6px;" d="m -369.5,336.7 78,16.9"/>
+	<path style="marker-start:url(#aa5); marker-end:url(#aa6); fill:none; stroke:#0084c8; stroke-width:0.6px;" d="m -383.3,344.4 -39.6,68.2"/>
+	<path style="marker-start:url(#aa7); marker-end:url(#aa8); fill:none; stroke:#0084c8; stroke-width:0.6px;" d="m -422,425.9 52.7,59.1"/>
+	<path style="marker-start:url(#aa9); marker-end:url(#aa10); fill:none; stroke:#0084c8; stroke-width:0.6px;" d="m -282.8,454.1 -72,31.8"/>
+	<text x="-334.3" y="342" transform="scale(1.00001,0.999989)" style="font-family:Arial; stroke-width:0.6px;">3</text>
+	<text x="-277" y="405.1" transform="scale(1.00001,0.999989)" style="font-family:Arial; stroke-width:0.6px;">3</text>
+	<text x="-317.2" y="485.5" transform="scale(1.00001,0.999989)" style="font-family:Arial; stroke-width:0.6px;">3</text>
+	<text x="-411" y="471" transform="scale(1.00001,0.999989)" style="font-family:Arial; stroke-width:0.6px;">3</text>
+	<text x="-417.5" y="374.2" transform="scale(1.00001,0.999989)" style="font-family:Arial; stroke-width:0.6px;">3</text>
+</g>
+</svg>

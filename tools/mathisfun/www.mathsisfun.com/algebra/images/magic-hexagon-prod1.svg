@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="278.7"
+   height="134.6"
+   version="1.1"
+   style="font-family:Georgia;font-size:20px;stroke-width:1pt"
+   id="svg79"
+   sodipodi:docname="magic-hexagon-prod1.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview81"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg79" />
+  <defs
+     id="defs45">
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker4">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="stroke:black"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker8">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="stroke:black"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker12">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:black"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path10" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker16">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:black"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path14" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker20">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff4141;stroke:#ff4141"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path18" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker24">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ff4141;stroke:#ff4141"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path22" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker28">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker32">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path30" />
+    </marker>
+    <marker
+       id="id1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path34" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker39">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path37" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker43">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path41" />
+    </marker>
+  </defs>
+  <rect
+     x="0.274994"
+     y="7.61301"
+     ry="19.7"
+     width="135.1"
+     height="39.4"
+     style="fill:#dcf5ff;fill-opacity:0.988372;stroke:#19aeff;stroke-width:0.63"
+     id="rect47" />
+  <path
+     style="fill:#fefad7;stroke:#a40000;stroke-width:0.47"
+     d="m 219.675,119.813 h -57.7 l -28.9,-50 28.9,-50 h 57.7 l 28.9,50 z"
+     id="path49" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.32px"
+     d="m 161.875,19.913 57.5,99.5"
+     id="path51" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.32px"
+     d="m 133.175,69.813 h 115.1"
+     id="path53" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.32px"
+     d="m 219.375,19.913 -57.3,99.9"
+     id="path55" />
+  <text
+     x="147.375"
+     y="14.813"
+     style="font-style:italic;fill:#ba00ff;stroke-width:0.32px"
+     id="text57">sin</text>
+  <text
+     x="100.775"
+     y="73.413"
+     style="font-style:italic;fill:#ba00ff;stroke-width:0.32px"
+     id="text59">tan</text>
+  <text
+     x="209.975"
+     y="15.213"
+     style="font-style:italic;fill:#ba00ff;stroke-width:0.32px"
+     id="text61">cos</text>
+  <text
+     x="148.775"
+     y="133.813"
+     style="font-style:italic;fill:#ba00ff;stroke-width:0.32px"
+     id="text63">sec</text>
+  <text
+     x="251.375"
+     y="74.713"
+     style="font-style:italic;fill:#ba00ff;stroke-width:0.32px"
+     id="text65">cot</text>
+  <text
+     x="206.975"
+     y="134.313"
+     style="font-style:italic;fill:#ba00ff;stroke-width:0.32px"
+     id="text67">csc</text>
+  <text
+     x="176.364"
+     y="82.7363"
+     transform="scale(1.00188,0.998123)"
+     style="font-size:42.7px;font-family:Arial;fill:#000000;stroke:#ffffff;stroke-width:0.32px"
+     id="text69">1</text>
+  <text
+     x="5.67499"
+     y="30.513"
+     style="font-style:italic;font-size:13.3px;fill:#ba00ff;stroke-width:0.5px"
+     id="text71">tan(x)cos(x) = sin(x)</text>
+  <path
+     style="fill:none;stroke:#005c94;stroke-width:2.33;marker-end:url(#id1)"
+     d="m 219.375,19.913 -50.6,-0.3"
+     id="path73" />
+  <path
+     style="fill:none;stroke:#005c94;stroke-width:2.33;marker-end:url(#id1)"
+     d="m 133.175,69.813 25.2,-43.9"
+     id="path75" />
+</svg>

@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en"><!-- #BeginTemplate "../Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/algebra/polynomials-bounds-zeros.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:03:05 GMT -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Polynomials: Bounds on Zeros</title>
+<meta name="Description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents." />
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=true;" />
+<meta name="HandheldFriendly" content="true"/>
+<meta http-equiv="pics-label" content='(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://www.mathsisfun.com" r (SS~~000 1))' />
+<link rel="stylesheet" type="text/css" href="../style3.css" />
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun" /></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran"><script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus"><script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort"><script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search"><script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+  
+	<h1 align="center">Polynomials: Bounds on Zeros</h1>
+	<p align="center"><i>A clever way to know where to search for  roots.</i></p>
+	<p>A <a href="polynomials.html">Polynomial</a> looks like this: </p>
+	<table border="0" align="center" cellpadding="5">
+      <tr align="center">
+        <td><img src="images/polynomial-1var-example.svg" alt="polynomial example"  /></td>
+      </tr>
+      <tr align="center">
+        <td>example of a polynomial<br />
+          this one has 3 terms</td>
+      </tr>
+  </table>
+	<p>A polynomial has <b>coefficients</b>:</p>
+	<p align="center"><img src="images/polynomial-coefficients.svg" alt="polynomial coefficients" /><br>
+
+	The terms are in order from highest to lowest exponent</p>
+	<p>(Technically the 7 is a constant, but here it is easier to think of them all as coefficients.)</p>
+	<p>A polynomial also has <b>roots</b>:</p>
+	<p align="center"><img src="images/roots.svg" alt="polynomial coefficients" /></p>
+	<div class="center80">
+	  <p align="center">A &quot;root&quot; (or &quot;zero&quot;) is  where the <b>polynomial is equal to zero</b>.</p>
+	  <p align="center">Example: <b>3x &minus; 6 </b>equals<b> zero </b> when <b>x=2</b>, because 3(2)&minus;6 = 6&minus;6 = 0</p>
+  </div>
+	<h2>Where are the Roots (Zeros)?</h2>
+	<p>It can sometimes be hard to find where the roots are! </p>
+	<p align="center" class="larger">... where should we search ... how far left or right should we go?</p>
+	<p>Here we will see a clever way to know where to search for all Real roots.</p>
+	<p>And it just uses simple arithmetic!</p>
+	<h2>Steps</h2>
+	<p>First we prepare our data:</p>
+	<ul>
+	  <div class="bigul">
+	    <li>The leading coefficient must be 1. If it is not, then divide every term of the polynomial by the leading coefficient</li>
+	    <li>Write down all the coefficients</li>
+	    <li>Then throw away the leading coefficient!</li>
+	    <li>Remove minus signs</li>
+	    <li>And we now have a  list of values for the next step</li>
+	  </div>
+	</ul>
+	<p>&nbsp;</p>
+	<p>Now we can calculate two different &quot;bounds&quot; using those values:</p>
+	<ul>
+	  <div class="bigul">
+	    <li>Bound 1: The <b>largest value</b>, <b>plus 1</b></li>
+	    <li>Bound 2: The   <b>sum of all values</b>, or  <b>1</b>, whichever is larger</li>
+    </div>
+	</ul>
+	<p>The <b>smallest</b> of those 2 bounds is our answer ...</p>
+	<p align="center" class="larger">... all roots are within plus or minus of that!</p>
+	<p>&nbsp;</p>
+	<h2>Examples</h2>
+	<div class="example">
+	  <h3>Example: x<sup>3</sup> + 2x<sup>2</sup> &minus; 5x + 1</h3>
+	  <p>The leading coefficient is 1, so we can continue.</p>
+	  <p>The coefficients are: 1, 2, &minus;5, 1</p>
+	  <p>	    Drop the leading coefficient, and remove any minus signs: <b>2, 5, 1</b></p>
+	  <ul>
+	    <li>Bound 1: the largest value is 5. Plus 1 = <b>6</b><br />
+      </li>
+	    <li>Bound 2: adding all values is: 2+5+1 = <b>8</b></li>
+    </ul>
+	  <p>The smallest bound is <b>6</b></p>
+	  <p align="center" class="larger">All Real roots are between <b>&minus;6</b> and <b>+6</b></p>
+	  <p>So we can graph between &minus;6 and 6 and find any Real roots. It is best to plot a little wider so we could see if a curve has roots <b>right at</b> &minus;6 or 6:</p>
+	  <p align="center"><img src="images/polynomial-bounds1.gif" alt="polynomial bounds" width="242" height="158" /></p>
+	  <p>Now we can just <a href="../data/function-grapher3729.html?func1=x^3+2x^2-5x+1&amp;xmin=-10&amp;xmax=10&amp;ymin=-6.17&amp;ymax=7.17">zoom in to the graph</a> to get more accurate values for the roots</p>
+	</div>
+	<p>&nbsp;</p>
+	<div class="example">
+	  <h3>Example: 10x<sup>5</sup> + 2x<sup>3</sup> &minus; x<sup>2</sup> &minus; 3</h3>
+	  <p>the leading coefficient is 10, so we must divide all terms by 10:</p>
+	  <p align="center" class="larger">x<sup>5</sup> + 0.2x<sup>3</sup> &minus; 0.1x<sup>2</sup> &minus; 0.3</p>
+	  <p>The coefficients are: 1, 0.2, &minus;0.1, &minus;0.3<br />
+    Drop the leading coefficient, and remove any minus signs: <b>0.2, 0.1, 0.3</b></p>
+	  <ul>
+	    <li>Bound 1: the largest value is 0.3. Plus 1 = <b>1.3</b></li>
+	    <li>	      Bound 2: adding all values is: 0.2+0.1+0.3 = <b>0.6</b>, which is less than 1, so the answer is <b>1</b></li>
+    </ul>
+	  <p>The smallest  is <b>1</b>.</p>
+	  <p align="center" class="larger">All Real roots are between <b>&minus;1</b> and <b>+1</b></p>
+	  <p>I will leave the <a href="../data/function-grapher.html">graphing</a> to you.</p>
+  </div>
+	<h2>Notes</h2>
+	
+      <p>&quot;Bound 1&quot; and &quot;Bound 2&quot; are not the only ways to find the bounds of the roots, but they are easy to use!</p>
+      <p>Also Note: Graphing polynomials can only find <a href="../numbers/real-numbers.html">Real</a> roots,  but there can also be <a href="../numbers/complex-numbers.html">Complex</a> roots.</p>
+      <p>&nbsp;</p>
+      <div class="questions"> 
+
+<script type="text/javascript">getQ(491, 492, 1132, 1133, 2417, 2418, 2419, 4027, 4028, 4029);</script>&nbsp;
+
+</div>
+      
+	<div class="related"><a href="index.html">Algebra Index</a></div>
+	<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2017 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body>
+<!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/algebra/polynomials-bounds-zeros.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:03:06 GMT -->
+</html>

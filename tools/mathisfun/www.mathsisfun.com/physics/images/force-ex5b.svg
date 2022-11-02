@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="234.8" height="134.9" version="1.1">
+<defs>
+<marker id="id5" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:black; stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id4" style="overflow:visible;" orient="auto">
+<path transform="matrix(0.8,0,0,0.8,10,0)" style="fill:black; stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id3" style="overflow:visible;" orient="auto">
+<path transform="matrix(1.1,0,0,1.1,1.1,0)" style="fill:black; stroke:black; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 C 7,-1.6 7,1.6 8.7,4 Z"/>
+</marker>
+<marker id="id2" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:black; stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:black; stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<g transform="translate(-1469.62,-1254)">
+<path style="marker-end:url(#id1); fill:black; stroke:black; stroke-width:2.25;" d="m 1694,1254 v 55.1"/>
+<text x="1623.1" y="1281.2" transform="scale(1.0001,0.999902)" style="font-family:'Comic Sans MS'; font-size:18.8px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:0.3px;">Weight</text>
+<rect x="1524.7" y="1314.4" width="179.1" height="13" style="color:black; overflow:visible; fill:none; stroke:black; stroke-width:1.2;"/>
+<path style="marker-end:url(#id2); fill:black; stroke:black; stroke-width:2.25;" d="m 1536.3,1388.9 v -55.1"/>
+<text x="1541.1" y="1371.5" transform="scale(1.0001,0.999901)" style="font-family:'Comic Sans MS'; font-size:18.8px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:0.3px;">R</text>
+<path style="color:black; marker-start:url(#id3); overflow:visible; fill:none; stroke:black; stroke-width:1.2;" d="m 1525.2,1356.2 a 36.6,36.6 0 0 1 -31.7,-18.3 36.6,36.6 0 0 1 0,-36.6 36.6,36.6 0 0 1 31.7,-18.3"/>
+<text x="1468.4" y="1325" transform="scale(1.0001,0.999902)" style="font-family:'Comic Sans MS'; font-size:18.8px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:0.3px;">M</text>
+<path style="marker-start:url(#id4); marker-end:url(#id5); fill:none; stroke:black; stroke-width:0.63;" d="m 1536.2,1305.7 h 154.7"/>
+<path style="color:black; overflow:visible; fill:none; stroke:black; stroke-width:0.63;"/>
+<rect x="1589" y="1294.3" width="49.2" height="17.4" style="color:black; overflow:visible; fill:white; stroke-width:0.63;"/>
+<text x="1593.2" y="1310" style="font-family:'Comic Sans MS'; font-size:16.3px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:0.3px;">3.2 m</text>
+</g>
+</svg>

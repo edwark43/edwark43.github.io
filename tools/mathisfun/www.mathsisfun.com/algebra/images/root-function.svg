@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="290.2" height="200.8" version="1.1" style="font-family:'Comic Sans MS'; font-size:13.3px; stroke-width:1.63;">
+<defs>
+	<marker id="aa3" style="overflow:visible;" orient="auto">
+		<path transform="scale(0.4) rotate(180) translate(10,0)" style="fill:#ff4141; stroke:#ff4141; stroke-width:1pt;" d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "/>
+	</marker>
+	<marker id="aa2" style="overflow:visible;" orient="auto">
+		<path transform="scale(0.4) rotate(180) translate(10,0)" style="fill:#4e9a06; stroke:#4e9a06; stroke-width:1pt;" d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "/>
+	</marker>
+	<marker id="aa1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.8,0,0,0.8,10,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g transform="matrix(0.613251,0,0,0.613251,-118.986,-888.511)">
+	<g>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 292.2,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 262.5,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 232.7,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 202.9,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 441.2,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 381.6,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 351.8,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 322,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 411.4,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 500.8,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 471,1766.1 V 1468.2"/>
+	</g>
+	<g transform="rotate(-90,351.82,1617.17)">
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 292.2,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 262.5,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 232.7,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 202.9,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 441.2,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 381.6,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 351.8,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 322,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 411.4,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 500.8,1766.1 V 1468.2"/>
+		<path style="fill:none; fill-opacity:0.75; stroke:#d8dadc; stroke-dasharray:13, 1.6;" d="M 471,1766.1 V 1468.2"/>
+	</g>
+</g>
+<rect x="153.9" y="7.2" ry="9" width="83.1" height="25.7" style="fill:#f7ffe0; stroke-width:0.64;"/>
+<path style="marker-start:url(#aa1); fill:none; fill-opacity:0.75; stroke:black; stroke-width:0.64px;" d="m 66.8,97.8 c 7.6,-5.7 27.7,-22.1 57,-28 31.4,-6.4 97.2,-1.9 97.2,-1.9"/>
+<path style="marker-start:url(#aa1); fill:none; fill-opacity:0.75; stroke:black; stroke-width:0.64px;" d="m 144.2,96.9 c 6.5,-4.6 14,-11.1 33.6,-17 23.1,-6.9 43.5,-4.8 43.5,-4.8"/>
+<text x="160.4" y="25.3" style="font-family:'Comic Sans MS'; font-size:16px; fill:#2f2fff; stroke-width:0.64px;">y = x  - 4</text>
+<text x="196.9" y="18.7" style="font-family:'Comic Sans MS'; font-size:10.3px; fill:#2f2fff; stroke-width:0.5px;">2</text>
+<text x="228.5" y="75.6" style="font-family:'Comic Sans MS'; font-size:22.3px; fill:black; stroke-width:0.49px;">Roots</text>
+<text x="224.6" y="90.5" style="font-size:13.6px; fill:black; stroke-width:0.99px;">(or Zeros)</text>
+<path style="marker-end:url(#aa2); fill:none; fill-opacity:0.75; stroke:#4e9a06; stroke-width:1.2;" d="m -0.2,103.4 h 189.5"/>
+<path style="marker-end:url(#aa3); fill:none; fill-opacity:0.75; stroke:#ff4141; stroke-width:1.2;" d="M 96.6,200.8 V 11.9"/>
+<text x="83.4" y="26.8" style="font-family:'Times New Roman'; font-weight:bold; font-size:19.8px; font-style:italic; fill:#ff4141; stroke-width:0.54px;">y</text>
+<text x="175.1" y="117.7" style="font-family:'Times New Roman'; font-weight:bold; font-size:19.8px; font-style:italic; fill:#4e9a06; stroke-width:0.54px;">x</text>
+<path style="fill:none; stroke:#0000ff; stroke-width:1.43;" d="m 40.3,0.1 c 62.2,396.4 112.4,0 112.4,0"/>
+<circle cx="60.6" cy="103.4" r="4.74209" style="fill:#ebff06; fill-opacity:0.19; stroke:#00188f; stroke-width:1;"/>
+<circle cx="133.7" cy="103.7" r="4.74209" style="fill:#ebff06; fill-opacity:0.19; stroke:#00188f; stroke-width:1;"/>
+<rect x="38.1" y="108.6" ry="6.8" width="23.2" height="19.4" style="fill:#f7ffe0; stroke-width:0.64;"/>
+<rect x="134.6" y="106.9" ry="7.5" width="18.3" height="21.5" style="fill:#f7ffe0; stroke-width:0.64;"/>
+<text x="136.9" y="124.3" style="font-size:21.3px; fill:black; stroke-width:0.64px;">2</text>
+<text x="39.5" y="124.9" style="font-size:21.3px; fill:black; stroke-width:0.64px;">-2</text>
+</svg>

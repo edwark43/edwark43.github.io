@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="103.3" height="45.9" version="1.1">
+<defs/>
+<g transform="translate(595.90957,-531.5149)">
+<text x="-566.4" y="577" style="font-family:'Comic Sans MS'; font-size:19.9px; color:black; overflow:visible; fill:#c4a000; stroke-width:1px;">x - 2</text>
+<text x="-587.9" y="552.4" style="font-family:'Comic Sans MS'; font-size:19.9px; color:black; overflow:visible; fill:#729fcf; stroke-width:1px;">x &#160;+ 2x - 7</text>
+<text x="-574.8" y="542.2" style="font-family:'Comic Sans MS'; font-size:14.2px; color:black; overflow:visible; fill:#729fcf; stroke-width:1px;">2</text>
+<path style="font-family:'Comic Sans MS'; font-size:36.2px; color:black; overflow:visible; fill:none; stroke:black; stroke-width:1.38; stroke-linecap:round;" d="m -595.2,558.3 100.6,0"/>
+</g>
+</svg>

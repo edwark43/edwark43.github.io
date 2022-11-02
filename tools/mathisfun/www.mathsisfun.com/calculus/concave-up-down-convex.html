@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/calculus/concave-up-down-convex.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:38:47 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+<!-- #BeginEditable "doctitle" -->
+<title>Concave Upward and Downward</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents.">
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js"></script>
+<script>document.write(gTagHTML())</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+<h1 class="center">Concave Upward and Downward</h1>
+
+<table style="border: 0; margin:auto;">
+				<tbody>
+<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td><b>Concave upward</b> is when the slope increases:</td>
+					<td>&nbsp;</td>
+					<td><img src="images/concave-upward.svg" alt="concave upward slope increases"></td>
+				</tr>
+				<tr>
+					<td><b>Concave downward</b> is when the slope decreases:</td>
+					<td>&nbsp;</td>
+					<td><img src="images/concave-downward.svg" alt="concave downward slope decreases"></td>
+				</tr>
+		</tbody></table>
+			<p><i>What about when  the slope  stays the same (straight line)? It could be both! See <a href="#slope">footnote</a>.</i></p>
+			<p>Here are some more examples:</p>
+			<p class="center"><img src="images/concave-examples.svg" alt="concave upward and downward examples"></p>
+			<div class="words">
+				<p><b>Concave Upward</b> is also called  <b>Convex</b>, or sometimes <b>Convex Downward</b></p>
+        <p><b>Concave Downward</b> is also called  <b>Concave</b>, or sometimes <b>Convex Upward</b></p>
+		</div>
+
+<h2>Finding where ...</h2>
+<p>Usually our task is  to find <b>where</b> a curve is concave upward or concave downward:</p>
+<p class="center"><br>
+<img src="images/concave-sections.svg" alt="concave sections"></p>
+<h2>Definition</h2>
+
+<p>A line drawn between <b>any</b> two points on the curve won't cross over the curve:</p>
+<p class="center"><img src="images/concave-upward-yes-no.svg" alt="concave upward yes and no examples"></p>
+
+<p>Let's make a formula for that!</p>
+<p>First, the line: take any two different values <b>a</b> and<b> b</b>  (in the interval we are looking at):</p>
+<p class="center"><img src="images/concave-upward-ab.svg" alt="concave upward between a and b"></p>
+<p>Then "slide" between <b>a</b> and <b>b</b> using a value <b>t</b> (which is from 0 to 1):</p>
+<p class="center larger">x = ta + (1−t)b</p>
+<ul>
+	<li>When <b>t=0</b> we get <b>x = 0a+1b = b</b></li>
+	<li>When <b>t=1</b> we get <b>x = 1a+0b = a</b></li>
+	<li>When t is between 0 and 1 we get values between <b>a</b> and <b>b</b></li>
+</ul>
+<p>Now work out the heights at that x-value:</p>
+<table style="border: 0; margin:auto;">
+	<tbody>
+<tr>
+		<td><img src="images/concave-line-t.svg" alt="concave line t"></td>
+		<td>&nbsp;</td>
+		<td>
+<p>When <b>x = ta + (1−t)b</b>:</p>
+			<ul>
+				<li>The curve is at <b>y = f( ta + (1−t)b )</b></li>
+				<li>The line is at <b>y = tf(a) + (1−t)f(b)</b></li>
+			</ul></td>
+	</tr>
+</tbody></table>
+<p>And (for <b>concave upward</b>) the line should not be below the curve:</p>
+<p class="center"><img src="images/concave-upward-formula.svg" alt="concave upwnward f( ta + (1-t)b ) &lt;= tf(a) + (1-t)f(b)"></p>
+<p>For <b>concave downward</b> the line should not be above the curve (<b>≤</b> becomes <b>≥</b>):</p>
+<p class="center"><img src="images/concave-downward-formula.svg" alt="concave downward f( ta + (1-t)b ) &gt;= tf(a) + (1-t)f(b)"></p>
+<p>And those are the actual definitions of <b>concave upward</b> and <b>concave downward</b>.</p>
+<h2>Remembering</h2>
+<p>Which way is which? Think:</p>
+<p class="center"><img src="images/concave-up-cup.svg" alt="concave up: cup"><br>
+<b>C</b>oncave <b>Up</b>wards = <b>CUP</b></p>
+<h2>Calculus</h2>
+<p><a href="derivatives-introduction.html">Derivatives</a> can help! The derivative of a function gives the slope.</p>
+<ul>
+	<li>When the slope continually <b>increases</b>, the function is <b>concave upward</b>.</li>
+	<li>When the slope continually <b>decreases</b>, the function is <b>concave downward</b>.</li>
+</ul>
+			
+			<p>Taking the <a href="second-derivative.html">second derivative</a> actually tells us if the slope continually increases or decreases.</p>
+			<ul>
+				<li>When the second derivative is <b>positive</b>, the function is <b>concave upward</b>.</li>
+				<li>When the second derivative is<b> negative</b>, the function is <b>concave downward</b>.</li>
+		</ul>
+			<div class="example">
+				<h3>Example: the function x<sup>2</sup></h3>
+				
+<p style="float:right; margin: 0 0 5px 10px;"><img src="images/x2-concave-upward.svg" alt="x^2 concave upward"></p>
+				<p>Its derivative is 2x (see  <a href="derivatives-rules.html">Derivative Rules</a>)</p>
+				<div class="so">2x continually increases, so the function is <b>concave upward</b>. </div>
+				<p>Its second derivative is 2</p>
+				<div class="so">2  is <b>positive</b>, so the function is <b>concave upward</b>.</div>
+			<p>Both give the correct answer.</p></div>
+			<p>&nbsp;</p>
+			<div class="example">
+
+				<h3>Example: f(x) = 5x<sup>3</sup> + 2x<sup>2</sup> − 3x</h3>
+<p style="float:right; margin: 0 0 5px 10px;"><img src="images/5x3-2x2-3x-concave.svg" alt="5x^3 + 2x^2 - 3x inflection point"></p>	
+			<p>Let's work out the  second derivative:</p>
+				<ul>
+					<li>The derivative is <b>f'(x) =  15x<sup>2</sup> + 4x − 3</b> (using  <a href="derivatives-rules.html">Power Rule</a>)</li>
+					<li>The second derivative is <b>f''(x) = 30x + 4</b>				 (using  <a href="derivatives-rules.html">Power Rule</a>)</li>
+				</ul>
+				<p>&nbsp;</p>
+				<p>And <b>30x + 4</b> is negative up to x = −4/30 = −2/15, and positive from there onwards. So:</p>
+<div class="so"> f(x) is <b>concave downward</b> up to x = −2/15</div>
+				<div class="so">f(x) is <b>concave upward</b> from x = −2/15 on</div>
+				<p>&nbsp;</p>
+				<p>Note: The point where it changes is called an <a href="inflection-points.html">inflection point</a>.</p>
+			</div>
+			<p>&nbsp;</p>
+			<div class="center80">
+				<h3><a name="slope"></a>Footnote: Slope Stays the Same</h3>
+				<p>What about when  the slope  stays the same (straight line)?</p>
+				<p>A straight line is acceptable for <b>concave upward</b> or <b>concave downward</b>.</p>
+				<p>But when we use the special terms&nbsp;<b>strictly concave upward</b> or <b>strictly concave downward</b> then a straight line is <b>not</b> OK.</p>
+				<div class="example">
+					<p style="float:right; margin: 0 0 5px 10px;"><img src="images/2x-1.svg" alt="2x+1"></p>
+					<h3>Example: y = 2x + 1</h3>
+					<p><b>2x + 1</b> is a straight line.</p>
+					<p>&nbsp;</p>
+					<p>It is <b>concave upward</b>.<br>
+It is also <b>concave downward</b>.</p>
+					<p>It is not <b>strictly concave upward</b>.<br>
+And it is not <b>strictly concave downward</b>.</p>
+				</div>
+				
+			</div>
+				<p>&nbsp;</p>
+
+<div class="related">				
+  <a href="index.html">Calculus Index</a>			
+</div>
+			<!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2020 MathsIsFun.com</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/calculus/concave-up-down-convex.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:38:49 GMT -->
+</html>

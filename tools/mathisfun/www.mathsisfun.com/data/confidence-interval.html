@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/data/confidence-interval.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:31:48 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Confidence Intervals</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.">
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">Confidence Intervals</h1>
+
+<p class="center"><img src="images/ci4pm2.svg" alt="confidence interval 4 plus or minus 2" height="109" width="292"><br>
+An interval of <b>4 plus or minus 2</b></p>
+      <p>A Confidence Interval is a <b>range of values</b>  we are fairly sure our <b>true value</b> lies in.</p>
+      <div class="example">
+        <p style="float:right; margin: 0 0 5px 10px;"><img src="images/men.jpg" alt="men running" height="155" width="240"></p>
+
+<h3>Example: Average Height</h3>
+        <p>We measure the heights of <b>40</b> randomly chosen men, and get a <a href="../mean.html">mean</a> height of <b>175cm</b>,</p>
+        <p>We also know the  <a href="standard-deviation.html">standard deviation</a> of men's heights is <b>20cm</b>.</p>
+        <p>The <b>95% Confidence Interval</b> (we  show how to calculate it later) is:</p>
+        <p class="center"><img src="images/ci175pm.svg" alt="confidence interval 175 plus minus 6.2" height="93" width="206"></p>
+        <p>The "<b>±</b>" means "plus or minus", so <b>175cm ± 6.2cm</b> means</p>
+<ul>
+<li>175cm − 6.2cm = 168.8cm <b>to&nbsp;</b></li>
+<li>175cm + 6.2cm = 181.2cm</li></ul>
+<p>And our result says the <b>true mean</b>  of ALL men (if we could measure all their heights) is likely to be between 168.8cm and 181.2cm</p>
+        <p><i>But it might not be!</i></p>
+        <p>The "95%" says that 95% of  experiments like we just did will include the true mean, but <b>5% won't</b>.</p>
+        <p>So there is a 1-in-20 chance (5%) that our Confidence Interval does NOT include the true mean.</p>
+      </div>
+
+
+<h2>Calculating the Confidence Interval</h2>
+
+<p><b>Step 1</b>: start with</p>
+      <ul>
+        <li>the number of observations <b>n</b></li>
+        <li>the mean <b><span style="border-top: 1px solid black;">X</span></b></li>
+        <li>and the <a href="standard-deviation.html">standard deviation</a> <b>s</b></li>
+      </ul>
+      <div class="center80">
+        <p>Note: we should  use  the  standard deviation of the entire <b>population</b>, but in many cases we won't know it.</p>
+        <p>We can  use  the standard deviation for the <b>sample</b> if we have enough observations (at least n=30, hopefully more).</p>
+      </div>
+      <p>Using our  example:</p>
+      <ul>
+        <li>number of observations <b>n = 40</b></li>
+        <li>mean <b><span style="border-top: 1px solid black;">X</span> = 175</b></li>
+        <li>standard deviation <b>s = 20</b></li>
+    </ul>
+      <p><b>Step 2</b>: decide what Confidence Interval we want:  95% or 99% are common choices. Then find the "Z" value for that Confidence Interval here:</p>
+      <div class="simple">
+        <table style="border: 0; margin:auto;">
+          <tbody>
+<tr>
+            <td style="text-align:center;"><b>Confidence<br>
+Interval</b></td>
+            <td style="text-align:center;"><b>Z</b></td>
+          </tr>
+          <tr>
+            <td style="text-align:center; width:100px;">80%</td>
+            <td style="text-align:center; width:100px;">1.282</td>
+          </tr>
+          <tr>
+            <td style="text-align:center; width:100px;">85%</td>
+            <td style="text-align:center;">1.440</td>
+          </tr>
+          <tr>
+            <td style="text-align:center; width:100px;">90%</td>
+            <td style="text-align:center;">1.645</td>
+          </tr>
+          <tr>
+            <td style="text-align:center; width:100px;">95%</td>
+            <td style="text-align:center;">1.960</td>
+          </tr>
+          <tr>
+            <td style="text-align:center; width:100px;">99%</td>
+            <td style="text-align:center;">2.576</td>
+          </tr>
+          <tr>
+            <td style="text-align:center; width:100px;">99.5%</td>
+            <td style="text-align:center;">2.807</td>
+          </tr>
+          <tr>
+            <td style="text-align:center; width:100px;">99.9%</td>
+            <td style="text-align:center;">3.291</td>
+          </tr>
+        </tbody></table>
+      </div>
+  <p>For 95% the Z value is <b>1.960</b></p>
+      <p><b>Step 3</b>: use that Z value in this formula for the Confidence Interval</p>
+      <p class="center larger"><span style="border-top: 1px solid black;">X</span>&nbsp; ±  &nbsp;Z<span class="intbl"><em>s</em><strong>√n</strong></span></p>
+      <p>Where:</p>
+      <ul>
+        <li><span style="border-top: 1px solid black;"><b>X</b></span> is the mean</li>
+        <li><b>Z</b> is the chosen Z-value from the table above</li>
+        <li><b>s</b> is the standard deviation</li>
+        <li><b>n</b> is the number of observations</li>
+      </ul>
+      <p>And we have:</p>
+      <p class="center larger">175 ± 1.960 × <span class="intbl"><em>20</em><strong>√40</strong></span></p>
+      <p>Which is:</p>
+      <p class="center larger"><b>175cm ± 6.20cm</b></p>
+        <p>In other words: from 168.8cm to 181.2cm</p>
+        <div class="words">
+          <p>The value after the ± is called the <b>margin of error</b></p>
+          <p>The margin of error in our example is 6.20cm</p>
+        </div>
+        <p style="float:right; margin: 0 0 5px 10px;"><a href="confidence-interval-calculator.html"><img src="images/conf-interval-calc.gif" alt="confidence interval calculator" height="144" width="150"></a></p>
+
+
+<h2>Calculator</h2>
+
+<p>We have a <a href="confidence-interval-calculator.html">Confidence Interval Calculator</a> to make life easier for you.</p>
+<div style="clear:both"></div>
+
+
+<h2>Simulator</h2>
+
+<p>We also have a very interesting <a href="normal-distribution-simulator.html">Normal Distribution Simulator</a>. where we can start with some theoretical "true" mean and standard deviation, and then take random samples.</p>
+        <p>It helps us to understand how random samples can sometimes be very good or bad at representing the underlying true values.</p>
+
+
+<h2>Another Example</h2>
+
+<div class="example">
+        <p style="float:right; margin: 0 0 5px 10px;"><img src="images/apple-tree.jpg" alt="apple tree" height="134" width="186"></p>
+
+<h3>Example: Apple Orchard</h3>
+        <p>Are the apples big enough?</p>
+        <p>There are hundreds of apples on the trees, so you randomly choose just <b>46</b> apples and get:</p>
+        <ul>
+          <li>a Mean of <b>86</b></li>
+          <li>a Standard Deviation of <b>6.2</b></li>
+        </ul>
+        <p>So let's  calculate:</p>
+<p class="center larger"><span style="border-top: 1px solid black;">X</span>&nbsp; ±  &nbsp;Z<span class="intbl"><em>s</em><strong>√n</strong></span></p>
+<p>We know:</p>
+        <ul>
+          <li><span style="border-top: 1px solid black;"><b>X</b></span> is the mean = 86</li>
+          <li><b>Z</b> is the Z-value = 1.960 (from the table above for 95%)</li>
+          <li><b>s</b> is the standard deviation = 6.2</li>
+          <li><b>n</b> is the number of observations  = 46</li>
+        </ul>
+        <p class="center larger">86 ± 1.960 × <span class="intbl"><em>6.2</em><strong>√46</strong></span>  = <b>86 ± 1.79</b></p>
+        <p>So the true mean (of all the hundreds of apples) is <b>likely</b> to be between 84.21 and 87.79</p>
+
+<h3>True Mean</h3>
+        <p>Now imagine we get to pick ALL  the apples  straight away, and get them  ALL measured by the packing machine&nbsp;(this is a luxury not normally found in statistics!)</p>
+        <p>And the <b>true mean</b> turns out to be<b> 84.9</b></p>
+        <p>Let's lay all the apples on the ground from smallest to largest:</p>
+        <p class="center"><img src="images/ci1.svg" alt="confidence interval 86 plus minus 1.79" height="205" width="256"><br>
+Each apple is a green dot,<br>
+our  observations are marked&nbsp; blue</p>
+        <p>Our result was not exact ... it is random after all&nbsp;... but  the true mean is inside our confidence interval of 86 ± 1.79 (in other words 84.21 to 87.79)</p>
+        <p>Now the true mean<b> might not</b> be  inside the confidence interval, but in <b>95% of the cases it will be!</b></p>
+        <p class="center large">95% of all "95% Confidence Intervals" will include the true mean.</p>
+        <p>Maybe we had this sample, with   a mean of  83.5:</p>
+        <p class="center"><img src="images/ci3.svg" alt="confidence interval 83.5 plus minus 1.25" height="212" width="256"><br>
+Each&nbsp;apple is a green dot,<br>
+our observations  are marked purple</p>
+        <p>That <b>does not&nbsp;include the true mean.</b> That can happen about 5% of the time for a 95% confidence interval.</p>
+        <p>So how do we know if our sample is one of the "lucky" 95% or the unlucky 5%? Unless we get to measure the whole population like above we simply <b>don't know</b>.</p>
+        <p>This is the risk in <a href="sampling.html">sampling</a>, we might  have a "bad" sample.</p>
+      </div>
+
+
+<h2>Example in Research</h2>
+
+<div class="example">
+        <p>Here is   Confidence Interval used in actual research on   <b>extra exercise for older people</b>:</p>
+        <p class="center"><img src="images/ci-extract2.gif" alt="confidence interval extract" style="border: 1px solid blue;" height="106" width="549"></p>
+        <p>What is it saying? Looking at the   "Male" line we see:</p>
+        <ul>
+          <li>1,226 Men  (47.6% of all people)</li>
+          <li>had a "HR" (see below)  with a <b>mean of 0.92</b>,</li>
+          <li>and a <b>95% Confidence Interval&nbsp;(95% CI) of 0.88 to 0.97</b> (which is also 0.92±0.05)</li>
+        </ul>
+        <p>"HR" is a measure of health benefit (lower is better), so it says that the <b>true benefit of exercise</b> for the  wider population of men has a <b>95% chance</b> of being between 0.88 and 0.97</p>
+        <p><i>* Note for the curious: "HR"  is used a lot in health  research and means "Hazard Ratio" where lower is better. So an HR of 0.92 means the subjects were better off, and a 1.03 means slightly worse off.</i></p>
+      </div>
+
+
+<h2>Standard Normal Distribution</h2>
+
+<p>It is all based on the idea of the <a href="standard-normal-distribution-table.html">Standard Normal Distribution</a>, where the <span class="large">Z</span> value is the "Z-score"</p>
+      <p>For example the <span class="large">Z</span> for 95% is 1.960, and here we see the range from -1.96 to +1.96 includes 95% of all values:</p>
+      <p class="center"><img src="images/ci95.svg" alt="confidence interval 95%" height="142" width="295"><br>
+From -1.96 to +1.96 standard deviations is 95%</p>
+      <p>Applying that to our sample looks like this:</p>
+      <p class="center"><img src="images/ci4.svg" alt="confidence interval 86 plus minus 1.79 bell" height="212" width="256"><br>
+Also from -1.96 to +1.96 standard deviations,  so  includes  95%</p>
+
+
+<h2>Conclusion</h2>
+
+<p>The Confidence Interval&nbsp;is based on Mean and Standard Deviation. Its formula is:</p>
+      <p class="center large"><span style="border-top: 1px solid black;">X</span>&nbsp; ±  &nbsp;Z<span class="intbl"><em>s</em><strong>√n</strong></span></p>
+      <p>Where:</p>
+      <ul>
+        <li><span style="border-top: 1px solid black;"><b>X</b></span> is the mean</li>
+        <li><b>Z</b> is the Z-value from the table below</li>
+        <li><b>s</b> is the standard deviation</li>
+        <li><b>n</b> is the number of observations</li>
+      </ul>
+      <div class="simple">
+        <table style="border: 0; margin:auto;">
+          <tbody>
+<tr>
+            <td style="text-align:center;"><b>Confidence<br>
+Interval</b></td>
+            <td style="text-align:center;"><b>Z</b></td>
+          </tr>
+          <tr>
+            <td style="text-align:center; width:100px;">80%</td>
+            <td style="text-align:center; width:100px;">1.282</td>
+          </tr>
+          <tr>
+            <td style="text-align:center; width:100px;">85%</td>
+            <td style="text-align:center;">1.440</td>
+          </tr>
+          <tr>
+            <td style="text-align:center; width:100px;">90%</td>
+            <td style="text-align:center;">1.645</td>
+          </tr>
+          <tr>
+            <td style="text-align:center; width:100px;">95%</td>
+            <td style="text-align:center;">1.960</td>
+          </tr>
+          <tr>
+            <td style="text-align:center; width:100px;">99%</td>
+            <td style="text-align:center;">2.576</td>
+          </tr>
+          <tr>
+            <td style="text-align:center; width:100px;">99.5%</td>
+            <td style="text-align:center;">2.807</td>
+          </tr>
+          <tr>
+            <td style="text-align:center; width:100px;">99.9%</td>
+            <td style="text-align:center;">3.291</td>
+          </tr>
+        </tbody></table>
+      </div>
+      <p>&nbsp;</p>
+      <div class="questions">11285, 11286, 11287, 11288, 11289, 11290, 11291, 11292</div>
+
+<div class="related">  
+  <a href="confidence-interval-calculator.html">Confidence Interval Calculator</a>  
+  <a href="normal-distribution-simulator.html">Normal Distribution Simulator</a>  
+  <a href="standard-normal-distribution-table.html">Standard Normal Distribution</a>  
+  <a href="sampling.html">Sampling</a>  
+  <a href="../mean.html">Mean</a>  
+  <a href="standard-deviation.html">Standard Deviation</a>  
+  <a href="index.html">Data Index</a>
+</div>
+      <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2021 MathsIsFun.com</div>
+
+</div>
+
+
+
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/data/confidence-interval.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:31:54 GMT -->
+</html>

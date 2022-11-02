@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="409.3" height="81.5" version="1.1" style="font-family:'Comic Sans MS'; font-size:17.3px; stroke-width:2.54;">
+<defs>
+	<linearGradient id="aa1">
+		<stop offset="0" style="stop-color:#ff0000; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#0000ff; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient id="aa2" gradientTransform="matrix(0.518052,0,0,0.518052,-29.8956,-195.944)" xlink:href="#aa1" x1="64" y1="458.4" x2="847.3" y2="458.4" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path style="fill:none; stroke:url(#aa2); stroke-width:3.32;" d="M 4.6,41.5 H 407.8"/>
+<path style="fill:#fb0003; stroke:#fa0004;" d="m 5.9,22.7 v 19.2"/>
+<path style="fill:#bf0244; stroke:#e0001e;" d="m 104.2,22.7 v 19.2"/>
+<path style="fill:#729fcf; stroke:#7b0083;" d="m 206.3,22.7 v 19.2"/>
+<path style="fill:#729fcf; stroke:#0600f8;" d="m 406.7,22.7 v 19.2"/>
+<path style="fill:#4400ba; stroke:#3f00c0;" d="m 304.6,22.2 v 19.2"/>
+<text x="-0.5" y="13.2" style="fill:#fc0002; stroke-width:1px;">0</text>
+<text x="402.5" y="13.2" style="fill:#3e38ff; stroke-width:1px;">1</text>
+<text x="194.2" y="13.2" style="fill:#7b0083; stroke-width:1px;">0.5</text>
+<text x="86.4" y="13.8" style="fill:#bf0244; stroke-width:1px;">0.25</text>
+<text x="286.6" y="13.7" style="fill:#4400ba; stroke-width:1px;">0.75</text>
+<path style="fill:#ce0031; stroke:#d0002f;" d="m 73.1,41.9 v 19.2"/>
+<text x="45.1" y="79.8" style="fill:#d3002c; stroke-width:1px;">0.166...</text>
+<path style="fill:#3200cd; stroke:#3300cc;" d="m 326,41.9 v 19.2"/>
+<text x="313.4" y="80.7" style="fill:#3400cb; stroke-width:1px;">0.8</text>
+</svg>

@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Main.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/geometry/area-irregular-polygons.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:37:30 GMT -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+	<title>Area of Irregular Polygons</title>
+	<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta http-equiv="pics-label" content='(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://www.mathsisfun.com" r (SS~~000 1))'>
+<link rel="stylesheet" type="text/css" href="../style3.css" />
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun" /></a></div>
+	<div id="gtran"><script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus"><script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort"><script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search"><script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+				<h1 align="center">Area of Irregular Polygons</h1>
+				<h2>Introduction</h2>
+				<p>I just thought I would share with you a clever technique I once used to find the area of general <a href="polygons.html"> polygons</a>.</p>
+				<p>The polygon could be <b>regular</b> (all angles are equal and all sides are equal) or <b> irregular</b></p>
+				<table width="60%" border="0" align="center">
+					<tr align="center">
+						<td><b><img src="images/pentagon-regular.svg" alt="regular" /></b></td>
+						<td><b><img src="images/pentagon-irregular.svg" alt="irregular" /></b></td>
+					</tr>
+					<tr align="center">
+						<td>Regular</td>
+						<td>Irregular</td>
+					</tr>
+				</table>
+				<h3>The Example Polygon</h3>
+				<p>Let's use this polygon as an example:</p>
+				<p align="center"><img src="images/area-irregular-polygon1.gif" width="181" height="159" alt="irregular polygon" /></p>
+				<h3>Coordinates</h3>
+				<p>The first step is to turn each vertex (corner) into a <a href="../data/cartesian-coordinates.html">coordinate</a>, like on a graph:</p>
+				<p align="center"><img src="images/area-irregular-polygon2.gif" width="295" height="258" alt="irregular polygon coords" /></p>
+				<h3>Area Under One Line Segment</h3>
+				<p>Now, for each line segment, work out the area <b>down to the x-axis</b>.</p>
+				<p align="center"><img src="images/area-irregular-polygon3.gif" width="299" height="254" alt="irregular polygon coords and area of one graph trapezoid" /></p>
+				<p><b>So, how do we calculate each area?</b></p>
+				<p style="float:left; margin: 0 10px 5px 0;"><img src="images/area-trapezoid.svg" alt="area of graph trapezoid is width by average height" /> </p>
+				<h3>Average the two heights, then multiply by the width</h3>
+				<p>Example: For the shape highlighted above, we take the two heights (the &quot;y&quot; coordinates 2.28 and 4.71) and work out the average height:</p>
+				<p align="center" class="larger"> (2.28+4.71)/2 = 3.495</p>
+				<p>Work out the width (the difference between the &quot;x&quot; coordinates 2.66 and 0.72)</p>
+				<p align="center" class="larger">2.66-0.72 = 1.94</p>
+				<p>The area is width&times;height:</p>
+				<p align="center" class="larger">1.94 &times; 3.495 = 6.7803</p>
+				<p>&nbsp;</p>
+				<h3>Add Them All Up</h3>
+				<p>Now add them all up! </p>
+				<p>But the trick is to add when they go forwards (positive width), and subtract when they go backwards (negative width). </p>
+				<p>If you always go clockwise around the polygon, and always subtract the first &quot;x&quot; coordinate from the second, it works out naturally, like this:</p>
+				<div class="simple">
+					<table border="0" align="center">
+						<tr align="right">
+							<th colspan="2" align="center">From</th>
+							<th colspan="2" align="center">To</th>
+							<td bgcolor="#FFFFFF">&nbsp;</td>
+							<td bgcolor="#FFFFFF">&nbsp;</td>
+							<td bgcolor="#FFFFFF">&nbsp;</td>
+						</tr>
+						<tr align="right">
+							<th width="50">x</th>
+							<th width="50">y</th>
+							<th width="70">x</th>
+							<th width="50">y</th>
+							<th width="90">Avg Height</th>
+							<th width="90">Width (+/-)</th>
+							<th width="90">Area (+/-)</th>
+						</tr>
+						<tr align="right">
+							<td>0.72</td>
+							<td>2.28</td>
+							<td>2.66</td>
+							<td>4.71</td>
+							<td>3.495</td>
+							<td>1.94</td>
+							<td>6.7803</td>
+						</tr>
+						<tr align="right">
+							<td>2.66</td>
+							<td>4.71</td>
+							<td>5</td>
+							<td>3.5</td>
+							<td>4.105</td>
+							<td>2.34</td>
+							<td>9.6057</td>
+						</tr>
+						<tr align="right">
+							<td>5</td>
+							<td>3.5</td>
+							<td>3.63</td>
+							<td>2.52</td>
+							<td>3.01</td>
+							<td>-1.37</td>
+							<td>-4.1237</td>
+						</tr>
+						<tr align="right">
+							<td>3.63</td>
+							<td>2.52</td>
+							<td>4</td>
+							<td>1.6</td>
+							<td>2.06</td>
+							<td>0.37</td>
+							<td>0.7622</td>
+						</tr>
+						<tr align="right">
+							<td>4</td>
+							<td>1.6</td>
+							<td>1.9</td>
+							<td>1</td>
+							<td>1.3</td>
+							<td>-2.1</td>
+							<td>-2.7300</td>
+						</tr>
+						<tr align="right">
+							<td>1.9</td>
+							<td>1</td>
+							<td>0.72</td>
+							<td>2.28</td>
+							<td>1.64</td>
+							<td>-1.18</td>
+							<td>-1.9352</td>
+						</tr>
+						<tr align="right">
+							<td bgcolor="#FFFFFF">&nbsp;</td>
+							<td bgcolor="#FFFFFF">&nbsp;</td>
+							<td bgcolor="#FFFFFF">&nbsp;</td>
+							<td bgcolor="#FFFFFF">&nbsp;</td>
+							<td bgcolor="#FFFFFF">&nbsp;</td>
+							<td bgcolor="#FFFFFF">Total:</td>
+							<th><b>8.3593</b></th>
+						</tr>
+					</table>
+					<p>You can also go the other direction. If you get a negative area just make it positive.</p>
+					<p>And it looks like this:</p>
+					<p align="center"><img src="images/area-irregular-polygon4.gif" width="303" height="256" alt="irregular polygon area all trapezoids" /></p>
+					<p>So that's it! The area is<b> 8.3593</b></p>
+					<h2>Area of Polygon Tool</h2>
+					<p>Glad you read this far! You are rewarded with a link to the <a href="area-polygon-drawing.html">Area of a Polygon Drawing Tool</a> that can do all of this for you. It also accepts manual entry of coordinates.</p>
+					<div class="questions">
+						<script type="text/javascript">
+							getQ(5288, 5289, 5290, 5291, 5292, 5293, 5294, 5295, 1762, 1763);
+						</script>&nbsp; </div>
+					<div class="related"><a href="index.html">Geometry Index</a></div>
+				</div>
+				<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2017 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body>
+<!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/geometry/area-irregular-polygons.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:37:31 GMT -->
+</html>

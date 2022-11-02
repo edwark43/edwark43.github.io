@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="149" version="1.1">
+<defs/>
+<g transform="translate(-1610.18,885.198)">
+<image x="-1413.5" y="148.4" width="1305" height="787.4" xlink:href="../../../file/C_/Images/SVG/inkscape_pasted_image_20101001_094421.png"/>
+</g>
+<g transform="translate(-1610.18,885.198)">
+<polygon points="208.49,1 238.49,52.067 155.869,52.067 163.869,1 " style="fill:#fefbe0; stroke:#3465a4; stroke-width:0.96; stroke-linecap:round;" transform="matrix(2.10553,0,0,2.10553,1306.27,-866.525)"/>
+<polyline points="196.387,1 196.387,10.47 186.917,10.47 " transform="matrix(1.54685,0,0,1.54685,1391.01,-866.1)" style="fill:none; stroke:black; stroke-width:0.48; stroke-linecap:round;"/>
+<polyline points="186.917,42.598 196.388,42.598 196.388,52.068 " transform="matrix(1.50185,0,0,1.50185,1399.41,-834.948)" style="fill:none; stroke:black; stroke-width:0.48; stroke-linecap:round;"/>
+<text x="1701.1" y="-736.5" style="font-family:Comic Sans MS; font-size:18.5px; color:black; overflow:visible; fill:#3465a4; stroke-width:0.58px;">base</text>
+<text x="1608.4" y="-807.6" style="font-family:Comic Sans MS; font-size:18.5px; color:black; overflow:visible; fill:#3465a4; stroke-width:0.58px;">leg</text>
+<text x="778" y="1674.4" transform="rotate(-90)" style="font-family:'Comic Sans MS'; font-size:18.7px; color:black; overflow:visible; fill:black; stroke-width:0.58px;">altitude</text>
+<text x="1674.4" y="-871.1" style="font-family:Comic Sans MS; font-size:18.5px; color:black; overflow:visible; fill:#3465a4; stroke-width:0.58px;">base</text>
+<text x="1782" y="-807.6" style="font-family:Comic Sans MS; font-size:18.5px; color:black; overflow:visible; fill:#3465a4; stroke-width:0.58px;">leg</text>
+</g>
+<path style="fill:none; stroke:black; stroke-width:1; stroke-dasharray:4,4;" d="M 70,21.1 V 127.5"/>
+</svg>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="174.1" height="117.2" version="1.1" style="font-size:19.5px; stroke-width:0.5px;">
+<defs>
+	<marker id="id2" style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id3" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<rect x="0" y="0" width="174.1" height="117.2" style="fill:#f5ffd9; stroke-width:2.32;"/>
+<ellipse cx="54.3" cy="75.3" rx="8.3" ry="12.8" style="fill:white; stroke-width:1.29;"/>
+<path style="fill:#c4a000; stroke:#c4a000; stroke-width:4.25;" d="M 71.7,206.1 V 77.2"/>
+<path style="fill:none; stroke:black; stroke-width:0.95;" d="m -207.6,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m -176.6,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m -145.6,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m -114.8,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m -83.8,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m -52.9,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m -21.9,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m 8.9,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m 39.9,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m 70.8,135.1 v 29.7"/>
+<text x="-180.6" y="189.2" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">1</text>
+<text x="-150.2" y="189.2" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">2</text>
+<text x="-119.5" y="189" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">3</text>
+<text x="-88.3" y="189.2" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">4</text>
+<text x="-57.8" y="189" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">5</text>
+<text x="-26.8" y="189" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">6</text>
+<text x="4.1" y="189" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">7</text>
+<text x="35.1" y="189" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">8</text>
+<text x="65.9" y="189" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">9</text>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m 101.8,135.1 v 29.7"/>
+<text x="90.8" y="189" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">10</text>
+<path style="marker-end:url(#id1); fill:#0000ff; fill-opacity:0.75; stroke:#0000ff; stroke-width:1.21;" d="M -208.5,151.8 H 371.1"/>
+<text x="-214.5" y="190.9" style="font-family:Arial; font-size:28.3px; fill:black; stroke-width:0.5px;">0</text>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m 132.8,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m 163.6,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m 194.6,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m 225.5,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m 256.5,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m 287.3,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m 318.3,135.1 v 29.7"/>
+<path style="fill:none; stroke:#0000ff; stroke-width:0.32px;" d="m 349.2,135.1 v 29.7"/>
+<text x="121.9" y="189.2" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">11</text>
+<text x="152.4" y="189.2" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">12</text>
+<text x="183.1" y="189" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">13</text>
+<text x="214.2" y="189.2" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">14</text>
+<text x="244.8" y="189" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">15</text>
+<text x="276.6" y="189" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">16</text>
+<text x="307.5" y="189" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">17</text>
+<text x="338.3" y="189" style="font-family:Arial; fill:#0000ff; stroke-width:0.5px;">18</text>
+<path style="fill:#edd400; stroke:#edd400; stroke-width:1.97;" d="M -114.3,77.2 V 136.9"/>
+<path style="fill:#edd400; stroke:#edd400; stroke-width:1.97;" d="M -23.2,77.2 V 136.9"/>
+<path style="fill:#edd400; stroke:#edd400; stroke-width:1.97;" d="M 8.6,77.2 V 136.9"/>
+<path style="fill:#edd400; stroke:#edd400; stroke-width:1.97;" d="M 38.6,77.2 V 136.9"/>
+<path style="fill:#edd400; stroke:#edd400; stroke-width:1.97;" d="M 132.1,77.2 V 136.9"/>
+<path style="fill:#edd400; stroke:#edd400; stroke-width:1.97;" d="M 255.7,77.2 V 136.9"/>
+<path style="fill:#edd400; stroke:#edd400; stroke-width:1.97;" d="M 286.7,77.2 V 136.9"/>
+<text x="40.6" y="228.6" style="font-family:'Comic Sans MS'; font-size:28.9px; fill:#c4a000; stroke-width:0.5px;">mean</text>
+<path style="marker-start:url(#id2); marker-end:url(#id3); fill:none; stroke:black; stroke-width:1.43;" d="M 8.2,98.6 H 67.7"/>
+<path style="marker-start:url(#id2); marker-end:url(#id3); fill:none; stroke:black; stroke-width:1.43;" d="M -20.5,110 H 69.1"/>
+<path style="marker-start:url(#id2); marker-end:url(#id3); fill:none; stroke:black; stroke-width:1.43;" d="M -20.5,122.2 H 68.4"/>
+<path style="marker-start:url(#id2); marker-end:url(#id3); fill:none; stroke:black; stroke-width:1.43;" d="M -110.9,135.2 H 67.3"/>
+<path style="marker-start:url(#id2); marker-end:url(#id3); fill:none; stroke:black; stroke-width:1.43;" d="M 39.8,86.4 H 68.9"/>
+<path style="marker-start:url(#id2); marker-end:url(#id3); fill:none; stroke:black; stroke-width:1.43;" d="M 75.7,96.2 H 129.7"/>
+<path style="marker-start:url(#id2); marker-end:url(#id3); fill:none; stroke:black; stroke-width:1.43;" d="M 76.8,108.5 H 251.4"/>
+<path style="marker-start:url(#id2); marker-end:url(#id3); fill:none; stroke:black; stroke-width:1.43;" d="M 76.3,120.6 H 281.5"/>
+<ellipse cx="38.5" cy="97.5" rx="8.5" ry="8.7" style="fill:white; stroke-width:1.25;"/>
+<ellipse cx="188.9" cy="122" rx="9.9" ry="11.9" style="fill:white; stroke-width:1.43;"/>
+<ellipse cx="102.7" cy="94.4" rx="8.5" ry="11.8" style="fill:white; stroke-width:1.26;"/>
+<ellipse cx="153.3" cy="106" rx="8.3" ry="12.8" style="fill:white; stroke-width:1.29;"/>
+<ellipse cx="23" cy="116.8" rx="9.3" ry="14.9" style="fill:white; stroke-width:1.39;"/>
+<ellipse cx="-39.1" cy="133.6" rx="8.5" ry="12.8" style="fill:white; stroke-width:1.16;"/>
+<text x="-45.4" y="141.8" style="font-family:'Comic Sans MS'; font-size:19.6px; fill:black; stroke-width:0.5px;">6</text>
+<text x="16.1" y="132.2" style="font-family:'Comic Sans MS'; font-size:19.6px; fill:black; stroke-width:0.5px;">3</text>
+<text x="16.5" y="116.7" style="font-family:'Comic Sans MS'; font-size:19.6px; fill:black; stroke-width:0.5px;">3</text>
+<text x="32.9" y="105.4" style="font-family:'Comic Sans MS'; font-size:19.6px; fill:black; stroke-width:0.5px;">2</text>
+<text x="50" y="81.3" style="font-family:'Comic Sans MS'; font-size:19.6px; fill:black; stroke-width:0.5px;">1</text>
+<text x="96.4" y="101" style="font-family:'Comic Sans MS'; font-size:19.6px; fill:black; stroke-width:0.5px;">2</text>
+<text x="146.5" y="112.4" style="font-family:'Comic Sans MS'; font-size:19.6px; fill:black; stroke-width:0.5px;">6</text>
+<text x="182.5" y="128.7" style="font-family:'Comic Sans MS'; font-size:19.6px; fill:black; stroke-width:0.5px;">7</text>
+<text x="41.7" y="19.3" style="font-family:'Comic Sans MS'; text-align:center; font-size:18.6px; fill:black; stroke-width:0.5px;">Absolute</text>
+<g style="stroke-width:0.39px;" transform="matrix(1.28064,0,0,1.28064,-764.577,-1439.18)">
+	<path style="fill:black; stroke-width:1.17;" d="m 655.7,1157.8 c -1.8,-0.1 -6.1,1.8 -5.8,1.8 -1.5,0.7 -4.7,4.7 -5.3,7.6 0,1.1 -3.4,1.1 -1.8,-0.6 1.5,-4.7 5.1,-8.8 10,-10 1.7,-0.6 4.9,-1.4 3,1.1 v 0.1 z"/>
+	<path style="fill:black; stroke-width:1.17;" d="m 643.1,1162.5 c 0,2.4 0.3,4.7 -0.2,7.1 -0.6,-1.4 -2.3,1.1 -0.6,-0.7 1.4,-1.7 4.8,-4.9 6,-4.3 0.3,1.1 -1.6,2.5 -0.2,1.5 -2.8,0.6 -4.2,5.9 -7,4.4 0.2,-2.3 -0.2,-5.7 0.4,-7.6 0.5,-0.1 1.1,-0.3 1.6,-0.3 z"/>
+</g>
+<g style="stroke-width:0.39px;" transform="matrix(1.28064,0,0,1.28064,-764.577,-1439.18)">
+	<path style="fill:black; stroke-width:1.17;" d="m 662.6,1157.1 c 1,2.8 4.5,4.2 6.6,6.4 3,2.4 5.7,5.1 7.1,8.8 1.6,3 1.4,6.5 1.8,9.8 -2,1.1 -2.3,-0.4 -2.2,-2.3 0,-5.6 -3,-10.9 -7.4,-14.2 -2.5,-2.4 -5.7,-4.2 -7.7,-7 -0.9,-2 0.6,-1.2 1.8,-1.4 z"/>
+	<path style="fill:black; stroke-width:1.17;" d="m 673.1,1176.4 c 2.9,2.4 4.1,6.1 4.7,9.7 -1,-1.2 -2.2,1.6 -1.5,-1 -0.1,-2.9 1.6,-6.3 3.8,-7.9 3.2,0 -0.4,2.3 -0.9,3.9 -1.8,1.7 0.3,6.3 -2.8,6.4 -1.4,-2.8 -1.3,-6.4 -3.8,-8.8 -1.8,-1.3 -0.5,-1.2 0.5,-2.3 z"/>
+</g>
+<g style="stroke-width:0.39px;" transform="matrix(1.28064,0,0,1.28064,-764.577,-1439.18)">
+	<path style="fill:black; stroke-width:1.17;" d="m 672.1,1156.7 c 2.9,2.2 6,4.3 9.7,5 4.9,1.3 10,1.6 14.9,2.9 4.9,1.7 8.1,6.2 11.1,10.3 2.6,4.1 4.7,8.6 5.5,13.4 0.1,2 3.3,4.5 0.2,5.3 -1.5,-1.9 -2.2,-4.7 -2.7,-7.2 -1.9,-6.9 -5.9,-13.1 -11.1,-17.8 -3.9,-3.4 -9.3,-2.9 -14.1,-4.1 -4.9,-0.8 -9.8,-2.2 -13.6,-5.4 -2.1,-0.9 -0.5,-1.1 0.2,-2.3 z"/>
+	<path style="fill:black; stroke-width:1.17;" d="m 708.4,1186 c 2.6,1.8 4.8,5.7 6.2,7.6 -2.4,1.9 -0.8,-3.1 -0.7,-4.5 0.2,-2 0.4,-4.8 3,-4 -1.1,2.9 -1.7,6.1 -1.5,9.2 -2.6,3.1 -4.1,-3.2 -6,-4.6 -1.3,-1.4 -3.5,-2.5 -1,-3.7 z"/>
+</g>
+<g style="stroke-width:0.39px;" transform="matrix(-1.27556,0.113947,0.113947,1.27556,761.916,-1508.69)">
+	<path style="fill:black; stroke-width:1.17;" d="m 662.6,1157.1 c 1,2.8 4.5,4.2 6.6,6.4 3,2.4 5.7,5.1 7.1,8.8 1.6,3 1.4,6.5 1.8,9.8 -2,1.1 -2.3,-0.4 -2.2,-2.3 0,-5.6 -3,-10.9 -7.4,-14.2 -2.5,-2.4 -5.7,-4.2 -7.7,-7 -0.9,-2 0.6,-1.2 1.8,-1.4 z"/>
+	<path style="fill:black; stroke-width:1.17;" d="m 673.1,1176.4 c 2.9,2.4 4.1,6.1 4.7,9.7 -1,-1.2 -2.2,1.6 -1.5,-1 -0.1,-2.9 1.6,-6.3 3.8,-7.9 3.2,0 -0.4,2.3 -0.9,3.9 -1.8,1.7 0.3,6.3 -2.8,6.4 -1.4,-2.8 -1.3,-6.4 -3.8,-8.8 -1.8,-1.3 -0.5,-1.2 0.5,-2.3 z"/>
+</g>
+<text x="35.8" y="36.2" style="font-family:'Comic Sans MS'; text-align:center; font-size:18.6px; fill:black; stroke-width:0.5px;">Deviations</text>
+</svg>

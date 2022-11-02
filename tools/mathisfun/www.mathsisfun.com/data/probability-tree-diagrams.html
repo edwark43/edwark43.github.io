@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/data/probability-tree-diagrams.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:42:15 GMT -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Probability Tree Diagrams</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents." />
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=true;" />
+<meta name="HandheldFriendly" content="true"/>
+<meta http-equiv="pics-label" content='(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://www.mathsisfun.com" r (SS~~000 1))' />
+<link rel="stylesheet" type="text/css" href="../style3.css" />
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun" /></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran"><script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus"><script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort"><script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search"><script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+			<h1 class="center">Probability Tree Diagrams</h1>
+			<p>Calculating probabilities can be hard, sometimes we add them, sometimes we multiply them, and often it is hard to figure out what to do ...  <b>tree diagrams to the rescue!</b></p>
+			<p>&nbsp;</p>
+			<p>Here is a tree diagram for the toss of a coin:</p>
+			<table border="0">
+				<tr>
+					<td><img src="images/probability-tree-coin1.svg" alt="probability branch, probability and outcome" /></td>
+					<td>&nbsp;</td>
+					<td valign="top"><p>There are two &quot;branches&quot; (Heads and Tails)</p>
+						<ul>
+							<li>The probability of each branch is written on the branch</li>
+							<li>The outcome is written at the end of the branch</li>
+					</ul>					</td>
+				</tr>
+			</table>
+			<p>We can extend the tree diagram to two tosses of a coin:</p>
+<p><img src="images/probability-tree-coin2.svg" alt="probability tree 2 tosses of coin" /></p>
+<p>How do we calculate the overall probabilities?</p>
+<ul>
+	<li>We <b>multiply</b> probabilities <b>along the branches</b></li>
+	<li>We <b>add</b> probabilities down <b>columns</b></li>
+</ul>
+<p><img src="images/probability-tree-coin3.svg" alt="probability tree calculations (multiply and add)" style="max-width:100%" /></p>
+<p>Now we can see such things as:</p>
+<ul>
+	<li>The probability of &quot;Head, Head&quot; is 0.5&times;0.5 = <b>0.25</b></li>
+	<li>All probabilities add to <b>1.0</b> (which is always a good check)</li>
+	<li>The probability of  getting at least one Head from two tosses is 0.25+0.25+0.25 = <b>0.75</b></li>
+	<li>... and more</li>
+	</ul>
+<p>&nbsp;</p>
+<p>That was a simple example using <a href="probability-events-independent.html">independent events</a> (each toss of a coin is independent of the previous toss), but tree diagrams are really wonderful for figuring out <a href="probability-events-conditional.html">dependent events</a> (where an event <b>depends on</b> what happens in the previous event) like this example:</p>
+<p>&nbsp;</p>
+			<p style="float:right; margin: 10px;"><img src="../images/soccer-teams.jpg" width="209" height="86"  alt="soccer teams" /></p>
+			<h2>Example: Soccer Game</h2>
+			<p>You are off to soccer, and love being the Goalkeeper, but that depends who is the Coach today:</p>
+			<ul>
+				<li>with Coach Sam the probability of  being Goalkeeper is <b>0.5</b></li>
+				<li>with Coach Alex the probability of  being Goalkeeper is <b>0.3</b></li>
+			</ul>
+			<p>Sam is Coach more often ... about 6 out of every 10 games (a probability of <b>0.6</b>).</p>
+			<p class="larger">So, what is the  probability you will be  a Goalkeeper today?</p>
+			<p>&nbsp;</p>
+			<p>Let's build the tree diagram. First we show the two possible coaches: Sam or Alex:</p>
+			<p class="center"><img src="images/tree-diagram-ex1-1.svg"  alt="tree diagram 1" /></p>
+			<p>The probability of getting Sam is 0.6, so the probability of Alex must be 0.4 (together the probability is  1)</p>
+			<p>Now, if you get Sam, there is 0.5  probability of being Goalie (and 0.5 of not being Goalie):</p>
+			<p class="center"><img src="images/tree-diagram-ex1-2.svg" alt="tree diagram 2" /></p>
+			<p>If you get Alex, there is 0.3  probability of being Goalie (and 0.7 not):</p>
+			<p class="center"><img src="images/tree-diagram-ex1-3.svg"  alt="tree diagram 3" /></p>
+			<p>The tree diagram is complete, now let's calculate the overall probabilities. This is done by multiplying each probability along the &quot;branches&quot; of the tree. </p>
+			<p>Here is how to do it for the &quot;Sam, Yes&quot; branch:</p>
+			<p class="center"><img src="images/tree-diagram-ex1-4.svg"  alt="tree diagram 4" style="max-width:100%" /></p>
+			<p>(When we take the 0.6 chance of Sam being coach and  include the 0.5 chance that Sam will let you be Goalkeeper we end up with an 0.3 chance.)</p>
+			<p>But we are not done yet! We haven't included Alex as Coach:</p>
+			<p class="center"><img src="images/tree-diagram-ex1-5.svg"  alt="tree diagram 5" style="max-width:100%" /></p>
+			<p>An 0.4 chance of Alex as Coach, followed by an 0.3 chance gives 0.12.</p>
+			<p>Now we add the column:</p>
+			<p class="center larger">0.3 + 0.12 = <b>0.42 probability</b> of being a Goalkeeper today</p>
+			<p class="center">(That is a 42% chance)</p>
+			<h3>Check</h3>
+			<p>One final step: complete the calculations and make sure they add to 1:</p>
+			<p class="center"><img src="images/tree-diagram-ex1-6.svg"   alt="tree diagram 6" style="max-width:100%" /></p>
+			<p class="larger center">0.3 + 0.3 + 0.12 + 0.28 = 1</p>
+			<p class="center">Yes, it all adds up.</p>
+			<p>&nbsp;</p>
+			<p>You can see more uses of tree diagrams  on <a href="probability-events-conditional.html">Conditional Probability</a>.</p>
+			<h2>Conclusion</h2>
+			<p>So there you go, when in doubt draw a tree diagram, multiply along the branches and add the columns. Make sure all probabilities add to 1 and you are good to go.</p>
+<p>&nbsp;</p>
+<div class="questions">
+<script type="text/javascript">getQ(3096, 3097, 3098, 3099, 3830, 3831, 3832, 3833, 3100, 3829);</script>&nbsp;
+</div>
+
+			<div class="related"><a href="probability.html">Probability</a>
+				<a href="index.html">Data Index</a>
+			</div>
+			<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2017 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body>
+<!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/data/probability-tree-diagrams.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:42:15 GMT -->
+</html>

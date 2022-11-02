@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92.6" height="93.5" version="1.1" style="font-family:'Trebuchet MS'; font-size:24px; fill:#3465a4; stroke-width:0.6;">
+<defs>
+	<marker id="id1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#3465a4; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id2" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#3465a4; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id3" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#3465a4; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id4" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#3465a4; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g style="display:none;" transform="translate(584.812,411.657)">
+	<image x="-1413.5" y="148.4" width="1305" height="787.4" xlink:href="//////Images/SVG/inkscape_pasted_image_20101001_094421.html"/>
+</g>
+<g transform="translate(584.812,411.657)">
+	<rect x="-571.8" y="-397.7" width="67.2" height="65.4" style="fill:#66c9ff; fill-opacity:0.23;"/>
+	<path style="marker-end:url(#id1); fill:none; stroke:#3465a4; stroke-width:1.8;" d="m -505.5,-333 c 0,-20.5 0,-41 0,-61.5"/>
+	<path style="marker-end:url(#id2); fill:none; stroke:#3465a4; stroke-width:1.8;" d="m -505.8,-396.7 c -20.5,0 -41,0 -61.5,0"/>
+	<path style="marker-end:url(#id3); fill:none; stroke:#3465a4; stroke-width:1.8;" d="m -570,-396.9 c 0,20.5 0,41 0,61.5"/>
+	<path style="marker-end:url(#id4); fill:none; stroke:#3465a4; stroke-width:1.8;" d="m -569.9,-333.2 c 20.5,0 41,0 61.5,0"/>
+	<text x="-503.9" y="-355">a</text>
+	<text x="-542.8" y="-398.9">a</text>
+	<text x="-585.8" y="-363.8">a</text>
+	<text x="-548.6" y="-318.4">a</text>
+</g>
+</svg>

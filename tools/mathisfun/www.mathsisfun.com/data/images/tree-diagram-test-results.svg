@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="506.9" height="174.1" version="1.1" style="font-size:17.6px; stroke-width:0.55px;">
+<defs>
+	<marker id="aa1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<text x="352.6" y="38.8" style="font-family:Arial; font-size:17px; fill:#0e232e;">1% × 80% = 0.8%</text>
+<circle cx="5.3" cy="96" r="4.34938" style="fill:none; stroke:#0084c8; stroke-width:1.8; stroke-linejoin:round;"/>
+<path style="marker-end:url(#aa1); fill:none; stroke:black; stroke-width:1.43;" d="m 13.2,93.3 87.5,-38"/>
+<path style="marker-end:url(#aa1); fill:none; stroke:black; stroke-width:1.43;" d="m 12.6,99.7 87.5,38"/>
+<text x="122.8" y="57.2" style="font-family:Georgia; text-align:center; text-anchor:middle; font-style:italic; fill:#ba00ff;">Has</text>
+<text x="123.1" y="146" style="font-family:Georgia; text-align:center; text-anchor:middle; font-style:italic; fill:#d76cff;">Not</text>
+<path style="marker-end:url(#aa1); fill:none; stroke:black; stroke-width:1.1; stroke-dasharray:4.4, 4.4;" d="m 285.6,33.3 h 54"/>
+<text x="32.8" y="67.9" style="font-family:Arial; font-size:15.6px; fill:#ba00ff;">1%</text>
+<text x="38.1" y="138.4" style="font-family:Arial; font-size:15.6px; fill:#d76cff;">99%</text>
+<text x="182.9" y="36.3" style="font-family:Arial; font-size:15.6px; fill:#0084c8;">80%</text>
+<text x="182.9" y="80.2" style="font-family:Arial; font-size:15.6px; fill:#ff4141;">20%</text>
+<text x="182.9" y="125.4" style="font-family:Arial; font-size:15.6px; fill:#0084c8;">10%</text>
+<text x="185.1" y="173.7" style="font-family:Arial; font-size:15.6px; fill:#ff4141;">90%</text>
+<text x="352.6" y="131.2" style="font-family:Arial; font-size:17px; fill:#0e232e;">99% × 10% = 9.9%</text>
+<path style="marker-end:url(#aa1); fill:none; stroke:black; stroke-width:1.1; stroke-dasharray:4.4, 4.4;" d="m 285.6,125.7 h 54"/>
+<text x="352.6" y="77.7" style="font-family:Arial; font-size:17px; fill:#0e232e;">1% × 20% = 0.2%</text>
+<path style="marker-end:url(#aa1); fill:none; stroke:black; stroke-width:1.1; stroke-dasharray:4.4, 4.4;" d="m 285.6,72.2 h 54"/>
+<text x="352.6" y="169.3" style="font-family:Arial; font-size:17px; fill:#0e232e;">99% × 90% = 89.1%</text>
+<path style="marker-end:url(#aa1); fill:none; stroke:black; stroke-width:1.1; stroke-dasharray:4.4, 4.4;" d="m 285.6,163.8 h 54"/>
+<text x="260.3" y="131.1" style="font-family:Georgia; text-align:center; text-anchor:middle; font-style:italic; fill:#0084c8;">Yes</text>
+<text x="261.4" y="168.5" style="font-family:Georgia; text-align:center; text-anchor:middle; font-style:italic; fill:#ff4141;">No</text>
+<path style="marker-end:url(#aa1); fill:none; stroke:black; stroke-width:1.43;" d="m 150.4,49 90.6,-15.8"/>
+<text x="260.3" y="37.6" style="font-family:Georgia; text-align:center; text-anchor:middle; font-style:italic; fill:#0084c8;">Yes</text>
+<text x="261.4" y="77.2" style="font-family:Georgia; text-align:center; text-anchor:middle; font-style:italic; fill:#ff4141;">No</text>
+<path style="marker-end:url(#aa1); fill:none; stroke:black; stroke-width:1.43;" d="m 150.8,54.7 90.6,15.8"/>
+<path style="marker-end:url(#aa1); fill:none; stroke:black; stroke-width:1.43;" d="m 151.3,139.5 90.6,-15.8"/>
+<path style="marker-end:url(#aa1); fill:none; stroke:black; stroke-width:1.43;" d="m 151.7,145.2 90.6,15.8"/>
+<text x="196.2" y="14.4" style="font-family:Georgia; text-align:center; text-anchor:middle; font-style:italic; fill:#2d2d2d;">Test Accuracy</text>
+<text x="46.6" y="19.5" style="font-family:Georgia; text-align:center; text-anchor:middle; font-style:italic; fill:#2d2d2d;">Really Has</text>
+<text x="46.6" y="38.4" style="font-family:Georgia; text-align:center; text-anchor:middle; font-style:italic; fill:#2d2d2d;">Allergy?</text>
+</svg>

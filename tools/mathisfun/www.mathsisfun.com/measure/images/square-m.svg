@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="139.65"
+   height="139.516"
+   version="1.1"
+   style="stroke-width:1px"
+   id="svg30"
+   sodipodi:docname="square-m.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview32"
+     showgrid="false"
+     inkscape:current-layer="svg30"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs8">
+    <marker
+       id="id2"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="id1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id1152"
+       inkscape:stockid="id1152">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="stroke:#3465a4;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#3465a4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path905"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id27525"
+       inkscape:stockid="id27525">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:#3465a4;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#3465a4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path908"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id12588"
+       inkscape:stockid="id12588">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="stroke:#3465a4;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#3465a4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path911"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id21990"
+       inkscape:stockid="id21990">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:#3465a4;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#3465a4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path914"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <g
+     style="display:none"
+     transform="translate(-812.299,-70.9364)"
+     id="g12">
+    <image
+       x="-1413.5"
+       y="148.4"
+       width="1305"
+       height="787.4"
+       xlink:href="../../Images/SVG/inkscape_pasted_image_20101001_094421.html"
+       id="image10" />
+  </g>
+  <rect
+     id="rect14"
+     style="fill:#0000f4;fill-opacity:0.02;stroke:#ff00ff;stroke-width:1.250001"
+     height="107.9"
+     width="107.951"
+     ry="0"
+     y="30.317"
+     x="31.0743" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path16"
+     d="M 31.659,17.7962 H 137.878"
+     style="fill:none;stroke:#3465a4;stroke-width:0.9;marker-start:url(#id1152);marker-end:url(#id27525)" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path18"
+     d="M 18.21,31.7782 V 137.769"
+     style="fill:none;stroke:#3465a4;stroke-width:0.9;marker-start:url(#id12588);marker-end:url(#id21990)" />
+  <text
+     id="text20"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;stroke-width:0.25px"
+     y="93.978"
+     x="53.0392"
+     transform="scale(1.00024,0.999761)">1 m</text>
+  <text
+     id="text22"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;stroke-width:0.25px"
+     y="81.1842"
+     x="101.875"
+     transform="scale(1.00024,0.999761)">2</text>
+  <text
+     id="text24"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6666px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;stroke-width:0.25px"
+     transform="matrix(0,-0.999761,1.00024,0,0,0)"
+     y="13.4167"
+     x="-98.4748">1 m</text>
+  <text
+     id="text26"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6666px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;stroke-width:0.25px"
+     y="13.4167"
+     x="67.4244"
+     transform="scale(1.00024,0.999761)">1 m</text>
+</svg>

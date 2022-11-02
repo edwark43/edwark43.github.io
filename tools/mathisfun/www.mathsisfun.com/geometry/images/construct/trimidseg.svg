@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="300px" height="200px" xmlns="http://www.w3.org/2000/svg" style="stroke-width:2px;">
+<desc>SVG Output</desc>
+<g transform="translate(-60,-70)">
+<polyline points='100.00 180.00, 280.00 200.00, ' stroke-width='2' stroke='#aaaaaa' fill='#def' fill-opacity='0.5'  />
+<polyline points='280.00 200.00, 250.00 80.000, ' stroke-width='2' stroke='#aaaaaa' fill='#def' fill-opacity='0.5'  />
+<circle cx="100" cy="180" r="3" stroke-width='2' stroke='#aaaaaa' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="280" cy="200" r="3" stroke-width='2' stroke='#aaaaaa' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="250" cy="80" r="3" stroke-width='2' stroke='#aaaaaa' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="123" cy="53" r="3" stroke-width='2' stroke='orange' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="226" cy="209" r="3" stroke-width='2' stroke='orange' fill='#8888ff' fill-opacity='0.5'  />
+<polyline points='250.00 80.000, 100.00 180.00, ' stroke-width='2' stroke='#aaaaaa' fill='#def' fill-opacity='0.5'  />
+<circle cx="173" cy="131" r="3" stroke-width='2' stroke='blue' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="143" cy="171" r="3" stroke-width='2' stroke='orange' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="387" cy="110" r="3" stroke-width='2' stroke='orange' fill='#8888ff' fill-opacity='0.5'  />
+<polyline points='123.00 53.000, 226.00 209.00, ' stroke-width='2' stroke='blue' fill='#8888ff' fill-opacity='0.5'  />
+<circle cx="264" cy="141" r="3" stroke-width='2' stroke='blue' fill='#8888ff' fill-opacity='0.5'  />
+<polyline points='143.00 171.00, 387.00 110.00, ' stroke-width='2' stroke='blue' fill='#8888ff' fill-opacity='0.5'  />
+<polyline points='173.00 131.00, 264.00 141.00, ' stroke-width='2' stroke='black' fill='#8888ff' fill-opacity='0.5'  />
+</g>
+</svg>

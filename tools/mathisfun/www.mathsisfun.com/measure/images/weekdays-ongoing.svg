@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="143.3"
+   height="500"
+   version="1.1"
+   id="svg50"
+   sodipodi:docname="weekdays-ongoing.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview52"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg50" />
+  <defs
+     id="defs10">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1109">
+      <stop
+         style="stop-color:#005c94;stop-opacity:0"
+         offset="0"
+         id="stop1105" />
+      <stop
+         style="stop-color:#005c94;stop-opacity:1;"
+         offset="0.334241"
+         id="stop2715" />
+      <stop
+         style="stop-color:#005c94;stop-opacity:1;"
+         offset="0.667088"
+         id="stop2393" />
+      <stop
+         style="stop-color:#005c94;stop-opacity:0"
+         offset="1"
+         id="stop1107" />
+    </linearGradient>
+    <linearGradient
+       id="id1">
+      <stop
+         offset="0"
+         style="stop-color:white;stop-opacity:1"
+         id="stop2" />
+      <stop
+         offset="0.5"
+         style="stop-color:#fdffff;stop-opacity:0"
+         id="stop4" />
+      <stop
+         offset="1"
+         style="stop-color:#fdffff;stop-opacity:1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="id2"
+       gradientTransform="matrix(0.11365,0,0,0.122204,63.0486,173.701)"
+       xlink:href="#id1"
+       x1="-3964.3"
+       y1="-1457.2"
+       x2="-3971.2"
+       y2="2659.3"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1109"
+       id="linearGradient1111"
+       x1="66.7233"
+       y1="494.254"
+       x2="66.7233"
+       y2="4.96772"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="g1103"
+     style="fill-opacity:1;fill:url(#linearGradient1111)">
+    <text
+       x="30.4"
+       y="187"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text12">Tuesday</text>
+    <text
+       x="15.7"
+       y="214.5"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text14">Wednesday</text>
+    <text
+       x="25.6"
+       y="242.2"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text16">Thursday</text>
+    <text
+       x="41"
+       y="269.6"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text18">Friday</text>
+    <text
+       x="25"
+       y="297.3"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text20">Saturday</text>
+    <text
+       x="34.7"
+       y="325"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text22">Sunday</text>
+    <text
+       x="32.6"
+       y="159.2"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text24">Monday</text>
+    <text
+       x="15.7"
+       y="21.3"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text26">Wednesday</text>
+    <text
+       x="25.6"
+       y="49"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text28">Thursday</text>
+    <text
+       x="41"
+       y="76.3"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text30">Friday</text>
+    <text
+       x="25"
+       y="104.1"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text32">Saturday</text>
+    <text
+       x="34.7"
+       y="131.7"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text34">Sunday</text>
+    <text
+       x="30.4"
+       y="380.2"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text36">Tuesday</text>
+    <text
+       x="15.7"
+       y="407.8"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text38">Wednesday</text>
+    <text
+       x="25.6"
+       y="435.5"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text40">Thursday</text>
+    <text
+       x="41"
+       y="462.8"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text42">Friday</text>
+    <text
+       x="25"
+       y="490.6"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text44">Saturday</text>
+    <text
+       x="32.6"
+       y="352.4"
+       style="font-family:'Comic Sans MS';font-size:21.3px;font-style:italic;overflow:visible;fill:url(#linearGradient1111);stroke-width:0.19;fill-opacity:1"
+       id="text46">Monday</text>
+  </g>
+</svg>

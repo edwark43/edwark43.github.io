@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="141.578"
+   height="78.6111"
+   version="1.1"
+   style="stroke-width:1pt"
+   id="svg8"
+   sodipodi:docname="congruent-turn.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs2" />
+  <path
+     style="fill:#f57900;fill-rule:evenodd;stroke:none;stroke-width:0.742016px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 30.5479,37.4916 0.980215,20.4207 30.5479,3.34976 h 50.227 L 51.2075,20.4207 80.7749,37.4916 h -50.227"
+     id="path846"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     sodipodi:nodetypes="ccccccc"
+     inkscape:connector-curvature="0"
+     id="path848"
+     d="M 103.277,70.8246 69.8055,77.5577 80.71,45.2041 118.401,12.0058 107.497,44.359 140.968,37.6262 103.277,70.8246"
+     style="fill:#005c94;fill-rule:evenodd;stroke:none;stroke-width:0.742016px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>

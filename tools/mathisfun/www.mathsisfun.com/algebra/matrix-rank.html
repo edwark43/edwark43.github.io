@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/algebra/matrix-rank.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:06:22 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Matrix Rank</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.">
+
+
+<style>
+.mat, .det {
+	font: 20px Verdana, Arial, Trebuchet MS, Tahoma, Geneva, Verdana, sans-serif;
+	color: #f30;
+	background-image: linear-gradient(#07c, #07c),  linear-gradient(#07c, #07c),  linear-gradient(#07c, #07c),  linear-gradient(#07c, #07c);
+	background-repeat: no-repeat;
+	background-size: 7px 2px;
+	background-position: top left, top right, bottom left, bottom right;
+	border: solid #07c;
+	border-width: 0 2px;
+	display: inline-block;
+	vertical-align: middle;
+	padding: 2px 9px 3px 9px;
+	border-radius: 3px;
+}
+.det {
+	background-image: none;
+	border: none;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	border-radius: 0;
+}
+.cols1, .cols2, .cols3, .cols4 {
+	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+.cols1 {
+	grid-template-columns: max-content;
+}
+.cols2 {
+	grid-template-columns: repeat(2, max-content);
+}
+.cols3 {
+	grid-template-columns: repeat(3, max-content);
+}
+.cols4 {
+	grid-template-columns: repeat(4, max-content);
+}
+.txt {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 3px 3px;
+	font: 23px Verdana, Geneva, sans-serif;
+	color: goldenrod;
+	text-align: center;
+	min-width: 25px;
+}
+</style>
+
+
+<style type="text/css">
+.cols11 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+.cols21 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+.cols31 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+.cols31 {	grid-template-columns: repeat(3, max-content);
+}
+.cols41 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+.det1 {	font: 20px Verdana, Arial, Trebuchet MS, Tahoma, Geneva, Verdana, sans-serif;
+	color: #f30;
+	background-image: linear-gradient(#07c, #07c),  linear-gradient(#07c, #07c),  linear-gradient(#07c, #07c),  linear-gradient(#07c, #07c);
+	background-repeat: no-repeat;
+	background-size: 7px 2px;
+	background-position: top left, top right, bottom left, bottom right;
+	border: solid #07c;
+	border-width: 0 2px;
+	display: inline-block;
+	vertical-align: middle;
+	padding: 2px 9px 3px 9px;
+	border-radius: 3px;
+}
+</style>
+<style type="text/css">
+.cols12 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+.cols22 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+.cols32 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+.cols32 {	grid-template-columns: repeat(3, max-content);
+}
+.cols42 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+</style>
+<style type="text/css">
+.cols13 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+.cols23 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+.cols33 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+.cols33 {	grid-template-columns: repeat(3, max-content);
+}
+.cols43 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+</style>
+<style type="text/css">
+.cols14 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+.cols24 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+.cols34 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+.cols44 {	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+.cols44 {	grid-template-columns: repeat(4, max-content);
+}
+</style>
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+<link rel="stylesheet" type="text/css" href="../style3.css">
+<script src="../main3.js"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun"></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran">
+		<script>document.write(getTrans());</script>
+	</div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script>document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script>document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort">
+			<script>document.write(getLinks());</script>
+		</div>
+	</div>
+	<div id="search" role="search">
+		<script>document.write(getSearch());</script>
+	</div>
+	<div id="menuSlim" class="menu"> 
+		<script>document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script>document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+
+	<h1 class="center">Matrix Rank</h1>
+	<p>The rank is how many of the rows are "unique": not  made  of other rows. (Same for columns.)</p>
+	<div class="example">
+		<h3>Example:
+This	Matrix	</h3>
+		<div style="text-align: center;">
+		<div class="mat">
+			<div class="cols3">
+				<div>1</div>
+				<div>2</div>
+				<div>3</div>
+				<div>3</div>
+				<div>6</div>
+				<div>9</div>
+				</div>
+			</div>
+	</div>
+	<!-- [1,2,3~3,6,9] -->
+		<p>The second row is just 3 times the first row. Just a useless copycat. Doesn't count.</p>
+		<p>So even though there are 2 rows, the rank is only 1.</p>
+		<p>&nbsp;</p>
+		<p>What about the columns? The second column is just twice the first column. And the third column is three times the first (or 1.5 times the second) so also doesn't count.</p>
+		<p>So the columns also show us the rank is only 1.</p>
+	</div>
+
+	<div class="example">
+		<h3>Example:
+This	Matrix</h3>
+<div style="text-align: center;">
+<div class="mat">
+<div class="cols3">
+<div>1</div>
+<div>2</div>
+<div>3</div>
+<div>0</div>
+<div>2</div>
+<div>2</div>
+<div>1</div>
+<div>4</div>
+<div>5</div>
+</div>
+</div>
+</div>
+<!-- [1,2,3~0,2,2~1,4,5] -->
+
+		<p>The second row is not made of the first row, so the rank is at least 2.</p>
+		<p>But what about the third row? It is  the first and second added together, so does not count.</p>
+		<p>So even though there are 3 rows, the rank is only 2.</p>
+		<p>&nbsp;</p>
+		<p>What about the columns? The second column is fine, but column 3 is  columns 1 and 2 added together.</p>
+		<p>So the columns also show us the rank is only 2.</p>
+	</div>
+
+
+	<div class="example">
+		<h3>Example:
+			This	Matrix</h3>
+
+
+<div style="text-align: center;">
+<div class="mat">
+<div class="cols3">
+<div>1</div>
+<div>2</div>
+<div>3</div>
+<div>0</div>
+<div>2</div>
+<div>2</div>
+<div>1</div>
+<div>&minus;2</div>
+<div>&minus;1</div>
+</div>
+</div>
+</div>
+<!-- [1,2,3~0,2,2~1,-2,-1] -->
+
+
+
+		<p>The second row is not made of the first row, so the rank is at least 2.</p>
+		<p>The third row looks ok, but after much examination we find it is the first row minus twice the second row. Sneaky! So the rank is only 2.</p>
+		<p>And for the columns: In this case column 3 is  columns 1 and 2 added together. So the columns also show us the rank is  2.</p>
+	</div>
+	<div class="example">
+		<h3>Example:
+			The Identity	Matrix</h3>
+<div style="text-align: center;">
+<div class="mat">
+<div class="cols3">
+<div>1</div>
+<div>0</div>
+<div>0</div>
+<div>0</div>
+<div>1</div>
+<div>0</div>
+<div>0</div>
+<div>0</div>
+<div>1</div>
+</div>
+</div>
+</div>
+<!-- [1,0,0~0,1,0~0,0,1] -->
+
+		<p>All rows are strong independent individuals, not relying on others for their existence! So the rank is 3.</p>
+		<p>And exactly the same for the  columns, so they also tell us the rank is 3.</p>
+	</div>
+	<p>In fact the rows and columns always agree on the rank (amazing but true!). </p>
+	<p>When we talk about rows here, we can also say the same thing about columns. </p>
+	<p>So we don't really  need to work out both.</p>
+	<h2>Why Find the Rank?</h2>
+	<p>The rank tells us a lot about the matrix. </p>
+	<p>It is useful in letting us know if we have a chance of solving a <a href="systems-linear-equations-matrices.html">system of linear equations</a>: when the rank equals the number of variables we may be able to find a unique solution.	</p>
+	<div class="example">
+		<h3>Example: Apples and  Bananas</h3>
+		<p>If we know that</p>
+		<ul>
+			<li>2 apples and 3 bananas cost $7</li>
+			<li>3 apples and 3 bananas cost $9</li>
+		</ul>
+		<p>Then we can figure out the extra apple must cost $2, and so the  bananas costs $1 each.</p>
+		<p>(There are 2 variables and the rank is also 2.) </p>
+		<p>&nbsp;</p>
+		<p>But if we only know that</p>
+		<ul>
+			<li>2 apples and 3 bananas cost $7</li>
+			<li>4 apples and 6 bananas cost $14</li>
+		</ul>
+		<p>We can't go any further because the second row of data is just twice the first and gives us no new information.	(There are 2 variables and the rank is only 1.)</p>
+	</div>
+	<p>It also has uses in  communication, stability of  systems and more.</p>
+
+	<h2>Linear Dependence</h2>
+	<p>Instead of  "not made of" we say they are<b> linearly independent</b> which is an important idea.</p>
+	<p class="words"><b>Linear</b> means we  can multiply by a constant, but no powers or other  functions. The constant can be any real number (0, 1,  any whole number, fraction, negatives, etc.).</p>
+	<p class="words"> <b>Dependence</b> means they <i>depend</i> on each other, in other words we can add some up (after multiplying by a constant) to make another one.</p>
+	<p>Imagine they are <a href="vectors.html">vectors</a> (have direction and length). Can we combine the other vectors (stretched or shrunk as needed) to get the same result?</p>
+	<p class="center"><img src="images/linear-dependence.svg" alt="Linear Dependence"><br>
+		<b>c</b> = <b>a</b> + 2<b>b</b>, <br>
+so <b>c</b> is<b> linearly dependent</b> on <b>a</b> and <b>b</b></p>
+	<p>Also notice that:</p>
+	<ul>
+		<li> <b>a</b> and <b>b</b> are together linearly <b>independent</b>: we can't use <b>a</b> on its own to  get to where <b>b</b> is, or vice versa. </li>
+		<li>The same is true for <b>b</b> and <b>c</b>, or <b>a</b> and <b>c</b>. </li>
+		<li>But <b>a</b>, <b>b</b> and <b>c</b> are together linearly <b>dependent</b>.</li>
+	</ul>
+	<p>Thinking just about <b>a</b> and <b>b</b>: we can actually reach <i>anywhere</i> on the plane using those two vectors:</p>
+	<p class="center"><img src="images/linear-dependence-span.svg" alt="Linear Dependence Span"><br>
+	Vectors <b>a</b> and <b>b</b> span the whole plane. </p>
+	<div class="def">
+		<p>When vectors are linearly independent and span a whole space we say they are a "<b>basis</b>" of that space.</p>
+	<p>So  <b>a</b> and <b>b</b> are a basis of the 2D plane.</p>
+</div>
+	<div class="words">
+		<p>Note: <b>space</b> is a general term covering 1, 2, 3 or higher dimensions, but we often  call 2D space a <a href="../geometry/plane.html">plane</a>.</p>
+	</div>
+	<p>So <b>a</b> and <b>b</b> are just as useful as the x,y axes. And the same could be said for any 2 linearly independent vectors in the 2D plane.</p>
+	<p>The most basic pair of linearly independent vectors are (1,0) and (0,1) which form the 2x2 identity matrix:	</p>
+	<div style="text-align: center;">
+	<div class="mat">
+<div class="cols2">
+<div>1</div>
+<div>0</div>
+<div>0</div>
+<div>1</div>
+</div>
+</div>
+</div>
+<!-- [1,0~0,1] -->
+
+<p>They essentially <b>make</b> the familiar x,y axes:&nbsp;</p>
+	<p class="center"><img src="images/linear-dependence-xy.svg" alt="Linear Dependence x and y">
+	</p>
+	<p>And in 3D:</p>
+<div style="text-align: center;">
+<div class="mat">
+<div class="cols3">
+<div>1</div>
+<div>0</div>
+<div>0</div>
+<div>0</div>
+<div>1</div>
+<div>0</div>
+<div>0</div>
+<div>0</div>
+<div>1</div>
+</div>
+</div>
+</div>
+<!-- [1,0,0~0,1,0~0,0,1] -->
+	<p class="center"><img src="images/linear-dependence-xyz.svg" alt="Linear Dependence xyz"><br>
+	</p>
+	<p>And in 4D: </p>
+	<div style="text-align: center;">
+<div class="mat">
+<div class="cols4">
+<div>1</div>
+<div>0</div>
+<div>0</div>
+<div>0</div>
+<div>0</div>
+<div>1</div>
+<div>0</div>
+<div>0</div>
+<div>0</div>
+<div>0</div>
+<div>1</div>
+<div>0</div>
+<div>0</div>
+<div>0</div>
+<div>0</div>
+<div>1</div>
+</div>
+</div>
+</div>
+<!-- [1,0,0,0~0,1,0,0~0,0,1,0~0,0,0,1] -->
+
+	<p>OK, that is a little hard to illustrate, but  the numbers  work out just fine  up to as many dimensions as you wish!	</p>
+	<h2>How to Find the Rank</h2>
+	<p>It is usually best to use software to find the rank, there are algorithms that play around with the rows and columns to compute it. But in some cases we can figure it out ourselves.</p>
+	<p>For a <a href="matrix-types.html">square matrix</a> the <a href="matrix-determinant.html">determinant</a> can help: a <b>non-zero</b> determinant tells us that <b>all</b> rows (or columns) are linearly <b>independent</b>, so it is "full rank" and its  rank equals the number of rows. </p>
+	<div class="example">
+		<h3>Example:
+			Are these 4d vectors linearly independent?</h3>
+
+<div style="text-align: center;">
+<div class="mat">
+<div class="cols4">
+<div>1</div>
+<div>2</div>
+<div>3</div>
+<div>4</div>
+<div>0</div>
+<div>2</div>
+<div>2</div>
+<div>0</div>
+<div>1</div>
+<div>0</div>
+<div>3</div>
+<div>0</div>
+<div>0</div>
+<div>1</div>
+<div>0</div>
+<div>4</div>
+</div>
+</div>
+</div>
+<!-- [1,2,3,4~0,2,2,0~1,0,3,0~0,1,0,4] -->
+
+
+
+		<p>The determinant is (using the <a href="matrix-calculator.html">Matrix Calculator</a>):</p>
+		<p>1(2(3&times;4-0&times;0)-2(0&times;4-0&times;1)+0(0&times;0-3&times;1))-2(0(3&times;4-0&times;0)-2(1&times;4-0&times;0)+0(1&times;0-3&times;0))+3(0(0&times;4-0&times;1)-2(1&times;4-0&times;0)+0(1&times;1-0&times;0))-4(0(0&times;0-3&times;1)-2(1&times;0-3&times;0)+2(1&times;1-0&times;0)) = <b>8</b></p>
+		<p>The determinant is <b>non-zero</b> so they must all be linearly <b>independent</b>.</p>
+		<p>And so it is full rank, and the rank is <b>4</b>.</p>
+		<p>So we know that it is actually a basis for 4D space: using these 4 vectors we can span all of 4D space. </p>
+		<p>A great example where mathematics can tell us something that we can't easily imagine.</p>
+	</div>
+
+
+	<h2>Other Properties</h2>
+	<p>The rank can't be larger than the smallest dimension of the matrix.</p>
+	<div class="example">
+		<h3>Example: for a 2&times;4 matrix the rank can't be larger than 2</h3>
+	</div>
+	<p>When the rank equals the smallest dimension it is called "full rank", a smaller  rank is called "rank deficient".</p>
+	<p>The rank is at least 1, except for a <a href="matrix-types.html">zero matrix</a> (a matrix made of all zeros) whose rank is 0.</p>
+	<p>&nbsp;</p>
+	
+<div class="questions">
+<script>getQ(17824, 17825, 17826, 17827, 17828, 17832, 17833, 17837, 17842, 17829, 17830, 17831, 17834, 17838, 17839, 17841, 17843, 17835, 17836, 17840);</script>
+</div>
+  
+<div class="related"><a href="index-2.html">Algebra 2 Index</a></div>
+<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script>document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+	<script>document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2019 MathsIsFun.com
+</div>
+<script>document.write(getBodyEnd());</script>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/algebra/matrix-rank.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:06:23 GMT -->
+</html>

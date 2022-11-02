@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Main.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/base-conversion-method.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:35:32 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Base Conversion Method</title><!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+<link rel="stylesheet" type="text/css" href="style3.css">
+<script src="main3.js"></script>
+</head>
+
+<body id="bodybg">
+<div class="bg">
+	<div id="stt"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="logo"><a href="index.html"><img src="images/style/logo.svg" alt="Math is Fun"></a></div>
+	<div id="gtran">
+		<script>document.write(getTrans());</script>
+	</div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script>document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="about-ads.html">About Ads</a></div>
+	</div>
+	</header>
+	<nav>
+	<div id="menuWide" class="menu"> 
+		<script>document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort">
+			<script>document.write(getLinks());</script>
+		</div>
+	</div>
+	<div id="search" role="search">
+		<script>document.write(getSearch());</script>
+	</div>
+	<div id="menuSlim" class="menu"> 
+		<script>document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script>document.write(getMenu(2));</script> 
+	</div>
+	</nav>
+	<div id="extra"></div>
+</div>
+<article id="content" role="main">
+<!-- #BeginEditable "Body" -->
+
+<h1 class="center">Base Conversion Method</h1>
+
+<p class="center"><i>Also see <a href="numbers/convert-base.html">Base Conversion Tool</a></i></p>
+						<p>On this page we look at a method to convert whole numbers and decimals to another base. We give two examples of converting to base 26. This method will work for other bases, too.</p>
+<p>By "base" we mean how many numbers in a number system:</p>
+<ul>
+<li>The decimal number system we use every day has 10 digits {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} and so it is <b>Base 10</b></li>
+<li>A <a href="binary-number-system.html">binary</a> digit can only be 0 or 1, so is <b>Base 2</b></li>
+<li>A <a href="hexadecimals.html">hexadecimal</a> digit can be {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F}, so is <b>Base 16</b></li>
+<li>And we can use letters {A, B, C, ..., X, Y, Z}, and we get <b>Base 26</b>, which we use here</li>
+  </ul>
+
+						<h2>Base Conversion of Whole Numbers</h2>
+						<p>Base conversion of whole numbers is fairly easy when we use remainders.</p>
+									
+						<p>Let's start with an example:</p>
+						<p class="center large">Convert 1208 to base 26</p>
+						<p>(base 26 is fun because it is the <i>Alphabet)</i></p>
+<div class="def">
+						  <p>For simplicity I will use<b> A=1, B=2, etc</b>, (in the style of spreadsheet columns) and use <b>Z for zero</b>, but another convention for base 26 is to use A=0, B=1, up to Z=25.</p>
+  </div>
+						<p>Watch this series of divisions (R means remainder, which is ignored in the next division):</p>
+						<div class="simple">
+			  				<table align="center" width="200" border="0">
+								<tbody>
+<tr style="text-align:center;">
+				  					<td style="text-align:center;">1208 / 26 = 46 R 12</td>
+								</tr>
+			    				<tr style="text-align:center;">
+				  					<td style="text-align:center;">46 / 26 = 1 R 20</td>
+								</tr>
+		  				  </tbody></table><br>
+</div>
+						<p>Now, think about the last answer (1 R 20), it means that 1208/26/26 = 1 (plus bits), in other words it tells us that we should put a "1" in the "26<sup>2</sup>" column!!!</p>
+						<p>Next we should put a 20 in the "26<sup>1</sup>" column, and lastly a 12 in the ones.</p>
+						<p><b><i>Why?</i></b></p>
+						<p>Because our first division work  has really said that:<br>
+<br>
+1208 = 46 × 26 + 12<br>
+<br>
+So,  12 belongs in the ones column, and from here on we are dealing with the first power of 26:<br>
+<br>
+46 = 1 × 26 + 20 (so 20 belongs in the ×26 column, and we put 1 in the ×26×26 column)</p>
+						So the answer is:
+			
+						<div class="simple">
+			  				<table align="center" width="150" border="0">
+								<tbody>
+<tr style="text-align:center;">
+				  					<th width="30">26<sup>2</sup></th>
+									<th width="30">26<sup>1</sup></th>
+									<th align="center" width="30">1s</th>
+								</tr>
+			    				<tr style="text-align:center;">
+				  					<td style="width:30px;">1</td>
+									<td style="width:30px;">20</td>
+									<td style="text-align:center; width:30px;">12</td>
+								</tr>
+		  				  </tbody></table><br>
+</div>
+						<p>And if we substitute letters for numbers we get:<span class="large">  ATL</span></p>
+			<p>Now, let's see if it has worked:</p>
+			<table style="border: 0; margin:auto;">
+				<tbody>
+<tr>
+					<td style="text-align:right;">1 × 26<sup>2</sup> = </td>
+					<td style="text-align:right;">676</td>
+				</tr>
+				<tr>
+					<td style="text-align:right;">+ 20 × 26 = </td>
+					<td style="text-align:right;">520</td>
+				</tr>
+				<tr>
+					<td style="text-align:right;">+ 12 × 1 = </td>
+					<td style="text-align:right;">12</td>
+				</tr>
+				<tr>
+					<td style="text-align:right;"><b>TOTAL:</b></td>
+					<td style="text-align:right;"><b>1208</b></td>
+				</tr>
+			</tbody></table>
+			
+						<p>So, to do whole numbers we do <b>repeated divisions</b> and put the results in from <b>right to left</b></p>
+						<p class="center"><i>Note: if we use the <b>A=0</b> style, then the code <b>ATL</b> is really <b>B__</b> you figure it out ;)</i></p>
+						<h2>What happens after the Decimal Point?</h2>
+						<p>Now, if you have followed how to do whole numbers, we can look at "decimals" (hmmm... not an accurate word because it means Base 10 but you know what I am talking about).</p>
+						<p>To do "decimals", we use <b>repeated multiplies</b> and build from <b>left to right</b>.</p>
+	<p>Let us try an example using PI (3.1416...), and convert it to base 26. The whole number part is easy, it converts into base 26 as 3, so next we move on to the "decimal" part:</p>
+						<p class="center">.1416 × 26 = &nbsp; 3.<span class="hilite">6816</span><br>
+.<span class="hilite">6816</span> × 26 = 17.<span class="hilite">7216</span><br>
+.<span class="hilite">7216</span> × 26 = 18.<span class="hilite">7616</span><br>
+etc...</p>
+						<p>Each time I drop the whole number part and just multiply the fractional part.</p>
+						<p>Now, the first answer says to put a 3 in the first "decimals" column, the second answer says to put a 17 in the second column etc ..</p>
+			<p>So the answer is:</p>
+<div class="simple">
+			  				<table style="border: 0; margin:auto;">
+			    				<tbody>
+<tr style="text-align:center;">
+				  					<td style="width:30px;">3</td>
+									<td style="width:30px;">.</td>
+									<td style="width:30px;">3</td>
+									<td style="width:30px;">17</td>
+									<td style="text-align:center; width:30px;">18</td>
+									<td style="width:30px;">...</td>
+								</tr>
+			  </tbody></table><br>
+</div>
+			<p>And if we substitute letters for numbers we get:<span class="large">  C.CQR</span></p>
+						<p>As a check I calculated 3 + 3/26 + 17/26<sup>2</sup> + 18/26<sup>3</sup> = 3.141556..., and that looks pretty good!</p>
+						<p>&nbsp;</p>
+<div class="questions">
+<script>getQ(1987,1988,1989,1990);</script>&nbsp;
+</div>
+
+<div class="related">
+  <a href="numbers/convert-base.html">Base Conversion Tool</a> 		  
+  <a href="numbers/convert-base23b1.html?to=letters">Automated Conversion of Base 26</a>		    
+</div>
+<!-- #EndEditable -->
+
+</article>
+<div id="adend" class="centerfull noprint"> 
+	<script>document.write(getAdEnd());</script> 
+</div>
+<footer id="footer" class="centerfull noprint">
+	<script>document.write(getFooter());</script>
+</footer>
+<div id="copyrt">
+Copyright © 2020 MathsIsFun.com
+</div>
+<script>document.write(getBodyEnd());</script>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/base-conversion-method.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:35:32 GMT -->
+</html>

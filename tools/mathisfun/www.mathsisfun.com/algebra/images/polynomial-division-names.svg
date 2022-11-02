@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="537.7" height="59.1" version="1.1" style="font-family:'Comic Sans MS'; font-size:26.5px; fill:#fb8b00;">
+<defs/>
+<g transform="translate(577.181,-1518.62)">
+	<text x="-452" y="1539.4">f(x)</text>
+	<text x="-305.5" y="1539.6" style="fill:#fd3301;">q(x)</text>
+	<text x="-371.5" y="1540" style="fill:#0197fd;">d(x)</text>
+	<text x="-221.7" y="1540.1" style="fill:#fdca01;">r(x)</text>
+	<text x="-394.8" y="1540.2" style="font-weight:bold; fill:black;">=</text>
+	<text x="-319.1" y="1532.7" style="font-weight:bold; fill:black;">.</text>
+	<text x="-173.8" y="1574.1" style="text-align:end; text-anchor:end; font-size:17px; fill:#fd3301;">Quotient</text>
+	<text x="-391.1" y="1574.6" style="text-align:end; text-anchor:end; font-size:17px; fill:#0197fd;">Divisor</text>
+	<text x="-578.7" y="1533.8" style="font-size:17px;">Dividend</text>
+	<text x="-122" y="1536.8" style="font-size:17px; fill:#fdca01;">Remainder</text>
+	<g transform="matrix(0.473,0,0,0.473,-223.611,1115.98)">
+		<path style="fill:#fdca01; stroke-width:4;" d="m 201.3,880.6 c -22.1,-4.8 -44.2,7.2 -65.9,1.5 -8.5,-2.3 -13.6,-10 0,-9.3 -1.3,2.9 7.2,-7.5 13.6,-2.7 -4.3,4.3 -24.6,11.4 -19.3,3.8 7.6,2.7 15.3,8 24.2,5.5 15,-1 43,-8 49.2,-0.6 l -1.1,1.1 -0.6,0.6 v 0 z"/>
+		<path style="fill:#fdca01; stroke-width:4;" d="m 128.8,875 c 2,4.9 25.3,17.1 11.6,19.8 -0.7,-4.6 -19.2,-14.7 -13.8,-18.6 l 1.4,-0.8 0.7,-0.4 v 0 z"/>
+	</g>
+	<g transform="matrix(-0.473,0,0,-0.473,-303.303,1952.97)">
+		<path style="fill:#fd3301; stroke-width:4;" d="m -100.1,811.5 c 18.8,1 41.2,7.7 50.6,25.6 -9.2,5.7 -10.6,-12.2 -20.4,-12.5 -4,-8.5 -43.2,-5.9 -30.1,-13 z"/>
+		<path style="fill:#fd3301; stroke-width:4;" d="m -62.6,833.3 c 13.9,-0.8 17,19.7 9.9,4.8 1.1,-6.3 1.2,-22.6 11.1,-18.5 -8.2,6.8 -0.6,23.2 -10.2,25.6 -3,-5.5 -21.9,-7 -10.8,-11.9 z"/>
+	</g>
+	<g transform="matrix(0.473,0,0,-0.473,-293.48,1983.59)">
+		<path style="fill:#0197fd; stroke-width:4;" d="m -194.1,867.4 c 21.4,-3.7 45,11.6 45.2,34.5 1.4,14.7 -9.6,-0.5 -7.7,-8.8 -4.5,-17.1 -25.4,-23.9 -41.2,-21.4 1.2,-1.4 2.5,-2.8 3.7,-4.2 z"/>
+		<path style="fill:#0197fd; stroke-width:4;" d="m -164.3,894.1 c 6.3,0.6 24.5,19.6 11.2,19.1 5,-7.7 8.7,-25.1 19.3,-24.5 3.2,3.6 -13.5,16.2 -13.8,24.9 -9.9,3 -9.1,-16.5 -21.4,-16.3 1.6,-1.1 3.1,-2.1 4.7,-3.2 z"/>
+	</g>
+	<g transform="matrix(-0.345248,0,0,0.473,-464.361,1077.32)">
+		<path style="stroke-width:4;" d="M 110.9,957.4 C 75.3,942.8 37.4,972.5 2.5,956.1 c 9,-7.1 15.4,-2.2 26.6,-10.3 13.3,3.2 -17.9,11.5 -23.1,10.7 -1.2,-7 14.4,2.3 22.4,0.8 29,-1.1 58.3,-14.9 87,-3.5 -1.5,1.2 -2.9,2.4 -4.4,3.6 z"/>
+		<path style="stroke-width:4;" d="m 9.3,956.2 c 3.8,3.2 19.6,8.9 17.1,13.8 -5.5,5.7 -9.5,-7.3 -15.6,-7.2 -6.1,-3.8 -8.4,-2 -1.5,-6.5 z"/>
+	</g>
+	<text x="-246.8" y="1540.2" style="font-weight:bold; fill:black;">+</text>
+</g>
+</svg>

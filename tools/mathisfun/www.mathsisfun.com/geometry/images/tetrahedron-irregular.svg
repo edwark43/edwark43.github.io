@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="169.842"
+   height="204.565"
+   viewBox="0 0 44.9373 54.1245"
+   version="1.1"
+   id="svg14493"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="tetrahedron-irregular.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14495"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     units="px"
+     inkscape:snap-global="true" />
+  <defs
+     id="defs14490">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient22034">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.484496"
+         offset="0"
+         id="stop22030" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop22032" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22034"
+       id="radialGradient22036"
+       cx="160.355"
+       cy="50.8891"
+       fx="160.355"
+       fy="50.8891"
+       r="4.06834"
+       gradientTransform="matrix(1.44228,-0.013843,-0.010379,2.47784,-133.507,2.53584)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-135.211,-12.7558)">
+    <path
+       style="fill:#1af502;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 142.591,54.1747 11.246,12.6515 26.241,-12.0268 z"
+       id="path19546" />
+    <path
+       style="fill:#1a11e6;fill-opacity:0.77907;fill-rule:evenodd;stroke:#000000;stroke-width:0.0793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 135.25,12.7847 7.341,41.39 11.246,12.6513 z"
+       id="path15656" />
+    <path
+       style="fill:#1af502;fill-opacity:0.879845;fill-rule:evenodd;stroke:#000000;stroke-width:0.0793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 180.078,54.7994 135.25,12.7847 153.837,66.826 Z"
+       id="path15804" />
+    <ellipse
+       style="color:#000000;font-variation-settings:normal;overflow:visible;opacity:1;fill:url(#radialGradient22036);fill-opacity:1;stroke:none;stroke-width:0.0795696;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="path21948"
+       cx="97.2419"
+       cy="126.412"
+       rx="6.18874"
+       ry="10.9433"
+       transform="matrix(0.844792,-0.535095,0.615915,0.787813,0,0)" />
+  </g>
+</svg>

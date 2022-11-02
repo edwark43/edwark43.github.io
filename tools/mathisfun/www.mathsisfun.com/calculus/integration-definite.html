@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/calculus/integration-definite.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:38:52 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Definite Integrals</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents.">
+
+
+<style>
+.intto {text-align:left; width:20px; font: 16px Arial; margin: 0 0 -10px 33px;} 
+.intsymb {font:italic 40px/45px Arial, Georgia;}
+.intfrom {text-align:left; width:20px; overflow:visible; font: 16px Arial; margin: -16px 0 0 28px;}
+.inttext {font-size: 17px; display:inline-block; position: relative;  margin-left: -10px; margin-right: -12px; transform: translateY(-75%); }
+</style> 
+ 
+
+
+
+
+
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<link rel="stylesheet" href="local.html">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+<h1 class="center">Definite Integrals</h1>
+
+<p class="center">You might like to read <a href="integration-introduction.html">Introduction to Integration</a> first!</p>
+	<h2>Integration</h2>
+	<table style="border: 0;">
+		<tbody>
+<tr>
+			<td>
+<p><a href="integration-introduction.html">Integration</a> can be used to find areas, volumes, central points and many useful things. But it is often used to find the <b>area under the graph of a function</b> like this:</p></td>
+			<td>&nbsp;</td>
+			<td><span class="center"><img src="images/integral-area.gif" alt="integral area" height="171" width="195"></span></td>
+		</tr>
+		<tr>
+			<td>
+<p>The  area can be found by adding slices that <b>approach zero in width</b>:</p>
+				<p>And there are <a href="integration-rules.html">Rules of Integration</a> that help us get the answer.</p></td>
+			<td>&nbsp;</td>
+			<td><img src="images/integral-area0.gif" alt="integral area dx" height="171" width="195"></td>
+		</tr>
+	</tbody></table>
+	<h2>Notation</h2>
+<p style="float:right; margin: 0 0 5px 10px;"><img src="images/integral-notation-1.svg" alt="integral notation" height="121" width="306"></p>
+<p>The symbol for "Integral" is a stylish "S" (for "Sum", the  idea of summing  slices):</p>
+<p><br></p>After the Integral Symbol we put the function we want to find the integral of (called the Integrand).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>And  then finish with <b>dx</b> to mean the slices go in the x direction (and approach zero in width).</p>
+	<h2>Definite Integral</h2>
+	<p>A <b>Definite Integral</b> has start and end values: in other words there is an <b>interval</b> [a, b].</p>
+	<p>a and b  (called limits, bounds or boundaries) are put at the bottom and top of the "S", like this:</p>
+	<table style="border: 0; margin:auto;">
+		<tbody>
+<tr>
+			<td><img src="images/definite-integral.gif" alt="definite integral" height="210" width="195"></td>
+			<td style="width:30px;">&nbsp;</td>
+			<td><img src="images/indefinite-integral.gif" alt="indefinite integral" height="210" width="195"></td>
+		</tr>
+		<tr style="text-align:center;">
+			<td><b>Definite</b> Integral<br>
+(from <b>a</b> to <b>b</b>)</td>
+			<td>&nbsp;</td>
+			<td><b>Indefinite</b> Integral<br>
+(no specific values)</td>
+		</tr>
+	</tbody></table>
+	<p>We  find the  Definite Integral by calculating the <i>Indefinite</i> Integral at <b>a</b>, and at <b>b</b>, then subtracting:</p>
+	<div class="example">
+		<p style="float:right; margin: 0 0 5px 10px;"><img src="images/integral-def-1graph.svg" alt="definite integral y=2x from 1 to 2 as graph" height="149" width="107"></p>
+		<h3>Example: What is
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="center" style="font-size:18px;"> 
+
+
+				<div style="display:inline-block; text-align:center;">
+					<div class="intto">2</div>
+					<div class="intsymb">∫</div>
+					<div class="intfrom">1</div>
+				</div>
+				<div class="inttext">2x dx</div>
+
+
+</div></h3>
+		<p>We are being asked<span class="center"> for the <b>Definite Integral</b>, from 1 to 2, of <b>2x</b>&nbsp;dx</span></p>
+		<p>First we need to find the <i><b>Indefinite</b></i><b> Integral</b>.</p>
+		<p>Using the <a href="integration-rules.html">Rules of Integration</a> we find that <b><span style="font-size:150%;">∫</span>2x dx = x<sup>2</sup> + C</b></p>
+		<p>Now calculate that at 1, and 2:</p>
+		<ul>
+			<li>At x=1: <span style="font-size:150%;">∫</span>2x dx = <b>1<sup>2</sup> + C</b></li>
+			<li>At x=2: <span style="font-size:150%;">∫</span>2x dx = <b>2<sup>2</sup> + C</b></li>
+		</ul>
+		<p>Subtract:</p>
+		<div class="so">(2<sup>2</sup> + C) − (1<sup>2</sup> + C) </div>
+		<div class="so">2<sup>2</sup> + C − 1<sup>2</sup> − C </div>
+		<div class="so">4 − 1 + <span class="hilite">C − C</span> = 3</div>
+		<p>And  "C" gets cancelled out ... so with <b>Definite Integrals we can ignore C</b>.</p>
+		<p>Result:</p>
+
+<div class="center">
+<div style="display:inline-block; text-align:center;">
+					<div class="intto">2</div>
+					<div class="intsymb">∫</div>
+					<div class="intfrom">1</div>
+		</div>
+				<div class="inttext">2x dx = <b>3</b></div>
+</div>
+
+
+
+		<p>&nbsp;</p>
+		<p style="float:right; margin: 0 0 5px 10px;"><img src="images/integral-def-12.svg" alt="area of y=2x from 1 to 2 equals 3" height="164" width="207"></p>
+		<p><b>Check</b>: with such a simple shape, let's also try  calculating the area by geometry:</p>
+		<p class="center large">A = <span class="intbl"><em>2+4</em><strong>2</strong></span> × 1 = 3</p>
+		<p>Yes, it does have an area of 3.</p>
+		<p>(Yay!)</p>
+	</div>
+
+	<p><b>Notation</b>: It is usual to show the indefinite  integral (without the +C)  inside square brackets, with   the limits <b>a</b> and <b>b</b> after, like this:</p>
+	<div class="example">
+		<h3>Example (continued)</h3>
+		<p>How to show your answer:</p>
+		<div class="tbl">
+			<div class="row"><span class="left">
+				<div style="display:inline-block; text-align:center;">
+					<div class="intto">2</div>
+					<div class="intsymb">∫</div>
+					<div class="intfrom">1</div>
+				</div>
+				<div class="inttext">2x dx</div>
+				</span><span class="rtlt" style="transform: translateY(-30%);">= <span style="font-size:140%;">[</span> x<sup>2</sup> <span style="font-size:140%;">]</span><div style="display:inline-block; text-align:center;transform: translateY(20%);">
+				<div style="font-family: 'Times New Roman', Times, serif; ">2</div>
+				<div style="font-family: 'Times New Roman', Times, serif; ">1</div>
+			</div></span></div>
+			<div class="row"><span class="left">&nbsp;</span><span class="rtlt">= 2<sup>2</sup> − 1<sup>2</sup></span></div>
+			<div class="row"><span class="left">&nbsp;</span><span class="rtlt">= <b>3</b></span></div>
+	</div>
+
+	</div>
+	
+	<p>&nbsp;</p>
+<p>Let's try another example:</p>
+	<div class="example">
+		<p style="float:right; margin: 0 0 5px 10px;"><img src="images/integral-def-5.svg" alt="definite integral y=cos(x) from 0.5 to 1 graph" height="119" width="147"></p>
+		<h3>Example:</h3>
+		<p class="center">The Definite Integral, from 0.5 to 1.0, of <b>cos(x)</b> dx:</p>
+<div class="center" style="font-size:18px;">
+		<div style="display:inline-block; text-align:center;">
+					<div class="intto">1</div>
+					<div class="intsymb">∫</div>
+					<div class="intfrom">0.5</div>
+				</div>
+				<div class="inttext">cos(x) dx</div>
+				</div>
+		<p>(Note: x must be  in <a href="../geometry/radians.html">radians</a>)</p>
+		<p>&nbsp;</p>
+		<p>The <i>Indefinite</i> Integral is: <span style="font-size:150%;"><b>∫</b></span><b>cos(x) dx = sin(x) + C</b></p>
+		<p>We can ignore C for definite integrals (as we saw above) and we get:</p>
+
+
+<div class="tbl">
+			<div class="row"><span class="lt">
+				<div style="display:inline-block; text-align:center;">
+					<div class="intto">1</div>
+					<div class="intsymb">∫</div>
+					<div class="intfrom">0.5</div>
+				</div>
+				<div class="inttext">cos(x) dx</div></span><span class="rtlt" style="transform: translateY(-30%);">= <span style="font-size:140%;">[</span> sin(x) <span style="font-size:140%;">]</span>
+<div style="display:inline-block; text-align:center;transform: translateY(20%);">
+				<div style="font-family: 'Times New Roman', Times, serif; ">1</div>
+				<div style="font-family: 'Times New Roman', Times, serif; ">0.5</div>
+			</div></span></div>
+			<div class="row"><span class="left">&nbsp;</span><span class="rtlt"> = sin(1) − sin(0.5)</span></div>
+			<div class="row"><span class="left">&nbsp;</span><span class="rtlt"> = 0.841... − 0.479...</span></div>
+			<div class="row"><span class="left">&nbsp;</span><span class="rtlt">= <b>0.362...</b></span></div>
+	</div>
+	</div>
+	<p>And  another example to make an important point:</p>
+	<div class="example">
+		<p style="float:right; margin: 0 0 5px 10px;"><img src="images/integral-def-9.svg" alt="definite integral y=sin(x) from 0 to 1 graph" height="119" width="147"></p>
+		<h3>Example:</h3>
+		<p class="center">The Definite Integral, from 0 to 1, of <b>sin(x)</b> dx:</p>
+		
+		<div class="center" style="font-size:18px;">
+				<div style="display:inline-block; text-align:center;">
+					<div class="intto">1</div>
+					<div class="intsymb">∫</div>
+					<div class="intfrom">0</div>
+				</div>
+				<div class="inttext">sin(x) dx</div>
+</div>
+		<p>The <i>Indefinite</i> Integral is: <span style="font-size:150%;"><b>∫</b></span><b>sin(x) dx = −cos(x) + C</b></p>
+		<p>Since we are going from 0, <b>can we</b> just calculate the integral at x=1 ??</p>
+		<p class="center">−cos(1) = −0.540...</p>
+		<p>What? It is <b>negative</b>? But it looks positive in the graph.</p>
+		<p>Well ... we made a <b>mistake</b>!</p>
+		<p>Because <b>we need to subtract the integral at x=0</b>. We shouldn't assume it is zero.</p>
+		<p>&nbsp;</p>
+		<p>So let us do it properly, subtracting one from the other:</p>
+		
+	<div class="tbl">
+			<div class="row"><span class="left">
+				<div style="display:inline-block; text-align:center;">
+					<div class="intto">1</div>
+					<div class="intsymb">∫</div>
+					<div class="intfrom">0</div>
+				</div>
+				<div class="inttext">sin(x) dx</div>
+				</span><span class="rtlt" style="transform: translateY(-30%);">= <span style="font-size:140%;">[</span> −cos(x) <span style="font-size:140%;">]</span><div style="display:inline-block; text-align:center;transform: translateY(20%);">
+				<div style="font-family: 'Times New Roman', Times, serif; ">1</div>
+				<div style="font-family: 'Times New Roman', Times, serif; ">0</div>
+			</div></span></div>
+			<div class="row"><span class="left">&nbsp;</span><span class="rtlt">= −cos(1) − (−cos(0))</span></div>
+			<div class="row"><span class="left">&nbsp;</span><span class="rtlt">= −0.540... − (−1)</span></div>
+			<div class="row"><span class="left">&nbsp;</span><span class="rtlt">= <b>0.460...</b> </span></div>
+	</div>
+		
+		<p>That's better!</p>
+	</div>
+	<p>But we <i><b>can</b></i><b> have negative regions</b>, when the curve is below the axis:</p>
+	<div class="example">
+		<p style="float:right; margin: 0 0 5px 10px;"><img src="images/integral-def-cos-1-3.svg" alt="definite integral y=cos(x) from 1 to 3 " height="127" width="212"></p>
+    
+		<h3>Example:</h3>
+		<p class="center">The Definite Integral, from 1 to 3, of <b>cos(x)</b> dx:</p>
+		
+
+
+<div class="center" style="font-size:18px;">
+				<div style="display:inline-block; text-align:center;">
+					<div class="intto">3</div>
+					<div class="intsymb">∫</div>
+					<div class="intfrom">1</div>
+				</div>
+				<div class="inttext">cos(x) dx</div>
+</div>
+
+		<p class="center">Notice that some of it is positive, and some negative.<br>
+The definite integral will work out the <b>net</b> value.</p>
+		<p>&nbsp;</p>
+		
+		<p>Let us do the calculations:</p>
+		<div class="tbl">
+
+			<div class="row"><span class="left">
+				<div style="display:inline-block; text-align:center;">
+					<div class="intto">3</div>
+					<div class="intsymb">∫</div>
+					<div class="intfrom">1</div>
+				</div>
+				<div class="inttext">cos(x) dx</div>
+				</span> 
+
+<span class="rtlt" style="transform: translateY(-30%);">= <span style="font-size:140%;">[</span> sin(x) <span style="font-size:140%;">]</span><div style="display:inline-block; text-align:center;transform: translateY(20%);">
+				<div style="font-family: 'Times New Roman', Times, serif; ">3</div>
+				<div style="font-family: 'Times New Roman', Times, serif; ">1</div>
+			</div></span>
+
+</div>
+
+
+			<div class="row"><span class="left">
+				&nbsp;
+			</span> <span class="rtlt" style="vertical-align:middle;">= sin(3) − sin(1) </span></div>
+			<div class="row"><span class="left">&nbsp;</span><span class="rtlt">= 0.141... − 0.841...</span></div>
+			<div class="row"><span class="left">&nbsp;</span><span class="rtlt">= <b>−0.700...</b></span><span class="rtlt"></span></div>
+		</div>
+		<p>So there is more  negative than positive with a net result of −0.700....</p>
+	</div>
+	So we have this important thing to remember:
+	<div class="def center">
+		<div style="display:inline-block; text-align:center;">
+			<div class="intto">b</div>
+			<div class="intsymb">∫</div>
+			<div class="intfrom">a</div>
+		</div>
+		<div class="inttext">f(x) dx&nbsp;  = &nbsp;(Area above  x axis) − (Area below x axis)</div>
+		
+	</div>
+	<p>&nbsp;</p>
+	<p>Try integrating cos(x) with different start and end values to  see for yourself how positives and negatives work.</p>
+	<h2>Positive Area</h2>
+	<p>But sometimes we want all area treated as <b>positive</b> (without the part below the axis being subtracted).</p>
+	<p>In that case we must calculate the areas <b>separately</b>, like in this example:</p>
+	<div class="example">
+		
+		<span style="float:right; margin: 0 0 5px 10px;"><img src="images/integral-def-cos-1-3p.svg" alt="area y=cos(x) from 1 to 3 positive both above and below" height="127" width="212"></span>
+		<h3>Example: What is the <b>total area</b> between y = cos(x) and the x-axis, from x = 1 to x = 3?</h3>
+		<p>This is like the example we just did, but now we expect that <b>it is all positive</b> (imagine we had to paint it).</p>
+		<p>So now we have to do the parts separately:</p>
+		<ul>
+			<li>One for the area above the x-axis</li>
+			<li>One for the area below the x-axis</li>
+		</ul>
+		<p>The curve crosses the x-axis at x = <span class="times">π</span>/2 so we have:</p>
+		<p>From 1 to <span class="times">π</span>/2:</p>
+		<div class="tbl">
+			<div class="row"><span class="left">
+				<div style="display:inline-block; text-align:center;">
+					<div class="intto"><span class="times">π</span>/2</div>
+					<div class="intsymb">∫</div>
+					<div class="intfrom">1</div>
+				</div>
+				<div class="inttext">cos(x) dx</div>
+				</span> <span class="rtlt" style="vertical-align:middle;">= sin(<span class="times">π</span>/2) − sin(1) </span></div>
+			<div class="row"><span class="left">&nbsp;</span><span class="rtlt">= 1 − 0.841...</span></div>
+			<div class="row"><span class="left">&nbsp;</span><span class="rtlt">= <b>0.158...</b></span></div>
+		</div>
+		<p>From <span class="times">π</span>/2 to 3:</p>
+		<div class="tbl">
+			<div class="row"><span class="left">
+				<div style="display:inline-block; text-align:center;">
+					<div class="intto">3</div>
+					<div class="intsymb">∫</div>
+					<div class="intfrom"><span class="times">π</span>/2</div>
+				</div>
+				<div class="inttext">cos(x) dx</div>
+				</span> <span class="rtlt" style="vertical-align:middle;">= sin(3) − sin(<span class="times">π</span>/2) </span></div>
+			<div class="row"><span class="left">&nbsp;</span><span class="rtlt">= 0.141... − 1</span></div>
+			<div class="row"><span class="left">&nbsp;</span><span class="rtlt">= <b>−0.859...</b></span></div>
+		</div>
+		<div class="center">
+			<div style="display:inline-block; text-align:center;">
+				<div style="font-family: 'Times New Roman', Times, serif; "></div>
+			</div>
+		</div>
+		<p>That last one comes out negative, but we want it to be positive, so:</p>
+		<p class="center larger">Total area = 0.158... <span class="hilite">+</span> 0.859... = <b>1.017</b>...</p>
+		<p>This is very different from the answer  in the previous example.</p>
+	</div>
+	<h2>Continuous</h2>
+	<p>Oh yes, the function we are integrating must be <a href="continuity.html">Continuous</a> between <b>a</b> and <b>b</b>: no holes, jumps or vertical asymptotes (where the function heads up/down towards infinity).</p>
+	<div class="example">
+		<p style="float:right; margin: 0 0 5px 10px;"><img src="images/continuous-asymp-no.gif" alt="not continuous asymptote" height="109" width="147"></p>
+		<h3>Example:</h3>
+		<p>A vertical asymptote between <b>a</b> and <b>b</b> affects the definite integral.</p>
+		<div style="clear:both"></div>
+	</div>
+	<h2>Properties</h2>
+	<h3>Area above − area below</h3>
+	<p>The integral adds the area above the axis but subtracts the area below, for a "net value":</p>
+	<div class="center">
+		<div style="display:inline-block; text-align:center;">
+			<div class="intto">b</div>
+			<div class="intsymb">∫</div>
+			<div class="intfrom">a</div>
+		</div>
+		<div class="inttext">f(x) dx&nbsp;  = &nbsp;(Area above  x axis) − (Area below x axis)</div>
+	</div>
+	<p>&nbsp;</p>
+	<h3>Adding Functions</h3>
+	<p>The integral of <b>f+g</b> equals the integral of <b>f</b> plus the integral of <b>g</b>:</p>
+	<div class="center">
+		<div style="display:inline-block; text-align:center;">
+			<div class="intto">b</div>
+			<div class="intsymb">∫</div>
+			<div class="intfrom">a</div>
+		</div>
+		<div class="inttext">f(x) + g(x) dx&nbsp;  = </div>
+		<div style="display:inline-block; text-align:center;">
+			<div class="intto">b</div>
+			<div class="intsymb">∫</div>
+			<div class="intfrom">a</div>
+		</div>
+		<div class="inttext">f(x) dx&nbsp;  + </div>
+		<div style="display:inline-block; text-align:center;">
+			<div class="intto">b</div>
+			<div class="intsymb">∫</div>
+			<div class="intfrom">a</div>
+		</div>
+		<div class="inttext">g(x) dx &nbsp;</div>
+	</div>
+	<p>&nbsp;</p>
+	<h3>Reversing the interval</h3>
+	<p style="float:right; margin: 0 0 5px 10px;"><img src="images/integral-def-propneg.svg" alt="definite integral negative property" height="94" width="142"></p>
+	<p>Reversing the direction of the interval  gives the  negative of the original direction.</p>
+  
+  	<div class="center">
+		<div style="display:inline-block; text-align:center;">
+			<div class="intto">b</div>
+			<div class="intsymb">∫</div>
+			<div class="intfrom">a</div>
+		</div>
+		<div class="inttext">f(x) dx&nbsp;  = &nbsp;−</div>
+<div style="display:inline-block; text-align:center;">
+			<div class="intto">a</div>
+			<div class="intsymb">∫</div>
+			<div class="intfrom">b</div>
+		</div>
+		<div class="inttext">f(x) dx</div>
+		
+	</div>
+
+  
+	
+	<p>&nbsp;</p>
+	<h3>Interval of zero length</h3>
+	<p style="float:right; margin: 0 0 5px 10px;"><img src="images/integral-def-prop0.svg" alt="definite integral area zero" height="94" width="142"></p>
+	<p>When the interval starts and ends at the same place, the result is zero:</p>
+	<div class="center">
+		<div style="display:inline-block; text-align:center;">
+			<div class="intto">a</div>
+			<div class="intsymb">∫</div>
+			<div class="intfrom">a</div>
+		</div>
+		<div class="inttext">f(x) dx&nbsp;  =&nbsp; 0</div></div>
+	
+	<h3>Adding intervals</h3>
+	<p style="float:right; margin: 0 0 5px 10px;"><img src="images/integral-def-prop-add.svg" alt="area a to b = a to c plus c to b" height="94" width="142"></p>
+	<p>We can also add two adjacent intervals together:</p>
+<div class="center">
+		<div style="display:inline-block; text-align:center;">
+			<div class="intto">b</div>
+			<div class="intsymb">∫</div>
+			<div class="intfrom">a</div>
+		</div>
+		<div class="inttext">f(x) dx&nbsp;  = </div>
+		<div style="display:inline-block; text-align:center;">
+			<div class="intto">c</div>
+			<div class="intsymb">∫</div>
+			<div class="intfrom">a</div>
+		</div>
+		<div class="inttext">f(x) dx&nbsp;  + </div>
+		<div style="display:inline-block; text-align:center;">
+			<div class="intto">b</div>
+			<div class="intsymb">∫</div>
+			<div class="intfrom">c</div>
+		</div>
+		<div class="inttext">f(x) dx &nbsp;</div>
+	</div>
+	
+	<h2>Summary</h2>
+	<p>The  Definite Integral between <b>a</b> and <b>b</b> is the   Indefinite Integral at <b>b</b> minus the Indefinite Integral at<b> a</b>.</p>
+	<p>&nbsp;</p>
+	<div class="questions">6864, 6865, 6866, 6867, 6868, 6869, 6870, 6871, 6872, 6873, 6874</div>
+
+<div class="related">   
+  <a href="integration-introduction.html">Introduction to Integration</a>   
+  <a href="index.html">Calculus Index</a> 
+</div>
+	<!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2021 MathsIsFun.com</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/calculus/integration-definite.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:38:54 GMT -->
+</html>

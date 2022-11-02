@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="300.5"
+   height="145.2"
+   version="1.1"
+   style="font-family:'Comic Sans MS';font-size:13.3px;fill:black;stroke-width:0.5"
+   id="svg99"
+   sodipodi:docname="inverse-tangent-graph.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview101"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg99" />
+  <defs
+     id="defs5">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1109" />
+    </marker>
+    <marker
+       id="aa23"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:black;stroke-width:1pt;fill:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend7244"
+       inkscape:isstock="true"
+       id="Arrow1Mend7244">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:#204a87;stroke:#204a87;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1426" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend7538"
+       inkscape:isstock="true"
+       id="Arrow1Mend7538">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:#204a87;stroke:#204a87;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1429" />
+    </marker>
+  </defs>
+  <line
+     x1="39.4"
+     y1="130.4"
+     x2="39.4"
+     y2="9.6"
+     style="opacity:1;stroke:#999999;stroke-width:0.5;fill:none;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.6;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     id="line7" />
+  <line
+     x1="66.6"
+     y1="130.4"
+     x2="66.6"
+     y2="9.6"
+     style="opacity:1;stroke:#999999;stroke-width:0.5;fill:none;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.6;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     id="line9" />
+  <line
+     x1="93.7"
+     y1="130.4"
+     x2="93.7"
+     y2="9.6"
+     style="opacity:1;stroke:#999999;stroke-width:0.5;fill:none;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.6;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     id="line11" />
+  <line
+     x1="120.9"
+     y1="130.4"
+     x2="120.9"
+     y2="9.6"
+     style="opacity:1;stroke:#999999;stroke-width:0.5;fill:none;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.6;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     id="line13" />
+  <line
+     x1="175.2"
+     y1="130.4"
+     x2="175.2"
+     y2="9.6"
+     style="opacity:1;stroke:#999999;stroke-width:0.5;fill:none;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.6;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     id="line15" />
+  <line
+     x1="202.4"
+     y1="130.4"
+     x2="202.4"
+     y2="9.6"
+     style="opacity:1;stroke:#999999;stroke-width:0.5;fill:none;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.612403;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     id="line17" />
+  <line
+     x1="229.5"
+     y1="130.4"
+     x2="229.5"
+     y2="9.6"
+     style="opacity:1;stroke:#999999;stroke-width:0.5;fill:none;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.643411;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     id="line19" />
+  <line
+     x1="256.7"
+     y1="130.4"
+     x2="256.7"
+     y2="9.6"
+     style="opacity:1;stroke:#999999;stroke-width:0.5;fill:none;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.643411;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     id="line21" />
+  <line
+     x1="27.2"
+     y1="116.6"
+     x2="271.2"
+     y2="116.6"
+     style="opacity:1;stroke:#999999;stroke-width:0.5;fill:none;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.6;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     id="line23" />
+  <line
+     x1="27.2"
+     y1="29.6"
+     x2="269.9"
+     y2="29.6"
+     style="opacity:1;stroke:#999999;stroke-width:0.5;fill:none;font-variation-settings:normal;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.6;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     id="line25" />
+  <use
+     transform="matrix(0.5,0,0,0.5,-672.269,23.332)"
+     xlink:href="#aa21"
+     x="-180"
+     y="78"
+     id="use27" />
+  <use
+     transform="matrix(0.5,0,0,0.5,-672.269,23.332)"
+     xlink:href="#aa22"
+     x="-180"
+     y="-90"
+     id="use29" />
+  <use
+     transform="matrix(0.5,0,0,0.5,-672.269,23.332)"
+     xlink:href="#aa21"
+     x="-180"
+     y="78"
+     id="use31" />
+  <use
+     transform="matrix(0.5,0,0,0.5,-672.269,23.332)"
+     xlink:href="#aa22"
+     x="-180"
+     y="-90"
+     id="use33" />
+  <path
+     style="fill:none;stroke:#c17d11;stroke-width:1.43"
+     d="m 148.1,73.5 c -5.1,4.9 -10.2,9.7 -16.3,14 -2.7,1.9 -5.4,3.6 -8.2,5 -3.6,1.9 -7.2,3.4 -10.9,4.7 -4.5,1.6 -9,2.8 -13.6,3.8 -5.3,1.2 -10.9,2.1 -16.3,2.9 -7.1,1 -14.5,1.8 -21.7,2.4 -10.8,0.9 -22.8,1.6 -35.3,2.2 M 148.1,73.5 c 5.1,-4.9 10.2,-9.7 16.3,-14 2.7,-1.9 5.4,-3.6 8.2,-5 3.6,-1.9 7.2,-3.4 10.9,-4.7 4.5,-1.6 9,-2.8 13.6,-3.8 5.3,-1.2 10.9,-2.1 16.3,-2.9 7.1,-1 14.5,-1.8 21.7,-2.4 10.8,-0.9 22.8,-1.6 35.3,-2.2"
+     id="path35" />
+  <ellipse
+     cx="148.1"
+     cy="-73.5"
+     rx="1.1"
+     ry="1.1"
+     transform="scale(1,-1)"
+     style="fill:#ff0000;stroke-width:27.31"
+     id="ellipse37" />
+  <g
+     style="fill:none;stroke:currentColor;stroke-width:1"
+     transform="matrix(0.5,0,0,0.5,-1666.22,-405.81)"
+     id="g39" />
+  <g
+     style="fill:none;stroke:currentColor;stroke-width:4"
+     transform="matrix(0.5,0,0,0.5,-1666.22,-405.81)"
+     id="g41" />
+  <g
+     style="fill:none;stroke:currentColor;stroke-width:4"
+     transform="matrix(0.5,0,0,0.5,-1666.22,-405.81)"
+     id="g43" />
+  <g
+     style="fill:none;stroke:currentColor;stroke-width:4"
+     transform="matrix(0.5,0,0,0.5,-1666.22,-405.81)"
+     id="g45" />
+  <text
+     x="16.7"
+     y="33"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:center;text-anchor:middle;fill:#204a87"
+     id="text47"> π </text>
+  <text
+     x="9"
+     y="28.5"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:center;text-anchor:middle;font-size:9.6px;fill:#204a87"
+     id="text49"> 1 </text>
+  <text
+     x="8.9"
+     y="38.2"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:center;text-anchor:middle;font-size:9.6px;fill:#204a87"
+     id="text51"> 2 </text>
+  <path
+     style="fill:#204a87;stroke:black;stroke-width:0.54px"
+     d="M 6.2,30 H 11.6"
+     id="path53" />
+  <path
+     style="marker-end:url(#Arrow1Mend7538);fill:#2e3436;fill-opacity:0.75;stroke:#204a87;stroke-width:1.25"
+     d="M 26.8,73.5 H 283"
+     id="path55" />
+  <path
+     style="marker-end:url(#Arrow1Mend7244);fill:#2e3436;fill-opacity:0.75;stroke:#204a87;stroke-width:1.25"
+     d="M 148.4,130.9 V 2.5"
+     id="path57" />
+  <text
+     x="266.5"
+     y="90.3"
+     transform="scale(0.994441,1.00559)"
+     style="font-family:Trebuchet MS;font-size:22px;font-style:italic;stroke-width:0.5px;stroke:none;fill:#204a87"
+     id="text59">x</text>
+  <text
+     x="156.9"
+     y="14"
+     transform="scale(0.994441,1.00559)"
+     style="font-family:Trebuchet MS;font-size:22px;font-style:italic;stroke-width:0.5px;stroke:none;fill:#204a87"
+     id="text61">y</text>
+  <text
+     x="17.3"
+     y="119.5"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:center;text-anchor:middle;fill:#204a87"
+     id="text63"> π </text>
+  <text
+     x="9.6"
+     y="115.1"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:center;text-anchor:middle;font-size:9.6px;fill:#204a87"
+     id="text65"> 1 </text>
+  <text
+     x="9.5"
+     y="124.8"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:center;text-anchor:middle;font-size:9.6px;fill:#204a87"
+     id="text67"> 2 </text>
+  <path
+     style="fill:#204a87;stroke:black;stroke-width:0.54px"
+     d="M 6.7,117 H 12.2"
+     id="path69" />
+  <text
+     x="2.1"
+     y="119.5"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:center;text-anchor:middle;font-size:12.9px;fill:#204a87"
+     id="text71"> - </text>
+  <text
+     x="2.1"
+     y="119.5"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:center;text-anchor:middle;fill:#204a87"
+     id="text73"> - </text>
+  <text
+     x="286.7"
+     y="33.5"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:center;text-anchor:middle;fill:#ff4141"
+     id="text75"> 90° </text>
+  <text
+     x="289"
+     y="119.5"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:center;text-anchor:middle;fill:#ff4141"
+     id="text77"> -90° </text>
+  <text
+     x="98.6"
+     y="143.8"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:end;text-anchor:end;fill:#204a87"
+     id="text79"> -1 </text>
+  <text
+     x="132.5"
+     y="143.8"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:end;text-anchor:end;fill:#204a87"
+     id="text81"> -0.5 </text>
+  <text
+     x="185.6"
+     y="143.8"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:end;text-anchor:end;fill:#204a87"
+     id="text83"> 0.5 </text>
+  <text
+     x="206.7"
+     y="143.8"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:end;text-anchor:end;fill:#204a87"
+     id="text85"> 1 </text>
+  <text
+     x="152.3"
+     y="143.8"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:end;text-anchor:end;fill:#204a87"
+     id="text87"> 0 </text>
+  <text
+     x="17.1"
+     y="77.5"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:center;text-anchor:middle;fill:#204a87"
+     id="text89"> 0 </text>
+  <text
+     x="44.9"
+     y="143.8"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:end;text-anchor:end;fill:#204a87"
+     id="text91"> -2 </text>
+  <text
+     x="76.8"
+     y="143.8"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:end;text-anchor:end;fill:#204a87"
+     id="text93"> -1.5 </text>
+  <text
+     x="239.3"
+     y="143.8"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:end;text-anchor:end;fill:#204a87"
+     id="text95"> 1.5 </text>
+  <text
+     x="262.4"
+     y="143.8"
+     transform="scale(0.994441,1.00559)"
+     style="text-align:end;text-anchor:end;fill:#204a87"
+     id="text97"> 2 </text>
+</svg>

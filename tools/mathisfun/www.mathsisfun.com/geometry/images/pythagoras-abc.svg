@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="220.5" height="241.5" version="1.0">
+<defs/>
+<rect x="0" y="87.6" width="66.3" height="66.3" style="color:black; overflow:visible; fill:#99ff33; stroke-width:1.11;"/>
+<rect x="66.3" y="154" width="87.5" height="87.5" style="color:black; overflow:visible; fill:#9900cc; stroke-width:1.11;"/>
+<rect x="106.8" y="-81.4" width="108.4" height="110.6" style="color:black; overflow:visible; fill:#ff0000; stroke-width:1.11;" transform="rotate(37.3054)"/>
+<path style="fill:#99cc00; stroke:black; stroke-width:1.08px; stroke-linejoin:round;" d="M 66.9,88.6 V 154 H 153.5 Z"/>
+<rect x="66.9" y="140.4" width="13.4" height="13.4" style="color:black; overflow:visible; fill:none; stroke:black; stroke-width:0.98;"/>
+<text x="45.9" y="129.7" style="font-family:Arial; font-weight:bold; font-size:28.8px; stroke-width:1.11;">a</text>
+<text x="100.5" y="177.9" style="font-family:Arial; font-weight:bold; font-size:28.8px; stroke-width:1.11;">b</text>
+<text x="108.8" y="115.4" style="font-family:Arial; font-weight:bold; font-size:28.8px; stroke-width:1.11;">c</text>
+</svg>

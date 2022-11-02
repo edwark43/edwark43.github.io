@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Main.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/money/annuities.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:39:02 GMT -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Annuities</title>
+<meta name="description" content="An annuity is a fixed income over a period of time" />
+
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta http-equiv="pics-label" content='(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://www.mathsisfun.com" r (SS~~000 1))'>
+<link rel="stylesheet" type="text/css" href="../style3.css" />
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun" /></a></div>
+	<div id="gtran"><script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus"><script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort"><script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search"><script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+  
+						<h1 align="center">Annuities						</h1>
+						<p>An annuity is a <b>fixed income over a  period of time</b>. </p>
+						<div class="example">
+							<h3>Example: You get $200 a week for 10 years.</h3>
+						</div>
+						<p>How do you get such an income? <b>You buy it!</b></p>
+						<p>So: </p>
+						<ul>
+							<li><b>you pay them</b> one large amount, then</li>
+							<li><b>they pay you</b> back a series of small payments over time</li>
+						</ul>
+						<div class="example">
+							<h3>Example:  You buy an annuity</h3>
+							<p>It costs you <b>$20,000</b></p>
+							<p>And in return you get $400 a month for 5 years						</p>
+						</div>
+						<p><b><i>Is that a good deal?</i></b></p>
+						<div class="example">
+							<h3>Example (continued):  </h3>
+							<p> $400 a month for 5 years = $400 &times; 12 &times; 5 = <b>$24,000</b></p>
+							<p>Seems like a good deal ... you get back more than you put in.</p>
+			</div>
+						<p>Why do you get <b>more</b> income <i>($24,000)</i> than the annuity originally cost <i>($20,000)</i>?</p>
+						<p>Because <b>money now</b> is more valuable than money later.</p>
+						<p>The people who got your $20,000 can invest it and earn interest, or do other clever things to make more  money.</p>
+						<p>So how much <i>should</i> an annuity cost? </p>
+						<h2>Value of an Annuity</h2>
+						<p>First: let's  see the effect of an <b>interest rate of 10%</b> (imagine a bank account that earns 10% interest):</p>
+			<div class="example">
+							<h3>Example:  10% interest&nbsp;on $1,000</h3>
+							<p>$1,000 now could earn $1,000 x 10% = <b>$100</b> in a year.</p>
+							<p><b>$1,000 now</b>  becomes <b>$1,100 in a year's time</b>.</p>
+	</div>
+			<p class="center"><img src="images/pv-vs-fv-1yr.svg" alt="present value $1000 vs future value $1100" /><br>
+				<br />
+							So $1,100 next year is the <b>same</b> as $1,000 now (at 10% interest).</p>
+						<div class="center80">
+							<p class="center">The <b>Present Value</b> of $1,100 next year is <b>$1,000</b></p>
+						</div>
+						<p>So, at 10% interest:</p>
+						<ul>
+							<li>to go from <b>now</b> to <b>next year</b>: multiply by 1.10</li>
+							<li>to go from <b>next year</b> to <b>now</b>: divide by 1.10</li>
+						</ul>
+						<p>Now let's imagine an annuity of <b>4 yearly payments of $500</b>. </p>
+						<p>Your first payment of $500 is next year ... how much is that worth <b>now</b>?</p>
+			<div class="so">$500 &divide; 1.10 = $454.55 now (to nearest cent)</div>
+						<p>Your second payment is 2 years from now. How do we calculate that? Bring it back one year, then bring it back another year:</p>
+			<div class="so">$500 &divide; 1.10 &divide; 1.10 = $413.22 now </div>
+						<p>The third and 4th payment can also be brought back to today's values:</p>
+			<div class="so">$500 &divide; 1.10 &divide; 1.10 &divide; 1.10 = $375.66 now</div>
+			<div class="so">$500 &divide; 1.10 &divide; 1.10 &divide; 1.10 &divide; 1.10 = $341.51 now</div>
+			<p>Finally we add up the 4 payments (in today's value):</p>
+			<div class="so">Annuity Value = $454.55 + $413.22 + $375.66 + $341.51</div>
+			<div class="so">Annuity Value = $1,584.94</div>
+						<p>We have done our first annuity calculation!</p>
+						<p class="center larger">4 annual payments&nbsp;of $500 at 10% interest is worth <b>$1,584.94&nbsp;now</b></p>
+						<p>How about another example:</p>
+						<div class="example">
+							<h3>Example:  An annuity of $400 a month for 5 years. </h3>
+							<h3>Use a Monthly interest rate of  1%.</h3>
+						</div>
+						<p>12 months a year, 5 years, that is <b>60 payments</b> ... and a LOT of calculations.</p>
+						<p>We need an easier method. Luckily there is a neat formula:</p>
+						<div class="def">
+							<p class="center large">Present Value of Annuity: PV = P &times; 
+								<span class="intbl">
+								<em>1 &minus; (1+r)<sup>&minus;n</sup></em> 
+								<strong>r</strong>
+								</span></p>
+							<ul>
+								<li><b>P</b> is the value of each payment</li>
+								<li><b>r</b> is the interest rate per period, as a decimal, so 10% is 0.10</li>
+								<li><b>n</b> is the number of periods</li>
+							</ul>
+						</div>
+						<div class="example">
+							<h3>First, let's try it on our $500 for 4 years example.</h3>
+							<p>The interest rate per year is 10%, so <b>r = 0.10</b></p>
+							<p>There are 4 payments, so <b>n=4</b>, and each payment is $500, so <b>P = $500</b></p>
+							<div class="so">PV = $500 &times; <span class="intbl">
+								<em>1 &minus; (1.10)<sup>&minus;4</sup></em>
+								<strong>0.10</strong>
+							</span></div>
+							<div class="so">PV = $500 &times; <span class="intbl">
+								<em>1 &minus; 0.68301...</em>
+								<strong>0.10</strong>
+							</span></div>
+							<div class="so">PV = $500 &times; 
+							
+								3.169865...</div>
+							<div class="so">PV = <span class="intbl">$1584.93</span></div>
+						</div>
+						<p><b>It matches our answer above</b> (and is 1 cent more accurate)</p>
+						<div class="example">
+							<h3>Now let's try it on our $400 for 60 months example:</h3>
+							<p>The  interest rate is 1% per month, so <b>r = 0.01</b></p>
+							<p>There are 60 monthly payments, so <b>n=60</b>, and each payment is $400, so <b>P = $400</b></p>
+							<div class="so">PV = $400 &times; <span class="intbl">
+								<em>1 &minus; (1.01)<sup>&minus;60</sup></em>
+								<strong>0.01</strong>
+							</span></div>
+							<div class="so">PV = $400 &times; <span class="intbl">
+								<em>1 &minus; 0.55045...</em>
+								<strong>0.01</strong>
+							</span></div>
+							<div class="so">PV = $400 &times; 
+						
+								44.95504...</div>
+							<div class="so">PV = <span class="intbl">$17,982.02</span></div>
+							<p>Certainly easier than 60 separate calculations.</p>
+						</div>
+	<p><i>Note:  use the interest rate <b>per period</b>:  for monhtly payments use the monthly interest rate, etc.</i> </p>
+	<h2>Going the Other Way</h2>
+						<p>What if you know the annuity value and want to work out the payments?</p>
+						<div class="example">
+							<p>Say you have $10,000 and want to get a&nbsp;monthly income for 6 years, how much do you get each month&nbsp;(assume a&nbsp;monthly interest rate of 0.5%)</p>
+						</div>
+						<p>We need to change the subject of the formula above </p>
+<div class="tbl">
+<div class="row"><span class="left">Start with:</span><span class="right">PV = P &times; <span class="intbl">
+									<em>1 &minus; (1+r)<sup>&minus;n</sup></em>
+									<strong>r</strong>
+								</span></span></div>
+<div class="row"><span class="left">Swap sides:</span><span class="right">P &times; <span class="intbl">
+								<em>1 &minus; (1+r)<sup>&minus;n</sup></em>
+								<strong>r</strong>
+								</span> = PV</span></div>
+<div class="row"><span class="left">Multiply both  sides by <b>r</b>:</span><span class="right">P &times; (1 &minus; (1+r)<sup>&minus;n</sup>) = PV &times; r</span></div>
+<div class="row"><span class="left">Divide both  sides by									<b>1 &minus; (1+r)<sup>&minus;n</sup></b>								:</span><span class="right">P
+									<em> </em>= PV &times; <span class="intbl">
+									<em>r</em>									
+								<strong>1 &minus; (1+r)<sup>&minus;n</sup></strong>
+								</span></span></div>
+</div>
+<p>And we get this:</p>
+						<div class="def">
+							<p class="center large">P
+								<em> </em>
+									= PV &times; <span class="intbl">
+									<em>r</em>
+									<strong>1 &minus; (1+r)<sup>&minus;n</sup></strong>
+							</span></p>
+							<ul>
+								<li><b>P</b> is the value of each payment</li>
+								<li><b>PV</b> is the Present Value of Annuity</li>
+								<li><b>r</b> is the interest rate per period as a decimal, so 10% is 0.10</li>
+								<li><b>n</b> is the number of periods</li>
+							</ul>
+			</div>
+						<p>&nbsp;</p>
+						<div class="example">
+							<h3>Say you have $10,000 and want to get a&nbsp;monthly income for 6 years out of it, how much could you get each month&nbsp;(assume a&nbsp;monthly interest rate of 0.5%)</h3>
+							<p>The monthly interest rate is 0.5%, so <b>r = 0.005</b></p>
+							<p>There are 6x12=72 monthly payments, so <b>n=72</b>, and  <b>PV = $10,000</b></p>
+							
+							<div class="so">P
+									<em> </em>
+= PV &times; <span class="intbl">
+<em>r</em>
+<strong>1 &minus; (1+r)<sup>&minus;n</sup></strong>
+</span></div>
+							<div class="so">P
+								<em> </em>
+= $10,000 &times; <span class="intbl">
+<em>0.005</em>
+<strong>1 &minus; (1.005)<sup>&minus;72</sup></strong>
+</span></div>
+							<div class="so">P = $10,000 &times; 
+								
+								0.016572888...</div>
+							<div class="so">P = <span class="intbl"></span>$165.73</div>
+							<p>What do you prefer? <b>$10,000 now</b> or 6 years of <b>$165.73 a month</b></p>
+			</div>
+						<p>&nbsp;</p>
+						<div class="def">
+							<h3>Footnote:</h3>
+							<p>You don't need to remember this, but you may be curious how the formula comes about:</p>
+							<p>With <b>n</b> payments of <b>P</b>, and an interest rate of <b>r</b> we add up like this:</p>
+							<div class="so">P &times; <span class="intbl">
+							<em>1</em>
+							<strong>1+r</strong>
+								</span> + P &times; <span class="intbl">
+									<em>1</em>
+									<strong>(1+r)&times;(1+r)</strong>
+									</span><span class="intbl"> </span> + P &times; <span class="intbl">
+										<em>1</em>
+										<strong>(1+r)&times;(1+r)&times;(1+r)</strong>
+										</span><span class="intbl"> </span> + ... (n terms)<span class="intbl"></span></div>
+							<p>We can use exponents to help. <span class="intbl">
+								<em>1</em>
+								<strong>1+r</strong>
+								</span> is actually (1+r)<sup>&minus;1</sup> and&nbsp;<span class="intbl">
+									<em>1</em>
+									<strong>(1+r)&times;(1+r)</strong>
+								</span> is 
+								(1+r)<sup>&minus;2</sup> etc: </p>
+							<div class="so">P &times;&nbsp;(1+r)<sup>&minus;1</sup> + P &times;&nbsp;(1+r)<sup>&minus;2</sup> + P &times;&nbsp;(1+r)<sup>&minus;3</sup> + ... (n terms)<span class="intbl"></span></div>
+							<p>And we can bring the &quot;P&quot; to the front of all terms:</p>
+							<div class="so">P &times; [ (1+r)<sup>&minus;1</sup> + (1+r)<sup>&minus;2</sup> + (1+r)<sup>&minus;3</sup> + ... (n terms)<span class="intbl"></span> ]</div>
+							<p><i>To simplify that further is a little harder! We need some clever work using <a href="../algebra/sequences-sums-geometric.html">Geometric Sequences and Sums</a> b</i><i>ut trust me, it can be done ... and we get this:</i></p>
+							<div class="so">PV = P &times; <span class="intbl">
+							<em>1 &minus; (1+r)<sup>&minus;n</sup></em>
+								<strong>r</strong>
+							</span></div>
+						</div>
+						<p>&nbsp;</p><p>&nbsp;</p>
+<div class="questions">
+<script type="text/javascript">getQ(11322, 11323, 11324, 11325, 11326, 11327, 11328, 11329, 11330, 11331);</script>&nbsp;
+</div>
+
+						<div class="related"><a href="interest.html">Introduction to Interest</a> <a href="investment-graph.html">Investment Graph</a></div>
+						<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2017 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body>
+<!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/money/annuities.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:39:02 GMT -->
+</html>

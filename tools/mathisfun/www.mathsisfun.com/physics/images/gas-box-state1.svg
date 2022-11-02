@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="299.1" height="196.9" version="1.1" style="font-family:'Trebuchet MS'; fill:black;">
+<defs>
+	<linearGradient id="id3">
+		<stop offset="0" style="stop-color:#ff8aed; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#ff8aed; stop-opacity:0.69;"/>
+	</linearGradient>
+	<linearGradient id="id2">
+		<stop offset="0" style="stop-color:#ff8aed; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#ff8aed; stop-opacity:0.48;"/>
+	</linearGradient>
+	<linearGradient id="id1">
+		<stop offset="0" style="stop-color:#11a0ed; stop-opacity:0.1;"/>
+		<stop offset="1" style="stop-color:#11a0ed; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="id4" gradientTransform="matrix(2.41313,-1.67332,0,2.94343,4007.94,-10713.9)" xlink:href="#id1" x1="-1661.3" y1="2737.5" x2="-1631.3" y2="2737.5" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="id5" gradientTransform="matrix(2.93323,0,0,2.94343,4077.3,-10761.9)" xlink:href="#id1" x1="-1366.7" y1="3681.5" x2="-1287.8" y2="3681.5" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="id6" gradientTransform="matrix(2.93323,0,0,2.94343,4007.56,-10531)" xlink:href="#id1" x1="-1313.6" y1="3635.8" x2="-1268.7" y2="3634.8" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="id8" r="29.5142" fx="-1288.88" fy="3675.43" cx="-1288.9" cy="3675.4" gradientTransform="matrix(1,0,0,0.636573,1366.76,-2174.52)" xlink:href="#id2" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="id9" r="27.4081" fx="-1241.49" fy="3677.12" cx="-1241.5" cy="3677.1" gradientTransform="matrix(1.05636,0.358551,-0.226111,0.666164,2277.17,-1838.39)" xlink:href="#id3" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path style="stop-color:black; fill:url(#id4); stroke:#3465a4; stroke-width:1; stroke-linejoin:bevel;" d="m 0.5,48.7 69.4,-48.1 v 147.6 l -69.4,48.1 z"/>
+<path style="fill:url(#id5); stroke:#3465a4; stroke-width:1; stroke-linejoin:bevel;" d="m 69.9,0.7 v 147.6 c 0,0 228.7,-0.3 228.7,-0.3 V 0.5 Z"/>
+<path style="fill:url(#id6); stroke:#3465a4; stroke-width:1; stroke-linejoin:bevel;" d="m 0.5,196.4 228.7,-0.3 69.4,-48.1 -228.7,0.3 z"/>
+<ellipse cx="1242.7" cy="-284.7" rx="1.1" ry="0" style="fill:#ff0000; stroke:black; stroke-width:0.2px;"/>
+<text x="1153.5" y="-302.4" style="font-size:9.6px; stroke-width:0.2px;"/> &#160; 
+<use transform="matrix(0.761904,0,0,0.761904,764.181,-13.16)" xlink:href="#id7" x="0" y="0"/>
+<use transform="matrix(0.761904,0,0,0.761904,764.181,-13.16)" xlink:href="#id7" x="0" y="0"/>
+<use transform="matrix(0.761904,0,0,0.761904,764.181,-13.16)" xlink:href="#id7" x="0" y="0"/>
+<use transform="matrix(0.761904,0,0,0.761904,764.181,-13.16)" xlink:href="#id7" x="0" y="0"/>
+<use transform="matrix(0.761904,0,0,0.761904,723.779,-441.99)" xlink:href="#id7" x="0" y="0"/>
+<path style="fill:#11a0ed; fill-opacity:0.1; stroke:#3465a4; stroke-width:1; stroke-linejoin:bevel;" d="m 0.5,48.9 228.7,-0.3 69.4,-48.1 -228.7,0.3 z"/>
+<path style="stop-color:black; fill:#11a0ed; fill-opacity:0.1; stroke:#3465a4; stroke-width:1; stroke-linejoin:bevel;" d="m 229.2,48.6 69.3,-48.1 v 147.6 l -69.3,48.1 z"/>
+<path style="fill:url(#id8); stroke-width:1px;" d="m 52.3,161.3 c 0,0 20.9,1.1 24.8,-4.5 3.9,-5.6 15.4,-10.4 15.4,-10.4 0,0 17.7,-0.8 14.5,11 -3.2,11.8 -7.5,25.2 -19.9,26.4 -18.6,1.8 -49.7,-11 -34.8,-22.5 z"/>
+<path style="fill:url(#id9); stroke-width:1px;" d="m 157,179.7 c 0,0 -14.2,-4.3 -16.4,4.4 -2.1,8.7 -11.8,-6.7 -11.8,-6.7 0,0 -23.7,15 -24.8,-1.5 -1.1,-16.5 15.2,-13.6 28.8,-19.5 20.5,-8.9 36.5,3.1 24.1,23.4 z"/>
+<g style="fill:#19aeff; fill-opacity:0.64;" transform="translate(350.36,127.941)">
+	<circle id="id10" cx="-254.2" cy="43.9" r="1.8" style="stop-color:black; fill:#19aeff; fill-opacity:0.64; stroke-width:1.16;"/>
+	<use id="id11" transform="matrix(0.843751,0,0,0.843751,-25.7016,12.3347)" xlink:href="#id10" x="0" y="0"/>
+	<use id="id12" transform="rotate(-17.3478,-190.963,60.437)" xlink:href="#id10" x="0" y="0"/>
+	<use id="id13" transform="rotate(-17.3478,-190.963,60.437)" xlink:href="#id11" x="0" y="0"/>
+	<use id="id14" transform="rotate(7.16547,867.93,1410.06)" xlink:href="#id10" x="0" y="0"/>
+	<use id="id15" transform="rotate(7.16547,867.93,1410.06)" xlink:href="#id11" x="0" y="0"/>
+	<use id="id16" transform="rotate(7.16547,871.856,1472.6)" xlink:href="#id12" x="0" y="0"/>
+	<use id="id17" transform="rotate(7.16547,1190.17,722.045)" xlink:href="#id13" x="0" y="0"/>
+	<use id="id18" transform="rotate(-4.55054,4.62443,-237.975)" xlink:href="#id10" x="0" y="0"/>
+	<use id="id19" transform="rotate(-4.55054,-2277.08,-1815.95)" xlink:href="#id11" x="0" y="0"/>
+	<use id="id20" transform="rotate(-4.55054,-2293.29,-1913.32)" xlink:href="#id12" x="0" y="0"/>
+	<use id="id21" transform="rotate(-4.55054,-2293.29,-1913.32)" xlink:href="#id13" x="0" y="0"/>
+	<use id="id22" transform="rotate(-4.55054,-421.468,648.339)" xlink:href="#id14" x="0" y="0"/>
+	<use id="id23" transform="rotate(-4.55054,-421.468,648.339)" xlink:href="#id15" x="0" y="0"/>
+	<use id="id24" transform="rotate(-4.55054,-421.468,648.339)" xlink:href="#id16" x="0" y="0"/>
+	<use id="id25" transform="rotate(-4.55054,106.412,-521.34)" xlink:href="#id17" x="0" y="0"/>
+	<use id="id26" transform="rotate(-69.8165,-267.167,-118.747)" xlink:href="#id10" x="0" y="0"/>
+	<use id="id27" transform="rotate(-69.8165,-267.167,-118.747)" xlink:href="#id11" x="0" y="0"/>
+	<use id="id28" transform="rotate(-69.8165,-271.753,-123.827)" xlink:href="#id12" x="0" y="0"/>
+	<use id="id29" transform="rotate(-69.8165,-271.753,-123.827)" xlink:href="#id13" x="0" y="0"/>
+	<use id="id30" transform="rotate(-69.8165,-66.5654,-44.195)" xlink:href="#id14" x="0" y="0"/>
+	<use id="id31" transform="rotate(-69.8165,-66.5654,-44.195)" xlink:href="#id15" x="0" y="0"/>
+	<use id="id32" transform="rotate(-69.8165,-66.5654,-44.195)" xlink:href="#id16" x="0" y="0"/>
+	<use id="id33" transform="rotate(-69.8165,-79.4833,-132.279)" xlink:href="#id17" x="0" y="0"/>
+	<use id="id34" transform="rotate(-69.8165,-271.753,-123.827)" xlink:href="#id18" x="0" y="0"/>
+	<use id="id35" transform="rotate(-69.8165,-79.4833,-132.279)" xlink:href="#id19" x="0" y="0"/>
+	<use id="id36" transform="rotate(-69.8165,-79.4833,-132.279)" xlink:href="#id20" x="0" y="0"/>
+	<use id="id37" transform="rotate(-69.8165,-80.2447,81.726)" xlink:href="#id21" x="0" y="0"/>
+	<use id="id38" transform="rotate(-69.8165,-79.4833,-132.279)" xlink:href="#id22" x="0" y="0"/>
+	<use id="id39" transform="rotate(-69.8165,-79.4833,-132.279)" xlink:href="#id23" x="0" y="0"/>
+	<use id="id40" transform="rotate(-69.8165,-157.702,-89.763)" xlink:href="#id24" x="0" y="0"/>
+	<use id="id41" transform="rotate(-69.8165,-80.2447,81.726)" xlink:href="#id25" x="0" y="0"/>
+	<use id="id42" transform="rotate(174.168,-289.346,36.5002)" xlink:href="#id10" x="0" y="0"/>
+	<use id="id43" transform="rotate(174.168,-146.709,-25.9618)" xlink:href="#id11" x="0" y="0"/>
+	<use id="id44" transform="rotate(174.168,-210.399,64.4278)" xlink:href="#id12" x="0" y="0"/>
+	<use id="id45" transform="rotate(174.168,-148.374,-23.1904)" xlink:href="#id13" x="0" y="0"/>
+	<use id="id46" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id14" x="0" y="0"/>
+	<use id="id47" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id15" x="0" y="0"/>
+	<use id="id48" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id16" x="0" y="0"/>
+	<use id="id49" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id17" x="0" y="0"/>
+	<use id="id50" transform="rotate(174.168,-150.57,-25.2757)" xlink:href="#id18" x="0" y="0"/>
+	<use id="id51" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id19" x="0" y="0"/>
+	<use id="id52" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id20" x="0" y="0"/>
+	<use id="id53" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id21" x="0" y="0"/>
+	<use id="id54" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id22" x="0" y="0"/>
+	<use id="id55" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id23" x="0" y="0"/>
+	<use id="id56" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id24" x="0" y="0"/>
+	<use id="id57" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id25" x="0" y="0"/>
+	<use id="id58" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id26" x="0" y="0"/>
+	<use id="id59" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id27" x="0" y="0"/>
+	<use id="id60" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id28" x="0" y="0"/>
+	<use id="id61" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id29" x="0" y="0"/>
+	<use id="id62" transform="rotate(174.168,-184.765,-21.4689)" xlink:href="#id30" x="0" y="0"/>
+	<use id="id63" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id31" x="0" y="0"/>
+	<use id="id64" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id32" x="0" y="0"/>
+	<use id="id65" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id33" x="0" y="0"/>
+	<use id="id66" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id34" x="0" y="0"/>
+	<use id="id67" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id35" x="0" y="0"/>
+	<use id="id68" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id36" x="0" y="0"/>
+	<use id="id69" transform="rotate(174.168,-289.346,36.5002)" xlink:href="#id37" x="0" y="0"/>
+	<use id="id70" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id38" x="0" y="0"/>
+	<use id="id71" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id39" x="0" y="0"/>
+	<use id="id72" transform="rotate(174.168,-156.133,-31.5765)" xlink:href="#id40" x="0" y="0"/>
+	<use id="id73" transform="rotate(174.168,-289.346,36.5002)" xlink:href="#id41" x="0" y="0"/>
+	<use id="id74" transform="translate(78.1974,-65.2583)" xlink:href="#id10" x="0" y="0"/>
+	<use id="id75" transform="translate(78.1974,-65.2583)" xlink:href="#id11" x="0" y="0"/>
+	<use id="id76" transform="translate(85.9717,-66.237)" xlink:href="#id12" x="0" y="0"/>
+	<use id="id77" transform="translate(85.9717,-66.237)" xlink:href="#id13" x="0" y="0"/>
+	<use id="id78" transform="translate(-32.0283,119.763)" xlink:href="#id14" x="0" y="0"/>
+	<use id="id79" transform="translate(-32.0283,119.763)" xlink:href="#id15" x="0" y="0"/>
+	<use id="id80" transform="translate(-32.0283,119.763)" xlink:href="#id16" x="0" y="0"/>
+	<use id="id81" transform="translate(-32.0283,119.763)" xlink:href="#id17" x="0" y="0"/>
+	<use id="id82" transform="translate(85.9717,-66.237)" xlink:href="#id18" x="0" y="0"/>
+	<use id="id83" transform="translate(-32.0283,119.763)" xlink:href="#id19" x="0" y="0"/>
+	<use id="id84" transform="translate(-32.0283,119.763)" xlink:href="#id20" x="0" y="0"/>
+	<use id="id85" transform="translate(-32.0283,119.763)" xlink:href="#id21" x="0" y="0"/>
+	<use id="id86" transform="translate(-32.0283,119.763)" xlink:href="#id22" x="0" y="0"/>
+	<use id="id87" transform="translate(-32.0283,119.763)" xlink:href="#id23" x="0" y="0"/>
+	<use id="id88" transform="translate(-32.0283,119.763)" xlink:href="#id24" x="0" y="0"/>
+	<use id="id89" transform="translate(-32.0283,119.763)" xlink:href="#id25" x="0" y="0"/>
+	<use id="id90" transform="translate(-32.0283,119.763)" xlink:href="#id26" x="0" y="0"/>
+	<use id="id91" transform="translate(-32.0283,119.763)" xlink:href="#id27" x="0" y="0"/>
+	<use id="id92" transform="translate(-32.0283,119.763)" xlink:href="#id28" x="0" y="0"/>
+	<use id="id93" transform="translate(-32.0283,119.763)" xlink:href="#id29" x="0" y="0"/>
+	<use id="id94" transform="translate(-199.991,73.8356)" xlink:href="#id30" x="0" y="0"/>
+	<use id="id95" transform="translate(-32.0283,119.763)" xlink:href="#id31" x="0" y="0"/>
+	<use id="id96" transform="translate(-199.991,73.8356)" xlink:href="#id32" x="0" y="0"/>
+	<use id="id97" transform="translate(-32.0283,119.763)" xlink:href="#id33" x="0" y="0"/>
+	<use id="id98" transform="translate(-32.0283,119.763)" xlink:href="#id34" x="0" y="0"/>
+	<use id="id99" transform="translate(-32.0283,119.763)" xlink:href="#id35" x="0" y="0"/>
+	<use id="id100" transform="translate(-32.0283,119.763)" xlink:href="#id36" x="0" y="0"/>
+	<use id="id101" transform="translate(78.1974,-65.2583)" xlink:href="#id37" x="0" y="0"/>
+	<use id="id102" transform="translate(-32.0283,119.763)" xlink:href="#id38" x="0" y="0"/>
+	<use id="id103" transform="translate(-32.0283,119.763)" xlink:href="#id39" x="0" y="0"/>
+	<use id="id104" transform="translate(-32.0283,119.763)" xlink:href="#id40" x="0" y="0"/>
+	<use id="id105" transform="translate(78.1974,-65.2583)" xlink:href="#id41" x="0" y="0"/>
+	<use id="id106" transform="translate(246.16,-19.3313)" xlink:href="#id42" x="0" y="0"/>
+	<use id="id107" transform="translate(-32.0283,119.763)" xlink:href="#id43" x="0" y="0"/>
+	<use id="id108" transform="translate(78.1974,-65.2583)" xlink:href="#id44" x="0" y="0"/>
+	<use id="id109" transform="translate(-36.621,115.826)" xlink:href="#id45" x="0" y="0"/>
+	<use id="id110" transform="translate(78.1974,-65.2583)" xlink:href="#id46" x="0" y="0"/>
+	<use id="id111" transform="translate(78.1974,-65.2583)" xlink:href="#id47" x="0" y="0"/>
+	<use id="id112" transform="translate(78.1974,-65.2583)" xlink:href="#id48" x="0" y="0"/>
+	<use id="id113" transform="translate(78.1974,-65.2583)" xlink:href="#id49" x="0" y="0"/>
+	<use id="id114" transform="translate(-32.0283,119.763)" xlink:href="#id50" x="0" y="0"/>
+	<use id="id115" transform="translate(78.1974,-65.2583)" xlink:href="#id51" x="0" y="0"/>
+	<use id="id116" transform="translate(78.1974,-65.2583)" xlink:href="#id52" x="0" y="0"/>
+	<use id="id117" transform="translate(78.1974,-65.2583)" xlink:href="#id53" x="0" y="0"/>
+	<use id="id118" transform="translate(78.1974,-65.2583)" xlink:href="#id54" x="0" y="0"/>
+	<use id="id119" transform="translate(78.1974,-65.2583)" xlink:href="#id55" x="0" y="0"/>
+	<use id="id120" transform="translate(78.1974,-65.2583)" xlink:href="#id56" x="0" y="0"/>
+	<use id="id121" transform="translate(78.1974,-65.2583)" xlink:href="#id57" x="0" y="0"/>
+	<use id="id122" transform="translate(78.1974,-65.2583)" xlink:href="#id58" x="0" y="0"/>
+	<use id="id123" transform="translate(78.1974,-65.2583)" xlink:href="#id59" x="0" y="0"/>
+	<use id="id124" transform="translate(78.1974,-65.2583)" xlink:href="#id60" x="0" y="0"/>
+	<use id="id125" transform="translate(78.1974,-65.2583)" xlink:href="#id61" x="0" y="0"/>
+	<use id="id126" transform="translate(-12.5006,1.17401)" xlink:href="#id62" x="0" y="0"/>
+	<use id="id127" transform="translate(78.1974,-65.2583)" xlink:href="#id63" x="0" y="0"/>
+	<use id="id128" transform="translate(78.1974,-65.2583)" xlink:href="#id64" x="0" y="0"/>
+	<use id="id129" transform="translate(78.1974,-65.2583)" xlink:href="#id65" x="0" y="0"/>
+	<use id="id130" transform="translate(78.1974,-65.2583)" xlink:href="#id66" x="0" y="0"/>
+	<use id="id131" transform="translate(78.1974,-65.2583)" xlink:href="#id67" x="0" y="0"/>
+	<use id="id132" transform="translate(78.1974,-65.2583)" xlink:href="#id68" x="0" y="0"/>
+	<use id="id133" transform="translate(246.16,-19.3313)" xlink:href="#id69" x="0" y="0"/>
+	<use id="id134" transform="translate(78.1974,-65.2583)" xlink:href="#id70" x="0" y="0"/>
+	<use id="id135" transform="translate(112.315,-102.656)" xlink:href="#id71" x="0" y="0"/>
+	<use id="id136" transform="translate(78.1974,-65.2583)" xlink:href="#id72" x="0" y="0"/>
+	<use id="id137" transform="translate(246.16,-19.3313)" xlink:href="#id73" x="0" y="0"/>
+	<use transform="rotate(30.8988,-99.5098,377.384)" xlink:href="#id10" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id11" x="0" y="0"/>
+	<use transform="rotate(30.8988,-35.4015,-145.1)" xlink:href="#id12" x="0" y="0"/>
+	<use transform="rotate(30.8988,-35.4015,-145.1)" xlink:href="#id13" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.835,-412.083)" xlink:href="#id14" x="0" y="0"/>
+	<use transform="rotate(30.8988,-346.92,-449.836)" xlink:href="#id15" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id16" x="0" y="0"/>
+	<use transform="rotate(30.8988,-274.893,85.6048)" xlink:href="#id17" x="0" y="0"/>
+	<use transform="rotate(30.8988,-35.4015,-145.1)" xlink:href="#id18" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id19" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id20" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id21" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id22" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id23" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id24" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id25" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id26" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id27" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id28" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id29" x="0" y="0"/>
+	<use transform="rotate(30.8988,-339.75,-437.763)" xlink:href="#id30" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id31" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id32" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id33" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id34" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id35" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id36" x="0" y="0"/>
+	<use transform="rotate(30.8988,-50.2824,338.226)" xlink:href="#id37" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id38" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id39" x="0" y="0"/>
+	<use transform="rotate(30.8988,-267.866,55.5544)" xlink:href="#id40" x="0" y="0"/>
+	<use transform="rotate(30.8988,70.4768,-10.7291)" xlink:href="#id41" x="0" y="0"/>
+	<use transform="rotate(30.8988,-200.356,121.26)" xlink:href="#id42" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id43" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id44" x="0" y="0"/>
+	<use transform="rotate(30.8988,-303.485,-457.912)" xlink:href="#id45" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id46" x="0" y="0"/>
+	<use transform="rotate(30.8988,-13.939,321.794)" xlink:href="#id47" x="0" y="0"/>
+	<use transform="rotate(30.8988,-122.896,327.198)" xlink:href="#id48" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id49" x="0" y="0"/>
+	<use transform="rotate(30.8988,-312.903,-451.571)" xlink:href="#id50" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id51" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id52" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id53" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id54" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id55" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id56" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id57" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id58" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id59" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id60" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id61" x="0" y="0"/>
+	<use transform="rotate(30.8988,-19.5887,-46.6358)" xlink:href="#id62" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id63" x="0" y="0"/>
+	<use transform="rotate(30.8988,-36.2766,264.084)" xlink:href="#id64" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id65" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id66" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id67" x="0" y="0"/>
+	<use transform="rotate(30.8988,-10.08,345.002)" xlink:href="#id68" x="0" y="0"/>
+	<use transform="rotate(30.8988,-200.356,121.26)" xlink:href="#id69" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id70" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id71" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id72" x="0" y="0"/>
+	<use transform="rotate(30.8988,-200.356,121.26)" xlink:href="#id73" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id74" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id75" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id76" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id77" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id78" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id79" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id80" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id81" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id82" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id83" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id84" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id85" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id86" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id87" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id88" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id89" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id90" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id91" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id92" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id93" x="0" y="0"/>
+	<use transform="rotate(30.8988,-200.356,121.26)" xlink:href="#id94" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id95" x="0" y="0"/>
+	<use transform="rotate(30.8988,-200.356,121.26)" xlink:href="#id96" x="0" y="0"/>
+	<use transform="rotate(30.8988,-102.409,-266.809)" xlink:href="#id97" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id98" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id99" x="0" y="0"/>
+	<use transform="rotate(30.8988,-111.15,-276.013)" xlink:href="#id100" x="0" y="0"/>
+	<use transform="rotate(30.8988,-428.786,-280.12)" xlink:href="#id101" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id102" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id103" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id104" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id105" x="0" y="0"/>
+	<use transform="rotate(30.8988,144.823,-121.276)" xlink:href="#id106" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id107" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id108" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id109" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id110" x="0" y="0"/>
+	<use transform="rotate(30.8988,-428.786,-280.12)" xlink:href="#id111" x="0" y="0"/>
+	<use transform="rotate(30.8988,-428.786,-280.12)" xlink:href="#id112" x="0" y="0"/>
+	<use transform="rotate(30.8988,-133.557,-317.848)" xlink:href="#id113" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id114" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id115" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id116" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id117" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id118" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id119" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id120" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id121" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id122" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id123" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id124" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id125" x="0" y="0"/>
+	<use transform="rotate(30.8988,-340.253,30.1894)" xlink:href="#id126" x="0" y="0"/>
+	<use transform="rotate(30.8988,-428.786,-280.12)" xlink:href="#id127" x="0" y="0"/>
+	<use transform="rotate(30.8988,-428.786,-280.12)" xlink:href="#id128" x="0" y="0"/>
+	<use transform="rotate(30.8988,-428.786,-280.12)" xlink:href="#id129" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id130" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id131" x="0" y="0"/>
+	<use transform="rotate(30.8988,-33.285,-159.646)" xlink:href="#id132" x="0" y="0"/>
+	<use transform="rotate(30.8988,-187.022,-326.311)" xlink:href="#id133" x="0" y="0"/>
+	<use transform="rotate(30.8988,-428.786,-280.12)" xlink:href="#id134" x="0" y="0"/>
+	<use transform="rotate(30.8988,-83.8847,-240.068)" xlink:href="#id135" x="0" y="0"/>
+	<use transform="rotate(30.8988,-199.239,-336.878)" xlink:href="#id136" x="0" y="0"/>
+	<use transform="rotate(30.8988,-148.764,-302.8)" xlink:href="#id137" x="0" y="0"/>
+</g>
+<text x="112.1" y="112" style="font-size:31.7px; font-style:italic; fill:#666666; stroke-width:1px;">Gas</text>
+</svg>

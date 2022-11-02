@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/calculus/integration-by-substitution.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:12 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+<!-- #BeginEditable "doctitle" -->
+<title>Integration by Substitution</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents.">
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js"></script>
+<script>document.write(gTagHTML())</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+<h1 class="center">Integration by Substitution</h1>
+
+<p>"Integration by Substitution" (also called "u-Substitution" or "The Reverse Chain Rule")  is a  method to find an <a href="integration-introduction.html">integral</a>, but only when it can be set up in a special way.</p>
+<p>The first and most vital step is to be able to write our integral in this form:</p>
+			<p class="center"><img src="images/integral-subs-1.svg" alt="integration by substitution general"><br>
+Note that we have <b>g(x)</b> and its <a href="derivatives-introduction.html">derivative</a> <b>g'(x)</b></p>
+<p>Like in this example:</p>
+			<p class="center">
+        <img src="images/integral-subs-cos-x2-2x-a.svg" alt="integration by substitution cos(x^2) 2x dx"><br>
+       
+Here <b>f=cos</b>, and we have  <b>g=x<sup>2</sup></b> and its derivative <b>2x</b><br>
+This integral is good to go!</p>
+			<p>When our integral is set up like that, we can do <b>this substitution</b>:</p>
+			<p class="center"><img src="images/integral-subs-2.svg" alt="integration by substitution general"></p>
+			<p>Then we can  <b>integrate f(u)</b>, and finish by  <b>putting g(x) back as u</b>.</p>
+<p>Like this:</p>
+			<div class="example">
+	<h3>Example: <span style="font-size:150%;">∫</span>cos(x<sup>2</sup>) 2x dx</h3>
+	<p>We know (from above) that it is in the right form to do the substitution:</p>
+	<p class="center"><img src="images/integral-subs-3.svg" alt="integration by substitution cos(x^2) 2x dx"></p>
+	<p>Now integrate:</p>
+<p class="center larger"><span style="font-size:150%;">∫</span>cos(u) du = sin(u) + C</p>
+				<p>And finally put <b>u=x<sup>2</sup></b> back again:</p>
+<p class="center larger">sin(x<sup>2</sup>) + C</p>
+			</div>
+			<p>So <span style="font-size:150%;"><b>∫</b></span><b>cos(x<sup>2</sup>) 2x dx = sin(x<sup>2</sup>) + C</b></p>
+			<p>That worked out really nicely! (Well, I knew it would.)</p>
+<p>But this method only works on <i>some</i> integrals of course, and   it may need rearranging:</p>
+			<div class="example">
+				<h3>Example: <span style="font-size:150%;">∫</span>cos(x<sup>2</sup>) 6x dx</h3>
+				<p>Oh no! It is <b>6x</b>, not <b>2x</b> like before. Our perfect setup is gone.</p>
+				<p>Never fear! Just rearrange the integral like this:</p>
+				<p class="center larger"><span style="font-size:150%;">∫</span>cos(x<sup>2</sup>) 6x dx = 3<span style="font-size:150%;">∫</span>cos(x<sup>2</sup>) 2x dx</p>
+				<p>(We can pull constant multipliers outside the integration, see <a href="integration-rules.html">Rules of Integration</a>.)</p>
+				<p>Then go ahead as before:</p>
+				<p class="center larger">3<span style="font-size:150%;">∫</span>cos(u) du = 3 sin(u) + C</p>
+				<p>Now put <b>u=x<sup>2</sup></b> back again:</p>
+				<p class="center larger">3 sin(x<sup>2</sup>) + C</p>
+				<p>Done!</p>
+			</div>
+			<p>Now let's try a slightly harder example:</p>
+			<div class="example">
+				<h3>Example: <span style="font-size:150%;">∫</span>x/(x<sup>2</sup>+1) dx</h3>
+				<p>Let me see ... the derivative of x<sup>2</sup>+1 is 2x ... so how about we rearrange it like this:</p>
+				<p class="center larger"><span style="font-size:150%;">∫</span>x/(x<sup>2</sup>+1) dx = ½<span style="font-size:150%;">∫</span>2x/(x<sup>2</sup>+1) dx</p>
+				<p>Then we have:</p>
+				<p class="center larger"><img src="images/integral-subs-4.svg" alt="integration by substitution 2x/(x^2+1)"></p>
+				<p>Then integrate:</p>
+				<p class="center larger">½<span style="font-size:150%;">∫</span>1/u du = ½ ln<b>|</b>u<b>|</b> + C</p>
+				<p>Now put <b>u=x<sup>2</sup>+1</b> back again:</p>
+				<p class="center larger">½ ln(x<sup>2</sup>+1) + C</p>
+			</div>
+			<p>And how about this one:</p>
+			<div class="example">
+				<h3>Example: <span style="font-size:150%;">∫</span>(x+1)<sup>3</sup> dx</h3>
+				<p>Let me see ... the derivative of x+1 is ... well it is simply 1.</p>
+				<p>So we can have this:</p>
+				<p class="center larger"><span style="font-size:150%;">∫</span>(x+1)<sup>3</sup> dx = <span style="font-size:150%;">∫</span>(x+1)<sup>3</sup> · 1 dx</p>
+				<p>Then we have:</p>
+				<p class="center"><img src="images/integral-subs-5.svg" alt="integration by substitution (x+1)^3"></p>
+				<p>Then integrate:</p>
+				<p class="center larger"><span style="font-size:150%;">∫</span>u<sup>3</sup> du = <span class="intbl"><em>u<sup>4</sup></em><strong>4</strong></span> + C</p>
+				<p>Now put <b>u=x+1</b> back again:</p>
+				<p class="center larger"><span class="intbl"><em>(x+1)<sup>4</sup></em><strong>4</strong></span> + C</p>
+			</div>
+			<p>We can take that idea further like this:</p>
+	<div class="example">
+				<h3>Example: <span style="font-size:150%;">∫</span>(5x+2)<sup>7</sup> dx</h3>
+				<p>If it was in THIS form we could do it:</p>
+				<p class="center larger"><span style="font-size:150%;">∫</span>(5x+2)<sup>7</sup> <b>5</b> dx</p>
+				<p>So let's make it so by doing this:</p>
+				<p class="center larger"><span class="intbl"><em>1</em><strong>5</strong></span> <span style="font-size:150%;">∫</span>(5x+2)<sup>7</sup> <b>5</b> dx</p>
+		<p>The <span class="intbl"><em>1</em><strong>5</strong></span> and 5 cancel out so all is fine.</p>
+				<p>And now we can have <b>u=5x+2</b></p>
+				<p class="center"><img src="images/integral-subs-6.svg" alt="integration by substitution (x+1)^3"></p>
+				
+				<p>And then integrate:</p>
+				<p class="center larger"><span class="intbl"><em>1</em><strong>5</strong></span> <span style="font-size:150%;">∫</span>u<sup>7</sup> du = <span class="intbl"><em>1</em><strong>5</strong></span> <span class="intbl"><em>u<sup>8</sup></em><strong>8</strong></span> + C</p>
+				<p>Now put <b>u=5x+2</b> back again, and simplify:</p>
+				<p class="center larger"><span class="intbl"><em>(5x+2)<sup>8</sup></em><strong>40</strong></span> + C</p>
+			</div>
+			Now get some practice, OK?
+			<h2>In Summary</h2>
+<div class="dotpoint"> When we can put an integral in this form:
+	
+
+<p class="center"><img src="images/integral-subs-1.svg" alt="integration by substitution general"></p>
+</div>
+<div class="dotpoint"> Then we can set <b>u=g(x)</b> and  integrate <span class="center larger"><span style="font-size:150%;">∫</span>f(u) du</span></div>
+<div class="dotpoint"> And finish up by re-inserting <b>g(x)</b> where <b>u</b> is.
+</div>
+			<p>&nbsp;</p>
+<div class="questions">
+<script>getQ(6854, 6855, 6856, 6857, 6858, 6859, 6860, 6861, 6862, 6863);</script>&nbsp;
+</div>
+
+<div class="related">
+  <a href="integration-introduction.html">Introduction to Integration</a>				
+  <a href="index.html">Calculus Index</a>				
+</div>
+			<!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2020 MathsIsFun.com</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/calculus/integration-by-substitution.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:14 GMT -->
+</html>

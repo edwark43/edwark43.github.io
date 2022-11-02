@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/physics/quantum-polar-filter.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:52:05 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+<!-- #BeginEditable "doctitle" -->
+<title>Quantum Polar Filter</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.">
+
+<style>
+.ket::before {  content: "|";  font-size:120%; }
+.ket {color:orange;}
+.ket::after {  content: "\232A"; font-size:140%; }
+</style>
+
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">Quantum Polar Filter</h1>
+
+<p>Let's see how light behaves going through  polarising filters!</p>
+  <p>You can try this yourself, use polarised lenses from sunglasses or a science supply shop (don't use <i>circular</i> polarisers that are common on cameras).</p>
+
+
+<h2>Polarization</h2>
+
+<p>Light is normally free to vibrate in any direction at right angles to its path.</p>
+  <p>But <b>polarized</b> light vibrates in one plane only:</p>
+    <p class="center"><img src="images/polarized-filter.svg" alt="unpolarized vs polarized" height="184" width="355"><br>
+Light gets polarized when passing through a polarizing filter.</p>
+
+
+<h2>Photon</h2>
+
+Before the filter we can write the state of the photon like this (see <a href="../geometry/unit-circle.html">Unit Circle</a>):
+
+
+
+
+
+<p class="center large">cos(θ)<span class="ket">→</span> + sin(θ)<span class="ket">↑</span></p>
+  <p>Where</p>
+  <ul>
+    <li><span class="ket">→</span> means left-right direction, and</li>
+    <li><span class="ket">↑</span> means up-down direction:</li>
+  </ul>
+  <p class="center"><img src="images/quantum-a.svg" alt="quantum up-down left-right" height="223" width="224"><br></p>
+<p>&nbsp;</p>
+
+<h3>First Encounter</h3>
+  <p class="center"><img src="images/quantum-polar-0.jpg" alt="quantum up-down left-right" height="243" width="258"></p>
+  <p>&nbsp;</p>
+  <p>What happens when the photon meets a polarising filter?</p>
+  <p>Let us say the filter is aligned in the left-right direction.</p>
+  <p>After passing through the  filter the photon is either <b>blocked</b> or emerges as</p>
+  <p class="center large"><span class="ket">→</span></p>
+  <p>with a <b>probability of cos<sup>2</sup>(θ)</b></p>
+  <div class="def">
+
+<h3>Probability</h3>
+    <p>One of the basic rules in quantum mechanics is that the probability equals the amplitude magnitude squared, in other words:</p>
+    <p class="center">Probability = |Amplitude|<sup>2</sup></p>
+The ||  means  <a href="../algebra/vectors.html">magnitude of a vector</a>, not  absolute value.</div>
+  <p>This  example may help:</p>
+
+<div class="example">
+<p style="float:right; margin: 0 0 5px 10px;"><img src="images/quantum-a.svg" alt="quantum up-down left-right" height="223" width="224"></p>
+
+<h3>Example θ = 45°</h3>
+    <p>At 45° we have</p>
+    <p class="center large">cos(45°)<span class="ket">→</span> + sin(45°)<span class="ket">↑</span></p>
+    <p>cos(45°) = <span class="intbl"><em>1</em><strong>√2</strong></span>, and sin(45°) = <span class="intbl"><em>1</em><strong>√2</strong></span> (see <a href="../geometry/unit-circle.html">Unit Circle</a>), so we have:</p>
+    <p class="center large"><span class="intbl"><em>1</em><strong>√2</strong></span><span class="ket">→</span> + <span class="intbl"><em>1</em><strong>√2</strong></span><span class="ket">↑</span></p>
+    <p class="center"><img src="images/polar-prob-45.svg" alt="polar probability at 45 degrees" height="" width=""></p>
+<p>So, is the probability of passing  <span class="intbl"><em>1</em><strong>√2</strong></span> ?</p>
+<p>Not quite, because total probability should equal 1</p>
+<p>But with a little help from pythagoras we have:</p>
+<p class="center"><img src="images/polar-prob-45b.svg" alt="polar probability at 45 degrees" height="" width=""></p>
+<p class="center">(<span class="intbl"><em>1</em><strong>√2</strong></span>)<sup>2</sup> + (<span class="intbl"><em>1</em><strong>√2</strong></span>)<sup>2</sup> = 1<sup>2</sup></p>
+<p class="center"><span class="intbl"><em>1</em><strong>2</strong></span> + <span class="intbl"><em>1</em><strong>2</strong></span> = 1</p>
+<p>Each probability is <span class="intbl"><em>1</em><strong>2</strong></span>. At 45° that makes sense, right?</p>
+<p>We can use pythagoras each time, or simply remember:</p>
+<p></p>
+<p class="center larger">The probability of each state is the amplitude magnitude squared:</p>
+    <p class="center large">(<span class="intbl"><em>1</em><strong>√2</strong></span>)<sup>2</sup> = <span class="intbl"><em>1</em><strong>2</strong></span></p>
+<!-- ( 1/sqr2 )^2 = 1/2 -->
+
+<!-- Which makes sense: 1/2 + 1/2 = 1  -->
+</div>
+<p>Let's try another angle just to be sure, how about 30°?</p>
+
+<div class="example">
+<p class="center large">cos(30°)<span class="ket">→</span> + sin(30°)<span class="ket">↑</span></p>
+<p>cos(30°) = <span class="intbl"><em>√3</em><strong>2</strong></span> and sin(30°) = <span class="intbl"><em>1</em><strong>2</strong></span>, so:</p>
+<p class="center large"><span class="intbl"><em>√3</em><strong>2</strong></span><span class="ket">→</span> + <span class="intbl"><em>1</em><strong>2</strong></span><span class="ket">↑</span></p>
+<p>The probability of each state is the amplitude magnitude squared:</p>
+<p class="center large">(<span class="intbl"><em>√3</em><strong>2</strong></span>)<sup>2</sup> = <span class="intbl"><em>3</em><strong>4</strong></span> and (<span class="intbl"><em>1</em><strong>2</strong></span>)<sup>2</sup> = <span class="intbl"><em>1</em><strong>4</strong></span></p>
+<!-- ( sqr3/2 )^2 = 3/4 and ( 1/2 )^2 = 1/4  -->
+<p>And <span class="intbl"><em>3</em><strong>4</strong></span> + <span class="intbl"><em>1</em><strong>4</strong></span> = 1</p>
+<!-- And 3/4 + 1/4 = 1 -->
+  </div>
+
+<h3>OK, enough examples, back to our filtering.</h3>
+
+<h3>We are currently polarised in the left-right direction, like this:</h3>
+<p class="center large"><span class="ket">→</span></p>
+  <p>100% probability left-right, 0% probability up-down.</p>
+
+
+
+<h3>Next Filter!</h3>
+  <p>The next filter we use is <b>up-down polarised</b>.</p>But we currently have 0% probability of up-down.<br>
+<p>So too bad. All gone. And the result is <b>blackness</b>.</p>
+  <p class="center"><img src="images/quantum-polar-0-90.jpg" alt="quantum up-down left-right" height="239" width="325"></p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+
+<h3>But What If We Add a 45° In Between?</h3>
+  <p>Now we place a third filter in between the other two, and orient it at 45 degrees.</p>
+  <p><b>Our "intuition" says that  adding more filtering should block the light even more, making for a blacker black, right?</b></p>
+  <p>Well, let's work through the mathematics!</p>
+  <p>After the first (left-right) filter we have (as before):</p>
+  <p class="center large"><span class="ket">→</span></p>
+
+<h3>Now the photon faces the middle filter at 45°</h3>
+  <p class="center"><img src="images/quantum-polar-0-45.jpg" alt="quantum up-down left-right" height="255" width="321"></p>
+  <p>&nbsp;</p>
+  <p>We have already seen an example of what happens at 45°. Well, the photon doesn't care what orientation our nice graph is at, so this works just as well:</p>
+  <p class="center"><img src="images/quantum-coords-tilted45.svg" alt="quantum up-down left-right" height="185" width="185"></p>
+  <p>The result is:</p>
+  <p class="center large"><span class="intbl"><em>1</em><strong>√2</strong></span><span class="ket">↗</span> + <span class="intbl"><em>1</em><strong>√2</strong></span><span class="ket">↘</span></p>
+  <!-- ( 1/sqr2 )^2 + ( 1/sqr2 )^2 = 1/2 + 1/2 = 1 -->
+<!-- (1/sqr2)^2 + (1/sqr2)^2 = 1/2 + 1/2 = 1 -->
+  <p>and faces a 1/2 chance of being blocked, and if it gets through it is now at:</p>
+  <p class="center large"><span class="ket">↘</span></p>
+  <p>&nbsp;</p>
+
+<h3>Now the photon faces the final  filter at 45°</h3>
+  <p><i>Sorry? Isn't that 90°?</i> To us maybe, but from the photon's <i>current</i> point of view  it is another 45°. Like this:</p>
+<p class="center"><img src="images/quantum-coords-tilted90.svg" alt="quantum up-down left-right" height="223" width="221"></p>
+  <p>The result is:</p>
+  <p class="center large"><span class="intbl"><em>1</em><strong>√2</strong></span><span class="ket">↓</span> + <span class="intbl"><em>1</em><strong>√2</strong></span><span class="ket">→</span></p>
+  <p>And again there is a <span class="intbl"><em>1</em><strong>2</strong></span> chance of being blocked, or getting through at:</p>
+  <p class="center large"><span class="ket">↓</span></p>
+
+<h3>The total for the last two filters is <span class="intbl"><em>1</em><strong>2</strong></span> × <span class="intbl"><em>1</em><strong>2</strong></span> = <span class="intbl"><em>1</em><strong>4</strong></span><span class="intbl"></span></h3>
+<!-- The total for the last two filters is 1/2 * 1/2 = 1/4 -->
+  <p>Meaning that  a photon that got through the first filter has a 1-in-4 chance of <b>getting through</b> the next two filters. So there is <b>a modest chance</b> that a photon can get through all 3 filters!</p>
+  <p>And it looks like this:</p>
+  <p class="center"><img src="images/quantum-polar-0-45-90.jpg" alt="quantum up-down left-right" height="267" width="340"></p>
+  <p>You can  see that  0°⇒90° is black (lower center triangle), but 0°⇒45°⇒90° (upper center triangle) actually lets some light through. Adding that middle filter at 45° lets more light through.</p>
+  <p>Wow, mathematics rules!</p>
+
+
+<h2>What We Learned Here</h2>
+
+<div class="dotpoint">
+  <p>In Quantum Physics our "common sense" view can be wrong, but we can use mathematics to get results that match what we actually <b>observe</b>.</p>
+  </div>
+  <div class="dotpoint">
+  <p>We can use this special symbol to mean "in the x direction":
+<span class="ket">x</span>&nbsp;</p>
+    </div>
+  <div class="dotpoint">
+<p>Photons behave according to probability, and</p>
+<p class="center">Probability = |Amplitude|<sup>2</sup></p>
+  </div>
+
+
+<p class="center"><br></p>
+
+<div class="related">  
+  <a href="index.html">Physics Index</a>
+</div>
+<!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2021 MathsIsFun.com</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/physics/quantum-polar-filter.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:52:07 GMT -->
+</html>

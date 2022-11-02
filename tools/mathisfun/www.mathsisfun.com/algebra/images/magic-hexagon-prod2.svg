@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="268"
+   height="131.7"
+   version="1.1"
+   style="font-family:Georgia;font-size:20px;stroke-width:1pt"
+   id="svg81"
+   sodipodi:docname="magic-hexagon-prod2.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview83"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg81" />
+  <defs
+     id="defs45">
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker4">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="stroke:black"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker8">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="stroke:black"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker12">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:black"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path10" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker16">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:black"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path14" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker20">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff4141;stroke:#ff4141"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path18" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker24">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ff4141;stroke:#ff4141"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path22" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker28">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker32">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path30" />
+    </marker>
+    <marker
+       id="id1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path34" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker39">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path37" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker43">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#005c94;stroke:#005c94"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path41" />
+    </marker>
+  </defs>
+  <rect
+     x="0.274002"
+     y="12.199"
+     ry="19.7"
+     width="120.1"
+     height="39.3"
+     style="fill:#e5f6ff;fill-opacity:1;stroke:#19aeff;stroke-width:0.64"
+     id="rect47" />
+  <path
+     style="fill:#fefad7;stroke:#a40000;stroke-width:0.47"
+     d="m 208.974,118.899 h -57.7 l -28.9,-50 28.9,-50 h 57.7 l 28.9,50 z"
+     id="path49" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.32px"
+     d="m 151.174,19.099 57.5,99.5"
+     id="path51" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.32px"
+     d="m 122.474,68.899 h 115.1"
+     id="path53" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.32px"
+     d="m 208.674,19.099 -57.3,99.9"
+     id="path55" />
+  <text
+     x="134.374"
+     y="14.799"
+     style="font-style:italic;fill:#ba00ff;stroke-width:0.32px"
+     id="text57">sin</text>
+  <text
+     x="90.274"
+     y="74.299"
+     style="font-style:italic;fill:#ba00ff;stroke-width:0.32px"
+     id="text59">tan</text>
+  <text
+     x="200.074"
+     y="14.799"
+     style="font-style:italic;fill:#ba00ff;stroke-width:0.32px"
+     id="text61">cos</text>
+  <text
+     x="137.974"
+     y="131.399"
+     style="font-style:italic;fill:#ba00ff;stroke-width:0.32px"
+     id="text63">sec</text>
+  <text
+     x="240.674"
+     y="73.899"
+     style="font-style:italic;fill:#ba00ff;stroke-width:0.32px"
+     id="text65">cot</text>
+  <text
+     x="196.474"
+     y="131.399"
+     style="font-style:italic;fill:#ba00ff;stroke-width:0.32px"
+     id="text67">csc</text>
+  <text
+     x="166.241"
+     y="81.6204"
+     transform="scale(1.00188,0.998123)"
+     style="font-size:42.7px;font-family:Arial;fill:#000000;stroke:#ffffff;stroke-width:0.32px"
+     id="text69">1</text>
+  <path
+     style="fill:none;stroke:#005c94;stroke-width:2.33;marker-end:url(#id1)"
+     d="m 123.974,69.199 50.6,0.1"
+     id="path71" />
+  <path
+     style="fill:none;stroke:#005c94;stroke-width:2.33;marker-end:url(#id1)"
+     d="m 236.674,68.799 -50.6,0.1"
+     id="path73" />
+  <text
+     x="10.274"
+     y="35.999"
+     style="font-style:italic;font-size:13.3px;fill:#ba00ff;stroke-width:0.5px"
+     id="text75">tan(x)cot(x) =</text>
+  <text
+     x="94.574"
+     y="38.799"
+     style="font-size:21.3px;font-family:Arial;fill:#000000;stroke-width:0.5px"
+     id="text77">1</text>
+</svg>

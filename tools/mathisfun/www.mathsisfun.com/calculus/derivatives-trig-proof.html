@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/calculus/derivatives-trig-proof.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:10 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+<!-- #BeginEditable "doctitle" -->
+<title>Derivatives of the Trigonometric Functions</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.">
+<style>
+.lim {
+	display: inline-table;
+	text-align: center;
+	vertical-align: middle;
+	margin: 0 4px 0 2px;
+	border-collapse: collapse;
+}
+.lim em {
+	display: table-row;
+	text-align: center;
+	font-style: inherit;
+}
+.lim strong {
+	display: table-row;
+	text-align: center;
+	font-weight: inherit;
+	font-size: 80%;
+	line-height: 9px;
+}
+</style>
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js"></script>
+<script>document.write(gTagHTML())</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+<h1 class="center">Proof of the Derivatives of<br>
+sin, cos and tan</h1>
+
+<p class="center">The three most useful derivatives in trigonometry are:</p>
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span> sin(x) = cos(x)</p>
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span> cos(x) = −sin(x)</p>
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span> tan(x) = sec<sup>2</sup>(x)</p>
+Did they  just drop out of the sky? Can we prove them somehow?
+	
+
+<h2>Proving the Derivative of Sine</h2>
+	<p>We need to go back, right back to first principles, the basic  formula for derivatives:</p>
+	<p class="center large"><span class="intbl"><em>dy</em><strong>dx</strong></span> = <span class="lim"><em>lim</em><strong>Δx→0</strong></span> <span class="intbl"><em>f(x+Δx)−f(x)</em><strong>Δx</strong></span></p>
+	<p>Pop in  sin(x):</p>
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span>sin(x) = <span class="lim"><em>lim</em><strong>Δx→0</strong></span> <span class="intbl"><em>sin(x+Δx)−sin(x)</em><strong>Δx</strong></span></p>
+	<p>We  can then use this <a href="../algebra/trigonometric-identities.html">trigonometric  identity</a>: sin(A+B) = sin(A)cos(B) + cos(A)sin(B) to get:</p>
+	<p class="center large"><span class="lim"><em>lim</em><strong>Δx→0</strong></span> <span class="intbl"><em>sin(x)cos(Δx) + cos(x)sin(Δx) − sin(x)</em><strong>Δx</strong></span></p>
+	
+	<p>Regroup:</p>
+	<p class="center large"><span class="lim"><em>lim</em><strong>Δx→0</strong></span> <span class="intbl"><em>sin(x)(cos(Δx)−1) + cos(x)sin(Δx)</em><strong>Δx</strong></span></p>
+	<p>Split into two limits:</p>
+	<p class="center large"><span class="lim"><em>lim</em><strong>Δx→0</strong></span> <span class="intbl"><em>sin(x)(cos(Δx)−1)</em><strong>Δx</strong></span> + <span class="lim"><em>lim</em><strong>Δx→0</strong></span><span class="intbl"><em>cos(x)sin(Δx)</em><strong>Δx</strong></span></p>
+	<p>And we can bring sin(x) and cos(x) outside the limits because they are functions of x not Δx</p>
+	<p class="center large">sin(x) <span class="lim"><em>lim</em><strong>Δx→0</strong></span> <span class="intbl"><em>cos(Δx)−1</em><strong>Δx</strong></span> + cos(x) <span class="lim"><em>lim</em><strong>Δx→0</strong></span><span class="intbl"><em> sin(Δx)</em><strong>Δx</strong></span></p>
+	<p>&nbsp;</p>
+	<p>Now all we have to do is evaluate  those two little limits. Easy, right? Ha!</p>
+	<h2>Limit of <span class="intbl"><em>sin(θ)</em><strong>θ</strong></span></h2>
+	<p>Starting with</p>
+	<p class="center large"><span class="lim"><em>lim</em><strong>θ→0</strong></span> <span class="intbl"><em>sin(θ)</em><strong>θ</strong></span></p>
+	<p>with the help of some  geometry:</p>
+	<p class="center"><img src="images/derivatives-trig1.svg" alt="circle with radius, angle and tangent"></p>
+	<p>We can look at areas:</p>
+	<p class="center larger">Area of triangle AOB <b>&lt;</b> Area of sector AOB <b>&lt;</b> Area of triangle AOC</p>
+	<p class="center larger"><span class="intbl"><em>1</em><strong>2</strong></span>r<sup>2</sup> sin(θ) <b>&lt;</b> <span class="intbl"><em>1</em><strong>2</strong></span>r<sup>2</sup> θ <b>&lt;</b> <span class="intbl"><em>1</em><strong>2</strong></span>r<sup>2</sup> tan(θ)</p>
+	<p>Divide all terms by <span class="intbl"><em>1</em><strong>2</strong></span>r<sup>2</sup> sin(θ)</p>
+	<p class="center large">1 &lt; <span class="intbl"><em>θ</em><strong>sin(θ)</strong></span> &lt; <span class="intbl"><em>1</em><strong>cos(θ)</strong></span></p>
+	<p>Take the  reciprocals:</p>
+	<p class="center large">1 &gt; <span class="intbl"><em>sin(θ)</em><strong>θ </strong></span> &gt; cos(θ)</p>
+	<p>Now as θ→0 then cos(θ)→1</p>
+	<p class="center larger">So <span class="intbl"><em>sin(θ)</em><strong>θ </strong></span> lies between 1 and something that is tending towards 1</p>
+	<p>So as θ→0 then <span class="intbl"><em>sin(θ)</em><strong>θ </strong></span>→1 and so:</p>
+	<p class="center large"><span class="lim"><em>lim</em><strong>θ→0</strong></span> <span class="intbl"><em>sin(θ)</em><strong>θ</strong></span> = 1</p>
+	<p>(Note: we should also prove this is true from the negative side, how about you  try with negative values of θ ?)</p>
+	<h2>Limit of <span class="intbl"><em>cos(θ)−1</em><strong>θ</strong></span></h2>
+	<p>So next we want to find out this one:</p>
+	<p class="center large"><span class="lim"><em>lim</em><strong>θ→0</strong></span> <span class="intbl"><em>cos(θ)−1</em><strong>θ</strong></span></p>
+	<p>When we multiply top and bottom by cos(θ)+1  we get:</p>
+	<p class="center large"><span class="intbl"><em>(cos(θ)−1)(cos(θ)+1)</em><strong>θ(cos(θ)+1)</strong></span> = <span class="intbl"><em>cos<sup>2</sup>(θ)−1</em><strong>θ(cos(θ)+1)</strong></span></p>
+	<p>Now we   use this <a href="../algebra/trigonometric-identities.html">trigonometric identity</a> based on <a href="../pythagoras.html">Pythagoras' Theorem</a>:</p>
+	<p class="center large">cos<sup>2</sup>(x) + sin<sup>2</sup>(x) = 1</p>
+	<p>Rearranged to this form:</p>
+	<p class="center large">cos<sup>2</sup>(x) − 1  = −sin<sup>2</sup>(x)</p>
+	<p>And the limit we started with can become:</p>
+	<p class="center large"><span class="lim"><em>lim</em><strong>θ→0</strong></span> <span class="intbl"><em>−sin<sup>2</sup>(θ)</em><strong>θ(cos(θ)+1)</strong></span></p>
+	<p>That looks worse! But  is really better because we can turn it into two limits multiplied together:</p>
+	<p class="center large"><span class="lim"><em>lim</em><strong>θ→0</strong></span><span class="intbl"><em>sin(θ)</em><strong>θ</strong></span> × <span class="lim"><em>lim</em><strong>θ→0</strong></span><span class="intbl"><em>−sin(θ)</em><strong>cos(θ)+1</strong></span></p>
+	<p>We know the first limit (we worked it out above), and the second limit doesn't need much work because<b> at θ=0</b> we know directly that <span class="intbl"><em>−sin(0)</em><strong>cos(0)+1</strong></span> = 0, so:</p>
+	<p class="center large"><span class="lim"><em>lim</em><strong>θ→0</strong></span><span class="intbl"><em>sin(θ)</em><strong>θ</strong></span> × <span class="lim"><em>lim</em><strong>θ→0</strong></span><span class="intbl"><em>−sin(θ)</em><strong>cos(θ)+1</strong></span> = 1 × 0 = 0</p>
+	<h2>Putting it Together</h2>
+	<p>So what were we trying to do again? Oh that's right, we really wanted to work  out this:</p>
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span>sin(x) = sin(x) <span class="lim"><em>lim</em><strong>Δx→0</strong></span> <span class="intbl"><em>cos(Δx)−1</em><strong>Δx</strong></span> + cos(x) <span class="lim"><em>lim</em><strong>Δx→0</strong></span><span class="intbl"><em> sin(Δx)</em><strong>Δx</strong></span></p>
+	<p>We can now put in the values we just worked out and get:</p>
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span>sin(x)  = sin(x) × 0  + cos(x) × 1</p>
+	<p>And so (ta da!):</p>
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span>sin(x)  = cos(x)</p>
+	<h2>The Derivative of Cosine</h2>
+	<p>Now on to cosine!</p>
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span>cos(x) = <span class="lim"><em>lim</em><strong>Δx→0</strong></span> <span class="intbl"><em>cos(x+Δx)−cos(x)</em><strong>Δx</strong></span></p>
+	<p>This time we will use   the <a href="../algebra/trigonometric-identities.html">angle formula</a> <span class="center"><b>cos(A+B) = cos(A)cos(B) − sin(A)sin(B)</b></span>:</p>
+	<p class="center large"><span class="lim"><em>lim</em><strong>Δx→0</strong></span> <span class="intbl"><em>cos(x)cos(Δx) − sin(x)sin(Δx) − cos(x)</em><strong>Δx</strong></span></p>
+	<p>Rearrange to:</p>
+	<p class="center large"><span class="lim"><em>lim</em><strong>Δx→0</strong></span> <span class="intbl"><em>cos(x)(cos(Δx)−1) − sin(x)sin(Δx)</em><strong>Δx</strong></span></p>
+	<p>Split into two limits:</p>
+	<p class="center large"><span class="lim"><em>lim</em><strong>Δx→0</strong></span> <span class="intbl"><em>cos(x)(cos(Δx)−1)</em><strong>Δx</strong></span> − <span class="lim"><em>lim</em><strong>Δx→0</strong></span><span class="intbl"><em>sin(x)sin(Δx)</em><strong>Δx</strong></span></p>
+	<p>We can bring cos(x) and sin(x) outside the limits because they are functions of x not Δx</p>
+	<p class="center large">cos(x) <span class="lim"><em>lim</em><strong>Δx→0</strong></span> <span class="intbl"><em>cos(Δx)−1</em><strong>Δx</strong></span> − sin(x) <span class="lim"><em>lim</em><strong>Δx→0</strong></span><span class="intbl"><em> sin(Δx)</em><strong>Δx</strong></span></p>
+	<p>And using our knowledge from above:</p>
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span> cos(x)  = cos(x) × 0  − sin(x) × 1</p>
+	<p>And so:</p>
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span> cos(x)  = −sin(x)</p>
+	<h2>The Derivative of Tangent</h2>
+	<p>To find the  derivative of tan(x) we can use this <a href="../algebra/trigonometric-identities.html">identity</a>:</p>
+	<p class="center large">tan(x) = <span class="intbl"><em>sin(x)</em><strong>cos(x)</strong></span></p>
+	<p>So we start with:</p>
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span>tan(x) = <span class="intbl"><em>d</em><strong>dx</strong></span>(<span class="intbl"><em>sin(x)</em><strong>cos(x)</strong></span>)</p>
+	<div class="def">
+		<p>Now we can use the <a href="derivatives-rules.html">quotient  rule</a> of derivatives:</p>
+<p class="center larger">(<span class="intbl"><em>f</em><strong>g</strong></span>)’ = <span class="intbl"><em>gf’ − fg’</em><strong>g<sup>2</sup></strong></span></p>
+	</div>
+	<p>And we get:</p>
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span>tan(x) = <span class="intbl"><em>cos(x) × cos(x) − sin(x) × −sin(x)</em><strong>cos<sup>2</sup>(x)</strong></span></p>
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span>tan(x) = <span class="intbl"><em>cos<sup>2</sup>(x) + sin<sup>2</sup>(x)</em><strong>cos<sup>2</sup>(x)</strong></span></p>
+	<p>Then use this identity:</p>
+
+	<p class="center larger">cos<sup>2</sup>(x) + sin<sup>2</sup>(x) = 1</p>
+
+	<p>To get</p>
+	
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span>tan(x) =<span class="intbl"><em>1</em><strong>cos<sup>2</sup>(x)</strong></span></p>
+	<p>Done!</p>
+	<p>But most people like to use the fact that cos = <span class="intbl"><em>1</em><strong>sec</strong></span> to get:</p>
+	
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span>tan(x) = sec<sup>2</sup>(x)</p>
+	
+	<p>Note: we can  also do this:</p>
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span>tan(x) = <span class="intbl"><em>cos<sup>2</sup>(x) + sin<sup>2</sup>(x)</em><strong>cos<sup>2</sup>(x)</strong></span></p>
+	<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span>tan(x) = 1 + <span class="intbl"><em> sin<sup>2</sup>(x)</em><strong>cos<sup>2</sup>(x)</strong></span> = 1 + tan<sup>2</sup>(x)</p>
+	<p>(And, yes, 1 + tan<sup>2</sup>(x) = sec<sup>2</sup>(x) anyway, see <a href="../algebra/trig-magic-hexagon.html">Magic Hexagon</a> )</p>
+	<p class="center">&nbsp;</p>
+	<h2>Taylor Series</h2>
+	<p>Just on  a fun side note, we can use the <a href="../algebra/taylor-series.html">Taylor  Series</a> expansions and  differentiate term by term.</p>
+	<div class="example">
+		<h3>Example:  sin(x) and cos(x)</h3>
+		<p>The  Taylor Series expansion for sin(x) is</p>
+		<p class="center large">sin(x) = x − <span class="intbl"><em>x<sup>3</sup></em><strong>3!</strong></span> + <span class="intbl"><em>x<sup>5</sup></em><strong>5!</strong></span> − ...</p>
+		<p>Differentiate term  by term:</p>
+		<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span> sin(x) = 1 − <span class="intbl"><em>x<sup>2</sup></em><strong>2!</strong></span> + <span class="intbl"><em>x<sup>4</sup></em><strong>4!</strong></span> − ...</p>
+		<p>Which perfectly matches the Taylor  Series expansion for cos(x)</p>
+		<p class="center large">cos(x) = 1 − <span class="intbl"><em>x<sup>2</sup></em><strong>2!</strong></span> + <span class="intbl"><em>x<sup>4</sup></em><strong>4!</strong></span> − ...</p>
+		<p>&nbsp;</p>
+		<p>Let's also differentiate <b>that</b> term  by term:</p>
+		<p class="center large"><span class="intbl"><em>d</em><strong>dx</strong></span> cos(x) =  0 − x + <span class="intbl"><em>x<sup>3</sup></em><strong>3!</strong></span><strong> </strong>− ...</p>
+		<p>Which is the <b>negative</b> of the Taylor  Series expansion for sin(x) we started with!</p>
+	</div>
+	<p>But  this is "circular reasoning" because  the  original expansion of the Taylor  Series already use the rules  "the  derivative of sin(x) is cos(x)" and "the derivative of cos(x) is −sin(x)".</p>
+	<p>&nbsp;</p>
+
+<div class="related">
+  <a href="index.html">Calculus Index</a>
+</div>
+	<!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2020 MathsIsFun.com</div>
+
+</div>
+
+
+
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/calculus/derivatives-trig-proof.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:11 GMT -->
+</html>

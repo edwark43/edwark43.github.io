@@ -1,0 +1,446 @@
+<!doctype html>
+<html lang="en">
+<!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+<!-- Mirrored from www.mathsisfun.com/calculus/differential-equations-second-order.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:29 GMT -->
+<head>
+<meta charset="UTF-8">
+<!-- #BeginEditable "doctitle" -->
+<title>Second Order Differential Equations</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.">
+<script>Author='Les Bill Gates and Rod Pierce';</script>
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin>
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1>Second Order Differential  Equations</h1>
+
+<div class="def">
+    <p>Here we learn how to solve equations of this type:</p>
+    <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + p<span class="intbl"><em>dy</em><strong>dx</strong></span> + qy = 0</p>
+  </div>
+
+
+<h2><span class="center">Differential Equation</span></h2>
+
+<p>A <span class="center">Differential Equation is a</span>n equation with a <a href="../sets/function.html">function</a> and one or more of its <a href="derivatives-introduction.html">derivatives</a>:</p>
+  <p class="center"><img src="images/diff-eq-1.svg" alt="differential equation y + dy/dx = 5x" height="123" width="188" ><br>
+Example: an equation with the function <b>y</b> and its
+    derivative<b> <span class="intbl"> <em>dy</em> <strong>dx</strong> </span></b>  &nbsp;</p>
+
+
+<h2>Order</h2>
+
+<p>The Order is the <b>highest derivative</b> (is it a first derivative? a <a href="second-derivative.html">second derivative</a>? etc):</p>
+  <div class="example">
+
+<h3>Example:</h3>
+    <p class="center large"><span class="intbl"><em>dy</em><strong>dx</strong></span> + y<sup>2</sup> = 5x</p>
+    <p>It has only the first derivative <span class="intbl"> <em>dy</em> <strong>dx</strong> </span> , so is "First Order"</p>
+  </div>
+  <div class="example">
+
+<h3>Example:</h3>
+    <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + xy = sin(x)</p>
+    <p>This has a second derivative <span class="intbl"> <em>d<sup>2</sup>y</em> <strong>dx<sup>2</sup></strong> </span> , so is "Second Order" or "Order 2"</p>
+  </div>
+  <div class="example">
+
+<h3>Example:</h3>
+    <p class="center large"><span class="intbl"><em>d<sup>3</sup>y</em><strong>dx<sup>3</sup></strong></span> + x<span class="intbl"><em>dy</em><strong>dx</strong></span> + y = e<sup>x</sup></p>
+    <p>This has a third derivative <span class="intbl"> <em>d<sup>3</sup>y</em> <strong>dx<sup>3</sup></strong> </span> which outranks the <span class="intbl"> <em>dy</em> <strong>dx</strong> </span> , so is "Third Order" or "Order 3"</p>
+  </div>
+
+<h3>Before tackling  second order differential equations, make sure you are familiar with  the various methods for <a href="differential-equations-solution-guide.html">solving first  order differential equations</a>.</h3>
+
+
+<h2>Second Order Differential Equations</h2>
+
+<div class="def">
+    <p>We can solve a  second order differential equation  of the type:</p>
+    <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + P(x)<span class="intbl"><em>dy</em><strong>dx</strong></span> + Q(x)y
+      = f(x)</p>
+    <p>where P(x),  Q(x) and f(x) are functions of x, by using:</p>
+    <p class="dotpoint"><a href="differential-equations-undetermined-coefficients.html">Undetermined Coefficients</a>  which only works when f(x) is a polynomial, exponential, sine,  cosine or a linear combination of those.</p>
+    <p class="dotpoint"><a href="differential-equations-variation-parameters.html">Variation of Parameters</a> which is a little messier but works on a wider range of functions.</p>
+  </div>
+  <p>But here we begin by learning the  case where <b>f(x) = 0</b> (this makes it  "homogeneous"):</p>
+  <p class="center larger"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + P(x)<span class="intbl"><em>dy</em><strong>dx</strong></span> + Q(x)y
+    = 0</p>
+  <p>and also where the functions P(X) and Q(x) are  constants <b>p</b> and <b>q</b>:</p>
+  <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + p<span class="intbl"><em>dy</em><strong>dx</strong></span> + qy = 0</p>
+  <p>Let's learn to solve them!</p>
+  <p>&nbsp;</p>
+
+<h3><b><i>e</i></b> to the rescue</h3>
+  <p>We are going to use a special property of the <a href="derivatives-rules.html">derivative</a> of the  <a href="../sets/function-exponential.html">exponential function</a>:</p>
+  <p>At any point the slope (derivative) of <i><b>e</b></i><sup>x</sup> equals the value of <i><b>e</b></i><sup>x</sup> :</p>
+  <p class="center"><img src="../sets/images/function-exponential-slopes.svg" alt="natural exponential function" height="161" width="263" ></p>
+<p>And when we introduce a value "r" like this:</p>
+  <p class="center large">f(x) = e<sup>rx</sup></p>
+  <p>We find:</p>
+  <ul>
+    <li>the first derivative is f'(x) = re<sup>rx</sup></li>
+    <li>the second derivative is f''(x) = r<sup>2</sup>e<sup>rx</sup></li>
+  </ul>
+  <p>In other words, the  first and second derivatives of f(x) are both <b>multiples</b> of f(x)</p>
+  <p>This is going to help us a lot!</p>
+  <div class="example">
+
+<h3>Example 1: Solve</h3>
+    <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + <span class="intbl"><em>dy</em><strong>dx</strong></span> − 6y = 0</p>
+    <p>Let y = e<sup>rx</sup> so we get:</p>
+    <ul>
+      <li><span class="intbl"><em>dy</em><strong>dx</strong></span> = re<sup>rx</sup></li>
+      <li><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> = r<sup>2</sup>e<sup>rx</sup></li>
+    </ul>
+    <p>Substitute these  into the equation above:</p>
+    <p class="center large">r<sup>2</sup>e<sup>rx</sup> + re<sup>rx</sup> − 6e<sup>rx</sup> = 0</p>
+    <p>Simplify:</p>
+    <p class="center large">e<sup>rx</sup>(r<sup>2</sup> + r − 6) = 0</p>
+    <p class="center large">r<sup>2</sup> + r − 6 = 0</p>
+    <p>We have reduced the  differential equation to an ordinary <a href="../algebra/quadratic-equation.html">quadratic  equation</a>!</p>
+    <p>This quadratic  equation is given the special name of <b>characteristic equation</b>.</p>
+    <p>We can factor this one to:</p>
+    <p class="center large">(r − 2)(r + 3) = 0</p>
+    <p>So <b>r = 2 or −3</b></p>
+    <p>And so we have  two solutions:</p>
+    <p class="center large">y = e<sup>2x</sup></p>
+    <p class="center large">y = e<sup>−3x</sup></p>
+    <p>But that’s not the  final answer because we can combine different <b>multiples</b> of these two answers to  get a more general solution:</p>
+    <p class="center large">y = Ae<sup>2x</sup> + Be<sup>−3x</sup></p>
+
+<h3>Check</h3>
+    <p>Let us check that  answer. First take derivatives:</p>
+    <p class="center"><span class="center large">y = Ae<sup>2x</sup> + Be<sup>−3x</sup></span></p>
+    <p class="center large"><span class="intbl"><em>dy</em><strong>dx</strong></span> = 2Ae<sup>2x</sup> − 3Be<sup>−3x</sup></p>
+    <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> = 4Ae<sup>2x</sup> + 9Be<sup>−3x</sup></p>
+    <p>Now substitute into the original equation:</p>
+    <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + <span class="intbl"><em>dy</em><strong>dx</strong></span> − 6y = 0</p>
+    <p class="center large">(4Ae<sup>2x</sup> + 9Be<sup>−3x</sup>) + (2Ae<sup>2x</sup> − 3Be<sup>−3x</sup>) − 6(Ae<sup>2x</sup> + Be<sup>−3x</sup>) = 0</p>
+    <p class="center large">4Ae<sup>2x</sup> + 9Be<sup>−3x</sup> + 2Ae<sup>2x</sup> − 3Be<sup>−3x</sup> − 6Ae<sup>2x</sup> − 6Be<sup>−3x</sup> = 0</p>
+    <p class="center large">4Ae<sup>2x</sup> + 2Ae<sup>2x</sup> − 6Ae<sup>2x</sup>+ 9Be<sup>−3x</sup>− 3Be<sup>−3x</sup> − 6Be<sup>−3x</sup> = 0</p>
+    <p class="center large">0 = 0</p>
+    <p>It worked!</p>
+  </div>
+
+
+<h2>So, does this  method work generally?</h2>
+
+<p>Well, yes and no.  The answer to this question depends on the  constants <b>p</b> and <b>q</b>.</p>
+  <p>With <b>y = e<sup>rx</sup></b> as a solution of the differential equation:</p>
+  <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + p<span class="intbl"><em>dy</em><strong>dx</strong></span> + qy = 0</p>
+  <p>we get:</p>
+  <p class="center large">r<sup>2</sup>e<sup>rx</sup> + pre<sup>rx</sup> + qe<sup>rx</sup> = 0</p>
+  <p class="center large">e<sup>rx</sup>(r<sup>2</sup> + pr + q) = 0</p>
+  <p class="center large">r<sup>2</sup> + pr + q = 0</p>
+  <p>This is a <a href="../algebra/quadratic-equation.html">quadratic  equation</a>, and there can be three types of answer:</p>
+  <ul>
+    <li>two real roots</li>
+    <li>one real root (i.e. both real roots are the same)</li>
+    <li>two complex roots</li>
+  </ul>
+  <p>How we solve it depends which type!</p>
+  <p>We can easily find which type by calculating the <a href="../algebra/quadratic-equation.html">discriminant</a> <b>p<sup>2</sup> − 4q</b>. When it is</p>
+  <ul>
+    <li>positive we get two real roots</li>
+    <li>zero we get one real root</li>
+    <li>negative we get  two complex roots</li>
+  </ul>
+<p style="float:right; margin: 0 0 5px 10px;"><img src="../algebra/images/quadratic-graph.svg" alt="Quadratic Graph" height="140" width="175" ></p>
+
+
+<h2>Two Real Roots</h2>
+
+<p>When the discriminant <b>p<sup>2</sup> − 4q</b> is <b>positive</b> we can go straight from the differential equation</p>
+  <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + p<span class="intbl"><em>dy</em><strong>dx</strong></span> + qy = 0</p>
+  <p>through the "characteristic equation":</p>
+  <p class="center large">r<sup>2</sup> + pr + q = 0</p>
+  <p>to the general solution with two real roots <b>r<sub>1</sub></b> and <b>r<sub>2</sub></b>:</p>
+  <p class="center large">y = Ae<sup>r<sub>1</sub>x</sup> + Be<sup>r<sub>2</sub>x</sup></p>
+  <div class="example">
+
+<h3><b>Example 2:</b> Solve</h3>
+    <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 9<span class="intbl"><em>dy</em><strong>dx</strong></span> + 20y = 0</p>
+    <p>The  characteristic  equation is:<br></p>
+    <p class="center large">r<sup>2</sup> − 9r<strong> </strong>+ 20 = 0</p>
+    <p>Factor:</p>
+    <p class="center large">(r − 4)(r − 5) = 0</p>
+    <p class="center large">r = 4 or 5</p>
+    <p>So the  general solution of our differential equation is:</p>
+    <p class="center large">y = Ae<sup>4x</sup> + Be<sup>5x</sup></p>
+    <p>And here are some sample values:</p>
+    <p class="center"><img src="images/diff-eq-2nd-order-a.svg" alt="y = Ae^4x + Be^5x" height="340" width="550" ></p>
+  </div>
+  <div class="example">
+
+<h3><b>Example 3:</b> Solve</h3>
+    <p class="center large">6<span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + 5<span class="intbl"><em>dy</em><strong>dx</strong></span> − 6y = 0</p>
+    <p>The  characteristic  equation is:<br></p>
+    <p class="center large">6r<sup>2</sup> + 5r<strong> </strong>− 6 = 0</p>
+    <p>Factor:</p>
+    <p class="center large">(3r − 2)(2r + 3) = 0</p>
+    <p class="center large">r = <span class="intbl"><em>2</em><strong>3</strong></span> or <span class="intbl"><em>−3</em><strong>2</strong></span></p>
+    <p>So the  general solution of our differential equation is:</p>
+    <p class="center large">y = Ae<sup>(<span class="intbl"><em>2</em><strong>3</strong></span>x)</sup> + Be<sup>(<span class="intbl"><em>−3</em><strong>2</strong></span>x)</sup></p>
+  </div>
+  <div class="example">
+
+<h3><b>Example 4:</b> Solve</h3>
+    <p class="center large">9<span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 6<span class="intbl"><em>dy</em><strong>dx</strong></span> − y = 0</p>
+    <p>The  characteristic  equation is:<br></p>
+    <p class="center large">9r<sup>2</sup> − 6r<strong> </strong>− 1 = 0</p>
+    <p>This does not  factor easily, so we use the <a href="../algebra/quadratic-equation.html">quadratic  equation formula</a>:</p>
+    <p class="center larger">x = <span class="intbl"> <em>−b ± √(b<sup>2 </sup>− 4ac)</em> <strong>2a</strong></span></p>
+    <p>with a = 9, b = −6  and c = −1</p>
+    <p class="center larger">x = <span class="intbl"> <em>−(−6) ± √((−6)<sup>2 </sup>− 4×9×(−1))</em> <strong>2×9</strong></span></p>
+    <p class="center larger">x = <span class="intbl"><em>6 ± √(36+ 36)</em> <strong>18</strong></span></p>
+    <p class="center larger">x = <span class="intbl"><em>6 ± 6√2</em> <strong>18</strong></span></p>
+    <p class="center larger">x = <span class="intbl"><em>1 ± √2</em> <strong>3</strong></span></p>
+    <p>So the  general solution of the differential equation is</p>
+    <p class="center large">y = Ae<sup>(<span class="intbl"><em>1 + √2</em> <strong>3</strong></span>)x</sup> + Be<sup>(<span class="intbl"><em>1 − √2</em> <strong>3</strong></span>)x</sup></p>
+  </div>
+<p style="float:right; margin: 0 0 5px 10px;"><img src="../algebra/images/quadratic-graph-1root.svg" alt="Quadratic Graph" height="140" width="175" ></p>
+
+
+<h2>One Real Root</h2>
+
+<p>When the discriminant <b>p<sup>2</sup> − 4q</b> is <b>zero</b> we get one real root (i.e. both  real roots are equal).</p>
+  <p>Here are some  examples:</p>
+  <div class="example">
+
+<h3><b>Example 5:</b> Solve</h3>
+    <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 10<span class="intbl"><em>dy</em><strong>dx</strong></span> + 25y = 0</p>
+    <p>The  characteristic  equation is:<br></p>
+    <p class="center large">r<sup>2</sup> − 10r<strong> </strong>+ 25 = 0</p>
+    <p>Factor:</p>
+    <p class="center large">(r − 5)(r − 5) = 0</p>
+    <p class="center large">r = 5<span class="intbl"><strong></strong></span></p>
+    <p>So we have   one solution: <b>y =  e<sup>5x</sup></b></p>
+    <p>&nbsp;</p>
+    <p class="larger"><b>BUT</b> when <b>e<sup>5x</sup></b> is a solution, then  <b>xe<sup>5x</sup></b> is <b>also</b> a solution!</p>
+    <div class="center80">
+      <p>Why? I can show you:</p>
+      <p>y =  xe<sup>5x</sup><br></p>
+      <p><span class="intbl"><em>dy</em><strong>dx</strong></span> = e<sup>5x</sup> + 5xe<sup>5x</sup></p>
+      <p><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> = 5e<sup>5x</sup> + 5e<sup>5x</sup> + 25xe<sup>5x</sup></p>
+      <p>So</p>
+      <p><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 10<span class="intbl"><em>dy</em><strong>dx</strong></span> + 25y</p>
+      <p>= 5e<sup>5x</sup> + 5e<sup>5x</sup> + 25xe<sup>5x</sup> − 10(e<sup>5x</sup> + 5xe<sup>5x</sup>) + 25xe<sup>5x</sup></p>
+      <p>= (5e<sup>5x</sup> + 5e<sup>5x</sup> − 10e<sup>5x</sup>) + (25xe<sup>5x</sup> − 50xe<sup>5x</sup> + 25xe<sup>5x</sup>) = 0</p>
+    </div>
+    <p>So, in this case our   solution is:</p>
+    <p class="center large">y = Ae<sup>5x</sup> + Bxe<sup>5x</sup></p>
+  </div>
+
+<h3>&nbsp;</h3>
+
+<h3>How does this  work in the general case?</h3>
+  <p>With <b>y =  xe<sup>rx</sup></b> we get the derivatives:</p>
+  <ul>
+    <li><span class="intbl"><em>dy</em><strong>dx</strong></span> = e<sup>rx</sup> + rxe<sup>rx</sup></li>
+    <li><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> = re<sup>rx</sup> + re<sup>rx</sup> + r<sup>2</sup>xe<sup>rx</sup></li>
+  </ul>
+  <p>So</p>
+  <p><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + p <span class="intbl"><em>dy</em><strong>dx</strong></span> + qy</p>
+  <p>= (re<sup>rx</sup> + re<sup>rx</sup> + r<sup>2</sup>xe<sup>rx</sup>) + p( e<sup>rx</sup> + rxe<sup>rx</sup> ) + q( xe<sup>rx</sup> )</p>
+  <p>= e<sup>rx</sup>(r + r + r<sup>2</sup>x + p + prx + qx)</p>
+  <p>= e<sup>rx</sup>(2r + p + x(r<sup>2</sup> + pr + q))</p>
+  <p>= e<sup>rx</sup>(2r + p) because we already know that r<sup>2</sup> + pr + q = 0</p>
+  <p>&nbsp;</p>
+  <p>And when <b>r<sup>2</sup> + pr + q</b> has a repeated root, then <b>r = <span class="intbl"><em>−p</em>2</span></b> and <b>2r + p = 0</b></p>
+  <p>So if r is a  repeated root of the characteristic equation, then the general  solution is</p>
+  <p class="center large">y = Ae<sup>rx</sup> + Bxe<sup>rx</sup></p>
+  <p>Let's try another example to see how quickly we can get a solution:</p>
+  <div class="example">
+
+<h3><b>Example 6:</b> Solve</h3>
+    <p class="center large">4<span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + 4<span class="intbl"><em>dy</em><strong>dx</strong></span> + y = 0</p>
+    <p>The  characteristic  equation is:<br></p>
+    <p class="center large">4r<sup>2</sup> + 4r<strong> </strong>+ 1 = 0</p>
+    <p>Then:</p>
+    <p class="center large">(2r + 1)<sup>2</sup> = 0</p>
+    <p class="center large">r = −<span class="intbl"><em>1</em><strong>2</strong></span></p>
+    <p>So the  solution of the differential equation is:</p>
+    <p class="center large">y = Ae<sup>(−½)x</sup> + Bxe<sup>(−½)x</sup></p>
+  </div>
+<p style="float:right; margin: 0 0 5px 10px;"><img src="../algebra/images/quadratic-graph-complex.svg" alt="Quadratic Graph with Complex Roots" height="140" width="175" ></p>
+
+
+<h2>Complex  roots</h2>
+
+<p>When the discriminant <b>p<sup>2</sup> − 4q</b> is <b>negative</b> we get <a href="../numbers/complex-numbers.html">complex</a> roots.</p>
+  <p>Let’s try an  example to help us work out how to do this type:</p>
+  <div class="example">
+
+<h3><b>Example 7:</b> Solve</h3>
+    <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 4<span class="intbl"><em>dy</em><strong>dx</strong></span> + 13y = 0</p>
+    <p>The  characteristic  equation is:<br></p>
+    <p class="center large">r<sup>2</sup> − 4r<strong> </strong>+ 13 = 0</p>
+    <p>This does not  factor, so we use the <a href="../algebra/quadratic-equation.html">quadratic  equation formula</a>:</p>
+    <p class="center larger">x = <span class="intbl"> <em>−b ± √(b<sup>2 </sup>− 4ac)</em> <strong>2a</strong></span></p>
+    <p>with a = 1, b = −4  and c = 13</p>
+    <p class="center larger">x = <span class="intbl"> <em>−(−4) ± √((−4)<sup>2 </sup>− 4×1×13)</em> <strong>2×1</strong></span></p>
+    <p class="center larger">x = <span class="intbl"><em>4 ± √(16− 52)</em> <strong>2</strong></span></p>
+    <p class="center larger">x = <span class="intbl"><em>4 ± √(−36)</em> <strong>2</strong></span></p>
+    <p class="center larger">x = <span class="intbl"><em>4 ± 6i</em> <strong>2</strong></span></p>
+    <p class="center larger">x = 2 ± 3i</p>
+    <p>If we follow the  method used for two real roots, then we can try the solution:</p>
+    <p class="center large">y = Ae<sup>(2+3i)x</sup> + Be<sup>(2−3i)x</sup><br></p>
+    <p>We can simplify this  since e<sup>2x</sup> is a common factor:</p>
+    <p class="center large">y = e<sup>2x</sup>( Ae<sup>3ix</sup> + Be<sup>−3ix</sup> )</p>
+    <p>But we haven't finished yet ... !</p>
+  <a href="../algebra/eulers-formula.html">Euler's  formula</a> tells us that: 
+    <p class="center large">e<sup>ix</sup> = cos(x) + i sin(x)</p>
+    <p>So now we can follow a whole new avenue to (eventually) make things simpler.</p>
+    <p>Looking just at the "A plus B" part:</p>
+    <p class="center large">Ae<sup>3ix</sup> + Be<sup>−3ix</sup></p>
+    <p class="center large">A(cos(3x) + i sin(3x)) + B(cos(−3x) + i sin(−3x))</p>
+    <p class="center large">Acos(3x) + Bcos(−3x) + i(Asin(3x) + Bsin(−3x))</p>
+    <p>Now apply the <a href="../algebra/trigonometric-identities.html">Trigonometric  Identities</a>:    cos(−θ)=cos(θ) and sin(−θ)=−sin(θ):</p>
+    <center>
+      <p class="center large">Acos(3x) + Bcos(3x) + i(Asin(3x) − Bsin(3x)</p>
+    </center>
+    <p class="center large">(A+B)cos(3x) + i(A−B)sin(3x)</p>
+    <p>Replace A+B by C,  and A−B by D:</p>
+    <p class="center large">Ccos(3x) + iDsin(3x)</p>
+    <p>And we get the  solution:<br></p>
+    <p class="center large">y = e<sup>2x</sup>( Ccos(3x) + iDsin(3x) )</p>
+    <p class="center large">&nbsp;</p>
+
+<h3>Check</h3>
+    <p>We have our answer,  but maybe we should check that it does indeed satisfy the original  equation:</p>
+    <p>y = e<sup>2x</sup>( Ccos(3x) + iDsin(3x) )</p>
+    <p><span class="intbl"><em>dy</em><strong>dx</strong></span> = e<sup>2x</sup>( −3Csin(3x)+3iDcos(3x) ) + 2e<sup>2x</sup>( Ccos(3x)+iDsin(3x) )</p>
+    <p><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> = e<sup>2x</sup>( −(6C+9iD)sin(3x) + (−9C+6iD)cos(3x)) + 2e<sup>2x</sup>(2C+3iD)cos(3x) + (−3C+2iD)sin(3x) )</p>
+    <p>Substitute:</p>
+    <p><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 4<span class="intbl"><em>dy</em><strong>dx</strong></span> + 13y = e<sup>2x</sup>( −(6C+9iD)sin(3x) + (−9C+6iD)cos(3x)) + 2e<sup>2x</sup>(2C+3iD)cos(3x) + (−3C+2iD)sin(3x) ) − 4( e<sup>2x</sup>( −3Csin(3x)+3iDcos(3x) ) + 2e<sup>2x</sup>( Ccos(3x)+iDsin(3x) ) ) + 13( e<sup>2x</sup>(Ccos(3x) + iDsin(3x)) )<br></p>
+    <p>... hey, why don't YOU try adding up all the terms to see if they equal zero ... if not please <a href="../contact.html">let me know</a>, OK?</p>
+  </div>
+  <p><br></p>
+
+<h3>How do we  generalize this?</h3>
+  <p>Generally, when we  solve the characteristic equation with complex roots, we will get two  solutions  <b>r<sub>1</sub> = v + wi</b> and <b>r<sub>2</sub> = v − wi</b></p>
+  <p>So the general solution of  the differential equation is</p>
+  <p class="center large">y = e<sup>vx</sup> ( Ccos(wx) + iDsin(wx) )</p>
+  <div class="example">
+
+<h3><b>Example 8:</b> Solve</h3>
+    <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 6<span class="intbl"><em>dy</em><strong>dx</strong></span> + 25y = 0</p>
+    <p>The  characteristic  equation is:<br></p>
+    <p class="center large">r<sup>2</sup> − 6r<strong> </strong>+ 25 = 0</p>
+    <p>Use the quadratic  equation formula:</p>
+    <p class="center larger">x = <span class="intbl"> <em>−b ± √(b<sup>2 </sup>− 4ac)</em> <strong>2a</strong></span></p>
+    <p>with a = 1, b = −6  and c = 25</p>
+    <p class="center larger">x = <span class="intbl"> <em>−(−6) ± √((−6)<sup>2 </sup>− 4×1×25)</em> <strong>2×1</strong></span></p>
+    <p class="center larger">x = <span class="intbl"><em>6 ± √(36− 100)</em> <strong>2</strong></span></p>
+    <p class="center larger">x = <span class="intbl"><em>6 ± √(−64)</em> <strong>2</strong></span></p>
+    <p class="center larger">x = <span class="intbl"><em>6 ± 8i</em> <strong>2</strong></span></p>
+    <p class="center larger">x = 3 ± 4i</p>
+    <p>And we get the  solution:<br></p>
+    <p class="center large">y = e<sup>3x</sup>(Ccos(4x) + iDsin(4x))</p>
+    <p><br></p>
+  </div>
+  <p><br></p>
+  <div class="example">
+
+<h3><b>Example 9:</b> Solve</h3>
+    <p class="center large">9<span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + 12<span class="intbl"><em>dy</em><strong>dx</strong></span> + 29y = 0</p>
+    <p>The  characteristic  equation is:<br></p>
+    <p class="center large">9r<sup>2</sup> + 12r<strong> </strong>+ 29 = 0</p>
+    <p>Use the quadratic  equation formula:</p>
+    <p class="center larger">x = <span class="intbl"> <em>−b ± √(b<sup>2 </sup>− 4ac)</em> <strong>2a</strong></span></p>
+    <p>with a = 9, b = 12  and c = 29</p>
+    <p class="center larger">x = <span class="intbl"> <em>−12 ± √(12<sup>2 </sup>− 4×9×29)</em> <strong>2×9</strong></span></p>
+    <p class="center larger">x = <span class="intbl"><em>−12 ± √(144− 1044)</em> <strong>18</strong></span></p>
+    <p class="center larger">x = <span class="intbl"><em>−12 ± √(−900)</em> <strong>18</strong></span></p>
+    <p class="center larger">x = <span class="intbl"><em>−12 ± 30i</em> <strong>18</strong></span></p>
+    <p class="center larger">x = −<span class="intbl"><em>2</em><strong>3</strong></span>
+ ± <span class="intbl"><em>5</em><strong>3</strong></span>i</p>
+    <p>And we get the  solution:<br></p>
+    <p class="center large">y = e<sup>(−<span class="intbl"><em>2</em><strong>3</strong></span>)x</sup>(Ccos(<span class="intbl"><em>5</em><strong>3</strong></span>x) + iDsin(<span class="intbl"><em>5</em><strong>3</strong></span>x))</p>
+    <p><br></p>
+  </div>
+
+
+<h2>Summary</h2>
+
+<p>To solve a linear  second order differential equation of the form</p>
+  <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + p<span class="intbl"><em>dy</em><strong>dx</strong></span> + qy = 0</p>
+  <p>where <b>p</b> and <b>q</b> are  constants, we must find the roots of the characteristic equation</p>
+  <p class="center large">r<sup>2</sup> + pr + q = 0</p>
+  <p>There are three  cases, depending on the  discriminant <b>p<sup>2</sup> - 4q</b>. When it is</p>
+  <p class="dotpoint"><b>positive</b> we get two real roots, and the solution is</p>
+  <p class="center large">y = Ae<sup>r<sub>1</sub>x</sup> + Be<sup>r<sub>2</sub>x</sup></p>
+  <p class="dotpoint"><b>zero</b> we get one real root, and the solution is</p>
+  <p class="center large">y = Ae<sup>rx</sup> + Bxe<sup>rx</sup></p>
+  <p class="dotpoint"><b>negative</b> we get  two complex roots <b>r<sub>1</sub> = v + wi</b> and <b>r<sub>2</sub> = v − wi</b>, and the solution is</p>
+  <p class="center large">y = e<sup>vx</sup> ( Ccos(wx) + iDsin(wx) )</p>
+  <p>&nbsp;</p>
+<div class="questions">9479, 9480, 9481, 9482, 9483, 9484, 9485, 9486, 9487, 9488</div>
+  <p>&nbsp;</p>
+
+<div class="related">  
+  <a href="differential-equations-solution-guide.html">Differential Equations Solution Guide</a>  
+  <a href="index.html">Calculus Index</a>
+</div>
+  <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright &copy; 2021 MathsIsFun.com</div>
+
+</div>
+</body>
+<!-- #EndTemplate -->
+
+<!-- Mirrored from www.mathsisfun.com/calculus/differential-equations-second-order.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:29 GMT -->
+</html>

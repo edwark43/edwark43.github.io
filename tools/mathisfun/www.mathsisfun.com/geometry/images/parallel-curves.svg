@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="120"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="parallel-curves.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:current-layer="svg10" />
+  <defs
+     id="defs2" />
+  <path
+     style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0084c8;stroke-width:2.017898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+     d="m 6.7349,163.811 c 0,0 13.9618,-87.6901 43.5609,-91.5999 29.5989,-3.9095 53.0552,44.6829 84.3302,32.3949 31.274,-12.2879 72.042,-134.0463 72.042,-134.0463 l -236.2339,1.6755 1.117,189.3398 z"
+     id="path899"
+     inkscape:connector-curvature="0" />
+  <path
+     sodipodi:type="inkscape:offset"
+     inkscape:radius="-9.88637"
+     inkscape:original="M 151.623 -13.7344 L -28.5352 -12.457 L -27.6836 131.926 L -0.851562 133.629 C -0.851562 133.629 9.79601 66.7607 32.3691 63.7793 C 54.9421 60.798 72.8307 97.8523 96.6816 88.4824 C 120.533 79.1124 151.623 -13.7344 151.623 -13.7344 z "
+     style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff4141;stroke-width:1.538835;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+     id="path901"
+     d="m 137.561,-3.74805 -156.1508,1.10743 0.7382,125.28562 8.93168,0.566 c 1.34633,-6.714 3.37739,-15.741 6.80078,-26.4102 2.886096,-8.9947 6.48505,-18.2252 11.38672,-26.082 4.90162,-7.8569 11.50732,-15.38 21.80662,-16.7403 16.8937,-2.2312 28.9362,9.1511 38.9102,16.6445 4.987,3.7468 9.5954,6.8502 13.3672,8.3282 3.7717,1.4779 6.2076,1.7079 9.7148,0.33 1.4714,-0.578 8.0346,-6.6206 13.8806,-15.9667 5.846,-9.3462 11.839,-21.5071 17.104,-33.4434 5.737,-13.0083 10.249,-24.74379 13.51,-33.61915 z"
+     transform="matrix(1.31125,0,0,1.31138,7.8518,-11.4286)" />
+</svg>

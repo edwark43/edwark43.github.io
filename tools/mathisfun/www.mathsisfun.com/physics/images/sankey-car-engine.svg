@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="334.6" height="145.4" version="1.1">
+<defs>
+<linearGradient id="id1">
+<stop offset="0" style="stop-color:#ff6600; stop-opacity:1;"/>
+<stop offset="1" style="stop-color:#ffff3e; stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g transform="translate(-1550.18,-1791.66)">
+<path style="fill:none; stroke:#edd400; stroke-width:22.36;" d="m 1568.8,1809.7 h 241.3"/>
+<path style="fill:none; stroke:#edd400; stroke-width:4.47;" d="m 1568.8,1822.7 h 165 c 0,0 11.9,0.2 18.5,2.7 7.1,2.7 16.8,10.7 16.8,10.7 l 16.5,12.5"/>
+<path style="fill:none; stroke:#edd400; stroke-width:26.83;" d="m 1568.8,1837.7 126.6,0.3 c 0,0 11.9,0.2 18.6,2.7 7.1,2.7 16.8,10.8 16.8,10.8 l 23.3,17.7"/>
+<path style="fill:none; stroke:#edd400; stroke-width:35.78;" d="m 1568.8,1868.7 93.7,0.3 c 0,0 11.9,0.2 18.5,2.7 7.1,2.7 16.9,10.8 16.9,10.8 l 40.4,35.8"/>
+<text x="1823.4" y="1807" style="font-family:'Comic Sans MS'; font-size:20px; font-style:italic; color:black; overflow:visible; fill:#a40000; stroke-width:0.45px;">Power</text>
+<text x="1792.9" y="1857.5" style="font-family:'Comic Sans MS'; font-size:20px; font-style:italic; color:black; overflow:visible; fill:#a40000; stroke-width:0.45px;">Friction</text>
+<text x="1753.5" y="1935.3" style="font-family:'Comic Sans MS'; font-size:20px; font-style:italic; color:black; overflow:visible; fill:#a40000; stroke-width:0.45px;">Coolant</text>
+<text x="1765.2" y="1887.1" style="font-family:'Comic Sans MS'; font-size:20px; font-style:italic; color:black; overflow:visible; fill:#a40000; stroke-width:0.45px;">Exhaust Gas</text>
+<path style="fill:#edd400; stroke:#edd400; stroke-width:0.45px;" d="m 1809.6,1794.5 v 31.4 l 7.6,-15.8 z"/>
+<path style="fill:#edd400; stroke:#edd400; stroke-width:0.49px;" d="m 1787.5,1844.5 -4.7,7.3 4.4,-2.8 z"/>
+<path style="fill:#edd400; stroke:#edd400; stroke-width:0.45px;" d="m 1764.1,1854.9 -20.8,27.7 17.2,-8.9 z"/>
+<path style="fill:#edd400; stroke:#edd400; stroke-width:0.45px;" d="m 1753.1,1899.4 -34.3,37.5 27.1,-11.3 z"/>
+<text x="-1874.9" y="1565.4" transform="rotate(-90)" style="font-family:'Comic Sans MS'; font-size:20px; font-style:italic; color:black; overflow:visible; fill:#ff6600; stroke-width:0.45px;">100 MJ</text>
+<text x="1749.6" y="1816.8" style="font-family:'Comic Sans MS'; font-size:15.7px; color:black; overflow:visible; fill:black; stroke-width:0.45px;">25 MJ</text>
+<text x="2513.1" y="300.6" transform="rotate(41.2997)" style="font-family:'Comic Sans MS'; font-size:15.7px; color:black; overflow:visible; fill:black; stroke-width:0.45px;">40 MJ</text>
+<text x="2493.9" y="255.7" transform="rotate(41.2997)" style="font-family:'Comic Sans MS'; font-size:15.7px; color:black; overflow:visible; fill:black; stroke-width:0.45px;">30 MJ</text>
+<text x="2484.1" y="522.8" transform="rotate(34.5684)" style="font-family:'Comic Sans MS'; font-size:11.4px; color:black; overflow:visible; fill:black; stroke-width:0.45px;">5 MJ</text>
+<text x="1823.7" y="1822.9" style="font-family:'Comic Sans MS'; font-size:20px; font-style:italic; color:black; overflow:visible; fill:#a40000; stroke-width:0.45px;">output</text>
+</g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="160.9" version="1.0">
+<defs/>
+<path style="fill:none; stroke:#5c3566; stroke-width:4.93;" d="M 8,48.1 H 126.6 L 30.6,113.6 67.3,7.5 104,113.6 Z"/>
+<path style="fill:none; stroke:#c4a000; stroke-width:4.93;" d="m 159.7,20.6 116,33.7 -76.5,43.8 44.4,-87.3 20.4,115.9 z"/>
+<text x="25.7" y="154.1" style="font-family:'Comic Sans MS'; font-size:24.7px; color:black; overflow:visible; fill:#5c3566; stroke-width:0.62px;">regular</text>
+<text x="174.4" y="154.1" style="font-family:'Comic Sans MS'; font-size:24.7px; color:black; overflow:visible; fill:#4e9a06; stroke-width:0.62px;">irregular</text>
+</svg>

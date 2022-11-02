@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="129.5" height="128.8" version="1.1">
+<defs>
+<marker style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#fd3301; stroke:#fd3301; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<g transform="translate(-347.793,-729.342)">
+<path transform="matrix(0.253859,-0.012746,0.012785,0.2531,128.437,463.096)" style="color:black; overflow:visible; fill:#3a7f53; stroke:black; stroke-width:16.01;" d="m 1235.4,1493.5 -255.4,84 -158.8,-216.9 157.2,-218 255.9,82.2 z"/>
+<text x="583.6" y="611" transform="matrix(0.966868,0.260295,-0.261074,0.963982,0,0)" style="font-family:Arial; font-size:21.6px; color:black; overflow:visible; fill:#9ade00; stroke-width:0.96;">edge</text>
+<text x="-437.4" y="745.9" transform="matrix(0.578534,-0.815051,0.817492,0.576807,0,0)" style="font-family:Arial; font-size:21.6px; color:black; overflow:visible; fill:#9ade00; stroke-width:0.96;">edge</text>
+<text x="852.7" y="243.5" transform="matrix(0.632492,0.774179,-0.776497,0.630604,0,0)" style="font-family:Arial; font-size:21.6px; color:black; overflow:visible; fill:#9ade00; stroke-width:0.96;">edge</text>
+<text x="72.6" y="950.8" transform="matrix(0.933033,-0.362842,0.363929,0.930248,0,0)" style="font-family:Arial; font-size:21.6px; color:black; overflow:visible; fill:#9ade00; stroke-width:0.96;">edge</text>
+<text x="790" y="-418.2" transform="matrix(0.053639,0.997072,-1.00006,0.053479,0,0)" style="font-family:Arial; font-size:21.6px; color:black; overflow:visible; fill:#9ade00; stroke-width:0.96;">edge</text>
+</g>
+</svg>

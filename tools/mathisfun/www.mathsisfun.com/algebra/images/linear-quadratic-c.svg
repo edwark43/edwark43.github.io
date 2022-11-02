@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="198.1" height="205" version="1.1">
+<defs>
+<marker style="overflow:visible;" orient="auto" id="id01">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;"/>
+</marker>
+</defs>
+<g transform="translate(984.72,-4.88535)">
+<g transform="translate(-477.931,-61.4102)">
+<polyline points="250.00 0.00000, 250.00 400.00, " transform="matrix(0.546984,0,0,0.478647,-640.113,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.2;"/>
+<polyline points="350.00 0.00000, 350.00 400.00, " transform="matrix(0.546984,0,0,0.478647,-640.113,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.2;"/>
+<polyline points="400.00 0.00000, 400.00 400.00, " transform="matrix(0.546984,0,0,0.478647,-640.113,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.2;"/>
+<polyline points="450.00 0.00000, 450.00 400.00, " transform="matrix(0.546984,0,0,0.478647,-640.113,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.2;"/>
+<polyline points="500.00 0.00000, 500.00 400.00, " transform="matrix(0.546984,0,0,0.478647,-640.113,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.2;"/>
+<polyline points="550.00 0.00000, 550.00 400.00, " transform="matrix(0.546984,0,0,0.478647,-640.113,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.2;"/>
+<polyline points="600.00 0.00000, 600.00 400.00, " transform="matrix(0.546984,0,0,0.478647,-640.113,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.2;"/>
+<polyline points="0.00000 350.00, 600.00 350.00, " transform="matrix(0.319074,0,0,0.547025,-503.367,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.24;"/>
+<polyline points="0.00000 300.00, 600.00 300.00, " transform="matrix(0.319074,0,0,0.547025,-503.367,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.24;"/>
+<polyline points="0.00000 250.00, 600.00 250.00, " transform="matrix(0.319074,0,0,0.547025,-503.367,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.24;"/>
+<polyline points="0.00000 200.00, 600.00 200.00, " transform="matrix(0.319074,0,0,0.547025,-503.367,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.24;"/>
+<polyline points="0.00000 150.00, 600.00 150.00, " transform="matrix(0.319074,0,0,0.547025,-503.367,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.24;"/>
+<polyline points="0.00000 100.00, 600.00 100.00, " transform="matrix(0.319074,0,0,0.547025,-503.367,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.24;"/>
+<polyline points="0.00000 50.000, 600.00 50.000, " transform="matrix(0.319074,0,0,0.547025,-503.367,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.24;"/>
+<polyline points="0.00000 0.00000, 600.00 0.00000, " transform="matrix(0.319074,0,0,0.547025,-503.367,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.24;"/>
+<polyline points="300.00 0.00000, 300.00 400.00, " transform="matrix(0.546984,0,0,0.478647,-640.113,79.5677)" style="fill:#dcddde; stroke:black; stroke-width:0.2;"/>
+</g>
+<path d="m -983.3,154.9 h 193.4" style="marker-end:url(#id01); fill:none; fill-opacity:0.75; stroke:black; stroke-width:1.62;"/>
+<path d="M -953.9,209.9 V 6.8" style="marker-end:url(#id01); fill:none; fill-opacity:0.75; stroke:black; stroke-width:1.62;"/>
+<text x="-816.4" y="151.1" transform="scale(0.999961,1.00004)" style="font-family:'Comic Sans MS'; font-size:20.4px; overflow:visible; fill:black; stroke:#a7a9ac; stroke-width:0.54px;">x</text>
+<text x="-951" y="30.3" transform="scale(0.999961,1.00004)" style="font-family:'Comic Sans MS'; font-size:20.4px; overflow:visible; fill:black; stroke:#a7a9ac; stroke-width:0.54px;">y</text>
+<text x="-960.2" y="174.4" style="font-family:'Comic Sans MS'; font-size:18.7px; color:black; overflow:visible; fill:black; stroke-width:1px;">0</text>
+<text x="-823.1" y="173.5" style="font-family:'Comic Sans MS'; font-size:18.7px; color:black; overflow:visible; fill:black; stroke-width:1px;">5</text>
+<text x="-973.5" y="26.2" style="font-family:'Comic Sans MS'; font-size:18.7px; color:black; overflow:visible; fill:black; stroke-width:1px;">5</text>
+<text x="-973.1" y="162.8" style="font-family:'Comic Sans MS'; font-size:18.7px; color:black; overflow:visible; fill:black; stroke-width:1px;">0</text>
+<path d="m -933.5,5.5 c 0,0 17.2,142.1 52.8,142.1 35.6,0 55,-142.5 55,-142.5" style="fill:none; stroke:#dc0000; stroke-width:3;"/>
+<path d="m -984.1,52.1 196.8,89.5" style="fill:none; stroke:#007ad2; stroke-width:3;"/>
+</g>
+</svg>

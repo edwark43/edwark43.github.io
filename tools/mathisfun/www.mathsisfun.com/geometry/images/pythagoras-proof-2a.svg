@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+
+<svg
+   width="152.6"
+   height="152.7"
+   version="1.0"
+   style="font-family:Georgia"
+   id="svg1112"
+   sodipodi:docname="pythagoras-proof-2a.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1114"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg1112" />
+  <defs
+     id="defs1076">
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker1070">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1068" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="marker1074">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1072" />
+    </marker>
+  </defs>
+  <path
+     style="fill:#e7d5e7;stroke-width:5.1"
+     d="M 0,108 V 152.7 H 108 Z"
+     id="path1078" />
+  <path
+     style="fill:#e7d5e7;stroke-width:5.1"
+     d="m 108,152.6 h 44.6 V 44.6 Z"
+     id="path1080" />
+  <path
+     style="fill:#e7d5e7;stroke-width:5.1"
+     d="M 152.6,44.6 V 0 H 44.6 Z"
+     id="path1082" />
+  <path
+     style="fill:#6400c7;stroke-width:5.1"
+     d="M 44.6,0 H 0 v 108 z"
+     id="path1084" />
+  <rect
+     x="660"
+     y="-579.1"
+     width="191.4"
+     height="85.7"
+     style="font-family:Arial;font-size:84.6px;fill:white"
+     id="rect1086" />
+  <rect
+     x="660"
+     y="-579.1"
+     width="191.4"
+     height="85.7"
+     style="font-family:Arial;font-size:84.6px;fill:white"
+     id="rect1090" />
+  <rect
+     x="660"
+     y="-579.1"
+     width="191.4"
+     height="85.7"
+     style="font-family:Arial;font-size:84.6px;fill:white"
+     id="rect1094" />
+  <rect
+     x="660"
+     y="-579.1"
+     width="191.4"
+     height="85.7"
+     style="font-family:Arial;font-size:84.6px;fill:black"
+     id="rect1098" />
+  <rect
+     x="660"
+     y="-579.1"
+     width="191.4"
+     height="85.7"
+     style="font-family:Arial;font-size:84.6px;fill:white"
+     id="rect1102" />
+  <rect
+     x="660"
+     y="-579.1"
+     width="191.4"
+     height="85.7"
+     style="font-family:Arial;font-size:84.6px;fill:white"
+     id="rect1106" />
+  <path
+     style="fill:#fd6632;stroke-width:1px"
+     d="m 44.6,0 c 0,0 108,44.6 108,44.6 L 108,152.7 C 108,152.7 0,108 0,108 Z"
+     id="path1110" />
+</svg>

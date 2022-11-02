@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/data/covariance.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:09:57 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Covariance</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.">
+<script>reSpell=[["math","maths"]];</script>
+  
+  <style>
+
+    .sig {display:inline-block; margin: -4% 0.6% 4% -1%; transform: translateX(20%) translateY(35%);}  
+  	.sig .to {text-align:center; width:2em; font: 0.8em Verdana; margin: 0 0 -12px 0;} 
+    .sig .symb {font: 200% Georgia; transform: translateY(16%); }
+  	.sig .symb:before { content: "\03A3";} 	
+  	.sig .from {text-align:center; width:2em; font: 0.8em Verdana; overflow:visible; }
+    
+  </style>
+  
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">Covariance</h1>
+  <p style="float:right; margin: 0 0 5px 10px;"><img src="images/covariance-examples.svg" alt="Covariance examples"></p>
+<p>Covariance is a single number we can calculate from a list of paired values.</p>
+<p>It tells us if the paired values tend to rise together, or if one tends to rise as the other falls.</p>
+<h2>The Calculations</h2>
+<p>Imagine we have pairs of values (x,y), ..., we do these calculations:</p>
+<ul>
+<li>Find the mean of the x values</li>
+<li>Find the mean of the y values</li></ul>
+<p>Then for each pair of values:</p>
+<ul>
+<li>subtract the mean of x from the x value</li>
+<li>subtract the mean of y from the y value</li>
+<li>multiply those together</li></ul>
+<p>And lastly:</p>
+<ul>
+<li>sum up all those multiplications</li>
+<li>divide by n−1 (where n is the total number of pairs)</li></ul>
+<p>And we get the covariance.</p>
+<h2>Example: Ice Cream Sales</h2>
+<p>The local ice cream shop keeps track of how much ice cream they sell 
+versus the temperature on that day. Here are their figures for the last 
+few days: </p>
+<table align="center" cellpadding="4" border="3">
+	<tbody>
+<tr align="center">
+		<td colspan="2"><b><em>Ice Cream Sales vs Temperature</em><em></em></b></td>
+	</tr>
+	<tr align="center">
+		<th>Temperature °C</th>
+		<th>Ice Cream Sales</th>
+	</tr>
+	<tr align="center">
+		<td>14.2°</td>
+		<td>$215 </td>
+	</tr>
+	<tr align="center">
+		<td>16.4°</td>
+		<td> $325 </td>
+	</tr>
+	
+	<tr align="center">
+		<td>15.2° </td>
+		<td>$332 </td>
+	</tr>
+	
+	
+	
+	
+	
+	
+	<tr align="center">
+		<td>22.6°</td>
+		<td> $445 </td>
+	</tr>
+	<tr align="center">
+		<td>17.2°</td>
+		<td>$408</td>
+	</tr>
+</tbody></table><p>Find the mean of the x values (temperature) by adding them up and dividing by how many:</p>
+<p class="center large">mean of x = <span class="intbl"><em>14.2 + 16.4 + 15.2 + 22.6 + 17.2</em><strong>5</strong></span> = 17.12</p>
+  <p>Find the mean of the  y values (sales in dollars):</p>
+<p class="center large">mean of y = <span class="intbl"><em>215 + 325 + 332 + 445 + 408</em><strong>5</strong></span> = 345</p>
+  
+  <p>Then for each pair of values subtract mean of x from x, mean of y from y and multiply:</p>
+<ul>
+<li>(14.2−17.12)(215−345) = −2.92 × −130 = 379.6</li>
+<li>(16.4−17.12)(325−345) = −0.72 × −20 = 14.4</li>
+<li>(15.2−17.12)(332−345) = −1.92 × −13 = 24.96</li>
+<li>(22.6−17.12)(445−345) = 5.48 × 100 = 548</li>
+<li>(17.2−17.12)(408−345) = 0.08 × 63 = 5.04</li></ul>
+<p>Add those results up and divide by n−1</p>
+<div class="center larger"><span class="intbl"><em>379.6 + 14.4 +24.96 + 548 + 5.04</em><strong>(5−1)</strong></span> = 243</div>
+<!-- 379.6+14.4+24.96+548+5.04/4 = 243 -->
+<p>The answer is <b>positive</b>: that tells us the x and y values tend to rise <b>together</b>.</p>
+<p>That is all it says. Not how strongly linked they are. Not how fast they rise or fall. Just that they tend to rise and fall together.</p>
+<p>A <b>negative </b>result would say that x <b>rises </b>as y <b>falls </b>(and vice versa).</p>
+<p>A <b>zero </b>result (rarely happens with statistical data) just means the covariance does not let us know if x and y rise or fall together.</p>
+
+  <div class="def">
+    
+  
+  <h3>Covariance:</h3>
+<ul>
+<li><b>positive </b>says they rise and fall together</li>
+<li><b>negative </b>says that one rises as the other falls</li></ul></div>
+<p><i>The size of the covariance is not important. Imagine we used cents instead of dollars: we would get much larger values but the data still has the same relationship.</i></p>
+<p>Note: the covariance can also be useful in other calculations.</p>
+<h2>Formula</h2>
+<p>As a formula covariance is:</p>
+<div class="center larger"><span class="intbl"><em>1</em><strong>n−1</strong></span> 
+<div class="sig">
+  <div class="to">n</div>
+  <div class="symb"></div>
+  <div class="from">i=1</div>
+</div> (x<sub>i</sub>−x̄)(y<sub>i</sub>−ȳ)</div>
+<!-- 1/n-1 SIG{i=1,n} (x-x)(y-y) -->
+  
+  
+<p>Where:</p>
+<ul>
+<li><b>n</b> = number of pairs</li>
+<li><b>Σ</b> means sum up (see <a href="../algebra/sigma-notation.html">Sigma Notation</a>)</li>
+<li><b>x<sub>i</sub></b> and <b>y<sub>i</sub></b> are each pair of x,y values</li>
+<li><b>x̄</b> and <b>ȳ</b> are the mean of x and mean of y</li></ul>
+<h2>Upgrade to Correlation</h2>
+<p><a href="correlation.html">Correlation</a> has a few more steps in its calculation but also gives the useful result of telling us how <b>well related</b> x and y are.</p>
+<h2>Why n−1 ?</h2>
+<p>We divide by <b>n−1</b> in the final step when our data is a sample (which it usually is) because we are unsure of the true population mean.</p>
+<p>But if our data is the entire population then we should divide by <b>n</b> in the final step.</p>
+<p><br></p>
+
+<div class="related">        
+  <a href="correlation.html">Correlation </a>
+  <a href="standard-deviation.html">Standard Deviation and Variance</a>
+  <a href="index.html">Data Index</a>      
+</div>
+      <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2021 MathsIsFun.com</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/data/covariance.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:09:57 GMT -->
+</html>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="106.6" height="68.9" version="1.1" style="font-family:'Trebuchet MS'; font-size:24px; stroke-width:1pt;">
+<defs>
+	<marker id="id2" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#3465a4; stroke:#3465a4;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id4" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#3465a4; stroke:#3465a4;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#f57900; stroke:#f57900;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id3" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#f57900; stroke:#f57900;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g style="display:none;" transform="translate(585.691,292.345)">
+	<image x="-1413.5" y="148.4" width="1305" height="787.4" xlink:href="//////Images/SVG/inkscape_pasted_image_20101001_094421.html"/>
+</g>
+<g transform="translate(585.691,292.345)">
+	<rect x="-572.9" y="-277.4" width="78.6" height="37.8" style="fill:#66c9ff; fill-opacity:0.23; stroke-width:2.99;"/>
+	<text x="-491.5" y="-244.1" style="fill:#f57900; stroke-width:0.6;">b</text>
+	<text x="-544.8" y="-223.7" style="fill:#3465a4; stroke-width:0.6;">a</text>
+	<path style="marker-end:url(#id1); fill:none; stroke:#f57900; stroke-width:1.8;" d="m -495.1,-239.6 c 0,-11.5 0,-23 0,-34.5"/>
+	<path style="marker-end:url(#id2); fill:none; stroke:#3465a4; stroke-width:1.8;" d="m -495.1,-277.2 c -24.7,0 -49.4,0 -74.2,0"/>
+	<path style="marker-end:url(#id3); fill:none; stroke:#f57900; stroke-width:1.8;" d="m -571.6,-276.9 c 0,11.5 0,23 0,34.5"/>
+	<path style="marker-end:url(#id4); fill:none; stroke:#3465a4; stroke-width:1.8;" d="m -571.8,-239.8 c 24.7,0 49.4,0 74.2,0"/>
+	<text x="-587.3" y="-257.2" style="fill:#f57900; stroke-width:0.6;">b</text>
+	<text x="-538.1" y="-279.6" style="fill:#3465a4; stroke-width:0.6;">a</text>
+</g>
+</svg>

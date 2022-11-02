@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="285" height="270.6" version="1.1" style="font-family:Verdana; font-size:19.5px; fill:#3465a4; stroke-width:0.15px;">
+<defs>
+	<marker id="aa1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:#3465a4; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<rect x="1.3" y="49.5" ry="4.2" width="283.6" height="46.2" style="opacity:0.17; fill:#729fcf; stroke:#fce94f;"/>
+<rect x="0" y="96.8" ry="12.3" width="283.6" height="133.8" style="opacity:0.17; fill:#fce94f; stroke:#fce94f;"/>
+<text x="51.7" y="120.8">1</text>
+<text x="49" y="146.4">2</text>
+<text x="49.1" y="171.8">3</text>
+<text x="49.8" y="197.1">4</text>
+<text x="49" y="222.5">5</text>
+<text x="133.3" y="120.6" style="fill:#73d216;">2</text>
+<text x="133.3" y="146.3" style="fill:#73d216;">5</text>
+<text x="134.1" y="171.7" style="fill:#73d216;">4</text>
+<text x="133.3" y="197.1" style="fill:#73d216;">2</text>
+<text x="136" y="222.8" style="fill:#73d216;">1</text>
+<text x="233" y="120.6" style="fill:#4e9a06;">2</text>
+<text x="233" y="146.2" style="fill:#4e9a06;">7</text>
+<text x="221.4" y="171.8" style="fill:#4e9a06;">11</text>
+<text x="220.8" y="197.2" style="fill:#4e9a06;">13</text>
+<text x="220.3" y="222.7" style="fill:#4e9a06;">14</text>
+<text x="35.7" y="80.1" style="font-size:15px;">Score</text>
+<text x="104.7" y="79.3" style="font-size:15px; fill:#73d216;">Frequency</text>
+<text x="195.2" y="68.1" style="font-size:15px; fill:#4e9a06;">Cumulative</text>
+<text x="145.1" y="254.4" style="text-align:center; text-anchor:middle; font-size:13.5px; fill:#4e9a06;">Cumulative Frequency for Score 3</text>
+<text x="103.1" y="14.4" style="fill:#204a87;">Scores:</text>
+<text x="6.3" y="35.5" style="fill:#204a87;">1,1,2,2,2,2,2,3,3,3,3,4,4,5</text>
+<path style="fill:none; stroke:#3465a4; stroke-width:1px;" d="m 149.9,113.5 c 0,0 8.8,0.5 18.5,7.5 9.7,7.1 16.5,29.9 27.7,35.8 11.2,5.8 22.4,8 22.4,8"/>
+<path style="marker-end:url(#aa1); fill:none; stroke:#3465a4; stroke-width:1px;" d="m 152.1,140.7 c 14.9,-2 35.3,21.7 70.7,23.4"/>
+<path style="fill:none; stroke:#3465a4; stroke-width:1px;" d="m 152.4,165.1 c 22.7,5.2 38.1,-10.7 62.9,-0.7"/>
+<text x="198.2" y="84.1" style="font-size:15px; fill:#4e9a06;">Frequency</text>
+<text x="145.1" y="270.4" style="text-align:center; text-anchor:middle; font-size:13.5px; fill:#4e9a06;">is 2+5+4 = 11</text>
+</svg>

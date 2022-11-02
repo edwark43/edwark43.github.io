@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="585.321"
+   height="263.599"
+   version="1.1"
+   style="font-size:17.5px;font-family:'Comic Sans MS'"
+   id="svg113"
+   sodipodi:docname="trig-inverse-sin-cos-tan2.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview115"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg113" />
+  <defs
+     id="defs5">
+    <marker
+       id="aa3"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="aa39471"
+       inkscape:stockid="aa39471">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#204a87;fill-opacity:1;stroke:#204a87;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1204" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="aa38483"
+       inkscape:stockid="aa38483">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#204a87;fill-opacity:1;stroke:#204a87;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1207" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       inkscape:stockid="aa384831509"
+       id="aa384831509">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;fill-opacity:1;stroke:#009100;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1649" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       inkscape:stockid="aa394714081"
+       id="aa394714081">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#009100;fill-opacity:1;stroke:#009100;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1652" />
+    </marker>
+  </defs>
+  <use
+     transform="matrix(0.797092,0,0,0.79596,-237.674,662.802)"
+     xlink:href="#aa1"
+     x="-180"
+     y="78"
+     id="use7"
+     width="100%"
+     height="100%" />
+  <use
+     transform="matrix(0.797092,0,0,0.79596,-237.674,662.802)"
+     xlink:href="#aa2"
+     x="-180"
+     y="-90"
+     id="use9"
+     width="100%"
+     height="100%" />
+  <use
+     transform="matrix(0.797092,0,0,0.79596,-237.674,662.802)"
+     xlink:href="#aa1"
+     x="-180"
+     y="78"
+     id="use11"
+     width="100%"
+     height="100%" />
+  <use
+     transform="matrix(0.797092,0,0,0.79596,-237.674,662.802)"
+     xlink:href="#aa2"
+     x="-180"
+     y="-90"
+     id="use13"
+     width="100%"
+     height="100%" />
+  <g
+     style="fill:none;stroke:currentColor;stroke-width:1.26"
+     transform="matrix(0.797092,0,0,0.79596,-1822.21,-20.3586)"
+     id="g15" />
+  <g
+     style="fill:none;stroke:currentColor;stroke-width:5.02"
+     transform="matrix(0.797092,0,0,0.79596,-1822.21,-20.3586)"
+     id="g17" />
+  <g
+     style="fill:none;stroke:currentColor;stroke-width:5.02"
+     transform="matrix(0.797092,0,0,0.79596,-1822.21,-20.3586)"
+     id="g19" />
+  <g
+     style="fill:none;stroke:currentColor;stroke-width:5.02"
+     transform="matrix(0.797092,0,0,0.79596,-1822.21,-20.3586)"
+     id="g21" />
+  <g
+     style="fill:none;stroke:#009100;stroke-width:1.17495"
+     transform="matrix(0.657123,0,0,0.570583,-237.753,-79.6715)"
+     id="g25">
+    <path
+       style="stroke:#009100;stroke-width:1.22156"
+       d="m 480.1,531 h 740.3"
+       id="path23" />
+  </g>
+  <g
+     style="fill:none;stroke:#009100;stroke-width:1.17495"
+     transform="matrix(0.657123,0,0,0.570583,-237.753,-79.6715)"
+     id="g29">
+    <path
+       style="stroke:#009100;stroke-width:1.22156"
+       d="m 480.1,451 h 740.3"
+       id="path27" />
+  </g>
+  <g
+     style="fill:#73d216;stroke:#edd400;stroke-width:3.25537"
+     transform="matrix(0.660495,0,0,0.570583,-240.199,-79.6715)"
+     id="g33">
+    <path
+       style="fill:#73d216;stroke:#edd400;stroke-width:3.25537"
+       d="m 480.1,291 h 740.3"
+       id="path31" />
+  </g>
+  <g
+     style="fill:none;stroke:#009100;stroke-width:1.17495"
+     transform="matrix(0.657123,0,0,0.570583,-237.753,-79.6715)"
+     id="g37">
+    <path
+       style="stroke:#009100;stroke-width:1.22156"
+       d="m 480.1,210 h 740.3"
+       id="path35" />
+  </g>
+  <g
+     style="fill:none;stroke:#009100;stroke-width:1.69"
+     transform="matrix(0.571394,0,0,0.352096,388.895,-2.14513)"
+     id="g41">
+    <path
+       style="stroke:#009100;stroke-width:1.69"
+       d="M 286,692 V 50"
+       id="path39" />
+  </g>
+  <g
+     style="fill:none;stroke:#009100;stroke-width:1.69"
+     transform="matrix(0.571394,0,0,0.352096,-124.878,-1.59863)"
+     id="g45">
+    <path
+       style="stroke:#009100;stroke-width:1.69"
+       d="M 529,692 V 50"
+       id="path43" />
+  </g>
+  <g
+     style="fill:none;stroke:currentColor;stroke-width:1.69"
+     transform="matrix(0.571394,0,0,0.314303,-131.095,24.5541)"
+     id="g49">
+    <path
+       style="stroke-width:1.69"
+       d="M 650,692 V 50"
+       id="path47" />
+  </g>
+  <g
+     style="fill:none;stroke:#009100;stroke-width:1.69"
+     transform="matrix(0.571394,0,0,0.352096,-137.201,-1.59863)"
+     id="g53">
+    <path
+       style="stroke:#009100;stroke-width:1.69"
+       d="M 771,692 V 50"
+       id="path51" />
+  </g>
+  <path
+     style="fill:none;stroke:#0084c8;stroke-width:2.87"
+     d="m 91.3675,78.6423 c 1.6995,3.4 7.3105,14.0627 9.0105,17.5627 1.6,4.4 3.5,6.5 4.6,10.8 2.1,2.9 3.4,7.4 5.1,10.8 1.7,4.2 3.8,8.099 5.1,12.599 2,2.6 2.9,6.9 4.6,9.7 1.2,3.3 2.9,6.3 4,9.7 1.5,2.5 3,6.8 4.6,9.7 1.5,3.2 3,6.8 4.6,9.7 1.6,4.1 3.4,7.3 5.1,10.8 2.4,4 3.7,6.8 5.7,10.8 1.9,2.7 3.6,5.5 5.1,8.6 2.1,2.5 4.2,6 6.3,8.6 2.6,2.8 4.7,6.1 8,8.6 2.8,1.9 5.1,4.7 9.1,5.1 2.8,2 9.7,1.4 13.1,0 3.3,-1.4 6.1,-3.4 8.6,-5.7 2.8,-2 5.1,-5.3 7.4,-8 2.3,-2.9 4.6,-5.9 6.3,-9.1 2.2,-2.6 3.9,-6.5 5.7,-9.1 1.5,-3.3 4.2,-7.5 5.7,-10.8 1.6,-3.9 3.9,-6.5 5.1,-11.4 1.7,-2.5 3.2,-5.2 4,-8.6 2,-2.4 2.7,-6.2 4.6,-9.1 1.2,-3.7 3.5,-7.3 4.6,-11.4 1.8,-2.4 2.5,-5.9 4,-8.6 1.8,-4.2 3.9,-8.899 5.7,-13.099 2,-4.3 3.8,-9 5.7,-12.6 1.3,-4 3.5,-6.5 4.6,-10.8 1.9,-2.5 3,-5.8 4.6,-8.6 1.7,-3.6 3.6,-7.2 5.7,-10.8 1.8,-3.5 4,-6.5 5.7,-9.7 1.6,-2.8 4.1,-5.5 5.7,-8.6 2.2,-2.2 4.2,-4.5 6.3,-6.8 3.1,-2.5 4.8,-5 8.6,-6.3 2.7,-2.6 8.3,-2.4 13.7,-2.3 2.4,1.4 5.3,2.3 7.4,4 3.8,2.2 5.9,5.6 9.1,8 1.7,3.5 4.8,5.8 6.3,9.1 2.1,2.6 4.2,6.1 5.7,9.1 1.8,2.6 3.7,6.2 5.1,9.1 2.1,3.9 5,9.8 6.9,13.7 1.8,3.2 3.4,7.5 5.1,10.8 1.7,3.8 3.4,7.9 5.1,11.4 1.5,4.5 3.4,6.7 4.6,11.399 2,2.6 2.9,6.9 4.6,9.7 1.5,4.5 3.4,6.7 4.6,11.4 2,2.4 2.7,6.2 4.6,9.1 1.2,3.4 3.1,7.1 4.6,10.3 1.9,4 4.6,9 6.9,14.3 1.9,2.6 3.3,6.1 5.1,9.1 1.5,3.2 3.8,5.4 5.1,9.1 2.2,2.3 4.2,5.5 6.3,8.6 2.9,2.9 5,5.8 8,8 2.8,2.7 5.8,4 9.1,5.7 4.3,1.2 11.2,0.8 14.3,-1.1 3.4,-1.6 5.9,-4 8.6,-6.3 2.8,-3.2 5.2,-5.4 7.4,-8.6 2.3,-3.3 4.7,-6.1 6.3,-9.7 1.9,-2.5 4,-5.7 5.1,-9.1 2.6,-2.7 3.4,-6.1 5.1,-9.1 1.7,-3.4 3.4,-6.8 5.1,-10.3 1.6,-4.4 3.5,-6.5 4.6,-10.8 2.1,-2.7 3.2,-7.3 5.1,-10.8 1.8,-4.2 3.9,-8.9 5.7,-13.1 1.4,-3.2 2.9,-6.2 4,-9.699 1.9,-2.9 2.9,-7 4.6,-9.7 1.4,-4 3.4,-7.1 4.6,-10.8 1.6,-3.2 3.1,-5.8 4.6,-9.7 1.7,-3.4 3.4,-6.8 5.1,-10.3 1.7,-3.5 4.2,-7.5 5.7,-10.8 1.9,-2.6 3.8,-6.5 5.7,-9.1 1.8,-2.8 4,-6.1 6.3,-8.6 2.2,-3 4.6,-5.9 7.4,-8 3,-2.4 5.5,-4.6 10.3,-5.7 3.3,-1.2 9.3,-0.6 12,0.6 3.7,1.3 6.3,4.2 9.7,6.3"
+     id="path55"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsccccccc" />
+  <g
+     style="fill:none;stroke:#009100;stroke-width:1.69"
+     transform="matrix(0.571394,0,0,0.352096,326.912,-2.05333)"
+     id="g59">
+    <path
+       style="stroke:#009100;stroke-width:1.69"
+       d="M 286,692 V 50"
+       id="path57" />
+  </g>
+  <g
+     style="fill:none;stroke:#009100;stroke-width:1.69"
+     transform="matrix(0.571394,0,0,0.352096,-75.2418,-1.59863)"
+     id="g63">
+    <path
+       style="stroke:#009100;stroke-width:1.69"
+       d="M 771,692 V 50"
+       id="path61" />
+  </g>
+  <g
+     style="fill:none;stroke:#009100;stroke-width:1.69"
+     transform="matrix(0.571394,0,0,0.352096,-13.2758,-1.59863)"
+     id="g67">
+    <path
+       style="stroke:#009100;stroke-width:1.69"
+       d="M 771,692 V 50"
+       id="path65" />
+  </g>
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#009100;stroke-width:2.25;marker-end:url(#aa384831509)"
+     d="M 77.7851,132.004 H 571.769"
+     id="path69" />
+  <path
+     style="fill:#2e3436;fill-opacity:0.75;stroke:#009100;stroke-width:2.24312;marker-end:url(#aa394714081)"
+     d="M 240.178,242.804 V 4.42047"
+     id="path71" />
+  <text
+     x="528.356"
+     y="156.411"
+     transform="scale(1.00071,0.99929)"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#009100;stroke-width:1px"
+     id="text73">x</text>
+  <text
+     x="210.86"
+     y="25.6399"
+     transform="scale(1.00071,0.99929)"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#009100;stroke-width:1px"
+     id="text75">y</text>
+  <text
+     x="181.337"
+     y="262.075"
+     transform="scale(0.995144,1.00488)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;fill:#ff4141;stroke-width:1"
+     id="text77">-90°</text>
+  <text
+     x="304.837"
+     y="262.075"
+     transform="scale(0.995144,1.00488)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;fill:#ff4141;stroke-width:1"
+     id="text79">    90°  </text>
+  <text
+     x="368.737"
+     y="262.075"
+     transform="scale(0.995144,1.00488)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;fill:#ff4141;stroke-width:1"
+     id="text81">    180°  </text>
+  <text
+     x="431.237"
+     y="262.075"
+     transform="scale(0.995144,1.00488)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;fill:#ff4141;stroke-width:1"
+     id="text83">    270°  </text>
+  <text
+     x="495.137"
+     y="262.075"
+     transform="scale(0.995144,1.00488)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;fill:#ff4141;stroke-width:1"
+     id="text85">    360°  </text>
+  <text
+     x="240.237"
+     y="262.075"
+     transform="scale(0.995144,1.00488)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;fill:#ff4141;stroke-width:1"
+     id="text87">    0°  </text>
+  <text
+     x="552.137"
+     y="261.575"
+     transform="scale(0.995144,1.00488)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;fill:#ff4141;stroke-width:1"
+     id="text89">    450°  </text>
+  <circle
+     cx="260.578"
+     cy="86.705"
+     style="fill:none;stroke:#9ade00;stroke-width:2.42"
+     id="ellipse91"
+     r="5.2" />
+  <text
+     x="268.3"
+     y="111.351"
+     transform="scale(0.995144,1.00488)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#9ade00;stroke-width:1"
+     id="text93">    30°  </text>
+  <circle
+     cx="345.278"
+     cy="86.705"
+     style="fill:none;stroke:#9ade00;stroke-width:2.42"
+     id="ellipse95"
+     r="5.2" />
+  <text
+     x="320.934"
+     y="110.826"
+     transform="scale(0.995144,1.00488)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#9ade00;stroke-width:1"
+     id="text97">    150°  </text>
+  <circle
+     cx="511.078"
+     cy="86.705"
+     style="fill:none;stroke:#9ade00;stroke-width:2.42"
+     id="ellipse99"
+     r="5.2" />
+  <text
+     x="527.602"
+     y="111.351"
+     transform="scale(0.995144,1.00488)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#9ade00;stroke-width:1"
+     id="text101">    390°  </text>
+  <text
+     x="67.7647"
+     y="230.409"
+     transform="scale(1.00071,0.99929)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.6px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;fill:#204a87;stroke-width:1"
+     id="text103">    -1  </text>
+  <text
+     x="67.7647"
+     y="184.709"
+     transform="scale(1.00071,0.99929)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.6px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;fill:#204a87;stroke-width:1"
+     id="text105">    -0.5  </text>
+  <text
+     x="67.7647"
+     y="139.009"
+     transform="scale(1.00071,0.99929)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.6px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;fill:#204a87;stroke-width:1"
+     id="text107">    0  </text>
+  <text
+     x="67.7647"
+     y="93.3094"
+     transform="scale(1.00071,0.99929)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.6px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;fill:#204a87;stroke-width:1"
+     id="text109">    0.5  </text>
+  <text
+     x="67.7647"
+     y="47.1094"
+     transform="scale(1.00071,0.99929)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.6px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:end;text-anchor:end;fill:#204a87;stroke-width:1"
+     id="text111">    1  </text>
+  <g
+     style="fill:none;stroke:#009100;stroke-width:1.69"
+     transform="matrix(0.571394,0,0,0.352096,-48.0638,-2.05333)"
+     id="g1119">
+    <path
+       style="stroke:#009100;stroke-width:1.69"
+       d="M 286,692 V 50"
+       id="path1117" />
+  </g>
+  <circle
+     cx="94.839"
+     cy="86.705"
+     style="fill:none;stroke:#9ade00;stroke-width:2.42"
+     id="ellipse1201"
+     r="5.2" />
+  <text
+     x="74.7349"
+     y="111.351"
+     transform="scale(0.995144,1.00488)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#9ade00;stroke-width:1"
+     id="text1203">-210° </text>
+  <text
+     x="117.024"
+     y="262.075"
+     transform="scale(0.995144,1.00488)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;text-anchor:middle;fill:#ff4141;stroke-width:1"
+     id="text7045">-180°</text>
+</svg>

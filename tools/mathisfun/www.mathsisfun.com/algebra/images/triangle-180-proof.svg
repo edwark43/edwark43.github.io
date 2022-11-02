@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2019 mathsisfun.com -->
+
+<svg
+   width="315.949"
+   height="111.004"
+   version="1.1"
+   style="font-size:26px;font-family:'Trebuchet MS';fill:#ffff99;stroke-width:0.5px"
+   id="svg28"
+   sodipodi:docname="triangle-180-proof.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg28"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs2" />
+  <path
+     style="stroke:#ff6600;stroke-width:2.5;stop-color:#000000;stop-opacity:1"
+     d="m 234.517,109.594 a 23.0083,23.0083 0 0 1 10.252,-19.1488 l 12.756,19.1488 z"
+     sodipodi:type="arc"
+     sodipodi:cx="257.525"
+     sodipodi:cy="109.594"
+     sodipodi:rx="23.0083"
+     sodipodi:ry="23.0083"
+     sodipodi:start="3.14159"
+     sodipodi:end="4.12476"
+     sodipodi:arc-type="slice"
+     id="path4" />
+  <path
+     style="stroke:#ff6600;stroke-width:2.5;stop-color:#000000;stop-opacity:1"
+     d="m 67.8437,91.8048 a 29.8001,30.5302 0 0 1 5.5814,17.7892 H 43.625 Z"
+     sodipodi:type="arc"
+     sodipodi:cx="43.625"
+     sodipodi:cy="109.594"
+     sodipodi:rx="29.8001"
+     sodipodi:ry="30.5302"
+     sodipodi:start="5.66117"
+     sodipodi:end="0"
+     sodipodi:arc-type="slice"
+     id="path6" />
+  <path
+     style="stroke:#ff6600;stroke-width:2.5;stop-color:#000000;stop-opacity:1;stroke-linejoin:round"
+     d="M 201.014,23.8013 A 26.3487,26.3487 0 0 1 165.397,17.5374 L 186.525,1.79395 Z"
+     sodipodi:type="arc"
+     sodipodi:cx="186.525"
+     sodipodi:cy="1.79395"
+     sodipodi:rx="26.3487"
+     sodipodi:ry="26.3487"
+     sodipodi:start="0.988559"
+     sodipodi:end="2.50121"
+     sodipodi:arc-type="slice"
+     id="path8" />
+  <text
+     x="171.313"
+     y="52.9412"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic';fill:#ff6600;stroke-width:0.5px;stop-color:#000000;stop-opacity:1"
+     id="text10">C</text>
+  <path
+     style="fill:#dcddde;stroke:#013397;stroke-width:2.8;stroke-linecap:round;stroke-opacity:1"
+     d="m 43.59,109.604 h 213.9"
+     id="path12" />
+  <text
+     x="215.792"
+     y="101.029"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic';fill:#ff6600;stroke-width:0.5px;stop-color:#000000;stop-opacity:1"
+     id="text18">B</text>
+  <text
+     x="80.59"
+     y="102.704"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic';fill:#ff6600;stroke-width:0.5px"
+     id="text20">A</text>
+  <path
+     style="stroke:#ff6600;stroke-width:2.5;stop-color:#000000;stop-opacity:1"
+     d="M 209.498,1.70395 A 23.0083,23.0083 0 0 1 199.121,20.9351 L 186.49,1.70395 Z"
+     sodipodi:type="arc"
+     sodipodi:cx="186.49"
+     sodipodi:cy="1.70395"
+     sodipodi:rx="23.0083"
+     sodipodi:ry="23.0083"
+     sodipodi:start="0"
+     sodipodi:end="0.98965"
+     sodipodi:arc-type="slice"
+     id="path1413" />
+  <path
+     style="stroke:#ff6600;stroke-width:2.5;stop-color:#000000;stop-opacity:1"
+     d="M 162.478,19.8261 A 29.8,30.5302 0 0 1 156.725,1.79403 l 29.8,-8e-5 z"
+     sodipodi:type="arc"
+     sodipodi:cx="186.525"
+     sodipodi:cy="1.79395"
+     sodipodi:rx="29.8"
+     sodipodi:ry="30.5302"
+     sodipodi:start="2.50975"
+     sodipodi:end="3.14159"
+     sodipodi:arc-type="slice"
+     id="path1415" />
+  <text
+     x="211.871"
+     y="25.2575"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic';fill:#ff6600;stroke-width:0.5px;stop-color:#000000;stop-opacity:1"
+     id="text1419">B</text>
+  <text
+     x="130.163"
+     y="23.9521"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic';fill:#ff6600;stroke-width:0.5px"
+     id="text1421">A</text>
+  <path
+     style="fill:none;stroke:#013397;stroke-width:2.8;stroke-linecap:butt;stroke-opacity:1;stroke-linejoin:round"
+     d="M 43.59,109.604 186.49,1.75395 257.49,109.604"
+     id="path16"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 315.949,1.46116 H 0"
+     id="path1233" />
+</svg>

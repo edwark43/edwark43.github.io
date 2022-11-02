@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/algebra/systems-linear-equations-matrices.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:03:24 GMT -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Solving Systems of Linear Equations Using Matrices</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents." />
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=true;" />
+<meta name="HandheldFriendly" content="true"/>
+<meta http-equiv="pics-label" content='(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://www.mathsisfun.com" r (SS~~000 1))' />
+<link rel="stylesheet" type="text/css" href="../style3.css" />
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun" /></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran"><script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus"><script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort"><script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search"><script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+			<h1 class="center">Solving Systems of Linear Equations Using Matrices			</h1>
+			
+<p class="center80">Hi there! This page is only going to make sense when you  know a little about <a href="systems-linear-equations.html">Systems of Linear Equations</a> and <a href="matrix-introduction.html">Matrices</a>, so please go and learn about those if you don't know them already!</p>
+			<h2>The Example</h2>
+			<p>One of the last examples on <a href="systems-linear-equations.html">Systems of Linear Equations</a> was this one:</p>
+	<div class="example">
+		<h3>Example: Solve</h3>
+		<ul>
+			<li>x + y + z = 6</li>
+			<li>2y + 5z = &minus;4</li>
+			<li>2x + 5y &minus; z = 27</li>
+		</ul>
+		</div>
+			<p>We then went on to solve it using &quot;elimination&quot; ... but we can solve it using Matrices! </p>
+			<p>Using Matrices makes life easier because we can use a computer program  (such as the <a href="matrix-calculator.html">Matrix Calculator</a>) to do all the &quot;number crunching&quot;.</p>
+			<p>But first we need to write the question  in Matrix form.</p>
+<h2> In Matrix Form?</h2>
+			<p>OK. A Matrix is an array of numbers, right?</p>
+			<p align="center"><img src="images/matrix-example.svg" alt="A Matrix" /> <br />
+				<span class="large">A Matrix</span></p>
+			<p>Well, think about  the equations:</p>
+			<table border="0" align="center">
+				<tr align="center">
+					<td width="30">x</td>
+					<td width="30">+</td>
+					<td width="30">y</td>
+					<td width="30">+</td>
+					<td width="30">z</td>
+					<td width="30">=</td>
+					<td width="30">6</td>
+				</tr>
+				<tr align="center">
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>2y</td>
+					<td>+</td>
+					<td>5z</td>
+					<td>=</td>
+					<td>&minus;4</td>
+				</tr>
+				<tr align="center">
+					<td>2x</td>
+					<td>+</td>
+					<td>5y</td>
+					<td>&minus;</td>
+					<td>z</td>
+					<td>=</td>
+					<td>27</td>
+				</tr>
+			</table>
+			<p>They could be turned into a table of numbers like this:</p>
+			<table border="0" align="center">
+				<tr align="center">
+					<td width="30">1</td>
+					<td width="30">&nbsp;</td>
+					<td width="30">1</td>
+					<td width="30">&nbsp;</td>
+					<td width="30">1</td>
+					<td width="30">=</td>
+					<td width="30">6</td>
+				</tr>
+				<tr align="center">
+					<td>0</td>
+					<td>&nbsp;</td>
+					<td>2</td>
+					<td>&nbsp;</td>
+					<td>5</td>
+					<td>=</td>
+					<td>&minus;4</td>
+				</tr>
+				<tr align="center">
+					<td>2</td>
+					<td>&nbsp;</td>
+					<td>5</td>
+					<td>&nbsp;</td>
+					<td>&minus;1</td>
+					<td>=</td>
+					<td>27</td>
+				</tr>
+			</table>
+			<p>We could even separate the numbers before and after the &quot;=&quot; into:</p>
+			<table border="0" align="center">
+				<tr align="center">
+					<td width="30">1</td>
+					<td width="30">1</td>
+					<td width="30">1</td>
+					<td width="150">&nbsp;</td>
+					<td width="30">6</td>
+				</tr>
+				<tr align="center">
+					<td>0</td>
+					<td>2</td>
+					<td>5</td>
+					<td>and</td>
+					<td>&minus;4</td>
+				</tr>
+				<tr align="center">
+					<td>2</td>
+					<td>5</td>
+					<td>&minus;1</td>
+					<td>&nbsp;</td>
+					<td>27</td>
+				</tr>
+			</table>
+			<p>Now it looks like we have 2 Matrices.</p>
+			<p>In fact we have a third one, which is <span class="larger">[x y z]</span>:</p>
+			<p class="center"><img src="images/systems-linear-equations-matrices1.svg"  alt="systems linear equations matrix with [x,y,z]" /></p><p>&nbsp;</p>
+			<div class="center80">
+	<p>Why does  [x y z] go there? Because when we  <a href="matrix-multiplying.html">Multiply Matrices</a> the left side becomes:</p>
+	<p class="center"><img src="images/systems-linear-equations-matrices0.svg"  alt="matrix dot product" /></p>
+				<p>Which is the original left side of our  equations above (you might like to check that).			</p>
+			</div>
+			<h2>The Matrix Solution</h2>
+			<p>We can write	this:		</p>
+			<p class="center"><img src="images/systems-linear-equations-matrices1.svg"  alt="systems linear equations matrix with [x,y,z]" /></p>
+			<p>like this:</p>
+<p align="center" class="larger">AX = B</p>
+<p>where </p>
+<ul>
+	<li><span class="larger">A</span> is the 3x3 matrix of x, y and z <b>coefficients</b></li>
+	<li><span class="larger">X</span> is <b>x, y and z</b>, and </li>
+	<li><span class="larger">B</span> is <b>6, &minus;4 and 27</b></li>
+</ul>
+<p>Then (as shown on the <a href="matrix-inverse.html">Inverse of a Matrix</a> page) the solution is this: </p>
+<p align="center" class="larger">X = A<sup>-1</sup>B</p>
+<p>&nbsp;</p>
+<p>What does that mean? </p>
+<p>It means that we can find the values of x, y and z (the X matrix) by multiplying the <b>inverse of the A matrix</b> by the <b>B matrix</b>.</p>
+<p>So let's go ahead and do that.</p>
+<p>First, we need to find the <b>inverse of the A matrix</b> (assuming it exists!)</p>
+<p>Using the <a href="matrix-calculator.html">Matrix Calculator</a> we get this:</p>
+<p class="center"><img src="images/systems-linear-equations-matrices2.svg"   alt="matrix inverse" /></p>
+<p class="center">(I left the 1/determinant outside the matrix to make the numbers simpler)<br />
+</p>
+<p>Then multiply <span class="larger">A<sup>-1</sup></span> by <span class="larger">B</span> (we can use the Matrix Calculator again):</p>
+<p class="center"><img src="images/systems-linear-equations-matrices3.svg"  alt="systems linear equations matrix [x,y,z] equals solution" /></p>
+<p>And we are done! The solution is: </p>
+<p align="center"><span class="large">x = 5</span>, <span class="large"><br>
+	y = 3</span>,<span class="large"><br>
+	z = &minus;2</span></p>
+<p>Just like on the <a href="systems-linear-equations.html">Systems of Linear Equations</a> page. </p>
+<p>Quite neat and elegant, and the human does the thinking while the computer does the calculating.</p>
+<p>&nbsp;</p>
+<h2>Just For Fun ... Do It Again!</h2>
+<p>For fun (and to help you learn), let us do this all again, but put matrix &quot;X&quot; first.</p>
+<p>I want to show you this way, because many people think the solution above is so neat it must be the only way.</p>
+<p>So we will solve it like this:</p>
+<p align="center" class="larger">XA = B</p>
+
+<p>And because of the  way that matrices are multiplied we need to set up the matrices differently now. The  rows and columns have to be switched over (&quot;transposed&quot;):</p>
+<p class="center"><img src="images/systems-linear-equations-matricesb0.svg"  alt="dot product example" /></p>
+<p>And <span class="larger">XA = B</span> looks like this: </p>
+<p class="center"><img src="images/systems-linear-equations-matricesb1.svg"  alt="systems linear equations matrix" /></p>
+<h2>The Matrix Solution</h2>
+<p>Then (also shown on the <a href="matrix-inverse.html">Inverse of a Matrix</a> page) the solution is this: </p>
+<p align="center" class="larger">X = BA<sup>-1</sup></p>
+<p>This is what we get for <span class="larger">A<sup>-1</sup></span>:</p>
+<p class="center"><img src="images/systems-linear-equations-matricesb2.svg"  alt="matrix inverse" /><br />
+</p>
+<p>In fact it is just like the Inverse we got before, but Transposed (rows and columns swapped over).</p>
+<p>Next we multiply <span class="larger">B</span> by <span class="larger">A<sup>-1</sup></span>:</p>
+<p class="center"><img src="images/systems-linear-equations-matricesb3.svg"  alt="systems linear equations matrix solution" /></p>
+<p>And the solution is the same: </p>
+<p align="center"><span class="large">x = 5</span>, <span class="large">y = 3</span> and <span class="large">z = &minus;2</span></p>
+<p>It didn't look as neat as the previous solution, but it does show us that there is more than one way to set up and solve matrix equations. Just be careful about the rows and columns!</p>
+<p>&nbsp;</p>
+
+
+<div class="questions">
+
+<script type="text/javascript">getQ(3004, 3005, 8508, 9050, 9051, 9052, 2612, 8509, 9053, 3006);</script>&nbsp;
+
+</div>
+
+
+			<div class="related"><a href="systems-linear-equations.html">Systems of Linear Equations</a>
+				<a href="index.html">Algebra Index</a>
+			</div>
+			<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2017 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body>
+<!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/algebra/systems-linear-equations-matrices.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:03:26 GMT -->
+</html>

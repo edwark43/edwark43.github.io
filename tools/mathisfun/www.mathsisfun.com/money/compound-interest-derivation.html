@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Main.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/money/compound-interest-derivation.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:39:01 GMT -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Compound Interest Derivations</title>
+<meta name="description" content="Showing how the formulas are worked out, with Examples!" />
+	<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta http-equiv="pics-label" content='(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://www.mathsisfun.com" r (SS~~000 1))'>
+<link rel="stylesheet" type="text/css" href="../style3.css" />
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun" /></a></div>
+	<div id="gtran"><script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus"><script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort"><script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search"><script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+				<h1 align="center">Compound Interest Formula Derivations</h1>
+				<p align="center"><i>Showing how the formulas are worked out, with Examples!</i></p>
+				<p>With <a href="compound-interest.html">Compound Interest</a> we work out the interest for the first period, add it to the total, and <b>then</b> calculate the interest for the next period, and so on ..., like this:</p>
+				<div align="center"><img src="images/interest-compound-flow.svg" alt="interest compound $1000, 10%=$100, $1100, 10%=$110, $1210, 10%=$121, etc " /></div>
+				<h2>Make A Formula</h2>
+				<p>Let's look at the first year to begin with:</p>
+				<p align="center">$1,000.00 + ($1,000.00 &times; 10%) = <b>$1,100.00</b></p>
+				<p>We can rearrange it like this: </p>
+				<p class="center"><img src="images/interest-compound1.svg" alt="interest compound step-by-step" /></p>
+				<p class="large" align="center">So, adding 10% interest is the same as multiplying by 1.10</p>
+				<p><i>(Note: the Interest Rate was turned into a decimal by dividing by 100: <b>10% = 10/100 = 0.10</b>, read <a href="../percentage.html">Percentages</a> to learn more.)</i></p>
+				<h3>And that formula works for any year:</h3>
+				<ul>
+					<li>We could do the next year like this: <b>$1,100 &times; 1.10 = $1,210</b></li>
+					<li>And then continue to the following year: <b>$1,210 &times; 1.10 = $1,331</b></li>
+					<li>etc...</li>
+				</ul>
+				<p>So it works like this:</p>
+				<p align="center"><img src="images/interest-compound-flow2.svg" alt="interest compound $1000 x1.1 $1100 x1.1 $1210 x1.1 ..." />
+					<br /> </p>
+				<h3>In fact we could go straight from the start to Year 5 if we<b> multiply 5 times</b>:<br />
+	</h3>
+				<p align="center" class="larger">$1,000 &times; 1.10 &times; 1.10 &times; 1.10 &times; 1.10 &times; 1.10 = <b>$1,610.51</b></p>
+				<p>But it is easier to write down a series of multiplies using <a href="../exponent.html">Exponents (or Powers)</a> like this:</p>
+				<div align="center"><img src="images/fv-example.gif" width="281" height="42" alt="$1000 x 1.10^5 = $1610.51" /> </div>
+				<h2>The Formula</h2>
+				<p>We have been using a real example, but let us make it more general by <b>using letters instead of numbers</b>, like this:</p>
+				<p align="center"><img src="images/fv-formula.svg" alt="PV x (1+r)^n = FV" />
+					<br> </p>
+				<p>(Compare this to the calculation above it: PV = $1,000, r = 0.10, n = 5, and FV = $1,610.51)</p>
+				<ul>
+					<li>When the interest rate is annual, then <b>n</b> is the number of years</li>
+					<li>When the interest rate is monthly, then <b>n</b> is the number of months</li>
+					<li>and so on</li>
+				</ul>
+				<p>&nbsp;</p>
+				<h3>Examples</h3>
+				<p>How about some examples ...
+					<br /> ... what if the loan went for <b>15 Years</b>? ... just change the &quot;n&quot; value:</p>
+				<p align="center"><img src="images/fv-example2.gif" width="281" height="41" alt="$1000 x 1.10^15 = $4177.25" /></p>
+				<p>... and what if the loan was for 5 years, but the interest rate was only 6%? Here:</p>
+				<p align="center"><img src="images/fv-example3.gif" width="281" height="41" alt="$1000 x 1.06^5 = $1338.23" /></p>
+				<p>(Note that it is <b>1.06</b>, not 1.6)</p>
+				<h2>The Four Formulas</h2>
+				<p>So, the basic formula for Compound Interest is:</p>
+				<p class="large center">FV = PV (1+r)<sup>n</sup></p>
+				<ul>
+					<li>FV = Future Value, </li>
+					<li>PV = Present Value, </li>
+					<li>r = Interest Rate (as a decimal value), and </li>
+					<li>n = Number of Periods</li>
+				</ul>
+				<p>With that we can work out the Future Value <b>FV</b> when we know the Present Value <b>PV</b>, the Interest Rate <b>r</b> and Number of Periods <b>n</b></p>
+				<p>And we can <b>rearrange</b> that formula to find FV, the Interest Rate or the Number of Periods when we know the other three.</p>
+				<p>Here are all four furmulas:</p>
+				<table border="0" align="center">
+					<tr>
+						<td align="center" class="large"><span class="large center">FV = PV (1+r)<sup>n</sup></span></td>
+						<td>&nbsp;</td>
+						<td>Find the <b>Future Value</b> when we know a Present Value, the Interest Rate and number of Periods.</td>
+					</tr>
+					<tr>
+						<td align="center" class="large">&nbsp;</td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td width="240" align="center" class="large">PV = FV / (1+r)<sup>n</sup></td>
+						<td>&nbsp;</td>
+						<td>Find the <b>Present Value</b> when we know a Future Value, the Interest Rate and number of Periods.</td>
+					</tr>
+					<tr>
+						<td width="240" align="center" class="large">&nbsp;</td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td width="240" align="center" class="large">r = ( FV / PV )<sup>1/n</sup> - 1</td>
+						<td>&nbsp;</td>
+						<td>Find the <b>Interest Rate</b> when we know the Present Value, Future Value and number of Periods.</td>
+					</tr>
+					<tr>
+						<td width="240" align="center" class="large">&nbsp;</td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td width="240" align="center" class="large">n = <span class="intbl">
+<em>ln(FV / PV)</em>
+<strong>ln(1 + r)</strong>
+								</span></td>
+						<td>&nbsp;</td>
+						<td>Find the number of <b>Periods</b> when we know the Present Value, Future Value and Interest Rate</td>
+					</tr>
+				</table>
+				<br />
+				<p align="center" class="larger">&nbsp;</p>
+				<p align="center" class="larger">How did we get those other three formulas? Read On!</p>
+				<h2>Working Out the Present Value</h2>
+				<div class="example">
+					<h3>Example: Sam wants to  reach $2,000 in 5 Years at 10% annual interest. How much should Sam start with?</h3> </div>
+				<p>In other words, we know a Future Value, and <b>want to know a Present Value</b>.</p>
+				<p>We can just rearrange the formula to suit ... dividing both sides by (1+r)<sup>n</sup> to give us:</p>
+<div class="tbl">
+<div class="row"><span class="left">Start with:</span><span class="right">FV = PV (1+r)<sup>n</sup></span></div>
+<div class="row"><span class="left">Swap sides:</span><span class="right">PV (1+r)<sup>n</sup> = FV</span></div>
+<div class="row"><span class="left">Divide both sides by (1+r)<sup>n</sup>:</span><span class="right">PV = <span class="intbl">
+									<em>FV</em>
+									<strong>(1+r)<sup>n</sup></strong>
+								</span></span></div>
+</div>
+<p>So now we can calculate the answer:</p>
+				<div class="example">
+					<h3>Example&nbsp;(continued):</h3>
+					<p class="center"><b>PV</b> = $2,000 / (1+0.10)<sup>5</sup> = $2,000 / 1.61051 = <b>$1,241.84</b></p>
+					<p>So Sam should start with <b>$1,241.84</b></p>
+				</div>
+				<p>It works like this:</p>
+				<p align="center"><img src="images/pv-vs-fv.svg" alt="pv vs fv" /></p>
+				<div class="example">
+					<h3><b>Another Example:</b> How much do you need to invest now, to get $10,000 in 10 years at 8%  interest rate?</h3>
+					<p align="center">PV = $10,000 / (1+0.08)<sup>10</sup> = $10,000 / 2.1589 = <b>$4,631.93</b></p>
+					<p>So, <b>$4,631.93</b> invested at 8% for 10 Years grows to $10,000</p>
+				</div>
+				<h2>Working Out The Interest Rate</h2>
+				<div class="example">
+					<h3>Example: Sam has only  $1,000, and wants it to grow to $2,000 in 5 Years, what interest rate should Sam be looking for?</h3> </div>
+				<p>We need a rearrangement of the first formula to work it out:</p>
+<div class="tbl">
+<div class="row"><span class="left">Start with:</span><span class="right">FV = PV (1+r)<sup>n</sup></span></div>
+<div class="row"><span class="left">Swap sides:</span><span class="right">PV (1+r)<sup>n</sup> = FV</span></div>
+<div class="row"><span class="left">Divide both sides by PV:</span><span class="right">(1+r)<sup>n</sup> = <span class="intbl">
+								<em>FV</em>
+									<strong>PV</strong>
+								</span></span></div>
+<div class="row"><span class="left">Take <a href="../numbers/nth-root.html">nth root</a> of both sides:</span><span class="right">1+r = ( <span class="intbl">
+								<em>FV</em>
+								<strong>PV</strong>
+								</span> )<sup>1/n</sup></span></div>
+<div class="row"><span class="left">Subtract 1 from both sides:</span><span class="right">r = ( <span class="intbl">
+								<em>FV</em>
+									<strong>PV</strong>
+								</span> )<sup>1/n</sup> &minus; 1</span></div>
+</div>
+<p><i>(Note: to understand the step &quot;take nth root&quot; please read <a href="../algebra/exponent-fractional.html">Fractional Exponents</a>)</i></p>
+				<p>The result is:</p>
+				<p class="center larger">r = ( FV / PV )<sup>1/n</sup> &minus; 1 </p>
+				<p>Now we have the formula, it is just a matter of &quot;plugging in&quot; the values to get the result:</p>
+				<div class="example">
+					<h3>Example (continued):</h3>
+					<p align="center">r = ( $2,000 / $1,000 )<sup>1/5</sup> &minus; 1
+						<br> = ( 2 )<sup>0.2</sup> &minus; 1
+						<br> = 1.1487 &minus; 1
+						<br> = <b>0.1487</b></p>
+					<p>And 0.1487 as a percentage is <b>14.87%</b></p>
+					<p>So Sam needs <b>14.87%</b> to turn $1,000 into $2,000 in 5 years.</p>
+				</div>
+				<div class="example">
+					<h3><b>Another Example:</b> What interest rate do you need  to turn $1,000 into $5,000 in 20 Years?</h3>
+					<p align="center">r = ( $5,000 / $1,000 )<sup>1/20</sup> &minus; 1 = ( 5 )<sup>0.05</sup> &minus; 1 = 1.0838 &minus; 1 = <b>0.0838</b></p>
+					<p>And 0.0838 as a percentage is <b>8.38%</b>. So 8.38% will turn $1,000 into $5,000 in 20 Years.</p>
+				</div>
+				<h2>Working Out How Many Periods</h2>
+				<div class="example">
+					<h3>Example: Sam can only get a 10% interest rate. How many years will it take Sam to get  $2,000?</h3> </div>
+				<p>When we want to know how many periods it takes to turn $1,000 into $2,000 at 10% interest, we can rearrange the basic formula.</p>
+				<p>But we need to use the natural logarithm function <i><b>ln() </b></i>to do it. </p>
+<div class="tbl">
+<div class="row"><span class="left">Start with:</span><span class="right">FV = PV (1+r)<sup>n</sup></span></div>
+<div class="row"><span class="left">Swap sides:</span><span class="right">PV (1+r)<sup>n</sup> = FV</span></div>
+<div class="row"><span class="left">Divide both sides by PV:</span><span class="right">(1+r)<sup>n</sup> = <em>FV								/ PV</em></span></div>
+<div class="row"><span class="left">Use <a href="../algebra/exponents-logarithms.html">logarithms</a>:</span><span class="right">ln(1+r) &times; n = ln( <em>FV								/ PV</em> )</span></div>
+<div class="row"><span class="left">Divide both sides by ln(1+r):</span><span class="right">n = <span class="intbl">
+									<em>ln( 
+								FV								/ PV								 )</em>
+									<strong>ln(1+r)</strong>
+								</span></span></div>
+</div>
+<p><i>(Note:  to understand the step &quot;use logarithms&quot; please read <a href="../algebra/exponents-logarithms.html">Working with Exponents and Logarithms</a>).</i></p>
+				<p>Now let's &quot;plug in&quot; the values:</p>
+				<div class="example">
+					<h3>Example (continued):</h3>
+					<p align="center">n = ln( $2,000 / $1,000 ) / ln( 1 + 0.10 ) = ln(2)/ln(1.10) = 0.69315/0.09531 = <b>7.27</b></p>
+					<p>Magic! It will need <b>7.27 years</b> to turn $1,000 into $2,000 at 10% interest.</p>
+					<p>Poor Sam will have to wait over 7 years.</p>
+				</div>
+				<p>&nbsp;</p>
+				<div class="example">
+					<h3><b>Another Example:</b> How many years to turn $1,000 into $10,000 at 5% interest?</h3>
+					<p align="center">n = ln( $10,000 / $1,000 ) / ln( 1 + 0.05 ) = ln(10)/ln(1.05) = 2.3026/0.04879 = <b>47.19</b></p>
+					<p>47 Years! But we are talking about a 10-fold increase, at only 5% interest.</p>
+				</div>
+				<h2>Conclusion</h2>
+				<p>Knowing how the formulas are derived and used makes it easier for you to remember them, and to use them in different situations.</p>
+				<h2>&nbsp;</h2>
+				<div class="related"><a href="interest.html">Introduction to Interest</a> <a href="investment-graph.html">Investment Graph</a> <a href="compound-interest-calculator.html">Compound Interest Calculator</a> <a href="index.html">Money Index</a></div>
+				<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2018 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body>
+<!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/money/compound-interest-derivation.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:39:01 GMT -->
+</html>

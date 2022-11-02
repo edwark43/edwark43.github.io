@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="306.2" height="120.9" version="1.1">
+<defs>
+</defs>
+<text x="124.8" y="58.4" style="font-family:Georgia; font-size:40px; font-style:italic; color:black; overflow:visible; fill:#007ad2; stroke-width:0.5px;">2x</text>
+<text x="-0.6" y="106.7" style="font-family:'Comic Sans MS'; font-size:16.4px; color:black; overflow:visible; fill:#009100; stroke-width:0.5px;">Integral Symbol</text>
+<text x="160.2" y="98.4" style="font-family:'Comic Sans MS'; font-size:16.4px; color:black; overflow:visible; fill:#007ad2; stroke-width:0.5px;">Function we want</text>
+<text x="101.3" y="46.9" transform="rotate(6.38957)" style="font-family:Georgia; font-size:48px; color:black; overflow:visible; fill:#009100; stroke:#009100; stroke-width:0.53px;">∫</text>
+<text x="175.6" y="58.4" style="font-family:Georgia; font-size:40px; font-style:italic; color:black; overflow:visible; fill:#c4a000; stroke-width:0.5px;">dx</text>
+<g transform="matrix(0.410002,0,0,0.410002,-683.9,-741.71)">
+<path style="color:black; overflow:visible; fill:#009100; stroke-width:1px;" d="m 1783,2033.2 c 23.4,-30.1 57.8,-48.9 91.6,-65 1.1,13.6 -17.1,13.1 -25.2,20.2 -21.9,11.7 -42.2,26.9 -58.4,45.7 -2.7,-0.3 -5.4,-0.6 -8,-0.9 z"/>
+<path style="color:black; overflow:visible; fill:#009100; stroke-width:1px;" d="m 1842.4,1966.9 c 9.5,4.7 36.2,-4.2 35.9,4.9 -6.8,7.8 -33.6,3.4 -38.7,0.2 0.9,-1.7 1.8,-3.5 2.7,-5.1 z"/>
+<path style="color:black; overflow:visible; fill:#009100; stroke-width:1px;" d="m 1850.4,1997.7 c 6.8,-8.9 13.3,-31.6 26.6,-28.3 -2.5,4.1 -13.4,27.2 -24.2,28.1 -0.8,0.1 -1.6,0.1 -2.4,0.2 z"/>
+</g>
+<g transform="matrix(0.410002,0,0,0.410002,-683.24,-743.79)">
+<path style="color:black; overflow:visible; fill:#007ad2; stroke-width:1px;" d="m 2044.5,2067.5 c -17.6,-13.6 -31.2,-33.7 -29.9,-56.8 -4.9,-8.1 5.8,-28.6 8.8,-16.3 -3.7,22 1.4,46.8 19.9,61.1 7.7,6.9 9.8,6.2 1.2,12 z"/>
+<path style="color:black; overflow:visible; fill:#007ad2; stroke-width:1px;" d="m 1999.8,2018.7 c 12.3,-6.3 6.5,-31 22.1,-28.4 -4.4,9.6 -7,36 -22.1,28.4 z"/>
+<path style="color:black; overflow:visible; fill:#007ad2; stroke-width:1px;" d="m 2026.1,2019.7 c -7.3,-6.2 -15,-37.9 -2.2,-28.2 -1.9,11 17.1,24 2.2,28.2 z"/>
+</g>
+<text x="202.5" y="12.8" style="font-family:'Comic Sans MS'; font-size:16.4px; color:black; overflow:visible; fill:#c4a000; stroke-width:0.5px;">Slices along x</text>
+<g transform="matrix(0.410002,0,0,0.410002,-692.6,-752.8)">
+<path style="color:black; overflow:visible; fill:#c4a000; stroke-width:1px;" d="m 2313.1,1878.6 c -7.1,21 -21.7,40.5 -43.9,46.8 -6,7.3 -28.9,3.9 -18.3,-3 22.1,-3.7 43.8,-16.6 51.3,-38.7 3.5,-8.8 3.2,-11.3 10.9,-5.1 z"/>
+<path style="color:black; overflow:visible; fill:#c4a000; stroke-width:1px;" d="m 2281.5,1936.7 c -10,-9.6 -31.4,4 -34,-11.6 11.1,0.8 35.2,-5.1 34,11.6 z"/>
+<path style="color:black; overflow:visible; fill:#c4a000; stroke-width:1px;" d="m 2273.9,1911.6 c -3.5,8.9 -31,26.5 -25.9,11.3 11,-1.8 17.1,-24 25.9,-11.3 z"/>
+</g>
+<text x="160.2" y="115.4" style="font-family:'Comic Sans MS'; font-size:16.4px; color:black; overflow:visible; fill:#007ad2; stroke-width:0.5px;">to integrate</text>
+</svg>

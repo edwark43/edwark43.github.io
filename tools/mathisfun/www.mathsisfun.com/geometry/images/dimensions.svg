@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="304.767"
+   height="148.306"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="dimensions.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg30" />
+  <defs
+     id="defs2" />
+  <rect
+     x="226.568"
+     y="12.5502"
+     width="55.1"
+     height="55.1"
+     style="color:#000000;overflow:visible;fill:#fef7c1;fill-opacity:0.748062;stroke:#0000ff;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect11224" />
+  <rect
+     x="0"
+     y="0"
+     ry="32.143"
+     width="304.767"
+     height="128.402"
+     style="color:#000000;overflow:visible;fill:#fefbdc;fill-opacity:1;stroke-width:1.74;stroke-linejoin:bevel"
+     id="rect4" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#0000ff;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 79,27.2021 v 55.1"
+     id="path6" />
+  <rect
+     x="115"
+     y="27.2021"
+     width="55.1"
+     height="55.1"
+     style="color:#000000;font-variation-settings:normal;overflow:visible;opacity:1;vector-effect:none;fill:#fef7c1;fill-opacity:0.748062;stroke:#0000ff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     id="rect8" />
+  <circle
+     cx="34.1"
+     cy="54.7521"
+     r="2.52572"
+     style="color:#000000;overflow:visible;fill:#000000;stroke:#0000ff;stroke-width:3.09"
+     id="circle16" />
+  <text
+     x="26.7"
+     y="116.202"
+     style="color:#000000;font-size:24.4px;font-family:'Trebuchet MS';overflow:visible;fill:#000080;stroke-width:0.44px"
+     id="text18">0</text>
+  <text
+     x="72.7"
+     y="116.302"
+     style="color:#000000;font-size:24.4px;font-family:'Trebuchet MS';overflow:visible;fill:#000080;stroke-width:0.44px"
+     id="text20">1</text>
+  <text
+     x="139"
+     y="115.802"
+     style="color:#000000;font-size:24.4px;font-family:'Trebuchet MS';overflow:visible;fill:#000080;stroke-width:0.44px"
+     id="text22">2</text>
+  <text
+     x="231"
+     y="116.102"
+     style="color:#000000;font-size:24.4px;font-family:'Trebuchet MS';overflow:visible;fill:#000080;stroke-width:0.44px"
+     id="text24">3</text>
+  <text
+     x="99.7202"
+     y="148.102"
+     style="color:#000000;font-size:20.9px;font-family:'Trebuchet MS';overflow:visible;fill:#3465a4;stroke-width:0.44px"
+     id="text26">Dimensions</text>
+  <rect
+     x="228.71"
+     y="137.963"
+     width="30.2526"
+     height="55.1"
+     style="color:#000000;overflow:visible;fill:#fef7c1;fill-opacity:0.748062;stroke:#0000ff;stroke-width:1.60365;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect836"
+     transform="matrix(0.874908,-0.48429,0,1,0,0)" />
+  <path
+     style="fill:#fef7c1;fill-opacity:0.748062;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 200.1,82.3015 55.1,-3e-4 26.468,-14.651 -55.1,3e-4 z"
+     id="path871" />
+  <path
+     style="fill:#fef7c1;fill-opacity:0.748062;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 200.1,27.2015 55.1,-3e-4 26.468,-14.651 -55.1,3e-4 z"
+     id="path953" />
+  <rect
+     x="200.1"
+     y="27.2012"
+     width="55.1"
+     height="55.1"
+     style="color:#000000;overflow:visible;fill:#fef7c1;fill-opacity:0.748062;stroke:#0000ff;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect832" />
+  <rect
+     x="291.689"
+     y="168.462"
+     width="30.2526"
+     height="55.1"
+     style="color:#000000;overflow:visible;fill:#fef7c1;fill-opacity:0.748062;stroke:#0000ff;stroke-width:1.60365;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect834"
+     transform="matrix(0.874908,-0.48429,0,1,0,0)" />
+</svg>

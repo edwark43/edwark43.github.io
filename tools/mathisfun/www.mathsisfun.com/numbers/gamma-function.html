@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/numbers/gamma-function.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:45:38 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Gamma Function</title>
+  
+<style>
+  
+  .intgl {display:inline-block;  margin: -4% 0 4% -1%; transform: translateX(20%) translateY(35%);}  
+	.intgl .to {text-align:center; width:2em; font: 0.8em Verdana; margin: 0 0 -5px 8px;} 
+	.intgl .symb {font: 180% Georgia;}
+	.intgl .symb:before { content: "\222B";} 
+	.intgl .from {text-align:center; width:2em; font: 0.8em Verdana; overflow:visible; }
+
+  .sigma {display:inline-block; margin: -4% 0 4% -1%; transform: translateX(20%) translateY(35%);}  
+	.sigma .to {text-align:center; width:2em; font: 0.8em Verdana; margin: 0 0 -12px 0;} 
+  .sigma .symb {font: 200% Georgia; transform: translateY(16%); }
+	.sigma .symb:before { content: "\03A3";} 	
+	.sigma .from {text-align:center; width:2em; font: 0.8em Verdana; overflow:visible; }
+  
+  .limit { display: inline-table;
+	text-align: center;
+	vertical-align: middle;
+	margin: 0 4px 0 2px;
+	border-collapse: collapse;
+}
+.limit em {
+	display: table-row;
+	text-align: center;
+	font-style: inherit;
+}
+.limit strong {
+	display: table-row;
+	text-align: center;
+	font-weight: inherit;
+	font-size: 80%;
+	line-height: 9px;
+}
+  
+  .boxa {
+	text-align: center;
+	display: inline-block;
+	vertical-align:bottom;
+	margin: 0 25px 35px 0;
+}
+  
+  
+</style>   
+  
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">Gamma Function</h1>
+
+<p>The Gamma Function serves as a super powerful version of the <a href="factorial.html">factorial function</a>.</p>
+<p>Let us first look at the factorial function:</p>
+<div class="simple">
+
+	<table style="border: 0; margin:auto;">
+                <tbody>
+<tr>
+                  <td style="width:60px; text-align:center;"><img src="images/factorial.svg" alt="Factorial Symbol" height="117" width="26"></td>
+                <td>
+                    <p>The <b>factorial function</b> (symbol: <b><font size="+1">!</font></b>)  says to  <b>multiply all whole numbers</b> from our chosen number down to 1.</p>
+                    <p>Examples:</p>
+                    <ul>
+                      <div class="bigul">
+                        <li><b>4!</b> = 4 × 3 × 2 × 1 = 24</li>
+                        <li><b>7!</b> = 7 × 6 × 5 ×  4 × 3 × 2 × 1 = 5040</li>
+                        <li><b>1!</b> = 1</li>
+                      </div>
+                  </ul>                  </td>
+                </tr>
+        </tbody></table></div><br>
+<p>We can easily calculate a factorial from the previous one:</p>
+            <p class="center"><img src="images/factorial-how.svg" alt="factorial multiply" height="61" width="279"></p>
+  <p>As a table:</p>
+  <div class="beach">
+
+	<table align="center" width="400" border="0">
+                            <tbody>
+<tr style="text-align:center;">
+                              <th>n</th>
+                              <th>n!</th>
+                              <th>&nbsp;</th>
+                              <th>&nbsp;</th>
+                            </tr>
+                            <tr style="text-align:center;">
+                              <td>1</td>
+                              <td><b>1</b></td>
+                              <td>1</td>
+                              <td>1</td>
+                            </tr>
+                            <tr style="text-align:center;">
+                              <td>2</td>
+                              <td>2 × <b>1</b></td>
+                              <td>= 2 × <b>1!</b></td>
+                              <td>= 2</td>
+                            </tr>
+                            <tr style="text-align:center;">
+                              <td>3</td>
+                              <td>3 × <b>2 × 1</b></td>
+                              <td>= 3 × <b>2!</b></td>
+                              <td>= 6</td>
+                            </tr>
+                            <tr style="text-align:center;">
+                              <td>4</td>
+                              <td>4 × <b>3 × 2 × 1</b></td>
+                              <td>= 4 × <b>3!</b></td>
+                              <td>= 24</td>
+                            </tr>
+                            <tr style="text-align:center;">
+                              <td>5</td>
+                              <td>5 × <b>4 × 3 × 2 × 1</b></td>
+                              <td>= 5 × <b>4!</b></td>
+                              <td>= 120</td>
+                            </tr>
+                            <tr style="text-align:center;">
+                              <td>6</td>
+                              <td>etc</td>
+                              <td>etc</td>
+                              <td>&nbsp;</td>
+                            </tr>
+                          </tbody></table>
+  </div><p>In fact we have this general rule:</p>
+            <p class="center large">n! = n × (n−1)!</p>
+            <p>Which  says</p>
+  <p class="center">"the factorial of any number is <b>that number</b> times<br>
+the <b>factorial of (that number minus 1)</b>"</p>
+            <p>So 10! = 10 × 9!,  ... and 125! = 125 × 124!, etc.</p>
+<p>Note: this is a "recurrence relation"</p>
+
+
+<h2>Beyond Whole Numbers</h2>
+
+<p>Can we have a function that works more generally? If so, what properties do we want?</p>
+<p>Firstly, it should "hit the mark" at each whole number:</p>
+<p class="center larger"><b>f(x) = x!</b> for whole numbers</p>
+<p>Here are some examples that do that:</p>
+<div class="center">
+  <div class="boxa"><img src="images/graph-factorial-a.svg" alt="factorial graph a" height="374" width="182"><br>
+Straight Lines
+  </div>
+  <div class="boxa"><img src="images/graph-factorial-b.svg" alt="factorial graph b" height="374" width="182"><br>
+Anything Goes</div>
+  <div class="boxa"><img src="images/graph-factorial-c.svg" alt="factorial graph c" height="374" width="182"><br>
+Smooth</div>
+  </div>
+<p>Next, we want this to be true:</p>
+<p class="center larger"><b>f(</b><b><b>z</b>) =</b> <b><b>z</b></b> <b>f(</b><b><b>z</b></b><b>−1)</b> in between the whole numbers</p>
+<p class="center"><img src="images/graph-gamma-gap1.svg" alt="gamma graph gap=1" height="242" width="279"><br>
+<b>f(b) = b f(b−1)</b><br>
+Example: <b>f(2.62) =</b> <b><b>2.62</b> ×  f(</b><b><b>1.62</b>)</b></p>
+<p>We also need a special condition to keep it smooth called "logarithmically convex": the <a href="../sets/functions-composition.html">composition</a> of the <a href="../sets/function-logarithmic.html">logarithm</a> with our function should be <a href="../calculus/concave-up-down-convex.html">convex</a>.</p>
+<p>Many functions have been discovered with those properties. They each have good and bad points.</p>
+ <p>The one most liked is called the Gamma Function (<b>Γ</b> is the Greek capital letter Gamma):</p>
+<div class="center large">Γ(z) =
+
+<div class="intgl">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">0</div>
+</div> x<sup>z−1</sup> e<sup>−x</sup> dx</div>
+<!-- (z) = INT{0,INF} x^z-1 e^-x dx -->
+<p>It is a <a href="../calculus/integration-definite.html">definite integral</a> with limits from 0 to infinity.</p>
+<p>It matches the factorial function for whole numbers (but sadly we must subtract 1):</p>
+<div class="center large"><b>Γ(n) = (n−1)!</b> for whole numbers</div>
+  <p>So:</p>
+<ul>
+<li>Γ(1) = 0!</li>
+<li>Γ(2) = 1!</li>
+<li>Γ(3) = 2!</li>
+<li>etc</li></ul>
+<p>Let's see how to use it.</p>
+
+      <div class="dotpoint">
+<p>How about n=1</p><br>
+<div class="center large">Γ(1) =
+
+<div class="intgl">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">0</div>
+</div> x<sup>1−1</sup> e<sup>−x</sup> dx</div>
+<div class="center large">&nbsp;&nbsp; &nbsp; =
+
+<div class="intgl">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">0</div>
+</div> x<sup>0</sup> e<sup>−x</sup> dx</div>
+<div class="center large">=
+
+<div class="intgl">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">0</div>
+</div>e<sup>−x</sup> dx</div>
+<div class="center large">= <span class="limit"><em>lim</em><strong>x→∞</strong></span> (−e<sup>−x</sup>) − (−e<sup>−0</sup>)</div>
+  <div class="center large">= 0 − (−1)</div>
+  <div class="center large">= 1</div>
+  </div> <p>Good so far, but does it work generally (<b>z</b> not restricted to integers)?</p>
+<div class="center large"><b>Γ(z+1) = z Γ(z)</b> </div>
+
+<div class="example">
+<p>Let us try:</p>
+  <div class="center large">Γ(z+1) =
+
+<div class="intgl">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">0</div>
+</div> x<sup>z+1−1</sup> e<sup>−x</sup> dx</div>
+    <div class="center large"> &nbsp; &nbsp; =
+
+<div class="intgl">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">0</div>
+</div> x<sup>z</sup> e<sup>−x</sup> dx</div>
+  <p>We can use <a href="../calculus/integration-by-parts.html">Integration by Parts</a> with u=x<sup>z</sup> and v=e<sup>−x</sup>. There are many steps, but the key points are:</p>
+<div class="center large">Γ(z+1) =             <span style="display:inline-block; transform: scaleY(2);">[</span> −x<sup>z</sup> e<sup>−x</sup>                        <span style="display:inline-block; transform: scaleY(2);">]</span>
+<div style="display:inline-block; font: 0.8em Verdana; text-align:center;transform: translateY(30%) translateX(-30%);">
+        <div>∞</div><br>
+<div>0</div>
+      </div>+<div class="intgl">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">0</div>
+</div>zx<sup>z-1</sup> e<sup>−x</sup> dx</div>
+<div class="center large">Γ(z+1) = <span class="limit"><em>lim</em><strong>x→∞</strong></span>(−x<sup>z</sup> e<sup>−x</sup>) − (−0<sup>z</sup> e<sup>−0</sup>) + z
+
+<div class="intgl">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">0</div>
+</div>x<sup>z-1</sup> e<sup>−x</sup> dx</div>
+   <p>And −x<sup>z</sup> e<sup>−x</sup> goes to 0 as z goes to infinity, so it all simplifies to:</p>
+<div class="center large">Γ(z+1) = z
+
+<div class="intgl">
+  <div class="to">∞</div>
+  <div class="symb"></div>
+  <div class="from">0</div>
+</div>x<sup>z-1</sup> e<sup>−x</sup> dx</div>
+    <p>And the remaining integral is actually the Gamma Function for z, so:</p>
+<div class="center large">Γ(z+1) = z Γ(z)</div>
+<p>So it works generally.</p>
+    </div>
+<p>And here is a plot of the Gamma Function:</p>
+<p class="center"><img src="images/gamma-plot.svg" alt="gamma function " height="400" width="600"></p>
+  <p>But at x = 0 or less it works everywhere <b>except at integer values</b> because</p>
+<ul>
+<li><b style="white-space:nowrap;">Γ(0) = Γ(1)/0</b> is undefined (<a href="dividing-by-zero.html">dividing by zero</a>),</li>
+<li>and so Γ(−1) = Γ(0)/−1 is also undefined,</li>
+<li>etc <span style="font-family:Verdana,Arial,Tahoma,sans-serif"><span style="font-family:Verdana,Arial,Tahoma,sans-serif"><span style="font-family:Verdana,Arial,Tahoma,sans-serif"><b style="font-family:Verdana,Arial,Tahoma,sans-serif;text-align:center"><b style="font-family:Verdana,Arial,Tahoma,sans-serif;text-align:center"><font color="#2664b5"><span style="font-size:17.6px"><span></span></span></font></b></b></span></span></span></li></ul>
+<p><b>Try comparing</b> two values on the graph that are 1 apart on the x axis and see if it is true that Γ(z+1) = z Γ(z)</p>
+
+<h3>Complex</h3>
+<p>The Gamma Function also works for <a href="complex-numbers.html">Complex Numbers</a> so long as the real part is greater than 0.</p>
+
+<h3>Half</h3>
+<p>We can calculate the gamma function at <b>a half</b> (quite a few steps!) to get a surprising result:</p>
+<p class="center large">Γ(<span class="intbl"><em>1</em><strong>2</strong></span>) = <span class="times">√π</span></p>
+<p>Knowing that <b>Γ(z+1) = z Γ(z)</b> we get these "half-integer" factorials:</p>
+<div class="simple">
+
+	<table style="border: 0; margin:auto;">
+                    <tbody>
+<tr>
+<td class="center">Gamma</td>
+<td>Γ(z+1) = z Γ(z)</td>
+<td><br>
+</td>
+<td>Factorial</td></tr>
+<tr>
+                      <td style="text-align:center; width:100px;">Γ(<span class="intbl"><em>1</em><strong>2</strong></span>)</td>
+<td style="text-align:center;"><br>
+</td>
+                      <td style="text-align:center; width:100px;"><span class="times">√π</span></td>
+<td style="text-align:center;">(−<span class="intbl"><em>1</em><strong>2</strong></span>)!</td>
+                    </tr>
+                    <tr>
+                      <td style="text-align:center;">Γ(<span class="intbl"><em>3</em><strong>2</strong></span>)</td>
+<td style="text-align:center;">= <span class="intbl"><em>1</em><strong>2</strong></span>Γ(<span class="intbl"><em>1</em><strong>2</strong></span>) =</td>
+                      <td style="text-align:center;"><span class="intbl"><em>1</em><strong>2</strong></span><span class="times">√π</span></td>
+<td style="text-align:center;">(<span class="intbl"><em>1</em><strong>2</strong></span>)!</td>
+                    </tr>
+                    <tr>
+                      <td style="text-align:center;">Γ(<span class="intbl"><em>5</em><strong>2</strong></span>)</td>
+<td style="text-align:center;">= <span class="intbl"><em>3</em><strong>2</strong></span>Γ(<span class="intbl"><em>3</em><strong>2</strong></span>) =</td>
+                      <td style="text-align:center;"><span class="intbl"><em>3</em><strong>4</strong></span><span class="times">√π</span></td>
+<td style="text-align:center;">(<span class="intbl"><em>3</em><strong>2</strong></span>)!</td>
+                    </tr>
+                    <tr>
+                      <td style="text-align:center;">Γ(<span class="intbl"><em>7</em><strong>2</strong></span>)</td>
+<td style="text-align:center;">= <span class="intbl"><em>5</em><strong>2</strong></span>Γ(<span class="intbl"><em>5</em><strong>2</strong></span>) =</td>
+                      <td style="text-align:center;"><span class="intbl"><em>15</em><strong>8</strong></span><span class="times">√π</span></td>
+<td style="text-align:center;">(<span class="intbl"><em>5</em><strong>2</strong></span>)!</td>
+                    </tr><tr>
+<td class="center">...</td>
+<td class="center">...</td>
+<td class="center">...</td>
+<td class="center">...</td></tr>
+                  </tbody></table>
+          </div><br>
+<p>Also check if the graph above gets them right.</p>
+
+
+<h2>Applications</h2>
+
+<p>Just like the Factorial function there are many uses for the Gamma function in Combinatorics, Probability and Statistics. It is also very useful in Calculus and Physics.</p>
+<p><br></p>
+<p>So there you have it: the Gamma Function may be a little hard to
+calculate but it neatly extends the factorial function beyond whole
+numbers.</p>
+
+<div class="related">  
+  <a href="../combinatorics/combinations-permutations.html">Combinations and Permutations</a>  
+  <a href="index.html">Numbers Index</a>
+</div>
+            <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2022 Rod Pierce</div>
+
+</div>
+
+
+
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/numbers/gamma-function.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:45:39 GMT -->
+</html>

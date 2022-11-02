@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="188.661"
+   height="108.791"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="triangle-abc.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg16" />
+  <defs
+     id="defs2" />
+  <path
+     style="fill:#fbfee6;fill-opacity:1;stroke:none;stroke-width:1.5"
+     d="M 20.5584,0.591687 188.246,84.7683 H 20.5584 V 0.591687"
+     id="path10"
+     sodipodi:nodetypes="cccc" />
+  <text
+     x="83.2385"
+     y="108.543"
+     style="color:#000000;font-style:italic;font-size:24.1368px;font-family:'Trebuchet MS';overflow:visible;fill:#9900cc;stroke-width:0.999997px"
+     id="text4"
+     transform="scale(0.999888,1.00011)">b</text>
+  <text
+     x="99.4431"
+     y="33.4129"
+     style="color:#000000;font-style:italic;font-size:24.1368px;font-family:'Trebuchet MS';overflow:visible;fill:#ff0000;stroke-width:0.999997px"
+     id="text6"
+     transform="scale(0.999888,1.00011)">c</text>
+  <text
+     x="-0.730705"
+     y="55.0567"
+     style="color:#000000;font-style:italic;font-size:24.1368px;font-family:'Trebuchet MS';overflow:visible;fill:#63c600;stroke-width:0.999997px"
+     id="text8"
+     transform="scale(0.999888,1.00011)">a</text>
+  <path
+     style="overflow:visible;fill:none;fill-opacity:0.19;stroke:#000000;stroke-width:1.17"
+     d="M 20.694,65.5512 H 39.8427 V 84.7043"
+     id="path12" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#63c600;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 20.637,84.8468 V 0.670287"
+     id="path2563" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#9900cc;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 20.637,84.8468 H 188.324"
+     id="path2565" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 188.324,84.8468 20.637,0.670287"
+     id="path2680" />
+</svg>

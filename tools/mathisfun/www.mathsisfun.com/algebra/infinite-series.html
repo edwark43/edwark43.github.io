@@ -1,0 +1,437 @@
+<!doctype html>
+<html lang="en">
+<!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+<!-- Mirrored from www.mathsisfun.com/algebra/infinite-series.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:36:49 GMT -->
+<head>
+<meta charset="UTF-8">
+<!-- #BeginEditable "doctitle" -->
+<title>Infinite Series</title>
+<meta name="Description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents.">
+
+  <style>
+  
+  .intgl {display:inline-block;  margin: -4% 0.6% 4% -1.8%; transform: translateX(20%) translateY(35%);}  
+	.intgl .to {text-align:center; width:2em; font: 0.8em Verdana; margin: 0 0 -5px 8px;} 
+	.intgl .symb {font: 180% Georgia; }
+	.intgl .symb:before { content: "\222B";} 
+	.intgl .from {text-align:center; width:2em; font: 0.8em Verdana; overflow:visible; }
+  
+</style>  
+  
+  <!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin>
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">Infinite Series</h1>
+
+<p class="center">The <b>sum</b> of  infinite terms that follow a rule.</p>
+  <p>When we have an infinite <a href="sequences-series.html">sequence</a> of values:</p>
+<p class="center large"><span class="intbl"><em>1</em><strong>2</strong></span> , <span class="intbl"><em>1</em><strong>4</strong></span> , <span class="intbl"><em>1</em><strong>8</strong></span> , <span class="intbl"><em>1</em><strong>16</strong></span> , ...</p>
+<p>which  follow a rule (in this case  each term is half the previous one),</p>
+  <p class="center">and we <b>add them all up</b>:</p>
+<p class="center large"><span class="intbl"><em>1</em><strong>2</strong></span> + <span class="intbl"><em>1</em><strong>4</strong></span> + <span class="intbl"><em>1</em><strong>8</strong></span> + <span class="intbl"><em>1</em><strong>16</strong></span> + ... = S</p>
+<p class="center">we get an <b>infinite series</b>.</p>
+  <div class="words">
+    <p>"Series" sounds like it is the <b>list of numbers</b>, but it is actually when we add them together.</p>
+  </div>
+  <p class="center"><i>(Note: The dots <i>"..."</i> mean "continuing on indefinitely")</i></p>
+
+
+<h2>First Example</h2>
+
+<p>You might think it is impossible to work out the answer, but sometimes it can be done!</p>
+  <p>Using the example from above:</p>
+  <p class="center large"><span class="intbl"><em>1</em><strong>2</strong></span> + <span class="intbl"><em>1</em><strong>4</strong></span> + <span class="intbl"><em>1</em><strong>8</strong></span> + <span class="intbl"><em>1</em><strong>16</strong></span> + ... = 1</p>
+  <p>And here is  why:</p>
+  <p class="center"><img src="images/infinite-series-1-2n.svg" alt="Sum of 1/2^n as boxes" height="208" width="208" ><br>
+(We also show a proof using Algebra below)</p>
+
+
+<h2>Notation</h2>
+
+<p>We often use <a href="sigma-notation.html">Sigma Notation</a> for infinite series. Our example from above looks like:</p>
+  <p class="center"><img src="images/sigma-1-2n.gif" alt="Sum of 1/2^n" height="70" width="346" ></p>
+
+	<table align="center" width="55%" border="0">
+    <tbody>
+<tr>
+      <td><img src="images/sigma.gif" alt="Sigma" height="34" width="32" ></td>
+      <td>This symbol (called Sigma) means "sum up"</td>
+    </tr>
+  </tbody></table>
+  <p>Try putting 1/2^n into the <a href="../numbers/sigma-calculator.html">Sigma Calculator</a>.</p>
+
+
+<h2>Another Example</h2>
+
+<p class="center large"><span class="intbl"><em>1</em><strong>4</strong></span> + <span class="intbl"><em>1</em><strong>16</strong></span> + <span class="intbl"><em>1</em><strong>64</strong></span> + <span class="intbl"><em>1</em><strong>256</strong></span> + ... = <span class="intbl"><em>1</em><strong>3</strong></span></p>
+<p>Each term is a quarter of the previous one, and the sum equals 1/3:</p>
+  <p class="center"><img src="images/infinite-series-1-4n.svg" alt="Sum 1/4^n as boxes" height="208" width="208" ><br>
+Of the 3 spaces (1, 2 and 3) only number 2 gets filled up, hence 1/3.</p>
+<p>(By the way, this one was worked out by <i><b>Archimedes</b></i> over 2200 years ago.)</p>
+
+
+<h2>Converge</h2>
+
+<p>Let's add the terms one at a time. When the "sum so far" approaches a finite value,  the series is said to be "<b>convergent</b>":</p>
+
+<div class="example">
+    <p>Our first example:</p>
+<p class="center large"><span class="intbl"><em>1</em><strong>2</strong></span> + <span class="intbl"><em>1</em><strong>4</strong></span> + <span class="intbl"><em>1</em><strong>8</strong></span> + <span class="intbl"><em>1</em><strong>16</strong></span> + ...</p>
+    <p>Adds up  like this:</p>
+
+	<table style="border: 0; margin:auto;">
+      <tbody>
+<tr style="text-align:center;">
+        <td>Term</td>
+        <td>&nbsp;</td>
+        <td>Sum so far</td>
+        </tr>
+      <tr style="text-align:center;">
+        <td>1/2</td>
+        <td>&nbsp;</td>
+        <td>0.5</td>
+        </tr>
+      <tr style="text-align:center;">
+        <td>1/4</td>
+        <td>&nbsp;</td>
+        <td>0.75</td>
+        </tr>
+      <tr style="text-align:center;">
+        <td>1/8</td>
+        <td>&nbsp;</td>
+        <td>0.875</td>
+        </tr>
+      <tr style="text-align:center;">
+        <td>1/16</td>
+        <td>&nbsp;</td>
+        <td>0.9375</td>
+        </tr>
+      <tr style="text-align:center;">
+        <td>1/32</td>
+        <td>&nbsp;</td>
+        <td>0.96875</td>
+        </tr>
+      <tr style="text-align:center;">
+        <td>...</td>
+        <td>&nbsp;</td>
+        <td>...</td>
+        </tr>
+    </tbody></table>
+    <p>The sums are heading towards a value (1 in this case), so this series is <b>convergent</b>.</p>
+  </div>
+  <div class="words">
+    <p>The "sum so far" is called a <a href="partial-sums.html">partial sum</a> .</p>
+    <p>So, more formally, we say it is a convergent series when:</p>
+    <p class="center">"the sequence of partial sums has a finite <a href="../calculus/limits.html">limit</a>."</p>
+  </div>
+
+
+<h2>Diverge</h2>
+
+<p>If the sums  do not converge, the series is said to <b>diverge</b>.</p>
+  <p>It can go to <b>+infinity</b>, <b>−infinity</b> or just go up and down without settling on any value.</p>
+
+<div class="example">
+
+<h3>Example:
+<div class="center large">1 + 2 + 3 + 4 + ...</div></h3>
+    <p>Adds up  like this:</p>
+
+	<table style="border: 0; margin:auto;">
+      <tbody>
+<tr style="text-align:center;">
+        <td>Term</td>
+        <td>&nbsp;</td>
+        <td>Sum so far</td>
+        </tr>
+      <tr style="text-align:center;">
+        <td>1</td>
+        <td>&nbsp;</td>
+        <td>1</td>
+        </tr>
+      <tr style="text-align:center;">
+        <td>2</td>
+        <td>&nbsp;</td>
+        <td>3</td>
+        </tr>
+      <tr style="text-align:center;">
+        <td>3</td>
+        <td>&nbsp;</td>
+        <td>6</td>
+        </tr>
+      <tr style="text-align:center;">
+        <td>4</td>
+        <td>&nbsp;</td>
+        <td>10</td>
+        </tr>
+      <tr style="text-align:center;">
+        <td>5</td>
+        <td>&nbsp;</td>
+        <td>15</td>
+        </tr>
+      <tr style="text-align:center;">
+        <td>...</td>
+        <td>&nbsp;</td>
+        <td>...</td>
+        </tr>
+    </tbody></table>
+    <p>The sums are just getting larger and larger, not heading to any finite value.</p>
+    <p>It does not converge, so it is <b>divergent</b>, and heads to infinity.</p>
+  </div>
+
+<div class="example">
+
+<h3>Example: 1 − 1 + 1 − 1 + 1 ...</h3>
+    <p>It goes up and down without settling towards some value, so it is <b>divergent</b>.</p>
+  </div>
+
+
+<h2>More Examples</h2>
+
+<h3><a href="sequences-sums-arithmetic.html">Arithmetic Series</a></h3>
+  <p>When the <b>difference</b> between each term and the next is  a constant, it is called  an <b>arithmetic series</b>.</p>
+  <p class="center"><img src="images/series-arithmetic.gif" alt="Sigma n=0 to infinity of (10+2n) = 10+12+14+..." height="71" width="438" ></p>
+  <p class="center">(The difference between each term is  2.)</p>
+  <p>&nbsp;</p>
+
+<h3><a href="sequences-sums-geometric.html">Geometric Series</a></h3>
+  <p>When the <b>ratio</b> between each term and the next is  a constant, it is called  a <b>geometric series</b>.</p>
+  <p>Our first example from above is a geometric series:</p>
+  <p class="center"><img src="images/sigma-1-2n.gif" alt="Sum of 1/2^n" height="70" width="346" ></p>
+  <p class="center">(The ratio between each term is  <b>½</b>)</p>
+<p>And, as promised, we can show you why that series  equals 1 using Algebra:</p>
+<div class="tbl">
+  <div class="row"><span class="left"><b>First</b>, we will call the whole sum <b>"S"</b>:</span><span class="right">&nbsp; &nbsp;S = 1/2 + 1/4 + 1/8 + 1/16 + ...</span></div>
+<div class="row"><span class="left"><b>Next</b>, divide <b>S</b> by <b>2</b>:</span><span class="right">S/2 = 1/4 + 1/8 + 1/16 + 1/32 + ...</span></div>
+  <p class="larger">Now <b>subtract</b> S/2 from S</p>
+  <p>All the terms from 1/4 onwards cancel out.</p>
+<div class="row"><span class="left">And we get:</span><span class="right">S − S/2 = 1/2</span></div>
+<div class="row"><span class="left">Simplify:</span><span class="right"> S/2 = 1/2</span></div>
+<div class="row"><span class="left">And so:</span><span class="right">S  = 1</span></div>
+</div>
+  <p>&nbsp;</p>
+
+<h3>Harmonic Series</h3>
+  <p>This is the Harmonic Series:</p>
+  <p class="center"><img src="images/series-harmonic.gif" alt="Sigma n=1 to infinity of (1/n) = 1 + 1/2 + 1/3 + 1/4 + ..." height="70" width="397" ></p>
+<p>It is divergent.</p>
+
+<div class="example">
+  <p>How do we know? Let's compare it to another series:</p>
+
+	<table style="border: 0; margin:auto; text-align:center;">
+<tbody>
+<tr>
+<td>1</td>
+<td style="width:30px;">+</td>
+<td><span class="intbl"><em>1</em><strong>2</strong></span></td>
+<td style="width:30px;">+</td>
+<td><span class="intbl"><em>1</em><strong>3</strong></span>+<span class="intbl"><em>1</em><strong>4</strong></span></td>
+<td style="width:30px;">+</td>
+<td><span class="intbl"><em>1</em><strong>5</strong></span>+<span class="intbl"><em>1</em><strong>6</strong></span>+<span class="intbl"><em>1</em><strong>7</strong></span>+<span class="intbl"><em>1</em><strong>8</strong></span></td>
+<td style="width:30px;">+</td>
+<td><span class="intbl"><em>1</em><strong>9</strong></span>+...</td></tr>
+<tr>
+<td><img src="../images/style/down.svg" alt="down" height="49" width="50" ></td>
+<td><br>
+</td>
+<td><img src="../images/style/down.svg" alt="down" height="49" width="50" ></td>
+<td><br>
+</td>
+<td><img src="../images/style/down.svg" alt="down" height="49" width="50" ></td>
+<td><br>
+</td>
+<td><img src="../images/style/down.svg" alt="down" height="49" width="50" ></td>
+<td><br>
+</td>
+<td><img src="../images/style/down.svg" alt="down" height="49" width="50" ></td></tr>
+<tr>
+<td>1</td>
+<td>+</td>
+<td><span class="intbl"><em>1</em><strong>2</strong></span></td>
+<td>+</td>
+<td><span class="intbl"><em>1</em><strong>4</strong></span>+<span class="intbl"><em>1</em><strong>4</strong></span></td>
+<td>+</td>
+<td><span class="intbl"><em>1</em><strong>8</strong></span>+<span class="intbl"><em>1</em><strong>8</strong></span>+<span class="intbl"><em>1</em><strong>8</strong></span>+<span class="intbl"><em>1</em><strong>8</strong></span></td>
+<td>+</td>
+<td><span class="intbl"><em>1</em><strong>16</strong></span>+...</td></tr>
+</tbody></table>
+<p class="center">In each case, the <b>top values are equal or greater</b> than the bottom ones.</p>
+  <p>Now, let's add up the bottom groups:</p>
+
+	<table style="border: 0; margin:auto; text-align:center;">
+<tbody>
+<tr>
+<td>1</td>
+<td style="width:30px;">+</td>
+<td><span class="intbl"><em>1</em><strong>2</strong></span></td>
+<td style="width:30px;">+</td>
+<td><span class="intbl"><em>1</em><strong>4</strong></span>+<span class="intbl"><em>1</em><strong>4</strong></span></td>
+<td style="width:30px;">+</td>
+<td><span class="intbl"><em>1</em><strong>8</strong></span>+<span class="intbl"><em>1</em><strong>8</strong></span>+<span class="intbl"><em>1</em><strong>8</strong></span>+<span class="intbl"><em>1</em><strong>8</strong></span></td>
+<td style="width:30px;">+</td>
+<td><span class="intbl"><em>1</em><strong>16</strong></span>+...</td>
+<td style="width:30px;"><br>
+</td>
+<td><br>
+</td></tr>
+<tr>
+<td><img src="../images/style/down.svg" alt="down" height="49" width="50" ></td>
+<td><br>
+</td>
+<td><img src="../images/style/down.svg" alt="down" height="49" width="50" ></td>
+<td><br>
+</td>
+<td><img src="../images/style/down.svg" alt="down" height="49" width="50" ></td>
+<td><br>
+</td>
+<td><img src="../images/style/down.svg" alt="down" height="49" width="50" ></td>
+<td><br>
+</td>
+<td><img src="../images/style/down.svg" alt="down" height="49" width="50" ></td>
+<td><br>
+</td>
+<td><br>
+</td></tr>
+<tr>
+<td>1</td>
+<td>+</td>
+<td><span class="intbl"><em>1</em><strong>2</strong></span></td>
+<td>+</td>
+<td><span class="intbl"><em>1</em><strong>2</strong></span></td>
+<td>+</td>
+<td><span class="intbl"><em>1</em><strong>2</strong></span><span class="intbl"><strong></strong></span></td>
+<td>+</td>
+<td><span class="intbl"><em>1</em><strong>2</strong></span></td>
+<td>+</td>
+<td>... = ∞</td></tr>
+</tbody></table>
+  <p class="center"><b>That</b> series is divergent.</p>
+  <p>So the <b>harmonic series</b> must also be divergent.</p>
+  </div>
+<p>Here is another way:</p>
+
+<div class="example">
+  <p>We can sketch the area of each term and compare it to the area under the <b>1/x</b> curve:</p>
+  <p class="center"><img src="images/series-harmonic-graph.svg" alt="harmonic series graph" height="181" width="263" ><br>
+<span class="larger"><b>1/x</b> vs harmonic series area</span></p>
+  <p>Calculus tells us the area under 1/x (from 1 onwards) approaches <b>infinity</b>, and the harmonic series is greater than that, so it must be divergent.</p>
+</div>
+<p>&nbsp;</p>
+
+<h3>Alternating Series</h3>
+  <p>An Alternating Series has terms that alternate between positive and negative.</p>
+  <p>It may or may not converge.</p>
+
+<div class="example">
+
+<h3>Example: <span class="intbl"><em>1</em><strong>2</strong></span> − <span class="intbl"><em>1</em><strong>4</strong></span> + <span class="intbl"><em>1</em><strong>8</strong></span> − <span class="intbl"><em>1</em><strong>16</strong></span> + ... =  <span class="intbl"><em>1</em><strong>3</strong></span></h3>
+    <p>This illustration may convince you that the terms converge on <span class="intbl"><em>1</em><strong>3</strong></span>:</p>
+    <p class="center"><img src="images/infinite-series-1-2m1-4.svg" alt="harmonic series graph" height="212" width="364" ></p>
+    <p>Maybe you can try to prove it yourself? Try pairing up each plus and minus pair, then look up above for a series that matches.</p>
+  </div>
+  <p>Another example of an Alternating Series (based on the Harmonic Series above):</p>
+  <p class="center"><img src="images/series-alternating.gif" alt="Sigma n=1 to infinity of (-1)^(n+1) /n = 1 - 1/2 + 1/3 - 1/4 + ... = ln(2)" height="71" width="473" ></p>
+  <p>This one converges on the natural <a href="logarithms.html">logarithm</a> of 2</p>
+
+<div class="example">
+
+<h3>Advanced Explanation:</h3>
+    <p>To show WHY, first we start with a square of area 1, and then pair up the  minus and plus fractions to show how they cut the area down to  the  area under the curve <b>y=1/x</b> between 1 and 2:</p>
+    <p class="center"><img src="images/alternating-harmonic.svg" alt="alternating harmonic proof" height="160" width="617" ></p>
+    <p>Can you see what  remains  is the area of 1/x from 1 to 2?</p>
+    <p>Using <a href="../calculus/integration-introduction.html">integral calculus</a> (trust me) that area is <b>ln(2)</b>:</p>
+    <div class="center">
+      <div class="intgl">
+    <div class="to">2</div>
+    <div class="symb"></div>
+    <div class="from">1</div>
+  </div>1/x dx = ln(2) − ln(1) = <b>ln(2)</b></div>
+    </div>
+    <p>&nbsp;</p>
+    <p><b>You</b> can investigate this further!</p>
+    <ul>
+      <li>do those rectangles  really  make the  area above the curve as shown?</li>
+      <li>is the area below the curve really ln(2) = 0.693... ? Try the <a href="../calculus/integral-approximation-calculator.html">Integral Approximation Calculator</a> to see (y=1/x between 1 and 2)</li>
+    </ul>
+
+
+<h2>Order!</h2>
+
+<p>The order of the terms can be very important! We can sometimes get weird results when we change their order.</p>
+  <p>For example in an alternating series, what if we made all positive terms come  first? So be careful!</p>
+
+
+<h2>More</h2>
+
+<p>There are other types of Infinite Series, and it is interesting (and often challenging!) to work out if they are convergent or not, and what they may converge to.</p>
+  <p>&nbsp;</p>
+
+<div class="related">  
+  <a href="sigma-notation.html">Sigma Notation</a>  
+  <a href="../numbers/sigma-calculator.html">Sigma Calculator</a>  
+  <a href="partial-sums.html">Partial Sums</a>  
+  <a href="index.html">Algebra Index</a>
+</div>
+    <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright &copy; 2021 MathsIsFun.com</div>
+
+</div>
+</body>
+<!-- #EndTemplate -->
+
+<!-- Mirrored from www.mathsisfun.com/algebra/infinite-series.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:36:52 GMT -->
+</html>

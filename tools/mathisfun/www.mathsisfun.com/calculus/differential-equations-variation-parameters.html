@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/calculus/differential-equations-variation-parameters.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:30 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>The Method of Variation of Parameters</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.">
+<script>Author='Les Bill Gates, Jesus Montes and Rod Pierce';</script>
+  
+  
+<style>
+  
+
+.integral { font: 200% Georgia, Arial; position: relative; top: 5px; padding: 0 1px 0 0.2rem;}
+  
+</style>      
+  
+  
+  
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">The Method of Variation of Parameters</h1>
+
+<div class="def">
+    <p>This page is about second order differential equations of this type:</p>
+    <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + P(x)<span class="intbl"><em>dy</em><strong>dx</strong></span> + Q(x)y
+      = f(x)</p>
+    <p>where P(x),  Q(x) and f(x) are functions of x.</p>
+  </div><div class="center80">
+<p>Please read <a href="differential-equations-second-order.html">Introduction to Second Order Differential Equations</a> first, it shows how to solve the simpler "homogeneous" case where f(x)=0</p></div>
+
+
+<h2>Two Methods</h2>
+
+<p>There are two main methods to solve equations like</p>
+  <p class="center larger"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + P(x)<span class="intbl"><em>dy</em><strong>dx</strong></span> + Q(x)y
+    = f(x)</p>
+<p class="dotpoint"><a href="differential-equations-undetermined-coefficients.html">Undetermined Coefficients</a>  which only works when f(x) is a polynomial,  exponential, sine,  cosine or a linear combination of those.</p>
+  <p class="dotpoint"><span class="center"><b>Variation of Parameters</b></span> (that we will learn here) which  works on a wide range of functions but is  a little messy to use.</p>
+
+
+<h2>Variation of Parameters</h2>
+
+<p>To keep things simple, we are only going to look at the case:</p>
+  <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + p<span class="intbl"><em>dy</em><strong>dx</strong></span> + qy = f(x)</p>
+  where p and q are constants and f(x) is a non-zero function of x.
+
+<p>The <strong>complete solution</strong> to such an equation can be found
+    by combining two types of solution:</p>
+  <ol>
+    <li style="text-align: justify;">The <b>general solution</b> of the
+      homogeneous equation <span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + p<span class="intbl"><em>dy</em><strong>dx</strong></span> + qy = 0</li>
+    <li style="text-align: justify;"><b>Particular solutions</b> of the
+      non-homogeneous equation <span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + p<span class="intbl"><em>dy</em><strong>dx</strong></span> + qy =
+      f(x)</li>
+  </ol>
+  <p>Note that f(x) could be a single function or a sum of two or more
+    functions.</p>
+  <p>Once we have found the general solution and all the particular
+    solutions, then the final complete solution is found by adding all the
+    solutions together.</p>
+  <p>This method relies on <a href="integration-introduction.html">integration.</a></p>
+  <p>The problem with this method is that, although it may yield a solution,
+    in some cases the solution has to be left as an integral.</p>
+
+
+<h2>Start with the General Solution</h2>
+
+<p>On <a href="differential-equations-second-order.html">Introduction to Second Order Differential  Equations</a> we learn how to find the general solution.</p>
+  <p>Basically we take the equation</p>
+  <p class="center large"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + p<span class="intbl"><em>dy</em><strong>dx</strong></span> + qy = 0</p>
+  <p>and  reduce it to the "characteristic equation":</p>
+  <p class="center large">r<sup>2</sup> + pr + q = 0</p>
+  <p>Which is a quadratic equation that has  three possible solution types depending on the  discriminant <b>p<sup>2</sup> − 4q</b>. When <b>p<sup>2</sup> − 4q</b>  is</p>
+  <p class="dotpoint"><b>positive</b> we get two real roots, and the solution is</p>
+  <p class="center large">y = Ae<sup>r<sub>1</sub>x</sup> + Be<sup>r<sub>2</sub>x</sup></p>
+  <p class="dotpoint"><b>zero</b> we get one real root, and the solution is</p>
+  <p class="center large">y = Ae<sup>rx</sup> + Bxe<sup>rx</sup></p>
+  <p class="dotpoint"><b>negative</b> we get  two complex roots <b>r<sub>1</sub> = v + wi</b> and <b>r<sub>2</sub> = v − wi</b>, and the solution is</p>
+  <p class="center large">y = e<sup>vx</sup> ( Ccos(wx) + iDsin(wx) )</p>
+
+
+<h2>The Fundamental Solutions of The Equation</h2>
+
+<p>In all three cases above "y" is made of two parts:</p>
+  <ul>
+    <li><b>y = Ae<sup>r<sub>1</sub>x</sup> + Be<sup>r<sub>2</sub>x</sup></b> is made of <b>y<sub>1</sub> =  Ae<sup>r<sub>1</sub>x</sup></b> and <b>y<sub>2</sub>  = Be<sup>r<sub>2</sub>x</sup></b></li>
+    <li><b>y = Ae<sup>rx</sup> + Bxe<sup>rx</sup></b> is made of <b>y<sub>1</sub> =  Ae<sup>rx</sup></b> and <b>y<sub>2</sub>  = Bxe<sup>rx</sup></b></li>
+    <li><b>y = e<sup>vx</sup> ( Ccos(wx) + iDsin(wx) )</b> is made of <b>y<sub>1</sub> =  e<sup>vx</sup>Ccos(wx)</b> and <b>y<sub>2</sub>  = e<sup>vx</sup>iDsin(wx)</b></li>
+  </ul>
+  <p>y<sub>1</sub> and y<sub>2</sub> are known as the fundamental solutions of the equation</p>
+  <p>And y<sub>1</sub> and y<sub>2</sub> are said to be  <b>linearly
+    independent</b> because neither function is a constant multiple of the
+    other.</p>
+
+
+<h2>The Wronskian</h2>
+
+<p>When y<sub>1</sub> and y<sub>2</sub> are the two fundamental solutions
+    of the homogeneous equation</p>
+  <p class="center"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + p<span class="intbl"><em>dy</em><strong>dx</strong></span> + qy = 0</p>
+  <p>then the Wronskian W(y<sub>1</sub>, y<sub>2</sub>) is the <a href="../algebra/matrix-determinant.html">determinant
+    of the matrix</a></p>
+  <p class="center">&nbsp; <img src="images/wronskian-matrix.svg" alt="matrix for the Wronskian" height="81" width="119">&nbsp;</p>
+  <p>So</p>
+  <p class="center larger">W(y<sub>1</sub>, y<sub>2</sub>) = y<sub>1</sub>y<sub>2</sub>'
+    − y<sub>2</sub>y<sub>1</sub>'</p>
+  <p class="words">The <b>Wronskian</b> is named after the Polish mathematician and
+    philosopher Józef Hoene-Wronski (1776−1853).</p>
+  <p>Since y<sub>1</sub> and y<sub>2</sub> are linearly independent, the value of the Wronskian cannot equal zero.</p>
+
+
+<h2>The Particular Solution</h2>
+
+<p>Using the Wronskian we can now find the particular solution of the differential equation</p>
+  <p class="center larger"><span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> + p<span class="intbl"><em>dy</em><strong>dx</strong></span> + qy = f(x)</p>
+  <p>using the formula:</p>
+  <p class="center large">y<sub>p</sub>(x) = −y<sub>1</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx
+    + y<sub>2</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p>
+  <p class="center large"><br></p>
+  <div class="example">
+
+<h3>Example 1: Solve <span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 3<span class="intbl"><em>dy</em><strong>dx</strong></span> + 2y =
+      e<sup>3x</sup></h3>
+    <p><b>1. Find the general solution of</b> <span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 3<span class="intbl"><em>dy</em><strong>dx</strong></span> + 2y = 0</p>
+    <p>The characteristic equation is: r<sup>2</sup> − 3r + 2 = 0</p>
+    <p>Factor: (r − 1)(r − 2) = 0</p>
+    <p class="so">r = 1 or 2</p>
+    <p>So the general solution of the differential equation is <span class="larger">y = Ae<sup>x</sup>+Be<sup>2x</sup></span></p>
+    <p>So in this case the fundamental solutions and their derivatives are:</p>
+    <p class="so">y<sub>1</sub>(x) = e<sup>x</sup></p>
+    <p class="so">y<sub>1</sub>'(x) = e<sup>x</sup></p>
+    <p class="so">y<sub>2</sub>(x) = e<sup>2x</sup></p>
+    <p class="so">y<sub>2</sub>'(x) = 2e<sup>2x</sup></p>
+    <p><b>2. Find the Wronskian:</b></p>
+    <p class="center">W(y<sub>1</sub>, y<sub>2</sub>) = y<sub>1</sub>y<sub>2</sub>'
+      − y<sub>2</sub>y<sub>1</sub>' = 2e<sup>3x</sup> − e<sup>3x</sup> = e<sup>3x</sup></p>
+    <p><b>3. Find the particular solution using the formula:</b></p>
+    <div style="text-align: center;"> y<sub>p</sub>(x) = −y<sub>1</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx
+      + y<sub>2</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx </div>
+    <p><b>4. First we solve the integrals:</b></p>
+    <p class="center large"><span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p><br>
+= <span class="integral">∫</span><span class="intbl"><em>e<sup>2x</sup>e<sup>3x</sup></em><strong>e<sup>3x</sup></strong></span>dx
+
+<p>= <span class="integral">∫</span>e<sup>2x</sup>dx</p>
+    <p>= <span class="intbl"><em>1</em>2</span>e<sup>2x</sup></p>
+    <p>So:</p>
+    <p class="center">−y<sub>1</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx
+      = −(e<sup>x</sup>)(<span class="intbl"><em>1</em>2</span>e<sup>2x</sup>)
+      =&nbsp;−<span class="intbl"><em>1</em>2</span>e<sup>3x</sup></p>
+    <p><b>And also:</b></p>
+    <p class="center large"><span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p><br>
+= <span class="integral">∫</span><span class="intbl"><em>e<sup>x</sup>e<sup>3x</sup></em><strong>e<sup>3x</sup></strong></span>dx
+
+<p>= <span class="integral">∫</span>e<sup>x</sup>dx</p>
+    <p>= e<sup>x</sup></p>
+    <p>So:</p>
+    <p class="center">y<sub>2</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx
+      = (e<sup>2x</sup>)(<span class="intbl"></span>e<sup>x</sup>) = e<sup>3x</sup></p>
+    <p><b>Finally:</b></p>
+    <p>y<sub>p</sub>(x) = −y<sub>1</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx
+      + y<sub>2</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p>
+    <p>= −<span class="intbl"><em>1</em>2</span>e<sup>3x</sup> + e<sup>3x</sup></p>
+    <p>= <span class="intbl"><em>1</em>2</span>e<sup>3x</sup></p>
+    <p>and the complete solution of the differential equation <span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 3<span class="intbl"><em>dy</em><strong>dx</strong></span> + 2y = e<sup>3x</sup> is</p>
+    <p class="center large">y = Ae<sup>x</sup> + Be<sup>2x</sup> + <span class="intbl"><em>1</em>2</span>e<sup>3x</sup></p>
+<p>Which looks like this (example values of A and B):</p>
+<p class="center"><img src="images/graph-aex-be2x-2-e3x.svg" alt="Aex + Be2x + 12e3x " height="340" width="550"></p>
+  </div>
+  <div><br>
+</div>
+  <div class="example">
+
+<h3>Example 2:&nbsp; Solve <span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − y = 2x<sup>2</sup> − x − 3</h3><br>
+<b>1. Find the general solution of</b> <span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − y = 0
+    <p>The characteristic equation is: r<sup>2</sup> − 1 = 0</p>
+    <p>Factor: (r − 1)(r + 1) = 0</p>
+    <p class="so">r = 1 or −1</p>
+    <p>So the general solution of the differential equation is y = Ae<sup>x</sup>+Be<sup>−x</sup></p>
+    <p>So in this case the fundamental solutions and their derivatives are:</p>
+    <p class="so">y<sub>1</sub>(x) = e<sup>x</sup></p>
+    <p class="so">y<sub>1</sub>'(x) = e<sup>x</sup></p>
+    <p class="so">y<sub>2</sub>(x) = e<sup>−x</sup></p>
+    <p class="so">y<sub>2</sub>'(x) = −e<sup>−x</sup></p>
+    <p><b>2. Find the Wronskian:</b></p>
+    <p class="center">W(y<sub>1</sub>, y<sub>2</sub>) = y<sub>1</sub>y<sub>2</sub>'
+      − y<sub>2</sub>y<sub>1</sub>' = −e<sup>x</sup>e<sup>−x</sup> − e<sup>x</sup>e<sup>−x</sup> = −2</p>
+    <p><b>3. Find the particular solution using the formula:</b></p>
+    <p class="center large">y<sub>p</sub>(x) = −y<sub>1</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx
+      + y<sub>2</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p>
+    <p><b>4. Solve the integrals:</b></p>
+    <div style="text-align: left;">Each of the integrals can be obtained
+      by using <a href="integration-by-parts.html">Integration
+      by Parts</a> twice:</div>
+    <div style="text-align: left;"><br>
+</div>
+    <p class="center large"><span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p><br>
+= <span class="integral">∫</span><span class="intbl"><em>e<sup>−x </sup>(2x<sup>2</sup>−x−3)</em><strong>−2</strong></span>dx
+
+<p>= −<span class="intbl"><em>1</em>2</span> <span class="integral">∫</span>(2x<sup>2</sup>−x−3)<span class="integral"></span>e<sup>−x</sup>dx</p>
+    <p>= −<span class="intbl"><em>1</em>2</span>[ −(2x<sup>2</sup>−x−3)e<sup>−x</sup> + <span class="integral">∫</span>(4x−1)<span class="integral"></span>e<sup>−x </sup>dx ]</p>
+    <p>= −<span class="intbl"><em>1</em>2</span>[ −(2x<sup>2</sup>−x−3)e<sup>−x</sup> − (4x − 1)e<sup>−x</sup> + <span class="integral">∫</span>4e<sup>−x</sup>dx
+      ]</p>
+    <p>= −<span class="intbl"><em>1</em>2</span>[ −(2x<sup>2</sup>−x−3)e<sup>−x</sup> − (4x − 1)e<sup>−x</sup> − 4e<sup>−x</sup> ]</p>
+    <p>= <span class="intbl"><em>e<sup>−x</sup></em>2</span>[ 2x<sup>2</sup> − x − 3 + 4x −1 + 4 ]</p>
+    <p>= <span class="intbl"><em>e<sup>−x</sup></em>2</span>[ 2x<sup>2</sup> + 3x ]</p>
+    <p>So:</p>
+<p class="center">−y<sub>1</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx
+      = (−e<sup>x</sup>)[<span class="intbl"><em>e<sup>−x</sup></em>2</span>(
+      2x<sup>2</sup> + 3x )] =&nbsp;−<span class="intbl"><em>1</em>2</span>(2x<sup>2</sup> + 3x)</p>
+    <p><b>And this one:</b></p>
+    <p class="center large"><span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p><br>
+= <span class="integral">∫</span><span class="intbl"><em>e<sup>x </sup>(2x<sup>2</sup>−x−3)</em><strong>−2</strong></span>dx
+
+<p>= −<span class="intbl"><em>1</em>2</span> <span class="integral">∫</span>(2x<sup>2</sup>−x−3)<span class="integral"></span>e<sup>x</sup>dx</p>
+    <p>= −<span class="intbl"><em>1</em>2</span>[ (2x<sup>2</sup>−x−3)e<sup>x</sup> − <span class="integral">∫</span>(4x−1)<span class="integral"></span>e<sup>x </sup>dx ]</p>
+    <p>= −<span class="intbl"><em>1</em>2</span>[ (2x<sup>2</sup>−x−3)e<sup>x</sup> − (4x − 1)e<sup>x</sup> + <span class="integral">∫</span>4e<sup>x</sup>dx
+      ]</p>
+    <p>= −<span class="intbl"><em>1</em>2</span>[ (2x<sup>2</sup>−x−3)e<sup>x</sup> − (4x − 1)e<sup>x</sup> + 4e<sup>x</sup> ]</p>
+    <p>= <span class="intbl"><em>−e<sup>x</sup></em>2</span>[ 2x<sup>2</sup> − x − 3 − 4x + 1 + 4 ]</p>
+    <p>= <span class="intbl"><em>−e<sup>x</sup></em>2</span>[ 2x<sup>2</sup> − 5x + 2 ]<br>
+&nbsp;</p>
+    <p>So:</p>
+    <p class="center">y<sub>2</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx
+      = (e<sup>−x</sup>)[<span class="intbl"></span><span class="intbl"><em>−e<sup>x</sup></em>2</span>(
+      2x<sup>2</sup> − 5x + 2 ) ] = −<span class="intbl"><em>1</em>2</span>(
+      2x<sup>2</sup> − 5x + 2 )<sup>&nbsp;</sup></p>
+    <p><b>Finally:</b></p>
+    <p>y<sub>p</sub>(x) = −y<sub>1</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx
+      + y<sub>2</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p>
+    <p>= −<span class="intbl"><em>1</em>2</span>( 2x<sup>2</sup> + 3x ) − <span class="intbl"><em>1</em>2</span>( 2x<sup>2</sup> − 5x + 2 )&nbsp;</p>
+    <p>= −<span class="intbl"><em>1</em>2</span>( 4x<sup>2</sup> − 2x + 2 )</p>
+    <p>= −2x<sup>2</sup> + x − 1</p>
+    <p>and the complete solution of the differential equation <span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − y = 2x<sup>2</sup> − x − 3 is</p>
+    <p class="center"><strong>y = Ae<sup>x</sup> + Be<sup>−x</sup> − 2x<sup>2</sup> + x − 1 </strong></p>
+    <p>(This is the same answer that we got in Example 1 on the page Method of undetermined coefficients.)</p>
+  </div>
+  <div class="example">
+
+<h3>Example 3:&nbsp; Solve <span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 6<span class="intbl"><em>dy</em><strong>dx</strong></span> + 9y =<span class="intbl"><em>1</em><strong>x</strong></span></h3><br>
+<b>1. Find the general solution of</b> <span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 6<span class="intbl"><em>dy</em><strong>dx</strong></span> + 9y = 0
+    <p>The characteristic equation is: r<sup>2</sup> − 6r + 9 = 0</p>
+    <p>Factor: (r − 3)(r − 3) = 0</p>
+    <p class="so">r = 3</p>
+    <p>So the general solution of the differential equation is y = Ae<sup>3x</sup> + Bxe<sup>3x</sup></p>
+    <p>And so in this case the fundamental solutions and their derivatives are:</p>
+    <p class="so">y<sub>1</sub>(x) = e<sup>3x</sup></p>
+    <p class="so">y<sub>1</sub>'(x) = 3e<sup>3x</sup></p>
+    <p class="so">y<sub>2</sub>(x) = xe<sup>3x</sup></p>
+    <p class="so">y<sub>2</sub>'(x) = (3x + 1)e<sup>3x</sup></p>
+    <p><b>2. Find the Wronskian:</b></p>
+    <p class="center">W(y<sub>1</sub>, y<sub>2</sub>) = y<sub>1</sub>y<sub>2</sub>'
+      − y<sub>2</sub>y<sub>1</sub>' = (3x + 1)e<sup>3x</sup>e<sup>3x</sup> −
+      3xe<sup>3x</sup>e<sup>3x</sup> = e<sup>6x</sup></p>
+    <p><b>3. Find the particular solution using the formula:</b></p>
+    <div style="text-align: center;"> y<sub>p</sub>(x) = −y<sub>1</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx
+      + y<sub>2</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx </div>
+    <div style="text-align: left;"><br>
+</div>
+    <div style="text-align: left;"><b>4. Solve the integrals:</b></div>
+    <p class="center large"><span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p><br>
+= <span class="integral">∫</span><span class="intbl"><em>(xe<sup>3x</sup>)x<sup>−1</sup> </em><strong>e<sup>6x</sup></strong></span>dx&nbsp;&nbsp; (Note: <span class="intbl"><em>1</em><strong>x</strong></span> = x<sup>−1</sup>)
+
+<p>= <span class="integral">∫</span>e<sup>−3x</sup>dx</p>
+    <p>= −<span class="intbl"><em>1</em>3</span>e<sup>−3x</sup></p>
+    <p>So:</p>
+<p class="center">−y<sub>1</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx
+      = −(e<sup>3x</sup>)(−<span class="intbl"><em>1</em>3</span>e<sup>−3x</sup>)
+      = <span class="intbl"><em>1</em>3</span></p>
+    <p><b>And this one:</b></p>
+    <p class="center large"><span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p><br>
+= <span class="integral">∫</span><span class="intbl"><em>e<sup>3x</sup>x<sup>−1</sup></em><strong>e<sup>6x</sup></strong></span>dx
+
+<p>= <span class="integral">∫</span>e<sup>−3x</sup>x<sup>−1</sup>dx</p>
+    <p>This cannot be integrated, so this is an example where the answer has
+      to be left as an integral.</p>
+    <p>So:</p>
+    <p>y<sub>2</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx
+      = ( xe<sup>3x </sup>)( <span class="integral">∫</span>e<sup>−3x</sup>x<sup>−1</sup>dx
+      ) = xe<sup>3x</sup><span class="integral">∫</span>e<sup>−3x</sup>x<sup>−1</sup>dx</p>
+    <p><b>Finally:</b></p>
+    <p>y<sub>p</sub>(x) = −y<sub>1</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx
+      + y<sub>2</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p>
+    <p>= <span class="intbl"><em>1</em>3</span> + xe<sup>3x</sup><span class="integral">∫</span>e<sup>−3x</sup>x<sup>−1</sup>dx</p>
+    <p>So the complete solution of the differential equation <span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 6<span class="intbl"><em>dy</em><strong>dx</strong></span> + 9y = <span class="intbl"><em>1</em>x</span> is</p>
+    <p class="center"><strong>y = Ae<sup>3x</sup> + Bxe<sup>3x</sup> + <span class="intbl"><em>1</em>3</span> + xe<sup>3x</sup><span class="integral">∫</span>e<sup>−3x</sup>x<sup>−1</sup>dx<span class="intbl"></span></strong></p>
+  </div>
+  <div class="example">
+
+<h3>Example 4 (Harder example):&nbsp; Solve <span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 6<span class="intbl"><em>dy</em><strong>dx</strong></span> + 13y =
+      195cos(4x)<span class="intbl"><strong></strong></span></h3><br>
+<div class="fun">
+      <p><strong>This example uses the following <a href="../algebra/trigonometric-identities.html">trigonometric
+        identities</a></strong></p>
+      <p class="center">sin<sup>2</sup>(θ) + cos<sup>2</sup>(θ) = 1</p>
+      <p class="center">sin⁡(θ ± φ) = sin(θ)cos(φ) ± cos(θ)sin(φ)</p>
+      <p class="center">cos⁡(θ ± φ) = cos(θ)cos(φ) <img src="../images/symbols/minus-plus.svg" alt="minus/plus" height="19" width="13"> sin(θ)sin(φ)</p>
+      <p class="center">sin(θ)cos(φ) = <span class="intbl"><em>1</em><strong>2</strong></span>[sin⁡(θ
+        + φ) + sin⁡(θ − φ)]<br>
+cos(θ)cos(φ) = <span class="intbl"><em>1</em><strong>2</strong></span>[cos⁡(θ
+        − φ) + cos⁡(θ + φ)]</p>
+    </div><br>
+<b>1. Find the general solution of</b> <span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 6<span class="intbl"><em>dy</em><strong>dx</strong></span> + 13y = 0
+    <p>The characteristic equation is: r<sup>2</sup> − 6r + 13 = 0</p>
+    <p>Use the <a href="../algebra/quadratic-equation.html">quadratic equation
+      formula</a></p>
+    <p class="center">x = <span class="intbl"> <em>−b ± √(b<sup>2 </sup>−
+      4ac)</em><strong>2a</strong> </span></p>
+    <p>with a = 1, b = −6 and c = 13</p>
+    <p>So:</p>
+    <p>r = <span class="intbl"><em>−(−6) ± √[(−6)<sup>2 </sup>− 4(1)(13)]</em> <strong>2(1)</strong></span></p>
+    <p>= <span class="intbl"><em>6 ± √[36−52]</em> <strong>2</strong></span></p>
+    <p>= <span class="intbl"><em>6 ± √[−16]</em> <strong>2</strong></span></p>
+    <p>= <span class="intbl"><em>6 ± 4i</em> <strong>2</strong></span></p>
+    <p>= 3 ± 2i</p>
+    <p>So α = 3 and β = 2</p>
+    <p><span style="font-size:140%;">⇒</span> y = e<sup>3x</sup>[Acos(2x) +
+      iBsin(2x)]</p>
+    <p>So in this case we have:</p>
+    <p class="so">y<sub>1</sub>(x) = e<sup>3x</sup>cos(2x)</p>
+    <p class="so">y<sub>1</sub>'(x) = e<sup>3x</sup>[3cos(2x) − 2sin(2x)]</p>
+    <p class="so">y<sub>2</sub>(x) = e<sup>3x</sup>sin(2x)</p>
+    <p class="so">y<sub>2</sub>'(x) = e<sup>3x</sup>[3sin(2x) + 2cos(2x)]</p>
+    <p><b>2. Find the Wronskian:</b></p>
+    <p>W(y<sub>1</sub>, y<sub>2</sub>) = y<sub>1</sub>y<sub>2</sub>' − y<sub>2</sub>y<sub>1</sub>'</p>
+    <p>= e<sup>6x</sup>cos(2x)[3sin(2x) + 2cos(2x)] − e<sup>6x</sup>sin(2x)[3cos(2x)
+      − 2sin(2x)]</p>
+    <p>= e<sup>6x</sup>[3cos(2x)sin(2x) +2cos<sup>2</sup>(2x) − 3sin(2x)cos(2x) + 2sin<sup>2</sup>(2x)]</p>
+    <p>=2e<sup>6x</sup></p>
+    <p><br>
+<b>3. Find the particular solution using the formula:</b></p>
+    <p class="center">y<sub>p</sub>(x) = −y<sub>1</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx
+      + y<sub>2</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p>
+    <div style="text-align: left;"><br>
+</div>
+    <div style="text-align: left;"><b>4. Solve the integrals:</b></div>
+    <p class="center large"><span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p><br>
+= <span class="integral">∫</span><span class="intbl"><em>e<sup>3x</sup>sin⁡(2x)[195cos⁡(4x)] </em><strong>2e<sup>6x</sup></strong></span>dx&nbsp;
+
+<p>= <span class="intbl"><em>195</em><strong>2</strong></span><span class="integral">∫</span>e<sup>−3x</sup>sin(2x)cos(4x)dx</p>
+    <p>= <span class="intbl"><em>195</em><strong>4</strong></span><span class="integral">∫</span>e<sup>−3x</sup>[sin(6x)
+      − sin(2x)]dx &nbsp;&nbsp; ...&nbsp; (1)</p>
+    <p>In this case, we won’t do the integration yet, for reasons that will
+    become clear in a moment.</p>
+<p>The other integral is:</p>
+<p class="center large"><span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p>
+    <p>= <span class="integral">∫</span><span class="intbl"><em>e<sup>3x</sup>cos(2x)[195cos(4x)]</em><strong>2e<sup>6x</sup></strong></span>dx</p>
+    <p>= <span class="intbl"><em>195</em><strong>2</strong></span><span class="integral">∫</span>e<sup>−3x</sup>cos(2x)cos(4x)dx</p>
+    <p>= <span class="intbl"><em>195</em><strong>4</strong></span><span class="integral">∫</span>e<sup>−3x</sup>[cos(6x)
+      + cos(2x)]dx &nbsp;&nbsp; ...&nbsp; (2)</p>
+    <p><br>
+&nbsp;&nbsp;<br>
+From equations (1) and (2) we see that there are four very similar
+      integrations that we need to perform:</p>
+    <p><em>I</em><sub>1</sub> = <span class="integral">∫</span>e<sup>−3x</sup>sin(6x)dx<br>
+<em>I</em><sub>2</sub> = <span class="integral">∫</span>e<sup>−3x</sup>sin(2x)dx<br>
+<em>I</em><sub>3</sub> = <span class="integral">∫</span>e<sup>−3x</sup>cos(6x)dx<br>
+<em>I</em><sub>4</sub> = <span class="integral">∫</span>e<sup>−3x</sup>cos(2x)dx</p>
+    <p>Each of these could be obtained by using Integration by Parts twice,
+      but there’s an easier method:</p>
+    <p><em>I</em><sub>1</sub> = <span class="integral">∫</span>e<sup>−3x</sup>sin(6x)dx
+      = −<span class="intbl"><em>1</em><strong>6</strong></span>e<sup>−3x</sup>cos(6x)
+      − <span class="intbl"><em>3</em><strong>6</strong></span><span class="integral"></span><span class="integral"></span><span class="integral">∫</span>e<sup>−3x</sup>cos(6x)dx
+      = − <span class="intbl"><em>1</em><strong>6</strong></span>e<sup>−3x</sup>cos(6x)
+      − <span class="intbl"><em>1</em>2</span><em>I</em><sub>3</sub></p>
+    <p><span style="font-size:140%;">⇒ </span><strong>2<em>I</em><sub>1 </sub>+ <em>I</em><sub>3</sub> = − <span class="intbl"><em>1</em>3</span>e<sup>−3x</sup>cos(6x)
+      &nbsp;&nbsp; ...&nbsp; (3)</strong></p>
+    <p><em>I</em><sub>2</sub> = <span class="integral">∫</span>e<sup>−3x</sup>sin(2x)dx
+      = −<span class="intbl"><em>1</em><strong>2</strong></span>e<sup>−3x</sup>cos(2x)
+      − <span class="intbl"><em>3</em>2</span><span class="integral"></span><span class="integral"></span><span class="integral">∫</span>e<sup>−3x</sup>cos(2x)dx
+      = − <span class="intbl"><em>1</em>2</span>e<sup>−3x</sup>cos(2x) − <span class="intbl"><em>3</em>2</span><em>I</em><sub>4</sub></p>
+    <p><span style="font-size:140%;">⇒ </span><strong>2<em>I</em><sub>2 </sub>+
+      3<em>I</em><sub>4</sub> = − e<sup>−3x</sup>cos(2x) &nbsp;&nbsp;
+      ...&nbsp; (4)</strong></p>
+    <p><em>I</em><sub>3</sub> = <span class="integral">∫</span>e<sup>−3x</sup>cos(6x)dx
+      = <span class="intbl"><em>1</em><strong>6</strong></span>e<sup>−3x</sup>sin(6x)
+      + <span class="intbl"><em>3</em><strong>6</strong></span><span class="integral"></span><span class="integral"></span><span class="integral">∫</span>e<sup>−3x</sup>sin(6x)dx
+      = <span class="intbl"><em>1</em><strong>6</strong></span>e<sup>−3x</sup>sin(6x)
+      + <span class="intbl"><em>1</em>2</span><em>I</em><sub>1</sub><br>
+<span style="font-size:140%;">⇒ </span><strong>2<em>I</em><sub>3 </sub>− <em>I</em><sub>1</sub> = <span class="intbl"><em>1</em>3</span>e<sup>−3x</sup>sin(6x)
+      &nbsp;&nbsp; ...&nbsp; (5)</strong><br>
+<em>I</em><sub>4</sub> = <span class="integral">∫</span>e<sup>−3x</sup>cos(2x)dx
+      = <span class="intbl"><em>1</em><strong>2</strong></span>e<sup>−3x</sup>sin(2x)
+      + <span class="intbl"><em>3</em>2</span><span class="integral"></span><span class="integral"></span><span class="integral">∫</span>e<sup>−3x</sup>sin(2x)dx
+      = <span class="intbl"><em>1</em>2</span>e<sup>−3x</sup>sin(2x) + <span class="intbl"><em>3</em>2</span><em>I</em><sub>2</sub></p>
+    <p><span style="font-size:140%;">⇒ </span><strong>2<em>I</em><sub>4 </sub>−
+      3<em>I</em><sub>2</sub> = e<sup>−3x</sup>sin(2x) &nbsp;&nbsp;
+      ...&nbsp; (6)</strong></p>
+    <p>Solve equations (3) and (5) simultaneously:</p>
+    <p><span style="font-size:140%;"></span>2<em>I</em><sub>1 </sub>+ <em>I</em><sub>3</sub> = − <span class="intbl"><em>1</em>3</span>e<sup>−3x</sup>cos(6x)
+      &nbsp;&nbsp; ...&nbsp; (3)</p>
+    <p>2<em>I</em><sub>3 </sub>− <em>I</em><sub>1</sub> = <span class="intbl"><em>1</em>3</span>e<sup>−3x</sup>sin(6x)
+      &nbsp;&nbsp; ...&nbsp; (5)</p>
+    <p>Multiply equation (5) by 2 and add them together (term <em>I</em><sub>1</sub> will neutralize):</p>
+    <p><span style="font-size:140%;">⇒ </span>5<em>I</em><sub>3&nbsp; </sub>=
+      − <span class="intbl"><em>1</em>3</span>e<sup>−3x</sup>cos(6x) + <span class="intbl"><em>2</em>3</span>e<sup>−3x</sup>sin(6x)</p>
+    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; = <span class="intbl"><em>1</em>3</span>e<sup>−3x</sup>[2sin(6x)
+      − cos(6x)]</p>
+    <p><span style="font-size:140%;">⇒ </span><strong><em>I</em><sub>3&nbsp; </sub>= <span class="intbl"><em>1</em>15</span>e<sup>−3x</sup>[2sin(6x)
+      − cos(6x)]</strong></p>
+    <p>Multiply equation (3) by 2 and subtract (term <em>I</em><sub>3</sub> will neutralize):</p>
+    <p><span style="font-size:140%;">⇒ </span>5<em>I</em><sub>1&nbsp; </sub>=
+      − <span class="intbl"><em>2</em>3</span>e<sup>−3x</sup>cos(6x) − <span class="intbl"><em>1</em>3</span>e<sup>−3x</sup>sin(6x)</p>
+    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; = − <span class="intbl"><em>1</em>3</span>e<sup>−3x</sup>[2cos(6x)
+      + sin(6x)]</p>
+    <p><span style="font-size:140%;">⇒ </span><strong><em>I</em><sub>1&nbsp; </sub>= − <span class="intbl"><em>1</em>15</span>e<sup>−3x</sup>[2cos(6x)
+      + sin(6x)]</strong></p>
+    <p>Solve equations (4) and (6) simultaneously:</p>
+    <p><span style="font-size:140%;"></span>2<em>I</em><sub>2 </sub>+ 3<em>I</em><sub>4</sub> = − e<sup>−3x</sup>cos(2x) &nbsp;&nbsp; ...&nbsp; (4)</p>
+    <p><span style="font-size:140%;"></span>2<em>I</em><sub>4 </sub>− 3<em>I</em><sub>2</sub> = e<sup>−3x</sup>sin(2x) &nbsp;&nbsp; ...&nbsp; (6)</p>
+    <p>Multiply equation (4) by 3 and equation (6) by 2 and add (term <em>I</em><sub>2</sub> will neutralize):</p>
+    <p><span style="font-size:140%;">⇒ </span>13<em>I</em><sub>4&nbsp; </sub>=
+      − 3e<sup>−3x</sup>cos(2x) + 2e<sup>−3x</sup>sin(2x)</p>
+    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; =<span class="intbl"></span>e<sup>−3x</sup>[2sin(2x)
+      − 3 cos(2x)]</p>
+    <p><span style="font-size:140%;">⇒ </span><strong><em>I</em><sub>4&nbsp; </sub>= <span class="intbl"><em>1</em>13</span>e<sup>−3x</sup>[2sin(2x)
+      − 3cos(2x)]</strong></p>
+    <p>Multiply equation (4) by 2 and equation (6) by 3 and subtract (term <em>I</em><sub>4</sub> will neutralize):</p>
+    <p><span style="font-size:140%;">⇒ </span>13<em>I</em><sub>2&nbsp; </sub>=
+      − 2e<sup>−3x</sup>cos(2x) − 3e<sup>−3x</sup>sin(2x)</p>
+    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; =<span class="intbl"></span>−
+      e<sup>−3x</sup>[2cos(2x) + 3 sin(2x)]</p>
+    <p><span style="font-size:140%;">⇒ </span><strong><em>I</em><sub>2&nbsp; </sub>= − <span class="intbl"><em>1</em>13</span>e<sup>−3x</sup>[2cos(2x)
+      + 3sin(2x)]</strong></p>
+    <p>Substitute into (1) and (2):</p>
+    <p><span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p>
+    <p>= <span class="intbl"><em>195</em>4</span><span class="integral">∫</span>e<sup>−3x</sup>[sin(6x)
+      − sin(2x)]dx &nbsp; ... (1) &nbsp;</p>
+    <p>= <span class="intbl"><em>195</em>4</span>[<strong>−</strong> <span class="intbl"><em>1</em>15</span>e<sup>−3x</sup>[2cos(6x) + sin(6x)]
+      − [−<span class="intbl"><em>1</em>13</span>e<sup>−3x</sup>[2cos(2x) +
+      3sin(2x)]]]</p>
+    <p>= <span class="intbl"><em>e<sup>−3x</sup></em>4</span>[−13(2cos(6x)+sin(6x))+15(2
+      cos⁡(2x)+3sin(2x))] <strong></strong><strong></strong></p>
+    <p><span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p>
+    <p>= <span class="intbl"><em>195</em><strong>4</strong></span><span class="integral">∫</span>e<sup>−3x</sup>[cos(6x)
+      + cos(2x)]dx &nbsp;&nbsp; ...&nbsp; (2)</p>
+    <p>= <span class="intbl"><em>195</em>4</span>[<strong></strong><span class="intbl"><em>1</em>15</span>e<sup>−3x</sup>[2sin(6x)
+      − cos(6x)] + <span class="intbl"><em>1</em>13</span>e<sup>−3x</sup>[2sin(2x)
+      − 3cos(2x)]]</p>
+    <p>= <span class="intbl"><em>e<sup>−3x</sup></em>4</span>[13(2sin(6x) −
+      cos(6x)) + 15(2sin⁡(2x) − 3cos(2x))]</p>
+    <p>So y<sub>p</sub>(x) = −y<sub>1</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>2</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx
+      + y<sub>2</sub>(x)<span class="integral">∫</span><span class="intbl"><em>y<sub>1</sub>(x)f(x)</em><strong>W(y<sub>1</sub>, y<sub>2</sub>)</strong></span>dx</p>
+    <p>= − e<sup>3x</sup>cos(2x)<span class="intbl"><em>e<sup>−3x</sup></em>4</span>[−13(2cos(6x)+sin(6x))
+      + 15(2 cos⁡(2x)+3sin(2x))] + e<sup>3x</sup>sin(2x)<span class="intbl"><em>e<sup>−3x</sup></em>4</span>[13(2sin(6x)
+      − cos(6x)) + 15(2sin⁡(2x) − 3cos(2x))]</p>
+    <p>= − <span class="intbl"><em>1</em>4</span>cos(2x) [−13(2cos(6x) −
+      sin(6x)) + 15(2 cos⁡(2x) + 3sin(2x))] +<span class="intbl"><em>1</em>4</span> sin⁡(2x)[13(2sin(6x) − cos(6x)) + 15(2 sin⁡(2x) −
+      3cos(2x))]&nbsp;&nbsp;</p>
+    <p>= <span class="intbl"><em>1</em>4</span>[26cos(2x)cos(6x) +
+      13cos(2x)sin(6x) − 30cos<sup>2</sup>(2x) − 45cos(2x)sin(2x) +
+      26sin(2x)sin(6x) − 13sin(2x)cos(6x) + 30sin<sup>2</sup>(2x) −
+      45sin(2x)cos(2x)]</p>
+    <p>= <span class="intbl"><em>1</em>4</span>[26[cos(2x)cos(6x) +
+      sin(2x)sin(6x)] + 13[cos(2x)sin(6x) − sin(2x)cos(6x)] − 30[cos<sup>2</sup>(2x)
+      − sin<sup>2</sup>(2x)] − 45[cos(2x)sin(2x) + sin(2x)cos(2x)]]</p>
+    <p>= <span class="intbl"><em>1</em>4</span>[26cos(4x) + 13sin(4x) −
+      30cos(4x) − 45sin(4x)]</p>
+    <p>= <span class="intbl"><em>1</em>4</span>[−4cos(4x) − 32sin(4x)]</p>
+    <p>= −cos⁡(4x) − 8 sin⁡(4x)</p>
+    <p>So the complete solution of the differential equation <span class="intbl"><em>d<sup>2</sup>y</em><strong>dx<sup>2</sup></strong></span> − 6<span class="intbl"><em>dy</em><strong>dx</strong></span> + 13y =
+      195cos(4x) is</p>
+    <p class="center"><strong> y = e<sup>3x</sup>(Acos(2x) + iBsin(2x)) −
+      cos(4x) − 8sin(4x)<br>
+<span class="intbl"></span></strong></p>
+  </div>
+<p>&nbsp;</p>
+  <div class="questions">9529, 9530, 9531, 9532, 9533, 9534, 9535, 9536, 9537, 9538</div>
+
+<div class="related">  
+  <a href="differential-equations-solution-guide.html">Differential Equations Solution Guide</a>  
+  <a href="index.html">Calculus Index</a>
+</div>
+  <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2021 MathsIsFun.com</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/calculus/differential-equations-variation-parameters.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:30 GMT -->
+</html>

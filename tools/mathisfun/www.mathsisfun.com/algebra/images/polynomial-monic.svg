@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="188.685"
+   height="121.574"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="polynomial-monic.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview28"
+     showgrid="false"
+     inkscape:current-layer="svg26" />
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path869"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#19aeff;fill-opacity:1;fill-rule:evenodd;stroke:#19aeff;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <rect
+     id="rect4"
+     style="color:#000000;overflow:visible;opacity:0.33;fill:#f0f0c0;stroke-width:2.446048"
+     height="50.5"
+     width="188.685"
+     ry="12"
+     rx="8.71147"
+     y="26.9461"
+     x="0" />
+  <text
+     id="text6"
+     style="color:#000000;font-size:24px;font-family:'Comic Sans MS';overflow:visible;fill:#5c3566;stroke-width:1px"
+     y="58.4085"
+     x="66.0517">+ 4x</text>
+  <text
+     id="text8"
+     style="color:#000000;font-size:16.799999px;font-family:'Comic Sans MS';overflow:visible;fill:#5c3566;stroke-width:1px"
+     y="49.5909"
+     x="43.7835">3</text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path12"
+     d="M 83.6168,70.066 H 111.317"
+     style="fill:#c4a000;fill-opacity:0.75;stroke:#c4a000;stroke-width:1.2" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path14"
+     d="m 135.417,70.066 h 25.1"
+     style="fill:#c4a000;fill-opacity:0.75;stroke:#c4a000;stroke-width:1.2" />
+  <text
+     id="text16"
+     style="font-size:21.6px;font-family:'Comic Sans MS';overflow:visible;fill:#c4a000;stroke:none;stroke-width:0.6px"
+     y="120.266"
+     x="73.8168">terms</text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path18"
+     d="M 38.662,70.5185 91.2168,102.066"
+     style="fill:#c4a000;fill-opacity:0.75;stroke:#c4a000;stroke-width:1.2"
+     sodipodi:nodetypes="cc" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path20"
+     d="m 100.517,70.066 0.7,31.5"
+     style="fill:#c4a000;fill-opacity:0.75;stroke:#c4a000;stroke-width:1.2" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path22"
+     d="m 147.217,70.366 -32.4,30.3"
+     style="fill:#c4a000;fill-opacity:0.75;stroke:#c4a000;stroke-width:1.2" />
+  <text
+     x="126.899"
+     y="58.1858"
+     style="color:#000000;font-size:24px;font-family:'Comic Sans MS';overflow:visible;fill:#5c3566;stroke-width:1px"
+     id="text854">- 5</text>
+  <path
+     style="fill:#c4a000;fill-opacity:0.75;stroke:#c4a000;stroke-width:1.2"
+     d="m 23.6168,70.066 h 27.7"
+     id="path858"
+     inkscape:connector-curvature="0" />
+  <rect
+     x="9.11801"
+     y="39.8166"
+     width="21.3682"
+     height="22.7789"
+     style="color:#000000;overflow:visible;opacity:0.33;fill:#d76cff;stroke-width:0.552844"
+     id="rect860"
+     ry="5.94023" />
+  <text
+     id="text856"
+     style="color:#000000;font-size:24px;font-family:'Comic Sans MS';overflow:visible;fill:#5c3566;stroke-width:1px"
+     y="58.4085"
+     x="27.6394">x</text>
+  <text
+     x="4.26662"
+     y="14.3323"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.666668px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;overflow:visible;fill:#19aeff;stroke:none;stroke-width:0.6px"
+     id="text862">coefficient of 1</text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#19aeff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+     d="M 46.5318,16.1872 23.7609,37.473"
+     id="path864"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+</svg>

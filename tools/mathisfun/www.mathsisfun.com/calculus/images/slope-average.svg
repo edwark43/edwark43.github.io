@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="163.4" height="180.5" version="1.1">
+<defs>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<g transform="translate(-1679.16,-2070.96)">
+<rect x="1679.2" y="2071" width="163.4" height="180.5" style="color:black; overflow:visible; fill:white; stroke-width:0.68;"/>
+<path style="color:black; overflow:visible; fill:none; stroke:#c4a000; stroke-width:1.38;" d="m 1652.2,2178 c 0,0 70.7,-22.8 83.3,-58.6 21.8,-62 24.7,-93.8 24.7,-93.8"/>
+<path style="fill:#fce94f; fill-opacity:0.75; stroke:black; stroke-width:0.9; stroke-dasharray:3.6, 0.9;" d="m 1696.8,2172.9 101.9,-168.2"/>
+<path style="color:black; overflow:visible; fill:#0000ff; stroke-width:1.13;" d="m 1713.4,2148.3 a 2.6,2.6 0 0 1 -2.6,2.6 2.6,2.6 0 0 1 -2.7,-2.6 2.6,2.6 0 0 1 2.6,-2.7 2.6,2.6 0 0 1 2.7,2.6"/>
+<path style="color:black; overflow:visible; fill:#0000ff; stroke-width:1.13;" d="m 1746.1,2095.5 a 2.6,2.6 0 0 1 -2.6,2.6 2.6,2.6 0 0 1 -2.7,-2.6 2.6,2.6 0 0 1 2.6,-2.7 2.6,2.6 0 0 1 2.7,2.6"/>
+<text x="1767.5" y="2128.1" style="font-family:'Comic Sans MS'; font-size:16.2px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">24</text>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:1.85;" d="m 1776.8,2113.4 v -15.5"/>
+<text x="1717.6" y="2186.6" style="font-family:'Comic Sans MS'; font-size:16.2px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">15</text>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:1.85;" d="m 1774.5,2182 h -27.4"/>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:1.85;" d="m 1680.9,2182 h 27.4"/>
+<path style="fill:#729fcf; fill-opacity:0.75; stroke:black; stroke-width:0.68;" d="m 1710.8,2159 v 41"/>
+<path style="fill:#729fcf; fill-opacity:0.75; stroke:black; stroke-width:0.68;" d="m 1743.7,2135.6 v 62.9"/>
+<path style="fill:black; stroke:black; stroke-width:0.68;" d="m 1750.2,2094.7 h 34.2"/>
+<path style="fill:black; stroke:black; stroke-width:0.68;" d="m 1717.9,2149.5 h 67.4"/>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:1.85;" d="m 1776.8,2130.8 v 15.5"/>
+<text x="1685.5" y="2230.6" style="font-family:'Comic Sans MS'; font-size:16.2px; color:black; overflow:visible; fill:#005c94; stroke-width:0.5px;">average slope = &#160; &#160; </text>
+<path style="fill:#005c94; stroke:#005c94; stroke-width:1.11;" d="m 1809.3,2225.8 c 0.9,0 22.3,0 22.3,0"/>
+<text x="1810.2" y="2221.7" style="font-family:'Comic Sans MS'; font-size:16.2px; color:black; overflow:visible; fill:#005c94; stroke-width:0.5px;">24</text>
+<text x="1811.6" y="2242" style="font-family:'Comic Sans MS'; font-size:16.2px; color:black; overflow:visible; fill:#005c94; stroke-width:0.5px;">15</text>
+</g>
+</svg>

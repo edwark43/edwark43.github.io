@@ -1,0 +1,39 @@
+clr 0x000000
+thk 3
+alp 100
+clr 0x0000F0
+char 15 30 (
+char 25 31 2
+char 45 30 x
+char 60 32 y
+char 82 29 )
+clr 0xF0A07A
+char 99 29 (
+char 105 29 4
+char 124 32 y
+char 145 29 )
+clr 0x000000
+char 166 29 =
+start
+
+clr 0x0000F0
+char 196 31 2
+clr 0x000000
+char 218 22 .
+clr 0xF0A07A
+char 225 29 4
+clr 0x000000
+char 251 23 .
+clr 0x0000F0
+char 261 31 x
+char 275 33 y
+clr 0x000000
+char 303 25 .
+clr 0xF0A07A
+char 309 33 y
+clr 0x000000
+char 346 30 =
+char 380 31 8
+char 400 31 x
+char 417 34 y
+line 439 9 441 8~to 445 9~to 445 11~to 445 14~to 442 15~to 439 17~to 437 18~to 440 18~to 443 17~to 445 19~to 448 20

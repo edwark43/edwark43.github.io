@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="193.4" height="173.6" version="1.1">
+<defs/>
+<rect x="0.6" y="0" width="96.4" height="90.1" style="fill:#d3e5f9;"/>
+<rect x="97" y="0" width="96.4" height="90.1" style="fill:#ffe6cd;"/>
+<rect x="0.2" y="90.1" width="192.8" height="83.5" style="fill:#fdcfcf;"/>
+<path style="fill:none; stroke:#3465a4; stroke-width:2.46px;" d="m 96.6,24.7 v 65.5 h 50.1"/>
+<path style="fill:none; stroke:#f57900; stroke-width:2.46px;" d="M 117.4,60.1 97.3,90.2 H 143"/>
+<path style="fill:none; stroke:#ef2929; stroke-width:2.46px;" d="M 76.6,115.9 96.8,90.1 h 44.7"/>
+<g>
+<text x="120.7" y="55.2" style="font-family:Arial; font-size:16.9px; fill:#f57900;">acute</text>
+</g>
+<g>
+<text x="75.9" y="17.3" style="font-family:Arial; font-size:18.3px; fill:#3465a4;">right</text>
+</g>
+<g>
+<text x="22.5" y="55.7" style="font-family:Arial; font-size:18.3px; fill:#204a87;">obtuse</text>
+</g>
+<g>
+<text x="68.7" y="129.4" style="font-family:Arial; font-size:18.3px; fill:#ef2929;">reﬂex</text>
+</g>
+<path style="fill:none; stroke:#204a87; stroke-width:2.46px;" d="m 60.3,61 35.6,29.1 h 44.4"/>
+<path style="stroke:black; stroke-width:2.24px;" d="M 0,90 H 192.2"/>
+<g>
+<text x="170.3" y="87" style="font-family:Arial; font-size:12.1px; fill:#2e3436;">0°</text>
+</g>
+<g>
+<text x="7" y="86.7" style="font-family:Arial; font-size:12.1px; fill:#2e3436;">180°</text>
+</g>
+<g>
+<text x="99.4" y="29.9" style="font-family:Arial; font-size:12.1px; fill:#2e3436;">90°</text>
+</g>
+<path style="fill:#ffd2a5; stroke:#f57900; stroke-width:1.64px;" d="m 111.3,70 c 6.3,4.8 9.9,12.2 9.9,20.1 L 96.3,89.8 Z"/>
+<path style="fill:#b6ccee; stroke:#204a87; stroke-width:1.64px;" d="m 81.4,78.1 c 5,-6.4 13.6,-8.9 21.2,-6.2 7.7,2.7 12.8,9.9 12.8,18 H 96.3 l -15,-11.8 z"/>
+<path style="fill:#fab4b4; stroke:#ef2929; stroke-width:1.64px;" d="M 88.5,100.2 C 83.7,96.5 82.1,90 84.7,84.6 87.2,79.2 93.3,76.2 99.1,77.5 105,78.8 109.2,84 109.2,90 H 96.4 l -7.8,10.2 z"/>
+</svg>

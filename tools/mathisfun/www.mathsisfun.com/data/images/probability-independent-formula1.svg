@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="383.3" height="122.7" version="1.0">
+<defs>
+<marker style="overflow:visible;" orient="auto" id="id01">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;"/>
+</marker>
+</defs>
+<text x="258.5" y="68.1" style="font-family:Arial; font-size:24px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">×</text>
+<text x="338.3" y="68.1" style="font-family:Arial; font-size:24px; color:black; overflow:visible; fill:#ff4141; stroke-width:0.5px;">|</text>
+<text x="19.6" y="68.1" style="font-family:Arial; font-size:24px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">P(</text>
+<text x="48.5" y="69.1" style="font-family:Arial; font-size:24px; color:black; overflow:visible; fill:#0084c8; stroke-width:0.5px;">A</text>
+<text x="72.9" y="68.1" style="font-family:Arial; font-size:24px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">and</text>
+<text x="123.2" y="69.1" style="font-family:Arial; font-size:24px; color:black; overflow:visible; fill:#ff9900; stroke-width:0.5px;">B</text>
+<text x="161.5" y="69.1" style="font-family:Arial; font-size:24px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">=</text>
+<text x="185.2" y="68.1" style="font-family:Arial; font-size:24px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">P(</text>
+<text x="215.5" y="69.1" style="font-family:Arial; font-size:24px; color:black; overflow:visible; fill:#0084c8; stroke-width:0.5px;">A</text>
+<text x="315.2" y="69.1" style="font-family:Arial; font-size:24px; color:black; overflow:visible; fill:#ff9900; stroke-width:0.5px;">B</text>
+<text x="285.6" y="68.1" style="font-family:Arial; font-size:24px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">P(</text>
+<text x="353.4" y="69.1" style="font-family:Arial; font-size:24px; color:black; overflow:visible; fill:#0084c8; stroke-width:0.5px;">A</text>
+<text x="284.8" y="17.3" style="font-family:Georgia; font-size:20px; font-style:italic; color:black; overflow:visible; fill:#ff4141; stroke-width:0.5px;">&quot;Given&quot;</text>
+<path d="m 325.1,22.2 12.8,21.1" style="marker-end:url(#id01); fill:none; stroke:#ff4141; stroke-width:1.6;"/>
+<text x="38.4" y="121.5" style="font-family:Georgia; font-size:20px; font-style:italic; color:black; overflow:visible; fill:#0084c8; stroke-width:0.5px;">Event A</text>
+<text x="123.7" y="121.5" style="font-family:Georgia; font-size:20px; font-style:italic; color:black; overflow:visible; fill:#ff9900; stroke-width:0.5px;">Event B</text>
+<text x="-1.5" y="15.9" style="font-family:Georgia; font-size:20px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:0.5px;">&quot;Probability Of&quot;</text>
+<path d="M 70.1,101.7 57.9,77.5" style="marker-end:url(#id01); fill:none; stroke:#0084c8; stroke-width:1.6;"/>
+<path d="m 144.8,102.7 -12.2,-24.2" style="marker-end:url(#id01); fill:none; stroke:#ff9900; stroke-width:1.6;"/>
+<path d="m 45.3,22.4 -12.8,21.1" style="marker-end:url(#id01); fill:none; stroke:black; stroke-width:1.6;"/>
+<text x="141.8" y="68.1" style="font-family:Arial; font-size:24px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">)</text>
+<text x="237.8" y="68.1" style="font-family:Arial; font-size:24px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">)</text>
+<text x="375.8" y="68.1" style="font-family:Arial; font-size:24px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">)</text>
+</svg>

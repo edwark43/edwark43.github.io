@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="181.6" height="243.3" version="1.1">
+<defs>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<g transform="translate(-1779.84,-2329.18)">
+<path style="color:black; overflow:visible; fill:#ccff42; stroke:#19aeff; stroke-width:0.66;" d="m 1862.4,2440.7 a 22.1,22.1 0 0 1 10.9,19 l -22.1,0 z"/>
+<path style="color:black; overflow:visible; fill:#ccff42; stroke:#19aeff; stroke-width:0.66;" d="m 1873.4,2460.6 a 22.1,22.1 0 0 1 -5.9,15 l -16.2,-15 z"/>
+<text x="1875.1" y="2450.2" style="font-family:'Comic Sans MS'; font-size:13.3px; color:black; overflow:visible; fill:#19aeff; stroke-width:0.5px;">60°</text>
+<text x="1875.8" y="2475.8" style="font-family:'Comic Sans MS'; font-size:13.3px; color:black; overflow:visible; fill:#19aeff; stroke-width:0.5px;">45°</text>
+<path style="fill:#9ade00; stroke:#9ade00; stroke-width:0.85;" d="m 1921.5,2529.8 c -1.5,-1.5 -77,-77 -77,-77"/>
+<path style="fill:#9ade00; stroke:#9ade00; stroke-width:0.85;" d="m 1903.2,2370.8 c -1.1,1.8 -54.4,94.3 -54.4,94.3"/>
+<g transform="matrix(0.13054,-0.226101,0.226101,0.13054,1121.04,2275.23)">
+<ellipse cx="1291.2" cy="2780.5" rx="32.5" ry="97.6" transform="matrix(1,0,0,0.92029,7.07107,223.758)" style="color:black; overflow:visible; fill:#bdcdd4; stroke-width:1.56;"/>
+<circle cx="1326.5" cy="2777.7" r="35.3553" transform="translate(-1.41421,1.41421)" style="color:black; overflow:visible; fill:#666666; stroke-width:1.56;"/>
+<ellipse cx="1291.2" cy="2780.5" rx="32.5" ry="97.6" transform="matrix(0.285297,0.48793,-0.575508,0.336505,2465.04,1169.61)" style="color:black; overflow:visible; fill:#bdcdd4; stroke-width:1.56;"/>
+<ellipse cx="1291.2" cy="2780.5" rx="32.5" ry="97.6" transform="matrix(0.285297,-0.48793,-0.575508,-0.336505,2467.87,4391.45)" style="color:black; overflow:visible; fill:#bdcdd4; stroke-width:1.56;"/>
+<ellipse cx="1177.3" cy="2769.2" rx="24.7" ry="17" transform="matrix(0.660812,-0.39422,0.364201,0.610492,-611.952,1538.54)" style="color:black; overflow:visible; fill:#bdcdd4; stroke-width:1.56;"/>
+<ellipse cx="1177.3" cy="2769.2" rx="24.7" ry="17" transform="matrix(0.660812,0.39422,0.364201,-0.610492,-615.375,4014.96)" style="color:black; overflow:visible; fill:#bdcdd4; stroke-width:1.56;"/>
+</g>
+<g transform="matrix(0.193024,0.193024,-0.193024,0.193024,2291.25,1761.25)">
+<ellipse cx="1291.2" cy="2780.5" rx="32.5" ry="97.6" transform="matrix(1,0,0,0.92029,-139.455,396.749)" style="color:black; overflow:visible; fill:#b88100; stroke-width:1.56;"/>
+<circle cx="1326.5" cy="2777.7" r="35.3553" transform="translate(-147.94,174.405)" style="color:black; overflow:visible; fill:#cccccc; stroke-width:1.56;"/>
+<ellipse cx="1291.2" cy="2780.5" rx="32.5" ry="97.6" transform="matrix(0.285297,0.48793,-0.575508,0.336505,2318.52,1342.6)" style="color:black; overflow:visible; fill:#ff6600; stroke-width:1.56;"/>
+<ellipse cx="1291.2" cy="2780.5" rx="32.5" ry="97.6" transform="matrix(0.285297,-0.48793,-0.575508,-0.336505,2321.34,4564.44)" style="color:black; overflow:visible; fill:#ff6600; stroke-width:1.56;"/>
+<ellipse cx="1177.3" cy="2769.2" rx="24.7" ry="17" transform="matrix(0.660812,-0.39422,0.364201,0.610492,-758.478,1711.53)" style="color:black; overflow:visible; fill:#bdcdd4; stroke-width:1.56;"/>
+<ellipse cx="1177.3" cy="2769.2" rx="24.7" ry="17" transform="matrix(0.660812,0.39422,0.364201,-0.610492,-761.901,4187.95)" style="color:black; overflow:visible; fill:#bdcdd4; stroke-width:1.56;"/>
+</g>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:1.38;" d="m 1851.9,2460.4 40.4,-71"/>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:1.38;" d="m 1851.6,2460.8 35.2,34.2"/>
+<text x="1844.7" y="2399.8" style="font-family:'Comic Sans MS'; font-size:18.7px; color:black; overflow:visible; fill:black; stroke-width:1px;">200</text>
+<text x="1849.3" y="2508.9" style="font-family:'Comic Sans MS'; font-size:18.7px; color:black; overflow:visible; fill:black; stroke-width:1px;">120</text>
+<rect x="1780.3" y="2431.4" width="71.7" height="56.5" style="color:black; overflow:visible; fill:#9ade00; stroke:#2d2d2d; stroke-width:0.85;"/>
+</g>
+</svg>

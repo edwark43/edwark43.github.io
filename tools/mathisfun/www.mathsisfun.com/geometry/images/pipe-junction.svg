@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="123"
+   height="110"
+   version="1.1"
+   id="svg941"
+   sodipodi:docname="pipe-junction.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <defs
+     id="defs945">
+    <linearGradient
+       y2="0.000012"
+       x2="0.503769"
+       y1="0.999995"
+       x1="0.503769"
+       id="linearGradient1474">
+      <stop
+         id="stop1468"
+         stop-color="#3F3F3F"
+         offset="0"
+         style="stop-color:#484b33;stop-opacity:1" />
+      <stop
+         id="stop1470"
+         stop-color="#DEDEDE"
+         offset="0.5225" />
+      <stop
+         id="stop1472"
+         stop-color="#3F3F3F"
+         offset="1"
+         style="stop-color:#504b2e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1474"
+       id="linearGradient1493"
+       x1="37.7128"
+       y1="178.926"
+       x2="37.7128"
+       y2="106.086"
+       gradientTransform="matrix(1.65729,0,0,0.603287,0.021304,0)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1474"
+       id="linearGradient1495"
+       x1="47.5404"
+       y1="77.6681"
+       x2="47.5404"
+       y2="21.6654"
+       gradientTransform="matrix(0,-1.27443,0.563493,0,33.6811,96.6444)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview943"
+     showgrid="false"
+     inkscape:current-layer="svg941" />
+  <title
+     id="title920">T-Pipe Junction</title>
+  <metadata
+     id="metadata922">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <linearGradient
+     id="SVGID_1_"
+     x1="0.503769"
+     y1="0.999995"
+     x2="0.503769"
+     y2="0.000012">
+    <stop
+       offset="0"
+       stop-color="#3F3F3F"
+       id="stop924" />
+    <stop
+       offset="0.5225"
+       stop-color="#DEDEDE"
+       id="stop926" />
+    <stop
+       offset="1"
+       stop-color="#3F3F3F"
+       id="stop928" />
+  </linearGradient>
+  <g
+     id="svg_1">
+    <path
+       style="fill:#3f3f3f;stroke:#666666;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       id="svg_2"
+       d="m 6.417,84.411 c -9.216,9.646 -2.684,22.783 1.73,22.783 6.623,-6.766 2.164,-15.038 -1.73,-22.783 z" />
+  </g>
+  <g
+     id="svg_3">
+    <path
+       style="fill:#3f3f3f;stroke:#666666;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       id="svg_4"
+       d="m 117.697,84.411 c -3.894,7.745 -8.353,16.018 -1.729,22.783 4.413,0 10.946,-13.137 1.729,-22.783 z" />
+  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:url(#linearGradient1493);stroke:#666666;stroke-width:1.499869;stroke-linecap:round;stroke-linejoin:round"
+     id="svg_5"
+     d="m 115.968,64.75 c -11.302,0 -96.4991,0 -107.80112,0 -17.91386,9.305 13.26072,28.894 0,42.444 H 115.968 c -13.26,-13.55 17.914,-33.139 0,-42.444 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:url(#linearGradient1495);stroke:#666666;stroke-width:1.271142;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1.0"
+     id="svg_6"
+     d="m 46.4277,4.73619 c 0,6.62391 0,56.55651 0,63.18041 6.6822,10.499 20.7497,-7.7719 30.4804,0 V 4.73619 c -9.7307,7.77131 -23.7982,-10.4988 -30.4804,0 z" />
+</svg>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+
+<svg
+   width="135.9"
+   height="101.9"
+   version="1.1"
+   id="svg152"
+   sodipodi:docname="cards.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview154"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg152" />
+  <rect
+     x="-12.6"
+     y="31.9"
+     ry="4.5"
+     width="47.7"
+     height="72.9"
+     transform="matrix(0.939713,-0.341963,0.342077,0.939672,0,0)"
+     style="fill:#fffffb;stroke:black;stroke-width:0.41"
+     id="rect2" />
+  <use
+     transform="matrix(0.62313,-0.226758,0.2268,0.623012,-0.952924,34.3448)"
+     xlink:href="#id1"
+     x="0"
+     y="0"
+     id="use4"
+     style="fill:#ef2929" />
+  <use
+     transform="matrix(0.62313,-0.226758,0.2268,0.623012,-0.952924,32.8342)"
+     xlink:href="#id2"
+     x="0"
+     y="0"
+     id="use6"
+     width="100%"
+     height="100%"
+     style="fill:#ef2929" />
+  <use
+     transform="matrix(2.60318,-0.947307,0.947486,2.60269,-110.331,-46.0583)"
+     xlink:href="#id3"
+     x="30"
+     y="47"
+     id="use8"
+     style="fill:#ef2929" />
+  <defs
+     id="defs126">
+    <rect
+       id="id4"
+       x="0"
+       y="0"
+       rx="6"
+       width="72"
+       height="110"
+       style="fill:none;stroke:black;stroke-width:0.5" />
+    <g
+       id="id10">
+      <use
+         xlink:href="#id4"
+         x="0"
+         y="0"
+         id="use11" />
+      <use
+         transform="scale(0.5)"
+         xlink:href="#id5"
+         x="5"
+         y="35"
+         id="use13" />
+      <use
+         transform="matrix(-0.5,0,0,-0.5,72,110)"
+         xlink:href="#id5"
+         x="5"
+         y="35"
+         id="use15" />
+    </g>
+    <g
+       id="id9">
+      <use
+         xlink:href="#id4"
+         x="0"
+         y="0"
+         id="use18" />
+      <use
+         transform="scale(0.5)"
+         xlink:href="#id6"
+         x="6"
+         y="35"
+         id="use20" />
+      <use
+         transform="matrix(-0.5,0,0,-0.5,72,110)"
+         xlink:href="#id6"
+         x="6"
+         y="35"
+         id="use22" />
+    </g>
+    <g
+       id="id1">
+      <use
+         xlink:href="#id4"
+         x="0"
+         y="0"
+         id="use25" />
+      <use
+         transform="scale(0.5)"
+         xlink:href="#id3"
+         x="5"
+         y="35"
+         id="use27" />
+      <use
+         transform="matrix(-0.5,0,0,-0.5,72,110)"
+         xlink:href="#id3"
+         x="5"
+         y="35"
+         id="use29" />
+    </g>
+    <g
+       id="id8">
+      <use
+         xlink:href="#id4"
+         x="0"
+         y="0"
+         id="use32" />
+      <use
+         transform="scale(0.5)"
+         xlink:href="#id7"
+         x="5"
+         y="35"
+         id="use34" />
+      <use
+         transform="matrix(-0.5,0,0,-0.5,72,110)"
+         xlink:href="#id7"
+         x="5"
+         y="35"
+         id="use36" />
+    </g>
+    <g
+       id="id2">
+      <text
+         x="2"
+         y="15"
+         id="text39">A</text>
+      <text
+         x="2"
+         y="15"
+         transform="rotate(180,36,55)"
+         id="text41">A</text>
+    </g>
+    <g
+       id="g48">
+      <text
+         x="2"
+         y="15"
+         id="text44">2</text>
+      <text
+         x="2"
+         y="15"
+         transform="rotate(180,36,55)"
+         id="text46">2</text>
+    </g>
+    <g
+       id="g54">
+      <text
+         x="2"
+         y="15"
+         id="text50">3</text>
+      <text
+         x="2"
+         y="15"
+         transform="rotate(180,36,55)"
+         id="text52">3</text>
+    </g>
+    <g
+       id="g60">
+      <text
+         x="2"
+         y="15"
+         id="text56">4</text>
+      <text
+         x="2"
+         y="15"
+         transform="rotate(180,36,55)"
+         id="text58">4</text>
+    </g>
+    <g
+       id="g66">
+      <text
+         x="2"
+         y="15"
+         id="text62">5</text>
+      <text
+         x="2"
+         y="15"
+         transform="rotate(180,36,55)"
+         id="text64">5</text>
+    </g>
+    <g
+       id="g72">
+      <text
+         x="2"
+         y="15"
+         id="text68">6</text>
+      <text
+         x="2"
+         y="15"
+         transform="rotate(180,36,55)"
+         id="text70">6</text>
+    </g>
+    <g
+       id="g78">
+      <text
+         x="2"
+         y="15"
+         id="text74">7</text>
+      <text
+         x="2"
+         y="15"
+         transform="rotate(180,36,55)"
+         id="text76">7</text>
+    </g>
+    <g
+       id="g84">
+      <text
+         x="2"
+         y="15"
+         id="text80">8</text>
+      <text
+         x="2"
+         y="15"
+         transform="rotate(180,36,55)"
+         id="text82">8</text>
+    </g>
+    <g
+       id="g90">
+      <text
+         x="2"
+         y="15"
+         id="text86">9</text>
+      <text
+         x="2"
+         y="15"
+         transform="rotate(180,36,55)"
+         id="text88">9</text>
+    </g>
+    <g
+       id="g96">
+      <text
+         x="2"
+         y="15"
+         id="text92">10</text>
+      <text
+         x="2"
+         y="15"
+         transform="rotate(180,36,55)"
+         id="text94">10</text>
+    </g>
+    <g
+       id="g102">
+      <text
+         x="2"
+         y="15"
+         id="text98">J</text>
+      <text
+         x="2"
+         y="15"
+         transform="rotate(180,36,55)"
+         id="text100">J</text>
+    </g>
+    <g
+       id="g108">
+      <text
+         x="2"
+         y="15"
+         id="text104">Q</text>
+      <text
+         x="2"
+         y="15"
+         transform="rotate(180,36,55)"
+         id="text106">Q</text>
+    </g>
+    <g
+       id="g114">
+      <text
+         x="2"
+         y="15"
+         id="text110">K</text>
+      <text
+         x="2"
+         y="15"
+         transform="rotate(180,36,55)"
+         id="text112">K</text>
+    </g>
+    <path
+       id="id5"
+       d="M 5.2,5.9 C 4.8,5.3 4.3,4.5 4.3,3.5 4.3,1.5 5.9,0 7.9,0 c 2,0 3.5,1.5 3.5,3.5 0,1 -0.4,1.8 -0.9,2.4 l 0.1,0.1 c 0.5,-0.4 1.4,-0.6 1.8,-0.6 1.9,0 3.3,1.7 3.3,3.6 0,2 -1.6,3.6 -3.6,3.6 -1.1,0 -2.6,-0.6 -3.6,-2.2 h -0.1 c 0.3,3.2 0.7,4.4 1.7,5.6 V 16 H 5.6 V 15.9 C 6.6,14.7 7,13.5 7.3,10.3 H 7.2 C 6.1,11.9 4.6,12.5 3.6,12.5 1.6,12.5 0,10.9 0,8.9 0,7 1.4,5.3 3.3,5.3 c 0.5,0 1.3,0.3 1.8,0.6 l 0.1,-0.1 z" />
+    <path
+       id="id6"
+       d="M 11.7,8 5.8,16 0,8 5.8,0 Z" />
+    <path
+       id="id3"
+       d="M 6.6,3 C 7.2,1 8.6,0 10.1,0 c 1.8,0 3.2,1.7 3.2,3.9 0,2.6 -1.2,4.5 -2.5,6.2 -1.2,1.7 -3.5,4.5 -4.2,5.3 H 6.6 C 6,14.6 3.6,11.7 2.5,10.1 1.2,8.3 0,6.4 0,3.9 0,1.7 1.4,0 3.2,0 4.7,0 6.1,1 6.6,3 Z" />
+    <path
+       id="id7"
+       d="M 8.7,16 H 4.4 v -0.1 c 0.9,-1.1 1.3,-2.3 1.6,-4.8 H 5.9 C 5.4,12.3 4.3,12.8 3.3,12.8 1.1,12.8 0,11.3 0,9.2 0,7.5 1.8,5.4 2.9,4.2 4.1,2.8 5.7,0.9 6.6,0 h 0 c 0.9,0.9 2.5,2.8 3.7,4.2 1.1,1.2 2.9,3.3 2.9,5.1 0,2.1 -1.1,3.6 -3.3,3.6 -1.1,0 -2.1,-0.5 -2.7,-1.7 h -0.1 c 0.3,2.5 0.6,3.6 1.6,4.8 V 16 Z" />
+    <path
+       d="m 0.5,32.1 c 0,0 2.7,0.7 5.4,0.7 0.6,0 1.2,-0 1.7,-0.1 C 8.3,32.1 9.4,30.4 9.9,27.3 10.6,22.9 13.5,2.7 13.5,2.7 L 9.2,1.8 C 9.2,1.3 9.5,0.4 9.8,0 H 21.4 l -0.5,2.2 -3.7,0.4 c 0,0 -2.7,18.6 -3.8,24.3 -1.2,6.4 -3.7,8.9 -8,8.9 C 2.7,35.8 1.1,34.9 0,33.7 Z"
+       id="path120" />
+    <path
+       d="M 29.6,30.2 C 28.8,31.7 27.4,33 23.7,33 19.2,33 11.9,28.9 7.7,24.7 2.2,24.7 0,21 0,15.4 0,7.6 4.7,0 12.3,0 c 5.5,0 7.7,3.7 7.7,9.3 0,6.7 -3.6,13.3 -9.4,15 6.8,4.1 11.7,5.6 14.9,5.6 1.7,0 2.9,-0.3 3.9,-0.6 z M 10.7,2.7 c -5.5,0 -7.8,6.7 -7.8,11.2 0,4.4 1.7,8 6.3,8 5.5,0 7.8,-6.7 7.8,-11.2 0,-4.4 -1.7,-8 -6.3,-8 z"
+       id="path122" />
+    <path
+       d="M 0.4,28.3 4.5,27.4 8.1,2.9 4,1.9 C 4,1.4 4.3,0.4 4.6,0 H 16.5 L 16,2.3 12.1,2.8 8.3,27.5 l 4.4,0.3 c 0,0.7 -0.3,1.9 -0.8,2.5 H 0 Z m 26.3,1.9 c -0.6,0.4 -1.2,0.9 -3.2,0.9 -1.8,0 -3.4,-1.1 -5.3,-3.5 -1.4,-1.9 -4.7,-7.3 -6.6,-10.4 -0.8,-1.4 -1.2,-2.7 -1.2,-2.7 L 23.6,2.9 19.7,1.9 c 0,-0.5 0.3,-1.5 0.6,-1.9 H 31.4 L 30.9,2.3 28,2.8 14.7,14.2 c 1.7,3.1 6.2,9.4 7.8,11.3 1.5,1.7 3.2,3.3 4.3,4.2 z"
+       id="path124" />
+  </defs>
+  <rect
+     x="23.4"
+     y="12.1"
+     ry="4.5"
+     width="47.7"
+     height="72.9"
+     transform="matrix(0.984813,-0.173617,0.173681,0.984802,0,0)"
+     style="fill:#fffffb;stroke:black;stroke-width:0.41"
+     id="rect128" />
+  <use
+     transform="matrix(0.653046,-0.115128,0.115149,0.652923,25.1901,7.82564)"
+     xlink:href="#id8"
+     x="0"
+     y="0"
+     id="use130"
+     style="fill:#000000" />
+  <use
+     transform="matrix(0.653046,-0.115128,0.115149,0.652923,25.1901,7.82564)"
+     xlink:href="#id2"
+     x="0"
+     y="0"
+     id="use132"
+     style="fill:#000000" />
+  <use
+     transform="matrix(2.76193,-0.48691,0.487002,2.76141,-9.4127,-28.4311)"
+     xlink:href="#id7"
+     x="12"
+     y="20"
+     id="use134"
+     style="fill:#000000" />
+  <rect
+     x="59.1"
+     y="2"
+     ry="4.5"
+     width="47.7"
+     height="72.9"
+     transform="matrix(0.984813,0.173617,-0.173681,0.984802,0,0)"
+     style="fill:#fffffb;stroke:black;stroke-width:0.41"
+     id="rect136" />
+  <use
+     transform="matrix(0.653046,0.115128,-0.115149,0.652923,57.8829,12.2692)"
+     xlink:href="#id9"
+     x="0"
+     y="0"
+     id="use138"
+     style="fill:#ef2929" />
+  <use
+     transform="matrix(0.653046,0.115128,-0.115149,0.652923,57.8829,12.2692)"
+     xlink:href="#id2"
+     x="0"
+     y="0"
+     id="use140"
+     style="fill:#ef2929" />
+  <use
+     transform="matrix(2.53951,0.447699,-0.447783,2.53903,8.5866,-103.38)"
+     xlink:href="#id6"
+     x="30"
+     y="47"
+     id="use142"
+     style="fill:#ef2929" />
+  <rect
+     x="91.4"
+     y="-17.9"
+     ry="4.5"
+     width="47.7"
+     height="72.9"
+     transform="matrix(0.939713,0.341963,-0.342077,0.939672,0,0)"
+     style="fill:#fffffb;stroke:black;stroke-width:0.41"
+     id="rect144" />
+  <use
+     transform="matrix(0.62313,0.226758,-0.2268,0.623012,91.9765,14.4187)"
+     xlink:href="#id10"
+     x="0"
+     y="0"
+     id="use146" />
+  <use
+     transform="matrix(0.62313,0.226758,-0.2268,0.623012,91.9765,14.4187)"
+     xlink:href="#id2"
+     x="0"
+     y="0"
+     id="use148" />
+  <use
+     transform="matrix(1.97716,0.71949,-0.719626,1.97679,70.9574,-78.1011)"
+     xlink:href="#id5"
+     x="28"
+     y="47"
+     id="use150" />
+</svg>

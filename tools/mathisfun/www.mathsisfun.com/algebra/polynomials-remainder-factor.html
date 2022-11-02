@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="en"><!-- #BeginTemplate "../Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/algebra/polynomials-remainder-factor.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:03:08 GMT -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Remainder Theorem and Factor Theorem</title>
+<meta name="Description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents." />
+
+<style>.mono {font-family:"Courier New", Courier, monospace;font-size:20px;text-align:left;}</style>
+
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=true;" />
+<meta name="HandheldFriendly" content="true"/>
+<meta http-equiv="pics-label" content='(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://www.mathsisfun.com" r (SS~~000 1))' />
+<link rel="stylesheet" type="text/css" href="../style3.css" />
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun" /></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran"><script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus"><script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort"><script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search"><script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+  
+	<h1 align="center">Remainder Theorem<br />
+	and Factor Theorem</h1>
+	<p align="center"><i>Or: how to avoid Polynomial Long Division when finding factors</i></p>
+	<p>Do you remember doing division in Arithmetic?</p>
+	<p align="center" class="larger"><img src="../numbers/images/remainder-7-2.svg" alt="7/2=3 remainder 1"  /></p>
+	<p align="center" class="larger"><i> &quot;7 divided by 2 equals <b>3</b> with a <b>remainder of 1</b>&quot;</i></p>
+	<p>Each part of the division has names:</p>
+	<p align="center"><span class="larger"><img src="../numbers/images/division-7d2.svg" alt="dividend/divisor=quotient with remainder"  /></span></p>
+	<p>Which can be <b>rewritten</b> as a sum like this:</p>
+	<p align="center"><img src="../numbers/images/division-multiply.svg"  alt="7 = 2 times 3 + 1" /></p>
+	<h2>Polynomials</h2>
+	<p>Well, we can also <a href="polynomials-division-long.html">divide polynomials</a>.</p>
+	<p align="center"><span class="large">f(x) &divide; d(x) = q(x) with a remainder of r(x)</span></p>
+	<p>But it is better  to write it as a sum like this: </p>
+	<p align="center" class="large"><img src="images/polynomial-division-names.svg" alt="f(x) = d(x) times q(x) + r(x)" /></p>
+	<p>Like in this  example using <a href="polynomials-division-long.html">Polynomial Long Division</a>:</p>
+	<div class="example">
+	  <h3>Example: 2x<sup>2</sup>&minus;5x&minus;1 divided by x&minus;3</h3>
+	  <ul>
+	    <li>f(x) is 2x<sup>2</sup>&minus;5x&minus;1</li>
+	    <li>d(x) is x&minus;3</li>
+    </ul>
+	  <p align="center"><img src="images/polynomial-long-division2.gif" alt="polynomial long division 2x^/2-5x-1 / x-3 = 2x+1 R 2" width="274" height="160" /></p>
+	  <p>After dividing we get the answer <span class="large">2x+1</span>, but there is a  remainder of <span class="large">2</span>.</p>
+	  <ul>
+        <li>q(x) is 2x+1</li>
+	    <li>r(x) is 2</li>
+    </ul>
+	  <p>In the style <span class="large">f(x) = d(x)&middot;q(x) + r(x)</span> we can write:</p>
+	  <p align="center" class="large">2x<sup>2</sup>&minus;5x&minus;1 = (x&minus;3)(2x+1) + 2</p>
+	</div>
+	<p>But you need to know one more thing:</p>
+	<div class="def">
+		<p>The <a href="degree-expression.html">degree</a> of r(x) is always less than d(x)</p>
+	</div>
+<p>Say  we divide by a polynomial of <b>degree 1</b> (such as &quot;x&minus;3&quot;) the remainder will have <b>degree 0</b> (in other words a constant, like &quot;4&quot;).</p>
+  
+	<p>We will use that idea in the 
+	  &quot;Remainder Theorem&quot;:</p>
+	<h2>The Remainder Theorem</h2>
+	<p>When we divide  <span class="large">f(x)</span> by the simple polynomial <span class="large">x&minus;c</span> we get:</p>
+	<p align="center"> <span class="large">f(x) = (x&minus;c)&middot;q(x) + r(x)</span></p>
+	<p><span class="large">x&minus;c</span> is <b>degree 1</b>, so <span class="large">r(x)</span> must have <b>degree 0</b>, so it is   just some  constant <span class="large">r</span>  <i>:</i></p>
+	<p align="center"><span class="large">f(x) = (x&minus;c)&middot;q(x) + <span class="hi">r</span></span></p>
+	<p>Now see what happens when we have  <span class="large">x equal to c</span>:</p>
+<div class="tbl">
+<div class="row"><span class="left">f(c) =</span><span class="right">(c&minus;c)&middot;q(c) + r</span></div>
+<div class="row"><span class="left">f(c) =</span><span class="right">(0)&middot;q(c) + r</span></div>
+<div class="row"><span class="left">f(c) =</span><span class="right">r</span></div>
+</div>
+
+	<p>So we get this:</p>
+	<div class="def">
+	  <p><b>The Remainder Theorem:</b></p>
+	  <p align="center">When we divide a polynomial <span class="large">f(x)</span> by <span class="large">x&minus;c</span> the remainder is <span class="large">f(c)</span></p>
+	</div>
+	<p>So to find the remainder after dividing by <span class="large">x-c</span> we don't need to do any division: </p>
+	<p align="center" class="larger">Just calculate <span class="large">f(c)</span>.</p>
+	<p>Let us see that in practice:</p>
+	<div class="example">
+	  <h3>Example: The remainder after 2x<sup>2</sup>&minus;5x&minus;1 is divided by x&minus;3</h3>
+	  <p>(Our example from above)</p>
+	  <p>We don't need to divide by <b>(x&minus;3)</b> ... just calculate <b>f(3)</b>:</p>
+	  <p align="center" class="larger">2(3)<sup>2</sup>&minus;5(3)&minus;1 = 2x9&minus;5x3&minus;1 <br>
+  	= 18&minus;15&minus;1 <br>
+  	= <b>2</b></p>
+	  <p>And that is the remainder we got from our calculations above.</p>
+	  <p>We didn't need to do Long Division at all!</p>
+	  
+  </div>
+	<div class="example">
+      <h3>Example: The remainder after 2x<sup>2</sup>&minus;5x&minus;1 is divided by x&minus;5</h3>
+	  <p>Same example as  above but this time we divide by &quot;x&minus;5&quot;</p>
+	  <p>&quot;c&quot; is 5, so let us check f(5):</p>
+	  <p align="center" class="larger">2(5)<sup>2</sup>&minus;5(5)&minus;1 = 2x25&minus;5x5&minus;1 <br>
+  	= 50&minus;25&minus;1 <br>
+  	= <b>24</b></p>
+	  <p>The remainder is <b>24</b></p>
+	  <p>Once again ... We didn't need to do Long Division to find that. </p>
+	  
+  </div>
+	
+	<h2>The Factor Theorem</h2>
+	<p>Now ...</p>
+	<div class="center80">
+	  <p>What if we calculate <b>f(c)</b> and it is <b>0</b>?</p>
+	  <p align="center">... that means the <b>remainder is 0</b>, and ...</p>
+	  <p align="right">... <b>(x&minus;c) must be a factor</b> of the polynomial!</p>
+  </div>
+	<p>We see this when dividing whole numbers. For example 60 &divide; 20 = 3 with no remainder. So 20 must be a factor of 60.
+	</p>
+	<div class="example">
+	  <h3>Example: x<sup>2</sup>&minus;3x&minus;4</h3>
+	  <p align="center" class="larger">f(4) = (4)<sup>2</sup>&minus;3(4)&minus;4 = 16&minus;12&minus;4 = 0</p>
+	  <p>so (x&minus;4) must be a factor of x<sup>2</sup>&minus;3x&minus;4</p>
+  </div>
+	<p>And so we have:</p>
+	<div class="def">
+      <p><b>The Factor Theorem:</b></p>
+	  <p align="center">When  <span class="large">f(c)=0</span> then <span class="large">x&minus;c</span> is a factor of <span class="large">f(x)</span></p>
+	  <p><i>And the other way around, too:</i></p>
+	  <p align="center">When <span class="large">x&minus;c</span> is a factor of <span class="large">f(x)</span> then <span class="large">f(c)=0</span></p>
+	</div>
+	<h2>Why Is This Useful?</h2>
+	<p>Knowing that <span class="large">x&minus;c</span> is a factor is the same as knowing that <span class="large">c </span>is a root (and vice versa).</p>
+	<div class="center80">
+	  <p>The <b>factor &quot;x&minus;c&quot;</b> and the <b>root &quot;c&quot;</b> are the same thing</p>
+	  <p>Know one and we know the other</p>
+  </div>
+	<p>For one thing, it means that we can quickly check if (x&minus;c) is a factor of  the polynomial.</p>
+	<div class="example">
+      <h3>Example: Find the factors of 2x<sup>3</sup>&minus;x<sup>2</sup>&minus;7x+2</h3>
+	  <p>The polynomial is degree 3, and could be difficult to solve. So let us plot it first:</p>
+	  <p align="center"><img src="images/graph-2x3mx2m7xp2.gif" alt="graph of 2x^3-x^2-7x+2" width="248" height="134" /></p>
+	  <p>The curve crosses the x-axis at three points, and one of them <b>might be at 2</b>. We can check easily:</p>
+	  <p align="center"><b>f(2)</b> = 2(2)<sup>3</sup>&minus;(2)<sup>2</sup>&minus;7(2)+2 <br>
+  	= 16&minus;4&minus;14+2 <br>
+  	= <b>0</b></p>
+	  <p>Yes! <b>f(2)=0</b>, so we have found a root <b>and</b> a factor.</p>
+	  
+		<div class="center80">
+			<p align="center" class="large">So (x&minus;2) must be a factor of 2x<sup>3</sup>&minus;x<sup>2</sup>&minus;7x+2</p>
+		</div>
+	  <p>&nbsp;</p>
+	  <p>How about where it crosses near <b>&minus;1.8</b>?</p>
+	  <p align="center"><b>f(&minus;1.8)</b> = 2(&minus;1.8)<sup>3</sup>&minus;(&minus;1.8)<sup>2</sup>&minus;7(&minus;1.8)+2 <br>
+  	= &minus;11.664&minus;3.24+12.6+2 <br>
+  	= <b>&minus;0.304</b></p>
+	  
+	  <p>No, (x+1.8) is not  a factor. We could try some other values near by and maybe get lucky. </p>
+	  <p>But  at least we know <span class="large">(x&minus;2)</span> is a factor, so let's use <a href="polynomials-division-long.html">Polynomial Long Division</a>:</p>
+	  
+
+
+
+		<div class="mono">
+			
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="border-bottom: 1px solid black;">2x<sup>2</sup>+3x&minus;1&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
+x&minus;2)2x<sup>3</sup>&minus; x<sup>2</sup>&minus;7x+2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="border-bottom: 1px solid black;">2x<sup>3</sup>&minus;4x<sup>2</sup></span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3x<sup>2</sup>&minus;7x<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="border-bottom: 1px solid black;">3x<sup>2</sup>&minus;6x</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&minus;x+2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="border-bottom: 1px solid black;">&minus;x+2</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0
+
+
+</div>
+
+
+<p>As expected the remainder is zero. </p>
+<p>Better still, we are left with  the <a href="quadratic-equation.html">quadratic equation</a> <b>2x<sup>2</sup>+3x&minus;1</b> which is  easy to <a href="../quadratic-equation-solver.html">solve</a>.</p>
+<p>It's roots are  &minus;1.78... and 0.28..., so the final result is:</p>
+<p class="center large">2x<sup>3</sup>&minus;x<sup>2</sup>&minus;7x+2 = (x&minus;2)(x+1.78...)(x&minus;0.28...)</p>
+<p>We were able to solve a difficult  polynomial.</p>
+	</div>
+	
+	
+	<h2>Summary</h2>
+	<div class="dotpoint">
+	  <p><b>The Remainder Theorem:</b> </p>
+	  <ul>
+	    <li>When we divide a polynomial <span class="large">f(x)</span> by <span class="large">x&minus;c</span> the remainder is <span class="large">f(c)</span></li>
+    </ul>
+  </div>
+	<div class="dotpoint">
+	  <p><b>The Factor Theorem:</b> </p>
+	  <ul>
+	    <li>When <span class="large">f(c)=0</span> then <span class="large">x&minus;c</span> is a factor of <span class="large">f(x)</span></li>
+	      <li>When <span class="large">x&minus;c</span> is a factor of <span class="large">f(x)</span> then <span class="large">f(c)=0</span></li>
+    </ul>
+  </div><p>&nbsp;</p>
+      <div class="questions"> 
+ 
+<script type="text/javascript">getQ(482, 483, 4014, 4015, 484, 485, 4016, 1124, 1125, 4017);</script>&nbsp;
+
+
+<br />
+ Challenging Questions: 
+<a href="javascript:doQ(96)">1</a>
+<a href="javascript:doQ(227)">2</a>
+<a href="javascript:doQ(228)">3</a>
+<a href="javascript:doQ(229)">4</a>
+<a href="javascript:doQ(230)">5</a>
+<a href="javascript:doQ(231)">6</a>
+      </div>
+      
+	<div class="related"><a href="polynomials-division-long.html">Polynomial Long Division</a> <a href="index.html">Algebra Index</a></div>
+<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2018 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body>
+<!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/algebra/polynomials-remainder-factor.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:03:09 GMT -->
+</html>

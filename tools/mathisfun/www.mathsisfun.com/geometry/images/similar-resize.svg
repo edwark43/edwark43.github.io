@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="141.578"
+   height="78.6111"
+   version="1.1"
+   style="stroke-width:1pt"
+   id="svg8"
+   sodipodi:docname="similar-resize.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs2" />
+  <g
+     transform="matrix(0.882993,0,0,0.882993,-111.651,-1708.42)"
+     id="g6"
+     style="fill:#204a87;fill-opacity:1">
+    <path
+       transform="matrix(1.01949,-0.271078,0.271078,1.01949,-531.934,18.7931)"
+       style="color:#000000;overflow:visible;fill:#204a87;fill-opacity:1;stroke-width:5.3"
+       d="m 208.7,2022.2 -93.9,-25.2 68.8,-68.8 z"
+       id="path4"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g824"
+     transform="matrix(0.586829,0,0,0.586829,7.18944,-1134.33)"
+     style="fill:#ff4141">
+    <path
+       id="path822"
+       d="m 208.7,2022.2 -93.9,-25.2 68.8,-68.8 z"
+       style="color:#000000;overflow:visible;fill:#ff4141;stroke-width:5.3"
+       transform="matrix(1.01949,-0.271078,0.271078,1.01949,-531.934,18.7931)"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

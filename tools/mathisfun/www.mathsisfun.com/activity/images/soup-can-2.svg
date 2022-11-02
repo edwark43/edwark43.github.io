@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="170.8" height="236" version="1.1">
+<defs>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(.8 0 0 .8 10 0)" style="stroke:black; stroke-width:1pt;" d="m0 0 5-5-17.5 5 17.5 5-5-5z"/>
+</marker>
+</defs>
+<rect x="442.9" y="-896.2" width="245.7" height="131.4"/>
+<text x="535.2" y="2366.5" transform="scale(0.99915,1.00085)" style="font-family:'Comic Sans MS'; font-weight:bold; font-size:18.4px; fill:black; stroke-width:1;"></text>
+<ellipse cx="75.8" cy="35.2" rx="74.5" ry="34.1" style="color:black; fill:none; stroke:#0e0000; stroke-width:2.03;"/>
+<path style="color:black; fill:none; stroke:#0e0000; stroke-width:2.03;" d="m 151.3,200.9 a 74.3,34.1 0 0 1 -37.2,29.6 74.3,34.1 0 0 1 -74.3,0 A 74.3,34.1 0 0 1 2.7,200.9"/>
+<path style="fill:none; stroke:black; stroke-width:1.85;" d="M 0.9,33.6 C 2.4,199 2.4,199 2.4,199"/>
+<path style="fill:none; stroke:black; stroke-width:1.85;" d="M 150.7,36.6 C 152.2,202 152.2,202 152.2,202"/>
+<path style="color:black; fill:none; stroke:#0e0000; stroke-width:2.03; stroke-dasharray:16.2, 2;" d="m 2.7,202 a 74.3,34.1 0 0 1 37.2,-29.6 74.3,34.1 0 0 1 74.3,0 74.3,34.1 0 0 1 37.2,29.6"/>
+<path style="marker-start:url(#id1); fill:none; stroke:black; stroke-width:1.85;" d="m 161.6,29.9 -0.1,77.9"/>
+<path style="marker-start:url(#id1); fill:none; stroke:black; stroke-width:1.68;" d="m 76.2,201.9 c 27.2,0.1 27.2,0.1 27.2,0.1"/>
+<path style="marker-start:url(#id1); fill:none; stroke:black; stroke-width:1.68;" d="M 149.2,201.9 120.3,202"/>
+<text x="156.4" y="126.1" transform="scale(0.99915,1.00085)" style="font-family:'Comic Sans MS'; font-size:20.9px; fill:black; stroke-width:1;">h</text>
+<text x="109.2" y="206.3" transform="scale(0.99915,1.00085)" style="font-family:'Comic Sans MS'; font-size:20.9px; fill:black; stroke-width:1;">r</text>
+<path style="marker-start:url(#id1); fill:none; stroke:black; stroke-width:1.78;" d="m 161.6,202.1 -0.1,-71.8"/>
+</svg>

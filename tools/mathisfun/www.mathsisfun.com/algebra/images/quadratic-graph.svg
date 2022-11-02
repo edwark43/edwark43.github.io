@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="174.6"
+   height="140.4"
+   version="1.1"
+   style="font-family:'Times New Roman';stroke-width:0.5"
+   id="svg67"
+   sodipodi:docname="quadratic-graph.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview69"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg67" />
+  <defs
+     id="defs5">
+    <marker
+       id="aa1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="aa14844"
+       inkscape:stockid="aa14844">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#204a87;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#204a87"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1038" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="aa11109"
+       inkscape:stockid="aa11109">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#204a87;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#204a87"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1041" />
+    </marker>
+  </defs>
+  <g
+     style="stroke:#19aeff;stroke-opacity:0.24"
+     transform="translate(-0.25,-0.152236)"
+     id="g47">
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 0.8,87.8 H 174.8"
+       id="path7" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 0.8,52.9 H 174.8"
+       id="path9" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 0.8,17.9 H 174.8"
+       id="path11" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 0.8,122.8 H 174.8"
+       id="path13" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 0.8,70.4 H 174.8"
+       id="path15" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 0.8,35.4 H 174.8"
+       id="path17" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 0.8,0.4 H 174.8"
+       id="path19" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 0.8,140.3 H 174.8"
+       id="path21" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 0.8,105.3 H 174.8"
+       id="path23" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 35.3,140.6 V 0.6"
+       id="path25" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 0.5,140.6 V 0.6"
+       id="path27" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 139.7,140.6 V 0.6"
+       id="path29" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 104.9,140.6 V 0.6"
+       id="path31" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 70.1,140.6 V 0.6"
+       id="path33" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 174.5,140.6 V 0.6"
+       id="path35" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 52.7,140.6 V 0.5"
+       id="path37" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 17.8,140.6 V 0.5"
+       id="path39" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 157.1,140.6 V 0.5"
+       id="path41" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 122.3,140.6 V 0.5"
+       id="path43" />
+    <path
+       style="fill:none;fill-opacity:0.75;stroke:#19aeff;stroke-opacity:0.24"
+       d="M 87.5,140.6 V 0.5"
+       id="path45" />
+  </g>
+  <path
+     style="marker-end:url(#aa11109);fill:#2e3436;fill-opacity:0.75;stroke:#204a87;stroke-width:1.88"
+     d="M -0,87.4 H 166.4"
+     id="path49" />
+  <path
+     style="marker-end:url(#aa14844);fill:#2e3436;fill-opacity:0.75;stroke:#204a87;stroke-width:1.88"
+     d="M 69.8,140.1 V 7.2"
+     id="path51" />
+  <text
+     x="147.9"
+     y="80.6"
+     transform="scale(0.997705,1.0023)"
+     style="font-weight:bold;font-size:17.5px;font-style:italic;overflow:visible;fill:#204a87;stroke-width:0.84px"
+     id="text53">x</text>
+  <text
+     x="77.1"
+     y="19.6"
+     transform="scale(0.997705,1.0023)"
+     style="font-weight:bold;font-size:17.5px;font-style:italic;overflow:visible;fill:#204a87;stroke-width:0.84px"
+     id="text55">y</text>
+  <path
+     style="overflow:visible;fill:none;fill-opacity:0.84;stroke:#0197fd;stroke-width:1.78;stroke-linecap:round"
+     d="m 162.2,4.5 c 0,0 -34.5,121.8 -79.9,121.8 C 36.8,126.3 4.9,4 4.9,4"
+     id="path57" />
+  <circle
+     cx="37.5"
+     cy="87.2"
+     r="3.67406"
+     style="color:black;overflow:visible;fill:none;stroke:#fd3301;stroke-width:2.15"
+     id="circle59" />
+  <circle
+     cx="128.3"
+     cy="87.2"
+     r="3.67406"
+     style="color:black;overflow:visible;fill:none;stroke:#fd3301;stroke-width:2.15"
+     id="circle61" />
+  <text
+     x="35.9"
+     y="80.5"
+     style="color:black;fill:#fd3301;font-family:Trebuchet MS;font-size:14.7px;font-style:italic;overflow:visible;stroke-width:0.53px"
+     id="text63">-0.9</text>
+  <text
+     x="109.2"
+     y="80.5"
+     style="color:black;fill:#fd3301;font-family:Trebuchet MS;font-size:14.7px;font-style:italic;overflow:visible;stroke-width:0.53px"
+     id="text65">1.7</text>
+</svg>

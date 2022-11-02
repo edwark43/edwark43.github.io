@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="137.073"
+   height="24.8137"
+   version="1.1"
+   id="svg463"
+   sodipodi:docname="completing-square-example1.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview465"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg463"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs5">
+    <marker
+       id="id1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#eec73e;stroke:#eec73e;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+  </defs>
+  <text
+     x="-0.175342"
+     y="24.4484"
+     style="font-size:29.925px;font-family:'Trebuchet MS';overflow:visible;fill:#3465a4;stroke-width:0.55px"
+     id="text21">x  + 6x + 7</text>
+  <text
+     x="14.747"
+     y="15.2886"
+     transform="scale(1.02366,0.976886)"
+     style="font-size:21px;font-family:'Trebuchet MS';overflow:visible;fill:#3465a4;stroke-width:0.549999px"
+     id="text117">2</text>
+</svg>

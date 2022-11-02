@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="422" height="168.4" version="1.1">
+<defs>
+</defs>
+<rect x="44.4" y="37.6" ry="14.8" width="217.5" height="55.3" style="color:black; overflow:visible; opacity:0.2; fill:#fce94f; stroke:#3465a4; stroke-width:0.24px;"/>
+<text x="63" y="76.3" style="font-family:'Comic Sans MS'; font-size:32.8px; color:black; overflow:visible; fill:#3465a4; stroke-width:1px;">3, 5, 7, 9, ...</text>
+<g transform="matrix(0.059028,-0.06613,-0.080073,-0.023358,162.785,134.388)">
+<path style="color:black; overflow:visible; fill:#91c065; stroke-width:6.78;" d="m -18.8,1396.8 c 68,-57.5 160.6,-51.9 238.4,-21 44.3,-2.9 93.3,2.4 31.4,26.1 -76.2,9.4 -157.3,-60.2 -227.4,-2.8 -11.3,13.3 -28.5,-1.6 -42.4,-2.3 z"/>
+<path style="color:black; overflow:visible; fill:#91c065; stroke-width:6.78;" d="m 248.6,1334 c 18,38.3 101.6,45.3 31,62.9 -30,-7.5 -95,-53.8 -31,-62.9 z"/>
+<path style="color:black; overflow:visible; fill:#91c065; stroke-width:6.78;" d="m 215.9,1435.6 c 19.1,-45.9 167.2,-80.6 80,-31.3 26.8,-18.6 -58.8,57.4 -80,31.3 z"/>
+</g>
+<text x="9.6" y="116.9" style="font-family:'Comic Sans MS'; font-size:15px; color:black; overflow:visible; fill:#4e9a06; stroke-width:1px;">1st term</text>
+<text x="62.3" y="136.7" style="font-family:'Comic Sans MS'; font-size:15px; color:black; overflow:visible; fill:#4e9a06; stroke-width:1px;">2nd term</text>
+<text x="117.6" y="116.9" style="font-family:'Comic Sans MS'; font-size:15px; color:black; overflow:visible; fill:#4e9a06; stroke-width:1px;">3rd term</text>
+<text x="168.3" y="136.7" style="font-family:'Comic Sans MS'; font-size:15px; color:black; overflow:visible; fill:#4e9a06; stroke-width:1px;">4th term</text>
+<g transform="matrix(0.031121,-0.071695,0.051197,0.03678,66.5132,54.0125)">
+<path style="color:black; overflow:visible; fill:#91c065; stroke-width:7.99;" d="m -18.8,1396.8 c 78.4,-71.1 181.6,-37 270.8,-18.6 90.4,-3.7 -60.3,54.1 -90.8,10.7 -71,-48.1 -119,27.8 -180,7.9 z"/>
+<path style="color:black; overflow:visible; fill:#91c065; stroke-width:7.99;" d="m 248.6,1334 c 20.2,36.3 100.3,46.6 31,62.9 -31.3,-8.1 -96,-52.9 -31,-62.9 z"/>
+<path style="color:black; overflow:visible; fill:#91c065; stroke-width:7.99;" d="m 215.9,1435.6 c 45.3,-63.5 140,-61.5 93.2,-34.8 -37.4,9.6 -51.6,54.2 -93.2,34.8 z"/>
+</g>
+<g transform="matrix(0.033074,-0.109198,-0.084306,0.016615,216.454,96.2715)">
+<path style="color:black; overflow:visible; fill:#91c065; stroke-width:6.17;" d="m -18.8,1396.8 c 61,-48.7 146.2,-58.2 217,-26.1 40.3,10.4 127.5,-0.8 52.7,31.1 -64.2,4.2 -192,-46.7 -186.3,-22.7 -32.1,10.7 -49.3,35.9 -83.5,17.7 z"/>
+<path style="color:black; overflow:visible; fill:#91c065; stroke-width:6.17;" d="m 248.6,1334 c 18.5,37.9 101.1,45.6 31,62.9 -30.1,-8.4 -95.5,-52.7 -31,-62.9 z"/>
+<path style="color:black; overflow:visible; fill:#91c065; stroke-width:6.17;" d="m 215.9,1435.6 c 12.6,-28.8 127.7,-83.7 101.9,-44.2 -26.8,24.6 -0.7,-0.8 -35,22.4 -22.7,20.2 -36.6,33.5 -66.9,21.8 z"/>
+</g>
+<g transform="matrix(-0.008694,-0.106501,-0.071811,0.046793,294.253,56.4495)">
+<path style="color:black; overflow:visible; fill:#91c065; stroke-width:6.17;" d="m -18.8,1396.8 c 61,-48.7 146.2,-58.2 217,-26.1 40.4,10.1 127.2,-0.3 52.7,31.1 -64.2,4.2 -192,-46.7 -186.3,-22.7 -32.1,10.6 -49.2,36 -83.5,17.7 z"/>
+<path style="color:black; overflow:visible; fill:#91c065; stroke-width:6.17;" d="m 248.6,1334 c 18.6,37.6 100.9,46 31,62.9 -30,-8.4 -95.6,-52.7 -31,-62.9 z"/>
+<path style="color:black; overflow:visible; fill:#91c065; stroke-width:6.17;" d="m 215.9,1435.6 c 12.9,-31 144.4,-90.2 95.8,-36.6 -26.4,10.7 9.6,-4.9 -28.9,14.8 -22.7,20.2 -36.5,33.6 -66.9,21.8 z"/>
+</g>
+<text x="245.8" y="111.6" style="font-family:'Comic Sans MS'; font-size:15px; color:black; overflow:visible; fill:#729fcf; stroke-width:1px;">three dots means</text>
+<g transform="matrix(-0.032512,-0.107818,0.091938,0.001726,116.316,113.666)">
+<path style="color:black; overflow:visible; fill:#729fcf; stroke-width:6.17;" d="m -18.8,1396.8 c 61,-48.7 146.2,-58.2 217,-26.1 28.5,21.4 119.9,-17 67.9,29.4 -53.2,13.2 -198,-39 -188.4,-25.6 -37.8,7.3 -58.2,42.9 -96.5,22.2 z"/>
+<path style="color:black; overflow:visible; fill:#729fcf; stroke-width:6.17;" d="m 248.6,1334 c 9.3,44.4 96.6,28.4 43.2,64.9 -31.9,-0.7 -112.3,-54.4 -43.2,-64.9 z"/>
+<path style="color:black; overflow:visible; fill:#729fcf; stroke-width:6.17;" d="m 215.9,1435.6 c 15.3,-29.2 115.3,-78 105.3,-48.4 0,13.7 -44.7,23.2 -12.2,13.6 -38.8,10.1 -50.8,53.8 -93.2,34.8 z"/>
+</g>
+<text x="3.7" y="164.3" style="font-family:'Comic Sans MS'; font-size:15px; font-style:italic; color:black; overflow:visible; fill:#c4a000; stroke-width:1px;">(&quot;term&quot;,  &quot;element&quot; or &quot;member&quot; mean the same thing)</text>
+<text x="-2.1" y="20" style="font-family:'Comic Sans MS'; font-size:27.9px; font-style:italic; color:black; overflow:visible; fill:#edd400; stroke-width:1px;">Sequence:</text>
+<text x="245.8" y="125.6" style="font-family:'Comic Sans MS'; font-size:15px; color:black; overflow:visible; fill:#729fcf; stroke-width:1px;">goes on forever (infinite)</text>
+</svg>

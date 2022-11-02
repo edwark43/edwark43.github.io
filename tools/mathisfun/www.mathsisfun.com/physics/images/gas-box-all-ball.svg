@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="299.1" height="196.9" version="1.1" style="font-family:'Trebuchet MS';">
+<defs>
+	<linearGradient id="id4">
+		<stop offset="0" style="stop-color:#ff8aed; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#ff8aed; stop-opacity:0.69;"/>
+	</linearGradient>
+	<linearGradient id="id3">
+		<stop offset="0" style="stop-color:#ff8aed; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#ff8aed; stop-opacity:0.48;"/>
+	</linearGradient>
+	<linearGradient id="id2">
+		<stop offset="0" style="stop-color:#0061c6; stop-opacity:0.49;"/>
+		<stop offset="1" style="stop-color:#a0deff; stop-opacity:0.33;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#a0deff; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient id="id1">
+		<stop offset="0" style="stop-color:#11a0ed; stop-opacity:0.1;"/>
+		<stop offset="1" style="stop-color:#11a0ed; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="id5" gradientTransform="matrix(2.41313,-1.67332,0,2.94343,2641.18,-7203.67)" xlink:href="#id1" x1="-1661.3" y1="2737.5" x2="-1631.3" y2="2737.5" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="id6" gradientTransform="matrix(2.93323,0,0,2.94343,2710.54,-7251.66)" xlink:href="#id1" x1="-1366.7" y1="3681.5" x2="-1287.8" y2="3681.5" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="id7" gradientTransform="matrix(2.93323,0,0,2.94343,2640.8,-7020.71)" xlink:href="#id1" x1="-1313.6" y1="3635.8" x2="-1268.7" y2="3634.8" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="id9" r="149.525" fx="-1278.71" fy="3623.3" cx="-1278.7" cy="3623.3" gradientTransform="matrix(0.913448,0.002379,-0.001728,0.935835,-117.246,236.827)" xlink:href="#id2" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="id10" r="29.5142" fx="-1288.88" fy="3675.43" cx="-1288.9" cy="3675.4" gradientTransform="matrix(1,0,0,0.636573,0,1335.75)" xlink:href="#id3" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="id11" r="27.4081" fx="-1241.49" fy="3677.12" cx="-1241.5" cy="3677.1" gradientTransform="matrix(1.05636,0.358551,-0.226111,0.666164,910.413,1671.88)" xlink:href="#id4" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g transform="translate(1366.76,-3510.27)">
+	<path style="stop-color:black; stop-opacity:1; fill:url(#id5); stroke:#3465a4; stroke-width:1; stroke-linejoin:bevel;" d="m -1366.3,3559 69.4,-48.1 v 147.6 l -69.4,48.1 z"/>
+	<path style="fill:url(#id6); stroke:#3465a4; stroke-width:1; stroke-linejoin:bevel;" d="m -1296.9,3511 v 147.6 c 0,0 228.7,-0.3 228.7,-0.3 v -147.5 z"/>
+	<path style="fill:url(#id7); stroke:#3465a4; stroke-width:1; stroke-linejoin:bevel;" d="m -1366.3,3706.7 228.7,-0.3 69.4,-48.1 -228.7,0.3 z"/>
+	<ellipse cx="-124.1" cy="3225.6" rx="1.1" ry="0" style="fill:#ff0000; stroke:black; stroke-width:0.2px;"/>
+	<text x="-213.3" y="3207.9" style="font-size:9.6px; fill:black; stroke-width:0.2px;"/> &#160; &#160; 
+	<use transform="matrix(0.761904,0,0,0.761904,-602.579,3497.11)" xlink:href="#id8" x="0" y="0"/>
+	<use transform="matrix(0.761904,0,0,0.761904,-602.579,3497.11)" xlink:href="#id8" x="0" y="0"/>
+	<use transform="matrix(0.761904,0,0,0.761904,-602.579,3497.11)" xlink:href="#id8" x="0" y="0"/>
+	<use transform="matrix(0.761904,0,0,0.761904,-602.579,3497.11)" xlink:href="#id8" x="0" y="0"/>
+	<use transform="matrix(0.761904,0,0,0.761904,-642.981,3068.28)" xlink:href="#id8" x="0" y="0"/>
+	<path style="fill:url(#id9); stroke-width:1px;" d="m -1273.2,3686.4 c -78.9,0.4 -77.2,-154.2 -1.3,-153.9 76,0.2 80.2,153.5 1.3,153.9 z"/>
+	<path style="fill:#11a0ed; fill-opacity:0.1; stroke:#3465a4; stroke-width:1; stroke-linejoin:bevel;" d="m -1366.3,3559.2 228.7,-0.3 69.4,-48.1 -228.7,0.3 z"/>
+	<path style="stop-color:black; stop-opacity:1; fill:#11a0ed; fill-opacity:0.1; stroke:#3465a4; stroke-width:1; stroke-linejoin:bevel;" d="m -1137.6,3558.9 69.3,-48.1 v 147.6 l -69.3,48.1 z"/>
+	<path style="fill:url(#id10); stroke-width:1px;" d="m -1314.5,3671.6 c 0,0 20.9,1.1 24.8,-4.5 3.9,-5.6 15.4,-10.4 15.4,-10.4 0,0 17.7,-0.8 14.5,11 -3.2,11.8 -7.5,25.2 -19.9,26.4 -18.6,1.8 -49.7,-11 -34.8,-22.5 z"/>
+	<path style="fill:url(#id11); stroke-width:1px;" d="m -1209.8,3690 c 0,0 -14.2,-4.3 -16.4,4.4 -2.1,8.7 -11.8,-6.7 -11.8,-6.7 0,0 -23.7,15 -24.8,-1.5 -1.1,-16.5 15.2,-13.6 28.8,-19.5 20.5,-8.9 36.5,3.1 24.1,23.4 z"/>
+	<text x="-1300.7" y="3620.3" style="font-size:31.7px; font-style:italic; fill:#666666; stroke-width:1px;">Gas</text>
+</g>
+</svg>

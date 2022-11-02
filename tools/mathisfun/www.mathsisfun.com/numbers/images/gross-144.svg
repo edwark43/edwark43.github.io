@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="238.8" height="222.3" version="1.1">
+<defs>
+</defs>
+<g transform="translate(-56.336543,-510.87747)">
+<g id="id5" transform="translate(-2.946879,0)">
+<circle id="id1" cx="119.1" cy="560.5" r="5.4026113" style="color:black; overflow:visible; fill:#19aeff; stroke:#005c94; stroke-width:1.47;"/>
+<use id="id2" transform="translate(15.716695,0)" xlink:href="#id1"/>
+<use id="id3" transform="translate(31.433376,0)" xlink:href="#id1"/>
+<use id="id4" transform="translate(31.433376,0)" xlink:href="#id2"/>
+<use transform="translate(62.866757,0)" xlink:href="#id1"/>
+<use transform="translate(62.866756,0)" xlink:href="#id2"/>
+<use transform="translate(62.866741,0)" xlink:href="#id3"/>
+<use transform="translate(62.866749,0)" xlink:href="#id4"/>
+<use transform="translate(125.73352,0)" xlink:href="#id1"/>
+<use transform="translate(125.7335,0)" xlink:href="#id2"/>
+<use transform="translate(125.73351,0)" xlink:href="#id3"/>
+<use transform="translate(125.7335,0)" xlink:href="#id4"/>
+</g>
+<use id="id6" transform="translate(0,30.285368)" xlink:href="#id5"/>
+<use id="id7" transform="translate(0,60.570731)" xlink:href="#id5"/>
+<use id="id8" transform="translate(0,60.570716)" xlink:href="#id6"/>
+<use id="id9" transform="translate(0,15.142669)" xlink:href="#id5"/>
+<use id="id10" transform="translate(0,15.142685)" xlink:href="#id6"/>
+<use id="id11" transform="translate(0,15.142671)" xlink:href="#id7"/>
+<use id="id12" transform="translate(0,15.142686)" xlink:href="#id8"/>
+<use transform="translate(0,105.99877)" xlink:href="#id9"/>
+<use transform="translate(0,90.856074)" xlink:href="#id10"/>
+<use transform="translate(0,75.713405)" xlink:href="#id11"/>
+<use transform="translate(0,60.570722)" xlink:href="#id12"/>
+<text x="54.3" y="655.2" style="font-family:'Comic Sans MS'; font-size:26.4px; font-style:italic; color:black; overflow:visible; fill:#19aeff; stroke-width:1px;">12</text>
+<text x="174.2" y="333.5" transform="scale(0.48318469,2.069602)" style="font-family:'Times New Roman'; font-size:89.6px; color:black; overflow:visible; fill:#19aeff; stroke-width:1px;">{</text>
+<text x="1104.7" y="-76" transform="matrix(0,0.47970716,-2.0846051,0,0,0)" style="font-family:'Times New Roman'; font-size:90.2px; color:black; overflow:visible; fill:#19aeff; stroke-width:1px;">{</text>
+<text x="188.3" y="531" style="font-family:'Comic Sans MS'; font-size:26.4px; font-style:italic; color:black; overflow:visible; fill:#19aeff; stroke-width:1px;">12</text>
+<text x="150.5" y="657.7" style="font-family:'Comic Sans MS'; font-size:58.6px; font-style:italic; color:black; overflow:visible; fill:black; stroke:white; stroke-width:1px;">144</text>
+</g>
+</svg>

@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: 'titillium_webextralight';
+    src: url('fonts/webfontkit-20221027-163353/titilliumweb-extralight-webfont.woff2') format('woff2'),
+         url('fonts/webfontkit-20221027-163353/titilliumweb-extralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: bold;
+}
+
+    @font-face {
+        font-family: 'titillium_webbold';
+        src: url('fonts/webfontkit-20221027-165950/titilliumweb-bold-webfont.woff2') format('woff2'),
+             url('fonts/webfontkit-20221027-165950/titilliumweb-bold-webfont.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+    
+    }
+    p {
+    font-family: 'titillium_webbold', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    }
+    body {
+        overflow-x: hidden; /* Hide scrollbars */
+      }
+    body {
+        overflow-y: hidden; /* Hide scrollbars */
+      }

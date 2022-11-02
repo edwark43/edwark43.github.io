@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/calculus/integration-by-parts.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:11 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+<!-- #BeginEditable "doctitle" -->
+<title>Integration by Parts</title>
+<meta name="description" content="Integration by Parts is a special method of integration that is often useful when two functions are multiplied together, but is also helpful in other ways">
+
+<style>
+  .intsymb { font: italic 150% Georgia, Arial; position: relative; top: 1px; padding: 0 1px 0 0.2rem;} 
+
+  .intgl {display:inline-block;  margin: -4% 0 4% -1%; transform: translateX(20%) translateY(35%);}  
+	.intgl .to {text-align:center; width:2em; font: 0.8em Verdana; margin: 0 0 -5px 8px;} 
+	.intgl .symb {font: 180% Georgia;}
+	.intgl .symb:before { content: "\222B";} 
+	.intgl .brack {font: 180% Georgia;}
+  .intgl .from {text-align:center; width:2em; font: 0.8em Verdana; overflow:visible; }
+
+  .sigma {display:inline-block; margin: -4% 0 4% -1%; transform: translateX(20%) translateY(35%);}  
+	.sigma .to {text-align:center; width:2em; font: 0.8em Verdana; margin: 0 0 -12px 0;} 
+  .sigma .symb {font: 200% Georgia; transform: translateY(16%); }
+	.sigma .symb:before { content: "\03A3";} 	
+	.sigma .from {text-align:center; width:2em; font: 0.8em Verdana; overflow:visible; }
+  
+</style>    
+  
+  
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">Integration by Parts</h1>
+
+<p>Integration by Parts is a special method of integration that is often useful when two functions are multiplied together, but is also helpful in other ways.</p>
+      <p>You will see plenty of examples soon, but first let us see the rule:</p>
+<p class="center larger"><span class="intsymb">∫</span>u v dx = u<span class="intsymb">∫</span>v dx −<span class="intsymb">∫</span>u' (<span class="intsymb">∫</span>v dx) dx</p>
+      <ul>
+        <li><b>u</b> is the function u(x)</li>
+        <li><b>v</b> is the function v(x)</li>
+        <li><b>u'</b> is the <a href="derivatives-rules.html">derivative</a> of the function u(x)</li>
+      </ul>
+      <p>The rule as a diagram:</p>
+      <p class="center"><img src="images/integral-parts-general.svg" alt="integration by parts general" height="181" width="311"></p>
+  <p>Let's get straight into an example:</p>
+
+<div class="example">
+
+<h3>Example: What is <span class="intsymb">∫</span>x cos(x) dx ?</h3>
+        <p>OK, we have  <b>x</b> <i>multiplied by</i> <b>cos(x)</b>, so  integration by parts is a good choice.</p>
+        <p>First choose which functions for <b>u</b> and  <b>v</b>:</p>
+        <ul>
+          <li>u = x</li>
+          <li>v = cos(x)</li>
+        </ul>
+        <p class="large">So now it is in the format  <span class="intsymb"><b>∫</b></span><b>u v dx</b> we can proceed:</p>
+        <p>Differentiate <b>u</b>: <span class="larger">u' = x' = 1</span></p>
+        <p>Integrate <b>v</b>: <span class="larger"><span class="intsymb">∫</span>v dx = <span class="intsymb">∫</span>cos(x) dx = sin(x)</span> &nbsp; <i>(see <a href="integration-rules.html">Integration Rules</a>)</i></p>
+        <p>Now we can put it together:</p>
+        <p class="center"><img src="images/integral-parts-x-cosx.svg" alt="integration by parts x cos(x) dx" height="175" width="309"></p>
+        <p>Simplify and solve:</p>
+        <div class="so">x sin(x) − <span class="intsymb">∫</span>sin(x) dx </div>
+        <div class="so">x sin(x) + cos(x) + C</div>
+<p>Done!</p>
+      </div>
+      <p>&nbsp;</p>
+<p>So we followed these steps:</p>
+      <ul>
+        <li>Choose  u and v</li>
+        <li>Differentiate u: u'</li>
+        <li>Integrate v: <span class="intsymb">∫</span>v dx</li>
+        <li>Put u,  u' and<span class="intsymb"> ∫</span>v dx  into: <span class="center"><b>u<span class="intsymb">∫</span>v dx −<span class="intsymb">∫</span>u' (<span class="intsymb">∫</span>v dx) dx</b></span></li>
+        <li>Simplify  and  solve</li>
+      </ul><br>
+<div class="words">
+<p>In English we can say that <b><span class="intsymb">∫</span>u v dx</b> becomes:</p>
+        <p class="center larger">(u  integral v) minus integral of (derivative u, integral v)</p>
+      </div>
+      <p>&nbsp;</p>
+      <p>Let's try some more examples:</p>
+
+<div class="example">
+
+<h3>Example: What is<span class="intsymb"> ∫</span>ln(x)/x<sup>2</sup> dx ?</h3>
+        <p>First choose u and v:</p>
+        <ul>
+          <li>u = ln(x)</li>
+          <li>v = 1/x<sup>2</sup></li>
+        </ul>
+        <p>Differentiate u: <span class="larger">ln(x)' = <span class="intbl"><em>1</em><strong>x</strong></span></span></p>
+        <p>Integrate v: <span class="larger"><span class="intsymb">∫</span>1/x<sup>2</sup> dx = <span class="intsymb">∫</span>x<sup>-2</sup> dx = −x<sup>-1</sup>  = <span class="intbl"><em>−1</em><strong>x</strong></span> </span> &nbsp;<i> (by the <a href="integration-rules.html">power rule</a>)</i></p>
+        <p>Now put it together:</p>
+        <p class="center"><img src="images/integral-parts-lnx-on-x2.svg" alt="integration by parts ln(x) on x^2" height="191" width="300"></p>
+        <p>Simplify:</p>
+        <div class="so">−ln(x)/x −<span class="larger"><span class="intsymb"> ∫</span></span>−<span class="larger">1/x<sup>2</sup></span> dx </div>
+<div class="so">−ln(x)/x − 1/x + C</div>
+<div class="so">− <span class="intbl"><em>ln(x) + 1</em><strong>x</strong></span> + C</div>
+<!-- − ln(x)+1/x + C -->
+      </div>
+      <p>&nbsp;</p><br>
+<p><br></p>
+
+<div class="example">
+
+<h3>Example: What is <span class="intsymb">∫</span>ln(x) dx ?</h3>
+        <p>But there is only one function! How do we choose u and v ?</p>
+        <p>Hey! We can just choose v as being "1":</p>
+        <ul>
+          <li>u = ln(x)</li>
+          <li>v = 1</li>
+        </ul>
+        <p>Differentiate u: <span class="larger">ln(x)' = 1</span>/x</p>
+        <p>Integrate v: <span class="larger"><span class="intsymb">∫</span>1 dx = x </span></p>
+        <p>Now put it together:</p>
+        <p class="center"><img src="images/integral-parts-lnx.svg" alt="integration by parts ln(x)" height="185" width="303"></p>
+        <p>Simplify:</p>
+        <div class="so">x ln(x) − <span class="larger"><span class="intsymb">∫</span></span>1<span class="larger"></span> dx </div>
+<div class="so">x ln(x) − x + C</div>
+      </div>
+      <p>&nbsp;</p>
+
+<div class="example">
+
+<h3>Example: What is<span class="intsymb"> ∫</span>e<sup>x</sup> x dx ?</h3>
+        <p>Choose u and v:</p>
+        <ul>
+          <li>u = e<sup>x</sup></li>
+          <li>v = x</li>
+        </ul>
+        <p>Differentiate u: <span class="larger">(e<sup>x</sup>)' = e<sup>x</sup></span></p>
+        <p>Integrate v: <span class="larger"> <span class="intsymb">∫</span>x dx = x<sup>2</sup>/2</span></p>
+        <p>Now put it together:</p>
+        <p class="center"><img src="images/integral-parts-ex-x.svg" alt="integration by parts e^x x" height="188" width="289"></p>
+<p>
+  It only got worse!
+  </p>
+  </div>
+      <p>Well, that was a spectacular disaster.</p>
+      <p>Maybe we could choose a different u and v?</p>
+
+<div class="example">
+
+<h3>Example: <span class="intsymb">∫</span>e<sup>x</sup> x dx (continued)</h3>
+        <p>Choose u and v differently:</p>
+        <ul>
+          <li>u = x</li>
+          <li>v = e<sup>x</sup></li>
+        </ul>
+        <p>Differentiate u: <span class="larger">(x)' = 1</span></p>
+        <p>Integrate v: <span class="larger"><span class="intsymb">∫</span>e<sup>x</sup> dx = e<sup>x</sup></span></p>
+        <p>Now put it together:</p>
+        <p class="center"><img src="images/integral-parts-x-ex.svg" alt="integration by parts x e^x" height="175" width="285"></p>
+        <p>Simplify:</p>
+        <div class="so"> x <span class="larger">e<sup>x</sup></span> − <span class="larger">e<sup>x</sup></span> + C        </div>
+        <div class="so"><span class="larger">e<sup>x</sup></span>(x−1) + C</div>
+      </div>
+      <p>The moral of the story: Choose <b>u</b> and <b>v</b> carefully!</p>
+      <div class="center80">
+        <p>Choose a <b>u</b> that gets simpler when you differentiate it and a   <b>v</b> that doesn't get any more complicated when you integrate it.</p>
+      </div>
+      <p>A helpful rule of thumb is <span class="large">I LATE</span>. Choose <b>u</b> based on which of these comes first:</p>
+      <ul>
+        <li><b>I</b>: <a href="../algebra/trig-inverse-sin-cos-tan.html">Inverse trigonometric functions</a> such as  sin<sup>-1</sup>(x), cos<sup>-1</sup>(x), tan<sup>-1</sup>(x)</li>
+        <li><b>L</b>: <a href="../sets/function-logarithmic.html">Logarithmic</a> functions such as ln(x), log(x)</li>
+        <li><b>A</b>: <a href="../numbers/algebraic-numbers.html">Algebraic</a> functions such as x<sup>2</sup>, x<sup>3</sup></li>
+        <li><b>T</b>: <a href="../sine-cosine-tangent.html">Trigonometric functions</a> such as sin(x), cos(x), tan (x)</li>
+        <li><b>E</b>: <a href="../sets/function-exponential.html">Exponential functions</a> such as e<sup>x</sup>, 3<sup>x</sup></li>
+    </ul><br><p>And here is one last (and  tricky) example:</p>
+
+<div class="example">
+
+<h3>Example: <span class="intsymb">∫</span>e<sup>x</sup> sin(x) dx</h3>
+        <p>Choose u and v:</p>
+        <ul>
+          <li>u = sin(x)</li>
+          <li>v = e<sup>x</sup></li>
+        </ul>
+        <p>Differentiate u: <span class="larger">sin(x)' = cos(x)</span></p>
+        <p>Integrate v: <span class="larger"><span class="intsymb">∫</span>e<sup>x</sup> dx = e<sup>x</sup></span></p>
+        <p>Now put it together:</p>
+        <div class="so"><span class="intsymb">∫</span>e<sup>x</sup> sin(x) dx = sin(x) e<sup>x</sup> −<span class="intsymb">∫</span>cos(x) e<sup>x</sup> dx</div>
+<p>&nbsp;</p>
+        <p>It looks worse, but let us persist! To find <span class="large"><span class="intsymb">∫</span>cos(x) e<sup>x</sup> dx</span> we can use integration by parts <b>again</b>:</p>
+        <p>Choose u and v:</p>
+        <ul>
+          <li>u = cos(x)</li>
+          <li>v = e<sup>x</sup></li>
+        </ul>
+        <p>Differentiate u: <span class="larger">cos(x)' = -sin(x)</span></p>
+        <p>Integrate v: <span class="larger"><span class="intsymb">∫</span>e<sup>x</sup> dx = e<sup>x</sup></span></p>
+        <p>Now put it together:</p>
+        <div class="so"><span class="intsymb">∫</span>e<sup>x</sup> sin(x) dx = sin(x) e<sup>x</sup> − (cos(x) e<sup>x</sup> −<span class="intsymb">∫</span>−sin(x) e<sup>x</sup> dx)</div>
+        <p>Simplify:</p>
+        <div class="so"><span class="intsymb">∫</span>e<sup>x</sup> sin(x) dx =  e<sup>x</sup> sin(x) −  e<sup>x</sup> cos(x) −<span class="intsymb">∫</span> e<sup>x</sup> sin(x)dx</div>
+<p>Now we have the <b>same integral on both sides</b> (except one is subtracted) ...</p>
+        <p>... so we can bring the right hand integral over to the left and we get:</p>
+        <div class="so">2<span class="intsymb">∫</span>e<sup>x</sup> sin(x) dx = e<sup>x</sup> sin(x) −  e<sup>x</sup> cos(x)</div>
+<p>Simplify:</p>
+<div class="so"><span class="intsymb">∫</span>e<sup>x</sup> sin(x) dx = ½ e<sup>x</sup> (sin(x) − cos(x))  + C</div>
+      </div>
+<p>&nbsp;</p>
+    
+<h2>Definite Integrals</h2>
+<p>When the integral has an interval like [a, b] we can use either of these:</p><span style="font-size:140%;"></span>
+        
+    
+    <div class="center larger">
+<div class="intgl">
+  <div class="to">b</div>
+  <div class="symb"></div>
+  <div class="from">a</div>
+</div>u v dx =       
+      <span style="display:inline-block; transform: scaleY(2);">[</span> 
+            u<div class="intgl">
+<div class="to">&nbsp;</div>
+<div class="symb"></div>
+<div class="from">&nbsp;</div>
+</div>v dx      
+
+            −<div class="intgl">
+  <div class="to">&nbsp;</div>
+  <div class="symb"></div>
+  <div class="from">&nbsp;</div>
+</div>u'(<div class="intgl">
+<div class="to">&nbsp;</div>
+<div class="symb"></div>
+<div class="from">&nbsp;</div>
+</div>v dx) dx
+  
+  
+                    <span style="display:inline-block; transform: scaleY(2);">]</span> 
+<div style="display:inline-block; font: 0.8em Verdana; text-align:center;transform: translateY(30%) translateX(-30%);">
+				<div>b</div><br>
+				<div>a</div>
+			</div>
+  
+  </div>
+
+        
+    
+    <div class="center larger">
+<div class="intgl">
+  <div class="to">b</div>
+  <div class="symb"></div>
+  <div class="from">a</div>
+</div>u v dx =       
+      <span style="display:inline-block; transform: scaleY(2);">[</span> 
+            u<div class="intgl">
+<div class="to">&nbsp;</div>
+<div class="symb"></div>
+<div class="from">&nbsp;</div>
+</div>v dx      
+                  <span style="display:inline-block; transform: scaleY(2);">]</span> 
+<div style="display:inline-block; font: 0.8em Verdana; text-align:center;transform: translateY(30%) translateX(-30%);">
+				<div>b</div><br>
+				<div>a</div>
+			</div>
+            −<div class="intgl">
+  <div class="to">b</div>
+  <div class="symb"></div>
+  <div class="from">a</div>
+</div>u'(<div class="intgl">
+<div class="to">&nbsp;</div>
+<div class="symb"></div>
+<div class="from">&nbsp;</div>
+</div>v dx) dx</div>
+  
+  <p>Where u and v are functions of x, and a and b are the limits on x. </p>The second version can help us see the relationship between the left and right integrals.<br>
+<p>See <a href="integration-definite.html">Definite Integrals</a> for more info.</p>
+<span style="font-size:140%;"></span>
+  
+  
+      <p></p>
+
+
+<h2>Footnote: Where Did "<span class="center">Integration by Parts</span>" Come From?</h2>
+
+<div class="center80">
+        <p>It is based on the <a href="derivatives-rules.html">Product Rule for Derivatives</a>:</p>
+        <div class="so">(uv)' = uv' + u'v</div>
+        <p>Integrate both sides and rearrange:</p>
+        <div class="so"><span class="intsymb">∫</span>(uv)' dx = <span class="intsymb">∫</span>uv' dx + <span class="intsymb">∫</span>u'v dx</div>
+        <div class="so">uv = <span class="intsymb">∫</span>uv' dx + <span class="intsymb">∫</span>u'v dx</div>
+        <div class="so"><span class="intsymb">∫</span>uv' dx = uv − <span class="intsymb">∫</span>u'v dx</div>
+        <p>Some people prefer that last form, but I like to replace <b>v' with w</b> and <b>v with<span class="intsymb">∫</span>w dx</b> which makes the left side simpler:</p>
+        <div class="so"><span class="intsymb">∫</span>uw dx = u<span class="intsymb">∫</span>w dx − <span class="intsymb">∫</span>u'(<span class="intsymb">∫</span>w dx) dx</div>
+      </div>
+    <p>&nbsp;</p>
+<div class="questions">6844, 6845, 6846, 6847, 6848, 6849, 6850, 6851, 6852, 6853</div>
+
+<div class="related">  
+  <a href="integration-rules.html">Integration Rules</a>  
+  <a href="index.html">Calculus Index</a>
+</div>
+      <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2022 Rod Pierce</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/calculus/integration-by-parts.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:49:12 GMT -->
+</html>

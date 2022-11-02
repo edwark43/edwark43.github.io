@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/sets/np-complete.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:00:49 GMT -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>NP-Complete - A Rough Guide</title>
+<script language="JavaScript" type="text/javascript">reSpell=[["traveling","travelling"]];</script>
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=true;" />
+<meta name="HandheldFriendly" content="true"/>
+<meta http-equiv="pics-label" content='(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://www.mathsisfun.com" r (SS~~000 1))' />
+<link rel="stylesheet" type="text/css" href="../style3.css" />
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun" /></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran"><script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus"><script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort"><script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search"><script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+				<h1 align="center">NP-Complete - A Rough Guide</h1>
+				<p>This is a rough guide to the meaning of &quot;NP-Complete&quot;. It is not intended to be an exact definition, but should help you to understand the concept. </p>
+				<p>These are just my personal ideas and are not meant to be &quot;rigorous&quot;.</p>
+				<h2>Its All About &quot;Time to Solve&quot;</h2>
+				<p>When you measure how long a program takes to run when it is given more and more difficult problems (such as sorting a list of 10 items, 20 items, 30 items etc) you can  plot the times and come up with a function.</p>
+				
+				<div class="example">
+					<p style="float:right; margin: 0 0 5px 10px;"><img src="images/program-time-x2.svg" alt="time to finish graph" /></p>
+					<h3>Example: a program's  time  increases by x<sup>2</sup></h3>
+					<p>So a problem that is twice as hard takes 4 times as long. </p>
+					<p>That program is in &quot;P&quot;, as it is solvable in &quot;Polynomial&quot; time. </p>
+					<p>In this case the polynomial is:</p>
+					<p align="center"><b>t = x<sup>2</sup></b></p>
+				</div>
+				<p>But if the time goes up exponentially or factorially, or something that exceeds what a polynomial can do, it is NOT in &quot;P&quot; (it is not solvable in &quot;Polynomial&quot; time).</p>
+<p class="def center larger"><b>P</b>: can be solved in <b>P</b>olynomial time.<br>
+				&nbsp;(How long it takes is defined by a polynomial)</p>
+				
+				<h2>Amazing Computer can do what normal Computers can't</h2>
+				<p>Now, the &quot;N&quot; in &quot;NP&quot; refers to the fact that you are not bound by the normal way a computer works, which is step-by-step. The &quot;N&quot; actually stands for &quot;Non-deterministic&quot;. This means that you are dealing with an amazing kind of computer that can run things simultaneously or could somehow guess the right way to do things, or something like that. </p>
+				<p>So this &quot;N&quot; computer can solve lots more problems in &quot;P&quot; time - for example it can just clone copies of itself when needed.</p>
+				<p>It is not a Super Computer (they are just very fast normal computers), it is really a &quot;Non-deterministic&quot; computer, but I am calling it an Amazing Computer to give you the idea!</p>
+				<p>So, programs that take dramatically longer as the problem gets harder (i.e. not in &quot;P&quot;) could be solved quickly on this amazing &quot;N&quot; computer and so are in &quot;NP&quot;. Thus &quot;NP&quot; means &quot;we can solve it in polynomial time if we can break the normal rules of step-by-step computing&quot;.</p>
+				<p class="def center larger"><b>NP</b>: can be solved in <b>P</b>olynomial time using a <b><br>
+					N</b>on-deterministic method.<br>
+				(also includes <b>P</b> problems) </p>
+				<p>&nbsp;</p>
+				<h2>Amazing Computers can also do what normal Computers can</h2>
+				<p style="float:left; margin: 0 10px 5px 0;"><img src="images/complexity-classes.svg" alt="NP Problems" /></p>
+				<p>Since this amazing &quot;N&quot; computer can also do anything a normal computer can, we know that &quot;P&quot; problems are also in &quot;NP&quot;.</p>
+				<p>So, the easy problems are in &quot;P&quot; (and &quot;NP&quot;), but the <b>really hard ones</b> are *only* in &quot;NP&quot;, and they are called &quot;NP-complete&quot;.</p>
+				<p>It is like saying there are things that People can do (&quot;P&quot;), there are things that SuperPeople can do (&quot;SP&quot;), and there are things *only* SuperPeople can do (&quot;SP-complete&quot;).</p>
+				<p class="def center larger"><b>NP-Complete</b>: can be solved in <b>P</b>olynomial time<br>
+<b>only</b> using a <b>N</b>on-deterministic method.</p>
+				<h2>NP-Complete may not last</h2>
+				<p>Oh, one more thing, it is believed that if anyone could *ever* solve an &quot;NP-Complete&quot; problem in &quot;P&quot; time, then *all* &quot;NP-complete&quot; problems could also be solved that way by using the same method, and the whole class of &quot;NP-Complete&quot; would cease to exist.</p>
+				<p>&nbsp; </p>
+				<h2>Traveling Salesman Problem</h2>
+				<p style="float:left; margin: 0 10px 5px 0;"><img src="images/travelling-salesman-ae.gif" width="163" height="166"  alt="travelling salesman links" /></p>
+				<p>The classic example of &quot;NP-Complete&quot; problems is the Traveling Salesman Problem.</p>
+				<p>Imagine you need to visit 5 cities on your sales tour. You know all the distances. Which is the shortest round-trip to follow? ABCEDA? ADECBA?</p>
+				<p>An obvious solution is to  check all possibilities.</p>
+				<p>But this only works for small problems. If you add a new city it needs to be tried out in every previous combination.</p>
+				<p class="center">So this method takes &quot;<a href="../numbers/factorial.html">factorial</a> time&quot;: <b>t = n!</b></p>
+				<p class="center">(Actually <b>t = (n-1)!</b> but it is still factorial.)</p>
+				<p>Imagine the program  solves a 20-city problem in 1 second, then</p>
+				<ul>
+					<li>a 21-city problem  will take about 21 seconds to solve. </li>
+					<li>And a 22-city problem will take about 462 seconds (over 7 minutes), </li>
+					<li>and a 30-city problem will take 3 Million Years. Ouch! </li>
+				</ul>
+				<p>Luckily, there are special ways to break the problem into sub-problems (called &quot;dynamic programming&quot;, but the best  still take <a href="../exponent.html">exponential time</a>: <b>t = 2<sup>n</sup></b> <i>(2 with an exponent of  n)</i></p>
+				<p>So a program that solves 20 cities in 1 second will solve 30-cities in about 10 minutes, and  60-cities in about 35,000 Years (still a bit too long).</p>
+				<p>But if we had the &quot;Amazing Computer&quot; mentioned above it could, for example, create copies of itself to check all the possibilities, and hopefully solve the problem very quickly.</p>
+				<h2>NP-Hard</h2>
+				<p>When a problem's method for solution can be turned into an <b>NP-Complete</b> method for solution it is said to be &quot;NP-Hard&quot;. </p>
+				<p class="def center larger"><b>NP-Hard</b>: as hard as any NP-problem, or maybe harder. </p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p>Anyway, I hope this &quot;quick and dirty&quot; introduction has helped you ... now go and read something more rigorous.</p>
+				<p>&nbsp; </p>
+				<div class="related"> <a href="index.html">Sets</a> </div>
+				<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2018 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body>
+<!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/sets/np-complete.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 01:00:49 GMT -->
+</html>

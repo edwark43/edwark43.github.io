@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="163.7" height="102.9" version="1.1">
+<defs>
+<marker id="id2" style="overflow:visible;" orient="auto">
+<path transform="matrix(-1.1,0,0,-1.1,-1.1,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 C 7,-1.6 7,1.6 8.7,4 Z"/>
+</marker>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-1.1,0,0,-1.1,-1.1,0)" style="fill:#204a87; stroke:#204a87; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 C 7,-1.6 7,1.6 8.7,4 Z"/>
+</marker>
+</defs>
+<g transform="translate(-353.843,-273.324)">
+<path style="color:black; overflow:visible; fill:none; stroke:#204a87; stroke-width:1.55;" d="m 360.8,372.1 a 78,78 0 0 1 78,-78 78,78 0 0 1 78,78"/>
+<path style="color:black; marker-end:url(#id1); overflow:visible; fill:none; stroke:#204a87; stroke-width:1.55;" d="m 361.2,360 v 13.6"/>
+<path style="color:black; overflow:visible; fill:none; stroke:#ff9900; stroke-width:1.55;" d="m 390.6,372.1 a 48.2,48.2 0 0 1 48.2,-48.2 48.2,48.2 0 0 1 48.2,48.2"/>
+<path style="color:black; marker-end:url(#id2); overflow:visible; fill:#ff9900; stroke:#ff9900; stroke-width:1.55;" d="m 392.3,360 v 13.6"/>
+<text x="411.8" y="286.5" style="font-family:'Comic Sans MS'; font-size:17.5px; color:black; overflow:visible; fill:#204a87; stroke-width:1px;">Longer</text>
+<text x="407.2" y="320.1" style="font-family:'Comic Sans MS'; font-size:17.5px; color:black; overflow:visible; fill:#ff9900; stroke-width:1px;">Shorter</text>
+</g>
+</svg>

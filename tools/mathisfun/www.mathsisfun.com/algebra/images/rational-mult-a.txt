@@ -1,0 +1,19 @@
+clr 0x000000
+thk 3
+alp 100
+char 44 34 a
+line 38 48 75 48
+char 46 86 b
+char 89 54 *
+char 131 37 c
+line 122 48 153 48
+char 123 84 d
+char 178 50 =
+start
+
+clr 0x0000F0
+char 234 35 a
+char 262 36 c
+line 217 46 296 46
+char 233 84 b
+char 254 82 d

@@ -1,0 +1,33 @@
+clr 0x000000
+thk 3
+alp 100
+char 17 29 (
+char 30 30 x
+line 48 11 50 9~to 53 7~to 55 8~to 56 10~to 55 13~to 54 15~to 51 17~to 48 19~to 51 17~to 54 17~to 57 18
+char 63 31 -
+char 86 30 x
+char 106 28 )
+char 125 28 3
+char 143 32 y
+char 180 28 =
+start
+
+clr 0x00F07F
+clr 0xF0A000
+line 20 45 24 43~to 26 42~to 30 42~to 32 41~to 36 40~to 40 40~to 43 40~to 48 41~to 50 42
+line 120 45 123 44~to 126 43~to 128 43~to 131 42~to 133 41~to 137 41~to 141 40~to 145 40~to 149 40~to 151 41~to 156 42~to 159 43~to 162 43
+char 222 28 3
+char 243 31 x
+line 262 13 264 11~to 267 10~to 269 11~to 269 14~to 269 17~to 267 20~to 264 20~to 262 21~to 264 20~to 267 20~to 270 20~to 273 20
+char 274 32 y
+clr 0x0000F0
+clr 0x0000F0
+line 71 40 74 38~to 77 38~to 80 37~to 82 38~to 86 38~to 88 37~to 92 37~to 95 38~to 99 38
+line 122 50 127 48~to 130 46~to 134 45~to 137 44~to 140 43~to 144 43~to 148 43~to 151 43~to 154 44~to 156 46
+char 309 30 -
+char 334 29 3
+char 357 31 x
+char 375 33 y
+clr 0xF0D000
+thk 5
+line 439 25 441 27~to 444 30~to 446 33~to 447 37~to 448 39~to 451 35~to 453 31~to 456 27~to 459 24~to 462 21~to 467 19~to 469 17~to 473 15~to 475 14

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="190.6" height="174.7" version="1.1">
+<defs/>
+<g transform="matrix(0.424899,0,0,0.424899,33.2477,-97.0602)">
+<text x="161.1" y="381.3" style="font-family:'Comic Sans MS'; font-size:40px; color:black; overflow:visible; fill:#003399; stroke-width:1px;">2 + 15 = 17</text>
+<text x="20" y="330.8" style="font-family:'Comic Sans MS'; font-size:40px; color:black; overflow:visible; fill:#204a87; stroke-width:1px;">15 / 3 = 5</text>
+<text x="-75.1" y="258.9" style="font-family:'Comic Sans MS'; font-size:40px; color:black; overflow:visible; fill:#8ae234; stroke-width:1px;">5.5 - 3.4 = 2.1</text>
+<text x="-81.1" y="433.5" style="font-family:'Comic Sans MS'; font-size:40px; color:black; overflow:visible; fill:#ce5c00; stroke-width:1px;">3 × (4+2) = 18</text>
+<text x="-32.6" y="570" style="font-family:'Comic Sans MS'; font-size:40px; color:black; overflow:visible; fill:#ad7fa8; stroke-width:1px;">√9 = 3</text>
+<text x="105.1" y="508.1" style="font-family:'Comic Sans MS'; font-size:40px; color:black; overflow:visible; fill:#fcaf3e; stroke-width:1px;">25% of 12 is 3</text>
+<g transform="translate(-494.096,8.12617)">
+<text x="604.8" y="598.5" style="font-family:'Comic Sans MS'; font-size:32.2px; color:black; overflow:visible; fill:#8f5902; stroke:#729fcf; stroke-width:1px;">3</text>
+<text x="619.3" y="630.5" style="font-family:'Comic Sans MS'; font-size:32.2px; color:black; overflow:visible; fill:#8f5902; stroke:#729fcf; stroke-width:1px;">4</text>
+<text x="656.3" y="616.6" style="font-family:'Comic Sans MS'; font-size:40px; color:black; overflow:visible; fill:#8f5902; stroke:#729fcf; stroke-width:1px;">× 16 = 12</text>
+<path style="fill:#8f5902; fill-opacity:0.75; stroke:#729fcf; stroke-width:2.5;" d="m 637.2,594.6 -29.8,17.5"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="529.435"
+   height="59"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="polynomials.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg28" />
+  <defs
+     id="defs2" />
+  <rect
+     x="359.535"
+     y="0"
+     width="169.9"
+     height="59"
+     style="color:#000000;overflow:visible;opacity:1;fill:#ffd6ff;fill-opacity:1;stroke-width:2.5"
+     id="rect2274"
+     ry="18.5633" />
+  <rect
+     x="179.767"
+     y="0"
+     width="169.9"
+     height="59"
+     style="color:#000000;overflow:visible;opacity:1;fill:#ffd6ff;fill-opacity:1;stroke-width:2.5"
+     id="rect2272"
+     ry="18.5633" />
+  <rect
+     x="0"
+     y="0"
+     width="169.9"
+     height="59"
+     style="color:#000000;overflow:visible;opacity:1;fill:#ffd6ff;fill-opacity:1;stroke-width:2.5"
+     id="rect4"
+     ry="18.5633" />
+  <text
+     x="21.5716"
+     y="51.3"
+     style="color:#000000;font-size:15.4px;font-family:'Trebuchet MS';overflow:visible;fill:#6600cc;stroke-width:1px"
+     id="text10">Monomial (1 term)</text>
+  <text
+     x="60.6294"
+     y="28.8"
+     style="color:#000000;font-size:22px;font-family:'Trebuchet MS';overflow:visible;fill:#204a87;stroke:#204a87;stroke-width:0.55"
+     id="text12">3xy</text>
+  <text
+     x="95.9611"
+     y="22.2"
+     style="color:#000000;font-size:15.4px;font-family:'Trebuchet MS';overflow:visible;fill:#204a87;stroke:#204a87;stroke-width:0.55"
+     id="text14">2</text>
+  <text
+     x="234.37"
+     y="28.8"
+     style="color:#000000;font-size:22px;font-family:'Trebuchet MS';overflow:visible;fill:#204a87;stroke:#204a87;stroke-width:0.55"
+     id="text16">5x − 1</text>
+  <text
+     x="383.6"
+     y="28.8"
+     style="color:#000000;font-size:22px;font-family:'Trebuchet MS';overflow:visible;fill:#204a87;stroke:#204a87;stroke-width:0.55"
+     id="text18">3x + 5y   − 3</text>
+  <text
+     x="455.922"
+     y="21.1805"
+     style="color:#000000;font-size:15.4px;font-family:'Trebuchet MS';overflow:visible;fill:#204a87;stroke:#204a87;stroke-width:0.55"
+     id="text20">2</text>
+  <text
+     x="200.775"
+     y="51.3"
+     style="color:#000000;font-size:15.4px;font-family:'Trebuchet MS';overflow:visible;fill:#6600cc;stroke-width:1px"
+     id="text22">Binomial (2 terms)</text>
+  <text
+     x="378.779"
+     y="51.3"
+     style="color:#000000;font-size:15.4px;font-family:'Trebuchet MS';overflow:visible;fill:#6600cc;stroke-width:1px"
+     id="text24">Trinomial (3 terms)</text>
+</svg>

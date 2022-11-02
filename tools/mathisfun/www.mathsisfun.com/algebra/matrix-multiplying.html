@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/algebra/matrix-multiplying.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:36:40 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>How to Multiply Matrices</title>
+<meta name="Description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents.">
+
+
+
+
+
+<style>
+
+.mat {
+  font: 20px Verdana, Arial, Trebuchet MS, Tahoma, Geneva, Verdana, sans-serif;
+	color: #f30;
+	
+  background-image: linear-gradient(#07c, #07c),
+    linear-gradient(#07c, #07c),
+    linear-gradient(#07c, #07c),
+    linear-gradient(#07c, #07c);
+  
+  background-repeat: no-repeat;
+  background-size: 7px 2px;
+  background-position: top left, top right, bottom left, bottom right;
+
+  border: solid #07c;
+  
+  border-width: 0 2px;
+  display: inline-block;
+  vertical-align: middle;
+
+  padding: 2px 9px 3px 9px;
+	
+	border-radius:3px;
+  
+}
+
+
+.cols1, .cols2, .cols3, .cols4 {
+	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;	
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.cols1 { grid-template-columns: max-content; }
+.cols2 { grid-template-columns: repeat(2, max-content); }
+.cols3 { grid-template-columns: repeat(3, max-content); }
+.cols4 { grid-template-columns: repeat(4, max-content); }
+
+.txt {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 3px 3px;
+	font: 24px Verdana, Geneva, sans-serif;
+	color: orange;
+	text-align: center;
+	min-width: 25px;
+}
+
+</style>
+
+
+
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+
+<h1 class="center">How to Multiply Matrices</h1>
+
+<p>A Matrix is an array of numbers:</p>
+  <p class="center"><img src="images/matrix-example.svg" alt="2x3 Matrix" height="71" width="153"><br>
+<span class="large">A Matrix</span><br>
+(This one has 2 Rows and 3 Columns)</p>
+  <p>To multiply a matrix by a single number is easy:</p>
+  <p src="images/matrix-addition.gif" align="center"><img src="images/matrix-multiply-constant.svg" alt="Matrix Multiply Constant" height="" width=""></p>
+  <div class="center">These are the calculations: </div>
+  <div class="simple">
+    <table align="center">
+      <tbody>
+<tr style="text-align:center;">
+        <td>2×4=8</td>
+        <td>2×0=0</td>
+      </tr>
+      <tr style="text-align:center;">
+        <td>2×1=2</td>
+        <td>2×-9=-18</td>
+      </tr>
+    </tbody></table>
+  </div>
+  <p>We call the number  ("2" in this case) a <b>scalar</b>, so this is called <span class="large">"scalar multiplication"</span>.</p>
+
+
+<h2>Multiplying a Matrix by Another Matrix</h2>
+
+<p>But to multiply a matrix <b>by another matrix</b> we need to do the "<a href="vectors-dot-product.html">dot product</a>" of  rows and columns ... what does that mean? Let us see with an example:</p>
+  <p>To work out the answer for the <b>1st row</b> and <b>1st column</b>:</p>
+  <p class="center"><img src="images/matrix-multiply-a.svg" alt="Matrix Multiply Dot Product" height="123" width="360"></p>
+  <div class="def">
+    <p>The "Dot Product" is where we <b>multiply matching members</b>, then sum up:</p>
+    <p class="center larger">(1, 2, 3) • (7, 9, 11) = 1×7 + 2×9 + 3×11<br>
+&nbsp; &nbsp; = 58</p>
+    <p>We match the 1st members (1 and 7), multiply them, likewise for the 2nd members (2 and 9) and the 3rd members (3 and 11), and finally sum them up.</p>
+  </div>
+  <p>Want to see another example? Here it is for the 1st row and <b>2nd column</b>:</p>
+  <p class="center"><img src="images/matrix-multiply-b.svg" alt="Matrix Multiply next entry" height="103" width="360"></p>
+  <p class="center larger">(1, 2, 3) • (8, 10, 12) = 1×8 + 2×10 + 3×12<br>
+&nbsp; &nbsp; = 64</p>
+  <p>We can do the same thing for the <b>2nd row</b> and <b>1st column</b>:</p>
+  <p class="center larger">(4, 5, 6) • (7, 9, 11) = 4×7 + 5×9 + 6×11<br>
+&nbsp; &nbsp; = 139</p>
+  <p>And for the <b>2nd row</b> and <b>2nd column</b>:</p>
+  <p class="center larger">(4, 5, 6) • (8, 10, 12) = 4×8 + 5×10 + 6×12<br>
+&nbsp; &nbsp; = 154</p>
+  <p>And we get:</p>
+  <p class="center"><img src="images/matrix-multiply-c.svg" alt="Matrix Multiply Finished" height="83" width="421"></p>
+  <p class="center larger">DONE!</p>
+
+
+<h2>Why Do It This Way?</h2>
+
+<p>This may seem an odd and complicated way of multiplying, but it is necessary!</p>
+  <p>I can give you a  real-life example to illustrate why we multiply matrices in this way.</p>
+  <div class="example">
+
+<h3>Example: The local shop sells 3 types of pies.</h3>
+    <ul>
+      <li>Apple pies cost <b>$3</b> each</li>
+      <li>Cherry pies cost <b>$4</b> each</li>
+      <li>Blueberry  pies cost <b>$2</b> each</li>
+    </ul>
+    <p>And this is how many they sold in 4 days:</p>
+    <p class="center"><img src="images/matrix-multiply-ex1a.svg" alt="Matrix Multiply Table" height="130" width="266"></p>
+    <p>Now think about this ... the <b>value of sales</b> for Monday is  calculated this way:</p>
+    <div class="so"> Apple pie value + Cherry pie value + Blueberry  pie value </div>
+    <div class="so"> $3×13 + $4×8 + $2×6  = $83</div>
+    <p>So it is, in fact, the "dot product" of prices and how many were sold:</p>
+    <p class="center"><span class="larger">($3, $4, $2) • (13, 8, 6) = $3×13 + $4×8 + $2×6<br>
+&nbsp; &nbsp; = $83</span></p>
+    <p>We <b>match</b> the price to how many sold, <b>multiply</b> each, then <b>sum</b> the result.</p>
+    <p>&nbsp;</p>
+    <p>In other words:</p>
+    <ul>
+      <li>The sales for Monday were: Apple pies: <b>$3×13=$39</b>, Cherry pies: <b>$4×8=$32</b>, and Blueberry  pies: <b>$2×6=$12</b>. Together that is $39 + $32 + $12 = <b>$83</b></li>
+      <li>And for  Tuesday: <b>$3×9 +</b>  <b>$4×7 + $2</b><b>×4 =</b> <b>$63</b></li>
+      <li>And for  Wednesday: <b>$3×7 +</b>  <b>$4×4 + $2</b><b>×0 =</b> <b>$37</b></li>
+      <li>And for  Thursday: <b>$3×15 +</b>  <b>$4×6 + $2</b><b>×3 =</b> <b>$75</b></li>
+    </ul>
+    <p>So it is important to match each price to each quantity.</p>
+    <p>&nbsp;</p>
+    <p class="center larger">Now you know why we use the "dot product".</p>
+    <p class="center larger">&nbsp;</p>
+    <p>And here is the full result in Matrix form:</p>
+    <p class="center"><img src="images/matrix-multiply-ex1b.svg" alt="Matrix Multiply" height="148" width="600"></p>
+    <p>They sold <b>$83</b> worth of pies on Monday, <b>$63</b> on Tuesday, etc.</p>
+    <p>(You can put those values into the <a href="matrix-calculator.html">Matrix Calculator</a> to see if they work.)</p>
+  </div>
+
+
+<h2>Rows and Columns</h2>
+
+<p>To show how many rows and columns a matrix has we often write <span class="number"><b>rows×columns</b></span>.</p>
+  <div class="example">
+    <p>Example: This matrix is <span class="number"><b>2×3</b></span> (2 rows by 3 columns):</p>
+    <p class="center"><img src="images/matrix-example.svg" alt="2x3 Matrix" height="71" width="153"></p>
+  </div>
+  <p>When we do multiplication:</p>
+  <div class="bigul">
+    <ul>
+      <li>The number of <b>columns of the 1st matrix</b> must equal the number of <b>rows of the 2nd matrix</b>.</li>
+      <li>And the result will have the same number of <b>rows as the 1st matrix</b>, and the same number of <b>columns as the 2nd matrix</b>.</li>
+    </ul>
+  </div>
+  <div class="example">
+
+<h3>Example from before:</h3>
+    <p class="center"><img src="images/matrix-multiply-ex1b.svg" alt="Matrix Multiply" height="148" width="600"></p>
+    <p>In that example we multiplied a <span class="number">1×3</span> matrix by a <span class="number">3×4</span> matrix (note the 3s are the same), and the result was a <span class="number">1×4</span> matrix.</p>
+  </div>
+  <div class="center80">
+    <p class="center"><i>In General:</i></p>
+    <p class="center">To multiply an <span class="number"><b>m×n</b></span> matrix by  an <span class="number"><b>n×p</b></span> matrix, the <span class="number"><b>n</b></span>s must be the same,<br>
+and the result is   an <span class="number"><b>m×p</b></span> matrix.</p>
+    <p class="center"><img src="images/matrix-multiply-rows-cols.svg" alt="matrix multiply rows cols" height="" width=""></p>
+  </div>
+<p>&nbsp;</p>
+  <p>So ... multiplying a <b>1×3</b> by a <b>3×1</b> gets a <b>1×1</b> result:</p>
+<div style="text-align: center;">
+<div class="mat">
+<div class="cols3">
+<div>1</div>
+<div>2</div>
+<div>3</div>
+</div>
+</div>
+<div class="mat">
+<div class="cols1">
+<div>4</div>
+<div>5</div>
+<div>6</div>
+</div>
+</div>
+<div class="txt">=</div>
+<div class="mat">
+<div class="cols1">
+<div>1×4+2×5+3×6</div>
+</div>
+</div>
+<div class="txt">=</div>
+<div class="mat">
+<div class="cols1">
+<div>32</div>
+</div>
+</div>
+</div>
+<!-- [1,2,3][4~5~6] = [1*4+2*5+3*6] = [32] -->
+  <p>But multiplying a <b>3×1</b> by a <b>1×3</b> gets a <b>3×3</b> result:</p>
+<div style="text-align: center;">
+<div class="mat">
+<div class="cols1">
+<div>4</div>
+<div>5</div>
+<div>6</div>
+</div>
+</div>
+<div class="mat">
+<div class="cols3">
+<div>1</div>
+<div>2</div>
+<div>3</div>
+</div>
+</div>
+<div class="txt">=</div>
+<div class="mat">
+<div class="cols3">
+<div>4×1</div>
+<div>4×2</div>
+<div>4×3</div>
+<div>5×1</div>
+<div>5×2</div>
+<div>5×3</div>
+<div>6×1</div>
+<div>6×2</div>
+<div>6×3</div>
+</div>
+</div>
+<div class="txt">=</div>
+<div class="mat">
+<div class="cols3">
+<div>4</div>
+<div>8</div>
+<div>12</div>
+<div>5</div>
+<div>10</div>
+<div>15</div>
+<div>6</div>
+<div>12</div>
+<div>18</div>
+</div>
+</div>
+</div>
+<!-- [4~5~6][1,2,3] = [4*1,4*2,4*3~5*1,5*2,5*3~6*1,6*2,6*3] = [4,8,12~5,10,15~6,12,18] -->
+
+
+<h2>Identity Matrix</h2>
+
+<p>The "Identity Matrix" is the matrix equivalent of the number "1":</p>
+  <p class="center"><img src="images/matrix-identity.svg" alt="Identity Matrix" height="108" width="233"><br>
+<span class="large">A 3×3 Identity Matrix</span></p>
+  <ul>
+    <li>It is "square" (has same number of rows as columns)</li>
+    <li>It can be large or small (2×2, 100×100, ... whatever)</li>
+    <li>It has <b>1</b>s on the main diagonal and <b>0</b>s everywhere else</li>
+    <li>Its symbol is the capital letter <b>I</b></li>
+  </ul>
+  <p>It is a <b>special matrix</b>, because when we multiply by it,  the original is unchanged:</p>
+  <p class="center"><span class="largest">A × I = A<br>
+</span></p>
+  <p class="center"><span class="largest">I × A = A<br>
+</span></p>
+
+
+<h2>Order of Multiplication</h2>
+
+<p>In arithmetic we are used to:</p>
+  <p class="center"><span class="largest">3 × 5 = 5 × 3<br>
+</span>(The <a href="../associative-commutative-distributive.html">Commutative Law</a> of Multiplication)</p>
+  <p>But this is <b>not</b> generally true for matrices (matrix multiplication is <b>not commutative</b>):</p>
+  <p class="largest" align="center">AB ≠ BA</p>
+  <p>When we change the order of multiplication, the answer is (usually) <b>different</b>.</p>
+  <div class="example">
+
+<h3>Example:</h3>
+    <p>See how changing the order affects this multiplication:</p>
+<div style="text-align: center;">
+<div class="mat">
+<div class="cols2">
+<div>1</div>
+<div>2</div>
+<div>3</div>
+<div>4</div>
+</div>
+</div>
+<div class="mat">
+<div class="cols2" style="color:gold;">
+<div>2</div>
+<div>0</div>
+<div>1</div>
+<div>2</div>
+</div>
+</div>
+<div class="txt">=</div>
+<div class="mat">
+<div class="cols2" style="font-size:80%;">
+<div>1×2+2×1</div>
+<div>1×0+2×2</div>
+<div>3×2+4×1</div>
+<div>3×0+4×2</div>
+</div>
+</div>
+<div class="txt">=</div>
+<div class="mat">
+<div class="cols2">
+<div>4</div>
+<div>4</div>
+<div>10</div>
+<div>8</div>
+</div>
+</div>
+</div>
+<!-- [1,2~3,4][2,0~1,2]=[1*2+2*1,1*0+2*2~3*2+4*1,3*0+4*2]=[4,4~10,8] --><br>
+<div style="text-align: center;">
+<div class="mat">
+<div class="cols2" style="color:gold;">
+<div>2</div>
+<div>0</div>
+<div>1</div>
+<div>2</div>
+</div>
+</div>
+<div class="mat">
+<div class="cols2">
+<div>1</div>
+<div>2</div>
+<div>3</div>
+<div>4</div>
+</div>
+</div>
+<div class="txt">=</div>
+<div class="mat">
+<div class="cols2" style="font-size:80%;">
+<div>2×1+0×3</div>
+<div>2×2+0×4</div>
+<div>1×1+2×3</div>
+<div>1×2+2×4</div>
+</div>
+</div>
+<div class="txt">=</div>
+<div class="mat">
+<div class="cols2">
+<div>2</div>
+<div>4</div>
+<div>7</div>
+<div>10</div>
+</div>
+</div>
+</div>
+<!-- [2,0~1,2][1,2~3,4]=[2*1+0*3,2*2+0*4~1*1+2*3,1*2+2*4]=[2,4~7,10] -->
+    <p class="center">The  answers are different!</p>
+  </div>
+  <p>It <b>can</b> have the same result (such as when one matrix is the Identity Matrix) but not usually.</p>
+  <p>&nbsp;</p>
+  <div class="questions">714, 715, 716, 717, 2394, 2395, 2397, 2396, 8473, 8474, 8475, 8476</div>
+
+<div class="related"> 
+  <a href="matrix-introduction.html">Matrices</a> 
+  <a href="matrix-determinant.html">Determinant of a Matrix</a> 
+  <a href="matrix-calculator.html">Matrix Calculator</a> 
+  <a href="index-2.html">Algebra 2 Index</a> 
+</div>
+  <!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2021 MathsIsFun.com</div>
+
+</div>
+
+
+
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/algebra/matrix-multiplying.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:36:41 GMT -->
+</html>

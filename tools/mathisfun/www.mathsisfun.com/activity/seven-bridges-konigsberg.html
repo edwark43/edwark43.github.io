@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Main.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/activity/seven-bridges-konigsberg.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:58:13 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Activity: The Seven Bridges of K&ouml;nigsberg</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents.">
+<script language="JavaScript" type="text/javascript">Author='Gates, Les Bill';</script>
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+<link rel="stylesheet" type="text/css" href="../style3.css">
+<script src="../main3.js"></script>
+</head>
+
+<body id="bodybg">
+<div class="bg">
+	<div id="stt"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun"></a></div>
+	<div id="gtran">
+		<script>document.write(getTrans());</script>
+	</div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script>document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	</header>
+	<nav>
+	<div id="menuWide" class="menu"> 
+		<script>document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort">
+			<script>document.write(getLinks());</script>
+		</div>
+	</div>
+	<div id="search" role="search">
+		<script>document.write(getSearch());</script>
+	</div>
+	<div id="menuSlim" class="menu"> 
+		<script>document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script>document.write(getMenu(2));</script> 
+	</div>
+	</nav>
+	<div id="extra"></div>
+</div>
+<article id="content" role="main">
+<!-- #BeginEditable "Body" -->
+			<h1 class="center">Activity: The Seven Bridges of K&ouml;nigsberg</h1>
+			<p class="center">The old town of K&ouml;nigsberg has seven bridges:</p>
+			<p class="center"><img src="images/bridges1.jpg" alt="The Seven Bridges of Konigsberg" height="302" width="398"></p>
+			<p class="center larger">Can you  take a walk through the town, visiting each part of the
+				town <br>
+				and <b>crossing each bridge only once?</b></p>
+			<p>&nbsp;</p>
+			<p>This question was given to a famous mathematician called Leonhard Euler... but let's try to answer it ourselves!</p>
+			<p>And along the way we will learn a little about "Graph Theory".</p>
+			<h2>Simplifying It</h2>
+			<p>We can simplify the map above to just this:</p>
+			<p class="center"><img src="images/bridges1.gif" alt="seven bridges of konigsberg simplified" height="134" width="261"></p>
+			<p>There are four  areas of the town - on the
+				mainland north of the river, on the mainland south of the river, on the
+				island and on the peninsula (the piece of land on the right)</p>
+			<p>Let us label them A, B, C and D:</p>
+			<table width="100%" border="0">
+				<tbody>
+<tr>
+					<td>
+<p>To "visit each part of the
+							town" you should visit the points <b>A, B, C and D</b>.</p>
+						<p>And you should cross each  bridge <b>p, q, r, s, t, u
+							and v</b> just once.</p></td>
+					<td>&nbsp;</td>
+					<td><img src="images/bridges2.gif" alt="seven bridges of konigsberg simplified with labels" height="150" width="272"></td>
+				</tr>
+			</tbody></table>
+			<p>And we can further	simplify it to this:</p>
+			<p class="center"><img src="images/bridges3.gif" alt="seven bridges of konigsberg as a graph" height="172" width="175"></p>
+			<p class="center larger">So instead of taking long walks through the town, <br>
+				you can now just draw lines with a pencil.</p>
+			<h2>Your Turn</h2>
+			<div class="center80">
+				<p class="larger">Can you draw each  line p, q, r, s, t, u and v <b>only once</b>, without removing your pencil from the paper (you may start at any point) ?</p>
+			</div>
+			<p><b>Have a try and see if you can</b>.</p>
+			<p>...</p>
+			<p>Did	you succeed?</p>
+			<p>&nbsp;</p>
+			<p>Well ... let's take a step back and try some simpler shapes.</p>
+			<p>Try these (remember: draw all the lines, but never go over any line more than once, and don't remove your pencil from the paper.)</p>
+			<p class="center"><img src="images/bridges4.gif" alt="graphs 1 to 8" height="231" width="355"></p>
+			<p>Put your results here:</p>
+			<table align="center" border="1">
+				<tbody>
+<tr>
+					<td align="center" height="30" width="75">Shape</td>
+					<td align="center" width="75">Success?</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">1</td>
+					<td align="center">Yes</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">2</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">3</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">4</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">5</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">6</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">7</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">8</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+			</tbody></table>
+			<p>&nbsp;</p>
+			<h2>So, How Can We Know Which Ones Work
+				and Which Ones Do Not?</h2>
+			<p>Let's investigate!</p>
+			<h3>But first, time to learn some special	words:</h3>
+			<table border="0">
+				<tbody>
+<tr>
+					<td>
+<ul>
+							<li>A point is called a <b>vertex</b> (plural vertices)</li>
+							<li>A line is called an <b>edge</b>.</li>
+							<li>The whole diagram is called a <b>graph</b>.</li>
+						</ul></td>
+					<td>&nbsp;</td>
+					<td><img src="../algebra/images/graph-vertex-edge.svg" alt="graph vertex and edge"></td>
+				</tr>
+			</tbody></table>
+			<table align="center" border="0">
+				<tbody>
+<tr>
+					<td align="right">
+<p>Yes, it is called a "Graph"... but it is <b>NOT this kind of graph</b>:</p>
+						<p>They are both called "graphs". <br>
+							But they are different things. Just how it is.</p></td>
+					<td>&nbsp;</td>
+					<td><img src="../data/images/line-graph-example.svg" alt="line graph example" width="160"></td>
+				</tr>
+			</tbody></table>
+			<p>&nbsp;</p>
+			<table width="100%" border="0">
+				<tbody>
+<tr>
+					<td><img src="../algebra/images/graph-degree.svg" alt="graph degree 3 and 2"></td>
+					<td>
+<ul>
+							<li>The number of edges that lead to a vertex is called the <b>degree</b>.</li>
+						</ul></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0">
+				<tbody>
+<tr>
+					<td>
+<ul>
+							<li>A route around a graph that visits <b>every vertex</b> once is called a <b>simple path</b>.</li>
+							<li>A route around a graph that visits <b>every  edge</b> once is called an <b>Euler path</b>.</li>
+						</ul></td>
+					<td>&nbsp;</td>
+					<td><img src="../algebra/images/graph-path.svg" alt="graph simple path and euler path"></td>
+				</tr>
+			</tbody></table>
+			<h3>Examples:</h3>
+			<table width="100%" border="0">
+				<tbody>
+<tr>
+					<td align="center"><img src="images/bridges-diag7.gif" alt="graph 7" height="133" width="76"></td>
+					<td align="center">&nbsp;</td>
+					<td align="center"><img src="images/bridges-diag8.gif" alt="graph 8" height="132" width="76"></td>
+				</tr>
+				<tr>
+					<td>
+<p>Diagram 7 has</p>
+						<ul>
+							<li>5 vertices: A, B, C, D and E</li>
+							<li>8 edges: AB, BC, CD, DA, AE, BE, AC and BD</li>
+							<li>Vertices A and B have degree 4</li>
+							<li>Vertices C and D have degree 3</li>
+							<li>Vertex E has degree 2</li>
+						</ul></td>
+					<td>&nbsp;</td>
+					<td>
+<p>Diagram 8 has</p>
+						<ul>
+							<li>6 vertices: A, B, C, D, E and F </li>
+							<li>10 edges: AB, BC, CD, DA, AF, BF,CF, DF, AE and BE</li>
+							<li>Vertices A, B and F have degree 4</li>
+							<li>Vertices C and D have degree 3</li>
+							<li>Vertex E has degree 2</li>
+						</ul></td>
+				</tr>
+			</tbody></table>
+			<h2>Euler Path</h2>
+			<p>OK, <span class="center">imagine  the  lines are bridges. If you cross them once only you have solved the puzzle, so ...</span></p>
+			<p class="center larger">... what we want is an "Euler Path" ...</p>
+			<p>... and here is a clue to help you: we can tell which graphs have an "Euler Path" by counting how many vertices have an <b>odd degree</b>.</p>
+			<p>So, fill out this table:</p>
+			<table align="center" border="1">
+				<tbody>
+<tr>
+					<td align="center" height="30" width="75">Shape</td>
+					<td align="center" width="75">Euler Path?</td>
+					<td align="center" width="75">Vertices</td>
+					<td align="center" width="75">how many with even degree</td>
+					<td align="center" width="75">how many with odd degree</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">1</td>
+					<td align="center">Yes</td>
+					<td align="center">4</td>
+					<td align="center">4</td>
+					<td align="center">0</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">2</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">3</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">4</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">5</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">6</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">7</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">8</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+			</tbody></table>
+			<p><strong>Is there a pattern?</strong></p>
+			<h3>&nbsp;</h3>
+			<p>Don't read any further until you have found some kind of pattern ... the answer is in the table.</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			
+			<div class="center80">
+				<p><strong>OK ... the answer is ...</strong></p>
+				<p>The number of vertices of odd degree must
+					be either zero or two.</p>
+				<p>If not then  there is no "Euler Path"</p>
+				<p>And if there are 
+					two vertices with odd degree, then they are the starting and ending vertices.</p>
+			</div>
+			<p>And the reason is not hard to understand.</p>
+			<p class="so">A path leads
+				into a vertex by one edge and out  by a second edge.</p>
+			<p class="so">So
+				the edges should come in pairs (an even number).</p>
+			<p class="so">Only the start and end point can have an odd degree.</p>
+			<h2>Now Back to the K&ouml;nigsberg
+				Bridge Question:</h2>
+			<p class="center"><img src="images/bridges3.gif" alt="seven bridges of konigsberg graph" height="172" width="175"></p>
+			<p>Vertices <strong>A</strong>, <strong>B</strong> and <strong>D</strong> have degree 3 and vertex <strong>C</strong> has degree 5, so this
+				graph has four vertices of odd degree. So it does <b>not have an Euler Path</b>.<br>
+				<br>
+				<strong>We have solved the K&ouml;nigsberg
+				bridge question just like Euler did nearly 300 years ago!</strong></p>
+			<p>&nbsp;</p>
+			<h2>Bonus Exercise: Which of the following graphs have Euler Paths?</h2>
+			<p class="center"><img alt="Bridges8" src="images/bridges8.jpg"></p>
+			<table align="center" border="1">
+				<tbody>
+<tr>
+					<td align="center" height="30" width="75">Shape</td>
+					<td align="center" width="75">Euler Path?</td>
+					<td align="center" width="75">Vertices</td>
+					<td align="center" width="75">How many with even degree</td>
+					<td align="center" width="75">How many with odd degree</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">9</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">10</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">11</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">12</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">13</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" height="30">14</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+					<td align="center">&nbsp;</td>
+				</tr>
+			</tbody></table>
+			<p class="center">&nbsp;</p>
+			<p class="center">&nbsp;</p>
+			<div class="center80">
+				<h3>Footnotes</h3>
+				<p><b>Leonhard Euler</b> (1707 - 1783), a Swiss mathematician, was one of the
+					greatest and most prolific mathematicians of all time. Euler spent much
+					of his working life at the Berlin Academy in Germany, and it was
+					during that time that he was given the "The Seven Bridges of K&ouml;nigsberg" question to solve that has become
+					famous.</p>
+				<p>&nbsp;</p>
+				<p><b>The town of K&ouml;nigsberg</b> straddles the Pregel River. It was
+					formerly in Prussia, but is now known as Kaliningrad and is in Russia.
+					K&ouml;nigsberg was situated close to the mouth of the river and had seven
+					bridges joining the two sides of the river and also an island and a
+					peninsula.</p>
+				<p>&nbsp;</p>
+				<p><b>Answer</b> to the diagrams table:</p>
+				<table align="center" border="1">
+					<tbody>
+<tr>
+						<td align="center" height="30" width="60">Shape</td>
+						<td align="center" width="60">Success?</td>
+						<td align="center" width="60">evens</td>
+						<td align="center" width="60">odds</td>
+					</tr>
+					<tr>
+						<td align="center" height="30">1</td>
+						<td align="center">Yes</td>
+						<td align="center">4</td>
+						<td align="center">0</td>
+					</tr>
+					<tr>
+						<td align="center" height="30">2</td>
+						<td align="center">Yes</td>
+						<td align="center">2</td>
+						<td align="center">2</td>
+					</tr>
+					<tr>
+						<td align="center" height="30">3</td>
+						<td align="center">NO</td>
+						<td align="center">0</td>
+						<td align="center">4</td>
+					</tr>
+					<tr>
+						<td align="center" height="30">4</td>
+						<td align="center">NO</td>
+						<td align="center">1</td>
+						<td align="center">4</td>
+					</tr>
+					<tr>
+						<td align="center" height="30">5</td>
+						<td align="center">Yes</td>
+						<td align="center">2</td>
+						<td align="center">2</td>
+					</tr>
+					<tr>
+						<td align="center" height="30">6</td>
+						<td align="center">Yes</td>
+						<td align="center">3</td>
+						<td align="center">2</td>
+					</tr>
+					<tr>
+						<td align="center" height="30">7</td>
+						<td align="center">Yes</td>
+						<td align="center">3</td>
+						<td align="center">2</td>
+					</tr>
+					<tr>
+						<td align="center" height="30">8</td>
+						<td align="center">Yes</td>
+						<td align="center">4</td>
+						<td align="center">2</td>
+					</tr>
+				</tbody></table>
+			</div>
+			<p>&nbsp;</p>
+
+<div class="related">
+  <a href="index.html">Activities Index</a>
+</div>
+			<!-- #EndEditable -->
+
+</article>
+<div id="adend" class="centerfull noprint"> 
+	<script>document.write(getAdEnd());</script> 
+</div>
+<footer id="footer" class="centerfull noprint">
+	<script>document.write(getFooter());</script>
+</footer>
+<div id="copyrt">
+Copyright &copy; 2020 MathsIsFun.com
+</div>
+<script>document.write(getBodyEnd());</script>
+
+
+
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/activity/seven-bridges-konigsberg.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:58:15 GMT -->
+</html>

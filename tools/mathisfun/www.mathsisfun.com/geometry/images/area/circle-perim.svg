@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+
+<svg
+   width="72.6"
+   height="72.6"
+   version="1.1"
+   style="stroke-width:2.99"
+   id="svg16"
+   sodipodi:docname="circle-perim.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg16" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id12167"
+       inkscape:stockid="id12167">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#f57900;fill-opacity:1;stroke:#f57900;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path917" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id25845"
+       inkscape:stockid="id25845">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#f57900;fill-opacity:1;stroke:#f57900;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path920" />
+    </marker>
+  </defs>
+  <g
+     style="display:none"
+     transform="translate(582.933,-287.519)"
+     id="g6">
+    <image
+       x="-1413.5"
+       y="148.4"
+       width="1305"
+       height="787.4"
+       xlink:href="//////Images/SVG/inkscape_pasted_image_20101001_094421.html"
+       id="image4" />
+  </g>
+  <circle
+     style="fill:#66c9ff;fill-opacity:0.23;stroke:#00009a"
+     id="path10"
+     cx="36.285"
+     cy="36.285"
+     r="34.8" />
+  <text
+     x="51.333"
+     y="40.481"
+     style="font-size:24px;font-family:'Trebuchet MS';fill:#f57900;stroke-width:0.6"
+     id="text12">r</text>
+  <circle
+     style="fill:#00009a;fill-opacity:1;stroke:none;stroke-width:0.115722"
+     id="circle1448"
+     cx="36.285"
+     cy="36.285"
+     r="1.34686" />
+  <path
+     style="font-family:'Trebuchet MS';fill:none;stroke:#f57900;stroke-width:1.10133;marker-start:url(#id12167);marker-end:url(#id25845)"
+     d="M 37.2022,35.1169 58.1568,10.3453"
+     id="path16"
+     sodipodi:nodetypes="cc" />
+</svg>

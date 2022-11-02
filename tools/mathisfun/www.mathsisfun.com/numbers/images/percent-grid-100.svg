@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="144.3" height="144.3" version="1.1">
+<defs/>
+<rect x="0.2" y="0.4" width="143.8" height="143.4" style="color:black; overflow:visible; fill:#ccff42; stroke-width:5.3;"/>
+<g transform="translate(665.499,-1667.05)">
+<g id="id1" transform="matrix(0,-0.219716,0.219716,0,-930.033,1885.31)">
+<path style="overflow:visible; fill:none; stroke:black; stroke-width:4;" d="M 337.7,1858.7 H 992.3"/>
+<g style="overflow:visible; fill:none; stroke:#888888; stroke-width:3;">
+<g>
+<path d="M 337.7,1793.5 H 992.3"/>
+<path d="M 337.7,1728.2 H 992.3"/>
+<path d="M 337.7,1597.6 H 992.3"/>
+<path d="M 337.7,1532.4 H 992.3"/>
+<path d="M 337.7,1467.1 H 992.3"/>
+<path d="M 337.7,1336.5 H 992.3"/>
+</g>
+</g>
+<path style="overflow:visible; fill:none; stroke:black; stroke-width:4;" d="M 337.7,1206 H 992.3"/>
+<path style="overflow:visible; fill:none; stroke:#888888; stroke-width:3;" d="M 337.7,1662.9 H 992.3"/>
+<path style="overflow:visible; fill:none; stroke:#888888; stroke-width:3;" d="M 337.7,1271.3 H 992.3"/>
+<path style="overflow:visible; fill:none; stroke:#888888; stroke-width:3;" d="M 337.7,1401.8 H 992.3"/>
+</g>
+<text x="-661.7" y="1679.9" style="font-family:Arial; font-weight:bold; font-size:13.3px; overflow:visible; fill:#002b3d; stroke-width:1.1;">1</text>
+<use transform="rotate(-90,-593.349,1739.2)" xlink:href="#id1" x="0" y="0"/>
+<text x="-538.7" y="1807.5" style="font-family:Arial; font-weight:bold; font-size:9.9px; overflow:visible; fill:#002b3d; stroke-width:1.35;">100</text>
+</g>
+</svg>

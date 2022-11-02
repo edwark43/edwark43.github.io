@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="159.1" height="223.4" version="1.1">
+<defs>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#a40000; stroke:#a40000; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id2" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#a40000; stroke:#a40000; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<g transform="translate(-295.888,-1058.02)">
+<path style="marker-end:url(#id1); fill:#a40000; stroke:#a40000; stroke-width:4.03;" d="m 319.7,1185 v 41.1"/>
+<path style="marker-end:url(#id2); fill:#a40000; stroke:#a40000; stroke-width:4.03;" d="m 436.8,1058 v 168.4"/>
+<text x="392.9" y="1150.5" style="font-family:Arial; font-weight:600; font-size:17.6px; color:black; overflow:visible; fill:#a40000; stroke-width:0.5px;">Load</text>
+<text x="294.4" y="1179.2" style="font-family:Arial; font-weight:600; font-size:17.6px; color:black; overflow:visible; fill:#a40000; stroke-width:0.5px;">Effort</text>
+<path transform="matrix(0.182972,0,0,0.181975,323.808,1020.26)" style="color:black; overflow:visible; fill:black; stroke:black; stroke-width:5.52; stroke-linecap:round;" d="m 629.4,1334.6 -161.3,0 80.7,-139.7 z"/>
+<rect x="302.4" y="1233.9" width="151.7" height="3.6" style="color:black; overflow:visible; fill:white; stroke:black; stroke-width:1.71; stroke-linecap:round;"/>
+<text x="390.1" y="1281.2" style="font-family:Arial; font-size:17.6px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">Fulcrum</text>
+</g>
+</svg>

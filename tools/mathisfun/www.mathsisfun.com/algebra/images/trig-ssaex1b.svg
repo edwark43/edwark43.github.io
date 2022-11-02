@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="199.4" height="128.2" version="1.1" style="font-family:'Comic Sans MS'; font-size:14.7px;">
+<defs/>
+<path style="fill:#ffff99; stroke:#0169c9; stroke-width:1.77;" d="m 140.2,106.9 a 39.3,39.3 0 0 1 5.9,-20.6 l 33.4,20.7 z"/>
+<text x="184.6" y="114.3">B</text>
+<text x="36.3" y="14">C</text>
+<text x="117.6" y="100.1" style="fill:#0169c9;">31</text>
+<text x="132.4" y="91.9" style="font-size:12px; fill:#0169c9;">o</text>
+<text x="79.9" y="123.6" style="fill:#013397;">13</text>
+<path style="fill:#b3defd; stroke:#9ade00; stroke-width:2.12; stroke-linecap:round; stroke-linejoin:round;" d="M 12.5,106.7 C 38.7,18.3 38.7,18.3 38.7,18.3"/>
+<text x="-0" y="114.5">A</text>
+<text x="30.6" y="60.4" style="fill:#013397;">8</text>
+<text x="127.2" y="69.3" style="fill:#013397;">a</text>
+<text x="50.6" y="86.3" style="fill:#013397;">8</text>
+<path style="fill:none; stroke:#013397; stroke-width:2.12; stroke-linecap:round; stroke-linejoin:round;" d="m 12.3,107.3 165.8,-0.2"/>
+<path style="fill:none; stroke:#9ade00; stroke-width:2.12; stroke-linecap:round; stroke-linejoin:round;" d="m 38.6,17.9 42.8,26.6"/>
+<text x="81.3" y="42.6">C</text>
+<path style="fill:none; stroke:#9ade00; stroke-width:2.12; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:4.2, 4.2;" d="m 16.2,14 a 93.8,93.8 0 0 1 78.6,49.8"/>
+<path style="fill:none; stroke:#013397; stroke-width:1.48; stroke-linecap:round; stroke-linejoin:round;" d="m 81.7,45.2 98.1,62.4"/>
+<path style="fill:none; stroke:#013397; stroke-width:2.12; stroke-linecap:round; stroke-linejoin:round;" d="M 12.7,107.1 C 80.5,44.6 80.5,44.6 80.5,44.6"/>
+</svg>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="183.9"
+   height="96.9"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="polynomial-1var-example.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview28"
+     showgrid="false"
+     inkscape:current-layer="svg26" />
+  <defs
+     id="defs2" />
+  <rect
+     x="0.0189878"
+     y="0.000199237"
+     rx="8.5"
+     ry="12"
+     width="183.9"
+     height="50.5"
+     style="color:#000000;overflow:visible;opacity:1;fill:#f8f8e0;stroke-width:2.5;fill-opacity:1"
+     id="rect4" />
+  <text
+     x="21.419"
+     y="33.7002"
+     style="color:#000000;font-size:24px;font-family:'Comic Sans MS';overflow:visible;fill:#5c3566;stroke-width:1px"
+     id="text6">2x   + 6x - 5</text>
+  <text
+     x="51.519"
+     y="23.9002"
+     style="color:#000000;font-size:16.8px;font-family:'Comic Sans MS';overflow:visible;fill:#5c3566;stroke-width:1px"
+     id="text8">4</text>
+  <path
+     style="fill:#c4a000;fill-opacity:0.75;stroke:#c4a000;stroke-width:1.04"
+     d="m 19.719,45.1002 h 39.5"
+     id="path10" />
+  <path
+     style="fill:#c4a000;fill-opacity:0.75;stroke:#c4a000;stroke-width:1.2"
+     d="m 89.319,45.1002 h 27.7"
+     id="path12" />
+  <path
+     style="fill:#c4a000;fill-opacity:0.75;stroke:#c4a000;stroke-width:1.2"
+     d="m 141.119,45.1002 h 25.1"
+     id="path14" />
+  <text
+     x="79.519"
+     y="95.3002"
+     style="font-size:21.6px;font-family:'Comic Sans MS';overflow:visible;fill:#c4a000;stroke:#c4a000;stroke-width:0.6px"
+     id="text16">terms</text>
+  <path
+     style="fill:#c4a000;fill-opacity:0.75;stroke:#c4a000;stroke-width:1.2"
+     d="m 38.919,45.8002 58,31.3"
+     id="path18" />
+  <path
+     style="fill:#c4a000;fill-opacity:0.75;stroke:#c4a000;stroke-width:1.2"
+     d="m 106.219,45.2002 0.7,31.5"
+     id="path20" />
+  <path
+     style="fill:#c4a000;fill-opacity:0.75;stroke:#c4a000;stroke-width:1.2"
+     d="m 152.919,45.4002 -32.4,30.4"
+     id="path22" />
+</svg>

@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/data/correlation.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:31:56 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Correlation</title>
+<meta name="description" content="When two sets of data are strongly linked together we say they have a High Correlation">
+
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+
+<meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=true;">
+<meta name="HandheldFriendly" content="true">
+<meta http-equiv="pics-label" content="(PICS-1.1 &quot;http://www.classify.org/safesurf/&quot; L gen true for &quot;http://www.mathsisfun.com&quot; r (SS~~000 1))">
+<link rel="stylesheet" type="text/css" href="../style3.css">
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun"></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran">
+<script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus">
+<script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort">
+<script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search">
+<script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+			<h1 class="center">Correlation</h1>
+			<p>When two sets of data are strongly linked together we say they have a <b>High Correlation</b>.</p>
+			<div class="words">
+				<p>The word Correlation is made of <b>Co-</b> (meaning "together"), and <b>Relation</b></p>
+			</div>
+			<ul>
+				<li>Correlation is <b>Positive</b> when the values <b>increase</b> together, and </li>
+				<li>Correlation is <b>Negative</b> when one  value <b>decreases</b> as the other increases</li>
+			</ul>
+			<p>A correlation is assumed to be <b> linear </b> (following a line).</p>
+			<img src="images/correlation-examples.svg" style="max-width:100%" alt="correlation examples">
+			<p>Correlation can have a value: </p>
+			<ul>
+				<li><span class="large">1</span> is a perfect positive correlation</li>
+				<li><span class="large">0</span> is no correlation (the values don't seem linked at all)</li>
+				<li><span class="large">-1</span> is a perfect negative correlation</li>
+			</ul>
+			<p>The value shows <b>how good the correlation is</b> (not  how steep the line is), and if it is positive or negative.</p>
+<h2>Example: Ice Cream Sales</h2>
+<p>The local ice cream shop keeps track of how much ice cream they sell versus the temperature on that day. Here are their figures for the last 12 days: </p>
+<table align="center" cellpadding="4" border="3">
+	<tbody>
+<tr align="center">
+		<td colspan="2"><b><em>Ice Cream Sales vs Temperature</em><em></em></b></td>
+	</tr>
+	<tr align="center">
+		<th>Temperature °C</th>
+		<th>Ice Cream Sales</th>
+	</tr>
+	<tr align="center">
+		<td>14.2°</td>
+		<td>$215 </td>
+	</tr>
+	<tr align="center">
+		<td>16.4°</td>
+		<td> $325 </td>
+	</tr>
+	<tr align="center">
+		<td>11.9° </td>
+		<td>$185 </td>
+	</tr>
+	<tr align="center">
+		<td>15.2° </td>
+		<td>$332 </td>
+	</tr>
+	<tr align="center">
+		<td>18.5° </td>
+		<td>$406 </td>
+	</tr>
+	<tr align="center">
+		<td>22.1° </td>
+		<td>$522 </td>
+	</tr>
+	<tr align="center">
+		<td>19.4° </td>
+		<td>$412 </td>
+	</tr>
+	<tr align="center">
+		<td>25.1° </td>
+		<td>$614 </td>
+	</tr>
+	<tr align="center">
+		<td>23.4° </td>
+		<td>$544 </td>
+	</tr>
+	<tr align="center">
+		<td>18.1°</td>
+		<td> $421 </td>
+	</tr>
+	<tr align="center">
+		<td>22.6°</td>
+		<td> $445 </td>
+	</tr>
+	<tr align="center">
+		<td>17.2°</td>
+		<td>$408</td>
+	</tr>
+</tbody></table>
+<p>And here is the same data as a <span class="center"><a href="scatter-xy-plots.html">Scatter Plot</a></span>:</p>
+<p class="center"><img src="images/scatter-ice-cream1.svg" style="max-width:100%" alt="scatter plot ice cream 1"></p>
+<p>We can easily see that warmer weather and higher sales go together. The relationship is good but not  perfect.</p>
+<p class="center larger">In fact the correlation is <b>0.9575</b> ... see at the end how I  calculated it.</p>
+Also try the <a href="correlation-calculator.html">Correlation Calculator</a>.
+
+
+<h2>Correlation Is Not Good at Curves</h2>
+			<p>The correlation calculation only works properly for  straight line relationships.</p>
+			<div class="example">
+				<h3>Our  Ice Cream Example: <b>there has been a heat wave!</b> </h3>
+				<p>It gets so hot that people aren't going near the shop, and <b>sales start dropping</b>.</p>
+				<p>Here is the latest graph:</p>
+				<p class="center"><img src="images/scatter-ice-cream2.svg" style="max-width:100%" alt="scatter ice cream plot 2"></p>
+				<p class="center larger">The correlation value is now <b>0</b>: "No Correlation" ... !</p>
+				<p>The <b>calculated</b> correlation value    is <b>0</b> (I worked it out), which means "no correlation". </p>
+				<p>But we can see the data follows a nice <b>curve</b> that reaches a peak around 25° C. </p>
+				<p>But the  correlation calculation is not "smart" enough to see this.</p>
+			</div>
+<p class="center larger">Moral of the story: make a <a href="scatter-xy-plots.html">Scatter Plot</a>, and look at it! <br>
+	You may see a relationship that the calculation does not.</p>
+			<h2>"Correlation Is Not Causation"</h2>
+			<p>A common saying is "Correlation Is Not Causation". </p>
+			<p>What it <b>really</b> means is  that  a correlation  does <b>not prove</b> one thing causes the other:</p>
+			<ul>
+				<li>One thing   <b>might</b> cause the other </li>
+				<li>The other  <b>might</b> cause the first to happen</li>
+				<li>They may be linked by a different thing</li>
+				<li>Or it could be random chance!			</li>
+			</ul>
+			<p>There can be many  reasons the data has a good correlation.			</p>
+			<div class="example">
+				<h3>Example: Sunglasses vs Ice Cream</h3>
+				<p>Our Ice Cream shop finds how many sunglasses were sold by a big store for each day and compares them to their ice cream sales:</p>
+				<p class="center"><img src="images/scatter-ice-cream3.svg" style="max-width:100%" alt="scatter ice cream plot 3"></p>
+				<p class="center larger">The correlation between Sunglasses and Ice Cream sales is high</p>
+				<p>Does this mean that sunglasses make people want ice cream?</p>
+			</div>
+			<div class="example">
+				<h3>Example: Poor suburbs are more likely to have high pollution.					</h3>
+				<p>Why? </p>
+				<ul>
+					<li>Do poor people make pollution?					</li>
+					<li>Are polluted suburbs the only place poor people can afford?					</li>
+					<li>Is it a common link, such as factories with low paying jobs and lots of pollution? </li>
+				</ul>
+			</div>
+	<div class="example">
+				<h3>Example: A Real Case! </h3>
+				<p style="float:right; margin: 0 0 5px 10px;"><img src="images/study-sick.gif" alt="study sick" height="150" width="207"></p>
+				<p>A few years ago a survey  of&nbsp;employees found a strong<b></b> positive correlation  between <b>"Studying an external course"</b> and <b>Sick Days</b>.</p>
+				<p>Does this mean:</p>
+				<ul>
+					<li>Studying makes them sick?</li>
+					<li>Sick people study a lot?</li>
+					<li>Or did they lie about being sick so they can study more?				</li>
+				</ul>
+				<p>Without further research we can't be sure why.</p>
+			</div>
+			<h2>How To Calculate</h2>
+			<p>How did I calculate the value <b>0.9575</b> at the top?</p>
+			<p>I used  "Pearson's Correlation". There is   software that can calculate it, such as the CORREL() function in Excel or LibreOffice Calc ...</p>
+<h3>... but here is how to calculate it yourself: </h3>
+			<p>Let us call the two sets of data "x" and "y" (in our case Temperature is <b>x</b> and Ice Cream Sales is <b>y</b>):</p>
+			<ul>
+				<li>Step 1: Find the mean of <b>x</b>, and the mean of <b>y</b></li>
+				<li>Step 2: Subtract the mean of x from every x value (call them "<b>a</b>"), and subtract the mean of y from every y value	(call	them "<b>b</b>")</li>
+				<li>Step 3: Calculate: <b>ab</b>, <b>a<sup>2</sup></b> and <b>b<sup>2</sup></b> for every value</li>
+				<li>Step 4: Sum up <b>ab</b>, sum up <b>a<sup>2</sup></b> and sum up <b>b<sup>2</sup></b></li>
+				<li>Step 5: Divide the sum of ab   by the square root of [(sum of a<sup>2</sup>) × (sum of b<sup>2</sup>)]</li>
+			</ul>
+			<p>Here is how I calculated the first Ice Cream  example (values   rounded to 1 or 0 decimal places):</p>
+			<p class="center"><img src="images/correlation-calc1.svg" style="max-width:100%" alt="correlation calculations"></p>
+			<p>As a formula it is:</p>
+			<p class="center"><img src="images/correlation-formula.gif" alt="correlation formula" height="101" width="274"></p>
+			<p>Where: </p>
+			<ul>
+				<li><span class="times">Σ</span> is <a href="../algebra/sigma-notation.html">Sigma</a>, the symbol for "sum up"</li>
+				<li><span class="times"><i><img src="images/correlation-formula-x.gif" alt="correlation formula (xi - xbar)" height="24" width="68"></i></span> is each x-value minus the mean of x (called "a" above)</li>
+				<li><img src="images/correlation-formula-y.gif" alt="correlation formula (yi - ybar)" height="22" width="63"> is each y-value minus the mean of y (called "b" above) </li>
+			</ul>
+			<p>You probably won't  have  to calculate it like that, but at least you  know  it is not "magic", but simply a routine set of calculations.</p>
+			<div class="center80">
+				<h3>Note for Programmers</h3>
+				<p>You can  calculate it in one pass through the data. Just sum up <b>x</b>, <b>y</b>, <b>x<sup>2</sup></b>, <b>y<sup>2</sup></b> and <b>xy</b>  (no need for <b>a</b> or <b>b</b> calculations above) then use the formula:</p>
+				<p class="center"><img src="images/correlation-formula-onepass.gif" style="max-width:100%" alt="correlation formula onepass"></p>
+			</div>
+			
+			<h3>Other Methods</h3>
+			<p>There are other ways to calculate a correlation coefficient, such as "Spearman's rank correlation coefficient".</p>
+			<p>&nbsp;</p>
+<div class="questions">
+
+<script type="text/javascript">getQ(3072, 3776, 8757, 8758, 8759, 8760, 3080, 3081, 3810, 3811);</script>&nbsp;
+</div>
+<div class="related">
+<a href="correlation-calculator.html">Correlation Calculator</a>
+				<a href="index.html">Data Index</a>
+	</div>
+			<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright © 2018 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/data/correlation.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:31:59 GMT -->
+</html>

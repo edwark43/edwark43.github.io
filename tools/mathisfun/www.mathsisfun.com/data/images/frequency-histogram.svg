@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="310.8"
+   height="364.6"
+   version="1.1"
+   id="svg873"
+   sodipodi:docname="frequency-histogram.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata877">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview875"
+     showgrid="false"
+     inkscape:current-layer="svg873" />
+  <defs
+     id="defs815" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path817"
+     style="fill:none;fill-opacity:0.75;stroke:#000000;stroke-width:1.05"
+     d="M 40.9816,162.69 H 310.782" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path819"
+     style="fill:none;fill-opacity:0.75;stroke:#000000;stroke-width:1.05"
+     d="M 40.9816,215.89 H 310.782" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path821"
+     style="fill:none;fill-opacity:0.75;stroke:#000000;stroke-width:1.05"
+     d="M 40.9816,269.19 H 310.782" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path823"
+     style="fill:none;fill-opacity:0.75;stroke:#000000;stroke-width:1.05"
+     d="M 40.9816,322.39 H 310.782" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path825"
+     style="fill:none;fill-opacity:0.75;stroke:#000000;stroke-width:1.05"
+     d="M 40.9816,109.49 H 310.782" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path827"
+     style="fill:none;fill-opacity:0.75;stroke:#000000;stroke-width:1.05"
+     d="M 40.9816,56.29 H 310.782" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path829"
+     style="fill:none;fill-opacity:0.75;stroke:#000000;stroke-width:1.05"
+     d="M 54.8816,337.09 V 56.49" />
+  <rect
+     id="rect831"
+     style="color:#000000;overflow:visible;opacity:0.9;fill:#6797cb;fill-opacity:0.75;stroke:#000000;stroke-width:0.3"
+     height="106.9"
+     width="37.4"
+     y="216.09"
+     x="64.8816" />
+  <text
+     id="text833"
+     style="color:#000000;font-style:italic;font-size:18.700001px;font-family:Verdana;overflow:visible;fill:#3465a4;stroke-width:0.15px"
+     y="344.59"
+     x="74.5816">1</text>
+  <text
+     id="text835"
+     style="color:#000000;font-style:italic;font-size:18.700001px;font-family:Verdana;overflow:visible;fill:#3465a4;stroke-width:0.15px"
+     y="344.69"
+     x="111.882">2</text>
+  <text
+     id="text837"
+     style="color:#000000;font-style:italic;font-size:18.700001px;font-family:Verdana;overflow:visible;fill:#3465a4;stroke-width:0.15px"
+     y="344.69"
+     x="151.982">3</text>
+  <text
+     id="text839"
+     style="color:#000000;font-style:italic;font-size:18.700001px;font-family:Verdana;overflow:visible;fill:#3465a4;stroke-width:0.15px"
+     y="344.49"
+     x="192.682">4</text>
+  <text
+     id="text841"
+     style="color:#000000;font-style:italic;font-size:18.700001px;font-family:Verdana;overflow:visible;fill:#3465a4;stroke-width:0.15px"
+     y="344.39"
+     x="231.882">5</text>
+  <text
+     id="text843"
+     style="color:#000000;font-size:19.5px;font-family:Verdana;overflow:visible;fill:#73d216;stroke-width:0.15px"
+     y="169.59"
+     x="21.5816">3</text>
+  <text
+     id="text845"
+     style="color:#000000;font-size:19.5px;font-family:Verdana;overflow:visible;fill:#73d216;stroke-width:0.15px"
+     y="62.89"
+     x="21.4816">5</text>
+  <text
+     id="text847"
+     style="color:#000000;font-size:19.5px;font-family:Verdana;overflow:visible;fill:#73d216;stroke-width:0.15px"
+     y="116.19"
+     x="22.2816">4</text>
+  <text
+     id="text849"
+     style="color:#000000;font-size:19.5px;font-family:Verdana;overflow:visible;fill:#73d216;stroke-width:0.15px"
+     y="222.89"
+     x="21.4816">2</text>
+  <text
+     id="text851"
+     style="color:#000000;font-size:19.5px;font-family:Verdana;overflow:visible;fill:#73d216;stroke-width:0.15px"
+     y="275.99"
+     x="24.0816">1</text>
+  <text
+     id="text853"
+     style="color:#000000;font-size:19.5px;font-family:Verdana;overflow:visible;fill:#73d216;stroke-width:0.15px"
+     y="329.29"
+     x="21.7816">0</text>
+  <text
+     id="text855"
+     style="color:#000000;font-style:italic;font-size:18.700001px;font-family:Verdana;overflow:visible;fill:#3465a4;stroke-width:0.15px"
+     y="35.2901"
+     x="45.3816">1,1,2,2,2,2,2,3,3,3,3,4,4,5</text>
+  <rect
+     id="rect857"
+     style="color:#000000;overflow:visible;opacity:0.9;fill:#6797cb;fill-opacity:0.75;stroke:#000000;stroke-width:0.3"
+     height="266.3"
+     width="37.4"
+     y="56.69"
+     x="102.482" />
+  <rect
+     id="rect859"
+     style="color:#000000;overflow:visible;opacity:0.9;fill:#6797cb;fill-opacity:0.75;stroke:#000000;stroke-width:0.3"
+     height="213.2"
+     width="37.4"
+     y="109.79"
+     x="140.182" />
+  <rect
+     id="rect861"
+     style="color:#000000;overflow:visible;opacity:0.9;fill:#6797cb;fill-opacity:0.75;stroke:#000000;stroke-width:0.3"
+     height="107.1"
+     width="37.4"
+     y="215.89"
+     x="177.782" />
+  <rect
+     id="rect863"
+     style="color:#000000;overflow:visible;opacity:0.9;fill:#6797cb;fill-opacity:0.75;stroke:#000000;stroke-width:0.3"
+     height="53.5358"
+     width="37.4"
+     y="269.454"
+     x="215.482" />
+  <text
+     id="text865"
+     style="color:#000000;font-style:italic;font-size:21.299999px;font-family:Verdana;overflow:visible;fill:#3465a4;stroke-width:0.15px"
+     y="15.79"
+     x="127.182">Scores:</text>
+  <text
+     id="text867"
+     style="color:#000000;font-style:italic;font-size:18.700001px;font-family:Verdana;overflow:visible;fill:#3465a4;stroke-width:0.15px"
+     y="364.29"
+     x="122.982">Score</text>
+  <text
+     id="text869"
+     style="color:#000000;font-size:19.5px;font-family:Verdana;overflow:visible;fill:#73d216;stroke-width:0.15px"
+     transform="rotate(-90)"
+     y="14.182"
+     x="-242.79">Frequency</text>
+</svg>

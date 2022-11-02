@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="231.019"
+   height="172.833"
+   version="1.1"
+   id="svg927"
+   sodipodi:docname="additive-inverse.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata931">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview929"
+     showgrid="false"
+     inkscape:current-layer="svg927" />
+  <defs
+     id="defs895" />
+  <text
+     id="text897"
+     style="color:#000000;font-size:31.364502px;font-family:'Comic Sans MS';overflow:visible;fill:#000000;stroke-width:0.752394px"
+     y="22.0776"
+     x="83.7956">+</text>
+  <text
+     id="text899"
+     style="color:#000000;font-size:31.364502px;font-family:'Comic Sans MS';overflow:visible;fill:#ef2929;stroke-width:0.752394px"
+     y="23.6459"
+     x="32.7498">-5</text>
+  <text
+     id="text901"
+     style="color:#000000;font-size:31.364502px;font-family:'Comic Sans MS';overflow:visible;fill:#729fcf;stroke-width:0.752394px"
+     y="23.6459"
+     x="120.414">5</text>
+  <text
+     id="text903"
+     style="color:#000000;font-size:31.364502px;font-family:'Comic Sans MS';overflow:visible;fill:#000000;stroke-width:0.752394px"
+     y="23.8811"
+     x="154.68">= 0</text>
+  <text
+     id="text905"
+     style="color:#000000;font-size:17.407299px;font-family:'Comic Sans MS';overflow:visible;fill:#729fcf;stroke-width:0.752394px"
+     y="64.6293"
+     x="93.9106">Additive Inverse</text>
+  <text
+     id="text907"
+     style="color:#000000;font-size:17.407299px;font-family:'Comic Sans MS';overflow:visible;fill:#ef2929;stroke-width:0.752394px"
+     y="64.6293"
+     x="-1.04546">Number</text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path909"
+     d="M 30.7895,48.6957 45.2172,33.7153"
+     style="fill:#ef2929;fill-opacity:0.75;stroke:#ef2929;stroke-width:1.956226" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path911"
+     d="M 151.856,48.9595 138.448,32.9768"
+     style="fill:#729fcf;fill-opacity:0.75;stroke:#729fcf;stroke-width:1.956226" />
+  <text
+     id="text913"
+     style="color:#000000;font-size:31.364502px;font-family:'Comic Sans MS';overflow:visible;fill:#000000;stroke-width:0.752394px"
+     y="130.482"
+     x="76.7385">+</text>
+  <text
+     id="text915"
+     style="color:#000000;font-size:31.364502px;font-family:'Comic Sans MS';overflow:visible;fill:#ef2929;stroke-width:0.752394px"
+     y="132.051"
+     x="25.6928">14</text>
+  <text
+     id="text917"
+     style="color:#000000;font-size:31.364502px;font-family:'Comic Sans MS';overflow:visible;fill:#729fcf;stroke-width:0.752394px"
+     y="132.051"
+     x="107.083">-14</text>
+  <text
+     id="text919"
+     style="color:#000000;font-size:31.364502px;font-family:'Comic Sans MS';overflow:visible;fill:#000000;stroke-width:0.752394px"
+     y="131.267"
+     x="169.42">= 0</text>
+  <text
+     x="93.9106"
+     y="171.779"
+     style="color:#000000;font-size:17.407299px;font-family:'Comic Sans MS';overflow:visible;fill:#729fcf;stroke-width:0.752394px"
+     id="text1516">Additive Inverse</text>
+  <text
+     x="-1.04546"
+     y="171.779"
+     style="color:#000000;font-size:17.407299px;font-family:'Comic Sans MS';overflow:visible;fill:#ef2929;stroke-width:0.752394px"
+     id="text1518">Number</text>
+  <path
+     style="fill:#ef2929;fill-opacity:0.75;stroke:#ef2929;stroke-width:1.956226"
+     d="M 30.7895,155.846 45.2172,140.865"
+     id="path1520"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#729fcf;fill-opacity:0.75;stroke:#729fcf;stroke-width:1.956226"
+     d="M 151.856,156.11 138.448,140.126"
+     id="path1522"
+     inkscape:connector-curvature="0" />
+</svg>

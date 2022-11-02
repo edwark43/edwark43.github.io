@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="163.4" height="180.5" version="1.1">
+<defs>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<g transform="translate(-1887.64,-2070.96)">
+<rect x="1887.6" y="2071" width="163.4" height="180.5" style="color:black; overflow:visible; fill:white; stroke-width:0.68;"/>
+<path style="color:black; overflow:visible; fill:#729fcf; fill-opacity:0.75; stroke:black; stroke-width:0.68;" d="m 1923.5,2149.1 h 47.1"/>
+<path style="color:black; overflow:visible; fill:#729fcf; fill-opacity:0.75; stroke:black; stroke-width:0.68;" d="m 1916.9,2200.7 v -43.6"/>
+<text x="1919" y="2186.7" style="font-family:'Comic Sans MS'; font-size:16.2px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">0</text>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:1.85;" d="m 1947.8,2191.5 h -27.4"/>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:1.85;" d="m 1886.6,2191.5 h 27.4"/>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:1.85;" d="m 1965.7,2179.1 v -27.4"/>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:1.85;" d="m 1965.7,2117.9 v 27.4"/>
+<text x="1972.4" y="2154.8" style="font-family:'Comic Sans MS'; font-size:16.2px; color:black; overflow:visible; fill:black; stroke-width:0.5px;">0</text>
+<text x="1903.1" y="2230.6" style="font-family:'Comic Sans MS'; font-size:16.2px; color:black; overflow:visible; fill:#005c94; stroke-width:0.5px;">slope =</text>
+<path style="fill:#005c94; stroke:#005c94; stroke-width:1.04;" d="m 1963.3,2225.8 c 0.8,0 19.6,0 19.6,0"/>
+<text x="1967.9" y="2221.7" style="font-family:'Comic Sans MS'; font-size:16.2px; color:black; overflow:visible; fill:#005c94; stroke-width:0.5px;">0</text>
+<text x="1967.9" y="2242" style="font-family:'Comic Sans MS'; font-size:16.2px; color:black; overflow:visible; fill:#005c94; stroke-width:0.5px;">0</text>
+<path style="color:black; overflow:visible; fill:none; stroke:#c4a000; stroke-width:1.38;" d="m 1862.2,2178 c 0,0 70.7,-22.8 83.3,-58.6 21.8,-62 24.7,-93.8 24.7,-93.8"/>
+<text x="1993.1" y="2230.6" style="font-family:'Comic Sans MS'; font-size:16.2px; color:black; overflow:visible; fill:#005c94; stroke-width:0.5px;">= ???</text>
+<path style="color:black; overflow:visible; fill:#0000ff; stroke-width:1.13;" d="m 1920,2150.3 a 2.6,2.6 0 0 1 -2.6,2.6 2.6,2.6 0 0 1 -2.7,-2.6 2.6,2.6 0 0 1 2.6,-2.7 2.6,2.6 0 0 1 2.7,2.6"/>
+</g>
+</svg>

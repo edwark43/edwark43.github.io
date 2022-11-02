@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="235.7" height="186.6" version="1.1" style="font-family:'Comic Sans MS'; font-size:20px; stroke-width:1.64;">
+<defs>
+	<marker id="id3" style="overflow:visible;" orient="auto">
+		<path transform="scale(0.8) rotate(180) translate(12.5,0)" style="fill:#013397; stroke:#013397; stroke-width:1pt;" d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:black; stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#19aeff; stroke:#19aeff; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#c4a000; stroke:#c4a000; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-1.1,0,0,-1.1,-1.1,0)" style="fill:#ff0000; stroke:#ff0000; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 C 7,-1.6 7,1.6 8.7,4 Z"/>
+	</marker>
+	<marker id="id2" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-1.1,0,0,-1.1,-1.1,0)" style="fill:#0000ff; stroke:#0000ff; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 C 7,-1.6 7,1.6 8.7,4 Z"/>
+	</marker>
+</defs>
+<rect x="0" y="0" width="235.7" height="186.6" style="fill:white; stroke-width:6.28;"/>
+<g transform="matrix(0.696787,0,0,0.696787,-1813.67,-1245.14)">
+	<g transform="translate(618,-6)">
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1948.9 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1882.7 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1816.6 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1750.4 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2279.6 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2147.3 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2081.2 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2015 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2213.5 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1982 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1915.8 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1849.7 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,1783.5 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2180.4 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2114.3 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2048.1 h 526.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="m 1832.6,2246.6 h 526.7"/>
+	</g>
+	<g>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2647.9,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2581.7,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2515.6,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2449.4,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2978.6,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2846.3,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2780.2,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2714,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2912.4,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2680.9,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2614.8,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2548.6,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2482.5,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2879.4,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2813.2,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2747.1,2272.4 V 1745.7"/>
+		<path style="fill:none; stroke:#e5e6e8; stroke-dasharray:13.1, 1.6;" d="M 2945.5,2272.4 V 1745.7"/>
+	</g>
+</g>
+<path style="marker-end:url(#id1); fill:none; stroke:#ff0000; stroke-width:1.71;" d="M 31.7,377.7 V 6.5"/>
+<path style="marker-end:url(#id2); fill:none; stroke:#0000ff; stroke-width:1.77;" d="M -83.6,153.4 H 230.3"/>
+<text x="102.1" y="73.7" style="font-family:'Comic Sans MS'; font-style:italic; fill:#013397; stroke-width:1px;">z = a + bi</text>
+<path style="fill:none; stroke:#999999; stroke-width:1; stroke-dasharray:3,3;" d="M 145.8,85.2 V 153.2"/>
+<path style="fill:none; stroke:#999999; stroke-width:1; stroke-dasharray:3,3;" d="M 145.8,85.2 H 33.4"/>
+<text x="139.9" y="168.2" style="font-family:'Comic Sans MS'; font-style:italic; fill:#013397; stroke-width:1px;">a</text>
+<text x="13" y="89.2" style="font-family:'Comic Sans MS'; font-style:italic; fill:#013397; stroke-width:1px;">b</text>
+<text x="200.5" y="178.5" style="font-family:'Comic Sans MS'; font-style:italic; fill:#0000ff; stroke-width:1px;">Re</text>
+<text x="39.8" y="28.7" style="font-family:'Comic Sans MS'; font-style:italic; fill:#ff0000; stroke-width:1px;">Im</text>
+<path style="marker-end:url(#id3); fill:none; stroke:#013397; stroke-width:1px;" d="M 31.4,154.7 145.8,85.2"/>
+</svg>

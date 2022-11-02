@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="141.578"
+   height="78.6111"
+   version="1.1"
+   style="stroke-width:1pt"
+   id="svg8"
+   sodipodi:docname="congruent-flip.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs2" />
+  <path
+     style="fill:#edd400;fill-rule:evenodd;stroke:none;stroke-width:0.933462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 61.6796,10.3227 c 0,0 -53.90606,35.4417 -56.28441,47.9427 -2.37834,12.5009 5.68111,18.7384 24.57471,19.8961 18.8937,1.1576 36.7303,-8.1277 36.7303,-18.0698 0,-9.9422 -14.1247,-16.1067 -11.8912,-27.3864 2.2337,-11.2795 6.8706,-22.3826 6.8706,-22.3826 z"
+     id="path826"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="czzzzc" />
+  <path
+     sodipodi:nodetypes="czzzzc"
+     inkscape:connector-curvature="0"
+     id="path1404"
+     d="m 79.1506,0.471182 c 0,0 53.9064,35.441618 56.2844,47.942618 2.378,12.5009 -5.681,18.7384 -24.575,19.8961 C 91.9666,69.4675 74.13,60.1822 74.13,50.2401 74.13,40.2979 88.2547,34.1334 86.0212,22.8537 83.7875,11.5742 79.1506,0.471182 79.1506,0.471182 Z"
+     style="fill:#c4a000;fill-rule:evenodd;stroke:none;stroke-width:0.933462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>

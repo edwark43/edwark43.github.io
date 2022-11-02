@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="164.4" height="94.7" version="1.1" style="font-family:'Trebuchet MS'; stroke-width:1pt;">
+<defs>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.8,0,0,0.8,10,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.8,0,0,0.8,10,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.8,0,0,0.8,10,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#fcaf3e; stroke:#fcaf3e;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#fcaf3e; stroke:#fcaf3e;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#f57900; stroke:#f57900;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#f57900; stroke:#f57900;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id4" style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id5" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#73d216; stroke:#73d216;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#73d216; stroke:#73d216;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#73d216; stroke:#73d216;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#73d216; stroke:#73d216;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#4e9a06; stroke:#4e9a06;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#19aeff; stroke:#19aeff;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#19aeff; stroke:#19aeff;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.8,0,0,0.8,10,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.8,0,0,0.8,10,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#aeaeae; stop-opacity:1;"/>
+		<stop offset="0.031" style="stop-color:#afafaf; stop-opacity:1;"/>
+		<stop offset="0.063" style="stop-color:#b0b0b0; stop-opacity:1;"/>
+		<stop offset="0.125" style="stop-color:#b3b3b3; stop-opacity:1;"/>
+		<stop offset="0.25" style="stop-color:#b8b8b8; stop-opacity:1;"/>
+		<stop offset="0.5" style="stop-color:#c3c3c3; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#740000; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#1f00ff; stop-opacity:1;"/>
+		<stop offset="0.239" style="stop-color:#1500ff; stop-opacity:1;"/>
+		<stop offset="0.588" style="stop-color:#6f2e02; stop-opacity:1;"/>
+		<stop offset="0.781" style="stop-color:#b67948; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#daa16c; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#c9e1ff; stop-opacity:1;"/>
+		<stop offset="0.25" style="stop-color:#7075f1; stop-opacity:1;"/>
+		<stop offset="0.534" style="stop-color:#4c4de4; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#1e05c9; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#001bff; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#010966; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#0d00d3; stop-opacity:1;"/>
+		<stop offset="0.063" style="stop-color:#0217d3; stop-opacity:1;"/>
+		<stop offset="0.063" style="stop-color:#0704d4; stop-opacity:1;"/>
+		<stop offset="0.105" style="stop-color:#9191ff; stop-opacity:1;"/>
+		<stop offset="0.105" style="stop-color:#1e13d8; stop-opacity:1;"/>
+		<stop offset="0.278" style="stop-color:#0917b4; stop-opacity:1;"/>
+		<stop offset="0.559" style="stop-color:#140090; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#4e55e9; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#9d9dff; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#2700ff; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#010566; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#2700ff; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#010566; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#0018d3; stop-opacity:1;"/>
+		<stop offset="0.016" style="stop-color:#0251d3; stop-opacity:1;"/>
+		<stop offset="0.063" style="stop-color:#0441d4; stop-opacity:1;"/>
+		<stop offset="0.083" style="stop-color:#91acff; stop-opacity:1;"/>
+		<stop offset="0.083" style="stop-color:#131cd8; stop-opacity:1;"/>
+		<stop offset="0.105" style="stop-color:#0929b4; stop-opacity:1;"/>
+		<stop offset="0.139" style="stop-color:#001890; stop-opacity:1;"/>
+		<stop offset="0.58" style="stop-color:#4e60e9; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#9db4ff; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#368fff; stop-opacity:1;"/>
+		<stop offset="0.156" style="stop-color:#1b5de8; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#001fd2; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#3666ff; stop-opacity:0.79;"/>
+		<stop offset="0.063" style="stop-color:#1b26e8; stop-opacity:0.81;"/>
+		<stop offset="1" style="stop-color:#002ad2; stop-opacity:0.86;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#c9dfff; stop-opacity:1;"/>
+		<stop offset="0.25" style="stop-color:#7090f1; stop-opacity:1;"/>
+		<stop offset="0.534" style="stop-color:#4c4ce4; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#1605c9; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#c9e0ff; stop-opacity:1;"/>
+		<stop offset="0.25" style="stop-color:#7081f1; stop-opacity:1;"/>
+		<stop offset="0.534" style="stop-color:#4c6ee4; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#0527c9; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#c9daff; stop-opacity:1;"/>
+		<stop offset="0.25" style="stop-color:#7094f1; stop-opacity:1;"/>
+		<stop offset="0.534" style="stop-color:#4c61e4; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#0509c9; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#c9cfff; stop-opacity:1;"/>
+		<stop offset="0.25" style="stop-color:#7094f1; stop-opacity:1;"/>
+		<stop offset="0.534" style="stop-color:#4c77e4; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#051bc9; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#0009d3; stop-opacity:1;"/>
+		<stop offset="0.016" style="stop-color:#0230d3; stop-opacity:1;"/>
+		<stop offset="0.063" style="stop-color:#0418d4; stop-opacity:1;"/>
+		<stop offset="0.063" style="stop-color:#91a1ff; stop-opacity:1;"/>
+		<stop offset="0.083" style="stop-color:#132bd8; stop-opacity:1;"/>
+		<stop offset="0.105" style="stop-color:#0927b4; stop-opacity:1;"/>
+		<stop offset="0.139" style="stop-color:#000d90; stop-opacity:1;"/>
+		<stop offset="0.58" style="stop-color:#4e61e9; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#9dbdff; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#aeaeae; stop-opacity:1;"/>
+		<stop offset="0.031" style="stop-color:#afafaf; stop-opacity:1;"/>
+		<stop offset="0.063" style="stop-color:#b0b0b0; stop-opacity:1;"/>
+		<stop offset="0.125" style="stop-color:#b3b3b3; stop-opacity:1;"/>
+		<stop offset="0.25" style="stop-color:#b8b8b8; stop-opacity:1;"/>
+		<stop offset="0.5" style="stop-color:#c3c3c3; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:#aeaeae; stop-opacity:1;"/>
+		<stop offset="0.031" style="stop-color:#afafaf; stop-opacity:1;"/>
+		<stop offset="0.063" style="stop-color:#b0b0b0; stop-opacity:1;"/>
+		<stop offset="0.125" style="stop-color:#b3b3b3; stop-opacity:1;"/>
+		<stop offset="0.25" style="stop-color:#b8b8b8; stop-opacity:1;"/>
+		<stop offset="0.5" style="stop-color:#c3c3c3; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:white; stop-opacity:0.62;"/>
+		<stop offset="1" style="stop-color:#6a6a6a; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:white; stop-opacity:0.62;"/>
+		<stop offset="1" style="stop-color:#6a6a6a; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient>
+		<stop offset="0" style="stop-color:black; stop-opacity:1;"/>
+		<stop offset="0.149" style="stop-color:#00017f; stop-opacity:1;"/>
+		<stop offset="0.402" style="stop-color:#0021ff; stop-opacity:1;"/>
+		<stop offset="0.75" style="stop-color:#70b4ff; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:#e0f6ff; stop-opacity:1;"/>
+	</linearGradient>
+	<radialGradient r="25.1015" fx="30.1713" fy="31.9327" cx="30.2" cy="31.9" gradientTransform="matrix(1.23559,-0.029948,0.018489,0.566265,-7.69836,16.7993)" xlink:href="#id1" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="id1">
+		<stop offset="0" style="stop-color:#939393; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:1;"/>
+	</linearGradient>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#204a87; stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#204a87; stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#204a87; stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#204a87; stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id2" style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#204a87; stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id3" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#204a87; stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#204a87; stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#204a87; stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="fill:#ff6600; stroke:#ff6600;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ff6600; stroke:#ff6600;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g style="display:none;" transform="translate(716.642,416.816)">
+	<image x="-1413.5" y="148.4" width="1305" height="787.4" xlink:href="../../Images/SVG/inkscape_pasted_image_20101001_094421.html"/>
+</g>
+<g transform="translate(716.642,416.816)">
+	<path style="marker-start:url(#id2); marker-end:url(#id3); fill:none; stroke:#204a87; stroke-width:1.8;" d="m -607.7,-325.7 c 0,-28.7 0,-57.4 0,-86.1"/>
+	<text x="-596.6" y="-360.4" transform="scale(1.00019,0.999807)" style="font-size:28px; fill:#204a87; stroke-width:0.6;">5 m</text>
+	<rect x="-715.1" y="-415.3" width="92.4" height="91.6" style="fill:#8d66ff; fill-opacity:0.1; stroke:#00009a; stroke-width:2.99;"/>
+	<path style="marker-start:url(#id4); marker-end:url(#id5); fill:#f57900; stroke:#4e9a06; stroke-width:1.5; stroke-dasharray:9, 1.5;" d="m -625,-324.9 -87.3,-87"/>
+	<text x="-666" y="-375.9" transform="scale(1.00019,0.99981)" style="font-size:28px; fill:#4e9a06; stroke-width:0.6;">d</text>
+</g>
+</svg>

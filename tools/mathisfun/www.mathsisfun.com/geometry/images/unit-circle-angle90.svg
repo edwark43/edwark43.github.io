@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="214.9"
+   height="218.8"
+   version="1.0"
+   id="svg27"
+   sodipodi:docname="unit-circle-angle90.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg27" />
+  <defs
+     id="defs5">
+    <marker
+       id="id1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id13420"
+       inkscape:stockid="id13420">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:#3465a4;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#3465a4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path941" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id14716"
+       inkscape:stockid="id14716">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:#3465a4;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#3465a4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1005" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       inkscape:stockid="id134203088"
+       id="id134203088">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:#19aeff;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#19aeff"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1127" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       inkscape:stockid="id147169973"
+       id="id147169973">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="stroke:#19aeff;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#19aeff"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1130" />
+    </marker>
+  </defs>
+  <path
+     style="marker-end:url(#id134203088);fill:none;stroke:#19aeff;stroke-width:0.95"
+     d="M 0,118.4 H 211.8"
+     id="path7" />
+  <path
+     style="marker-end:url(#id147169973);fill:none;stroke:#19aeff;stroke-width:0.94"
+     d="M 98.9,218.8 V 1.8"
+     id="path9" />
+  <path
+     style="fill:none;stroke:#204a87;stroke-width:1.51"
+     d="m 176.3,118.4 c 0,-42.7 -34.6,-77.3 -77.3,-77.3 -42.7,0 -77.3,34.6 -77.3,77.3 0,42.7 34.6,77.2 77.3,77.2 42.7,0 77.3,-34.6 77.3,-77.2 z"
+     id="path11" />
+  <text
+     x="86.6"
+     y="13"
+     transform="scale(1.0001,0.9999)"
+     style="color:black;fill:#19aeff;font-family:Trebuchet MS;font-size:14.3px;font-style:italic;font-weight:bold;stroke-width:1.4"
+     id="text13">y</text>
+  <text
+     x="194.3"
+     y="133.2"
+     transform="scale(1.0001,0.9999)"
+     style="color:black;fill:#19aeff;font-family:Trebuchet MS;font-size:14.3px;font-style:italic;font-weight:bold;stroke-width:1.4"
+     id="text15">x</text>
+  <text
+     x="75.9"
+     y="133"
+     transform="scale(0.998801,1.0012)"
+     style="fill:#fcaf3e;font-family:Trebuchet MS;font-size:14.7px;stroke-width:1.4"
+     id="text17">
+    cos = 0
+  </text>
+  <text
+     x="102.7"
+     y="86"
+     transform="scale(0.998801,1.0012)"
+     style="fill:#fb0f0c;font-family:Trebuchet MS;font-size:14.7px;stroke-width:3.55"
+     id="text19">
+    sin = 1
+  </text>
+  <text
+     x="101.3"
+     y="35"
+     transform="scale(1.0001,0.9999)"
+     style="color:black;fill:#4e9a06;font-family:Trebuchet MS;font-size:14.3px;stroke-width:1.4"
+     id="text21">(cos 90°, sin 90°)</text>
+  <path
+     style="fill:none;stroke:#fb0f0c;stroke-width:2.53"
+     d="M 98.5,119.1 98.8,41.5"
+     id="path23" />
+  <path
+     style="fill:black;stroke:#ad7fa8;stroke-width:0.5"
+     d="m 101.1,41.2 c 0,-1.2 -1,-2.2 -2.2,-2.2 -1.2,0 -2.2,1 -2.2,2.2 0,1.2 1,2.2 2.2,2.2 1.2,0 2.2,-1 2.2,-2.2"
+     id="path25" />
+</svg>

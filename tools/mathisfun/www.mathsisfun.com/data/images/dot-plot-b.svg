@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="330.9" height="125.9" version="1.1" style="font-family:'Comic Sans MS'; font-size:12px; fill:#19aeff; stroke-width:1.47;">
+<defs>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-1.1,0,0,-1.1,-1.1,0)" style="fill:#ff0000; stroke:#ff0000; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 c -1.7,2.4 -1.7,5.6 0,8 z"/>
+	</marker>
+	<marker style="overflow:visible;" orient="auto">
+		<path transform="matrix(-1.1,0,0,-1.1,-1.1,0)" style="fill:#0000ff; stroke:#0000ff; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 c -1.7,2.4 -1.7,5.6 0,8 z"/>
+	</marker>
+</defs>
+<g transform="translate(-190.182,-1252.07)">
+	<path style="fill:none; stroke:black; stroke-width:0.75;" d="M 190.2,1342.5 H 521"/>
+	<text x="253.2" y="1359.2" style="fill:#4e9a06; stroke-width:0.38px;">2</text>
+	<text x="229.7" y="1359.3" style="fill:#4e9a06; stroke-width:0.38px;">1</text>
+	<text x="204.4" y="1359.2" style="fill:#4e9a06; stroke-width:0.38px;">0</text>
+	<text x="351" y="1359.1" style="fill:#4e9a06; stroke-width:0.38px;">6</text>
+	<text x="326.4" y="1359.1" style="fill:#4e9a06; stroke-width:0.38px;">5</text>
+	<text x="277.7" y="1359.1" style="fill:#4e9a06; stroke-width:0.38px;">3</text>
+	<text x="302.1" y="1359.2" style="fill:#4e9a06; stroke-width:0.38px;">4</text>
+	<text x="399.8" y="1359" style="fill:#4e9a06; stroke-width:0.38px;">8</text>
+	<text x="375.3" y="1358.9" style="fill:#4e9a06; stroke-width:0.38px;">7</text>
+	<text x="494.7" y="1359.3" style="fill:#4e9a06; stroke-width:0.38px;">12</text>
+	<text x="471.2" y="1359.3" style="fill:#4e9a06; stroke-width:0.38px;">11</text>
+	<text x="424.2" y="1358.9" style="fill:#4e9a06; stroke-width:0.38px;">9</text>
+	<text x="445.7" y="1359.2" style="fill:#4e9a06; stroke-width:0.38px;">10</text>
+	<circle cx="208.6" cy="1330.1" r="4.59899"/>
+	<circle cx="453.3" cy="1330.1" r="4.59899"/>
+	<circle cx="257.5" cy="1330.1" r="4.59899"/>
+	<circle cx="331" cy="1330.1" r="4.59899"/>
+	<circle cx="404.4" cy="1330.1" r="4.59899"/>
+	<circle cx="477.8" cy="1330.1" r="4.59899"/>
+	<circle cx="282" cy="1330.1" r="4.59899"/>
+	<circle cx="428.8" cy="1330.1" r="4.59899"/>
+	<circle cx="502.3" cy="1330.1" r="4.59899"/>
+	<circle cx="233.1" cy="1330.1" r="4.59899"/>
+	<circle cx="306.5" cy="1330.1" r="4.59899"/>
+	<circle cx="208.6" cy="1317.9" r="4.59899"/>
+	<circle cx="453.3" cy="1317.9" r="4.59899"/>
+	<circle cx="257.5" cy="1317.9" r="4.59899"/>
+	<circle cx="331" cy="1317.9" r="4.59899"/>
+	<circle cx="404.4" cy="1317.9" r="4.59899"/>
+	<circle cx="477.8" cy="1317.9" r="4.59899"/>
+	<circle cx="282" cy="1317.9" r="4.59899"/>
+	<circle cx="428.8" cy="1317.9" r="4.59899"/>
+	<circle cx="233.1" cy="1317.9" r="4.59899"/>
+	<circle cx="306.5" cy="1317.9" r="4.59899"/>
+	<circle cx="208.6" cy="1305.6" r="4.59899"/>
+	<circle cx="453.3" cy="1305.6" r="4.59899"/>
+	<circle cx="257.5" cy="1305.6" r="4.59899"/>
+	<circle cx="331" cy="1305.6" r="4.59899"/>
+	<circle cx="477.8" cy="1305.6" r="4.59899"/>
+	<circle cx="282" cy="1305.6" r="4.59899"/>
+	<circle cx="428.8" cy="1305.6" r="4.59899"/>
+	<circle cx="208.6" cy="1293.4" r="4.59899"/>
+	<circle cx="453.3" cy="1293.4" r="4.59899"/>
+	<circle cx="331" cy="1293.4" r="4.59899"/>
+	<circle cx="477.8" cy="1293.4" r="4.59899"/>
+	<circle cx="282" cy="1293.4" r="4.59899"/>
+	<circle cx="208.6" cy="1281.2" r="4.59899"/>
+	<circle cx="453.3" cy="1281.2" r="4.59899"/>
+	<circle cx="331" cy="1281.2" r="4.59899"/>
+	<circle cx="282" cy="1281.2" r="4.59899"/>
+	<circle cx="208.6" cy="1268.9" r="4.59899"/>
+	<circle cx="453.3" cy="1268.9" r="4.59899"/>
+	<circle cx="453.3" cy="1256.7" r="4.59899"/>
+	<text x="257.1" y="1377.3" style="font-size:16px; font-style:italic; fill:#4e9a06; stroke-width:0.63px;">Minutes To Eat Breakfast</text>
+</g>
+</svg>

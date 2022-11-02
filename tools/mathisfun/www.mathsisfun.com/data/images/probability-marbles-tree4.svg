@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="501.1" height="109.4" version="1.0" style="font-size:14.2px; fill:black;">
+<defs>
+	<marker id="aa9" style="overflow:visible;" orient="auto">
+		<path transform="scale(0.4) rotate(180) translate(10,0)" style="fill:black; stroke:black; stroke-width:1pt;" d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "/>
+	</marker>
+	<marker id="aa7" style="overflow:visible;" orient="auto">
+		<path transform="scale(0.4) rotate(180) translate(10,0)" style="fill:black; stroke:black; stroke-width:1pt;" d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z "/>
+	</marker>
+	<marker id="aa8" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:none; stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<linearGradient id="aa1">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa2">
+		<stop offset="0" style="stop-color:white; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0.34;"/>
+	</linearGradient>
+	<linearGradient id="aa51" xlink:href="#aa1" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa3">
+		<stop offset="0" style="stop-color:white; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0.34;"/>
+	</linearGradient>
+	<linearGradient id="aa4">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<linearGradient id="aa5">
+		<stop offset="0" style="stop-color:white; stop-opacity:0;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:0.34;"/>
+	</linearGradient>
+	<linearGradient id="aa6">
+		<stop offset="0" style="stop-color:white; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:white; stop-opacity:0;"/>
+	</linearGradient>
+	<radialGradient id="aa10" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa11" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa12" xlink:href="#aa1" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa13" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa14" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa15" xlink:href="#aa1" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa16" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa17" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa18" xlink:href="#aa1" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa19" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa20" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa21" xlink:href="#aa1" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa22" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa23" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa24" xlink:href="#aa1" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa25" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa26" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa27" xlink:href="#aa1" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa28" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa29" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa30" xlink:href="#aa1" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa31" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa32" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa33" xlink:href="#aa1" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa34" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa35" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa36" xlink:href="#aa1" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa37" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa3" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa38" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa4" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa39" xlink:href="#aa4" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa40" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa3" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa41" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa4" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa42" xlink:href="#aa4" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa43" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa3" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa44" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa4" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa45" xlink:href="#aa4" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa46" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa5" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa47" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa6" gradientUnits="userSpaceOnUse"/>
+	<linearGradient id="aa48" xlink:href="#aa6" x1="-11" y1="-26" x2="-11" y2="1.4-14" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa49" r="41" fx="259" fy="484.362" cx="259" cy="484.4" gradientTransform="matrix(1.17302,0.332583,-0.299372,1.05591,100.191,-113.219)" xlink:href="#aa2" gradientUnits="userSpaceOnUse"/>
+	<radialGradient id="aa50" r="13.5" fx="259.852" fy="485.571" cx="259.9" cy="485.6" gradientTransform="matrix(-0.162405,0.993762,-1.00608,-0.044927,795.225,250.446)" xlink:href="#aa1" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path style="fill:#19aeff; fill-opacity:0.23; stroke-width:0.5;" d="m 270.6,9.4 c 6.3,-5.1 19.8,-5.5 28,1.2 8.2,6.7 13,10.6 12.1,17.9 -0.9,7.3 -4.5,13.6 -23.6,14.1 -19.1,0.4 -23.5,-9.9 -24.8,-16.4 -1.3,-6.4 2,-11.6 8.4,-16.8 z"/>
+<path style="fill:#19aeff; fill-opacity:0.23; stroke-width:0.5;" d="m 140.6,35.5 c 6.3,-5.1 19.8,-5.5 28,1.2 8.2,6.7 13,10.6 12.1,17.9 -0.9,7.3 -4.5,13.6 -23.6,14.1 -19.1,0.4 -23.5,-9.9 -24.8,-16.4 -1.3,-6.4 2,-11.6 8.3,-16.8 z"/>
+<path style="marker-end:url(#aa7); fill:none; stroke:black; stroke-width:1.3;" d="m 49.5,86.7 c 2.2,-2.3 65.5,-28.4 79.5,-34.5"/>
+<path style="marker-end:url(#aa8); fill:none; stroke:black; stroke-width:1; stroke-dasharray:4, 4;" d="m 317.6,25.9 h 37.2"/>
+<path style="marker-end:url(#aa9); fill:none; stroke:black; stroke-width:1.3;" d="m 181.9,43.4 c 2.4,-0.7 64.2,-11.2 81.8,-14.1"/>
+<g transform="matrix(0.133816,0,0,0.133816,4.99,77.954)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-198.5,-444.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-201.5,-446.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-203.5,-447.405)" style="fill:#0200ff;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-203.5,-447.405)" style="fill:url(#aa10);"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-902.12,424.491)" style="opacity:0.5; fill:url(#aa11);"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,63.1296,53.9567)" style="opacity:0.81; fill:url(#aa12);"/>
+</g>
+<g transform="matrix(0.133816,0,0,0.133816,-2.85,91.278)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-24.5,-444.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-27.5,-446.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:#ff0013;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:url(#aa13);"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-728.12,424.491)" style="opacity:0.5; fill:url(#aa14);"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,237.13,53.9567)" style="opacity:0.81; fill:url(#aa15);"/>
+</g>
+<g transform="matrix(0.133816,0,0,0.133816,6.94,89.559)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-198.5,-444.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-201.5,-446.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-203.5,-447.405)" style="fill:#0200ff;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-203.5,-447.405)" style="fill:url(#aa16);"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-902.12,424.491)" style="opacity:0.5; fill:url(#aa17);"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,63.1296,53.9567)" style="opacity:0.81; fill:url(#aa18);"/>
+</g>
+<g transform="matrix(0.133816,0,0,0.133816,-3.92,77.04)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-24.5,-444.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-27.5,-446.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:#ff0013;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:url(#aa19);"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-728.12,424.491)" style="opacity:0.5; fill:url(#aa20);"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,237.13,53.9567)" style="opacity:0.81; fill:url(#aa21);"/>
+</g>
+<g transform="matrix(0.133816,0,0,0.133816,8.07,83.964)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-24.5,-444.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-27.5,-446.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:#ff0013;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:url(#aa22);"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-728.12,424.491)" style="opacity:0.5; fill:url(#aa23);"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,237.13,53.9567)" style="opacity:0.81; fill:url(#aa24);"/>
+</g>
+<g transform="matrix(0.133816,0,0,0.133816,126.8,49.147)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-24.5,-444.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-27.5,-446.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:#ff0013;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:url(#aa25);"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-728.12,424.491)" style="opacity:0.5; fill:url(#aa26);"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,237.13,53.9567)" style="opacity:0.81; fill:url(#aa27);"/>
+</g>
+<g transform="matrix(0.133816,0,0,0.133816,136.59,47.428)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-198.5,-444.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-201.5,-446.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-203.5,-447.405)" style="fill:#0200ff;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-203.5,-447.405)" style="fill:url(#aa28);"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-902.12,424.491)" style="opacity:0.5; fill:url(#aa29);"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,63.1296,53.9567)" style="opacity:0.81; fill:url(#aa30);"/>
+</g>
+<g transform="matrix(0.133816,0,0,0.133816,125.73,34.909)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-24.5,-444.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-27.5,-446.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:#ff0013;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:url(#aa31);"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-728.12,424.491)" style="opacity:0.5; fill:url(#aa32);"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,237.13,53.9567)" style="opacity:0.81; fill:url(#aa33);"/>
+</g>
+<g transform="matrix(0.133816,0,0,0.133816,137.72,41.833)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-24.5,-444.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-27.5,-446.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:#ff0013;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:url(#aa34);"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-728.12,424.491)" style="opacity:0.5; fill:url(#aa35);"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,237.13,53.9567)" style="opacity:0.81; fill:url(#aa36);"/>
+</g>
+<g transform="matrix(0.133816,0,0,0.133816,258.54,26.255)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-24.5,-444.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-27.5,-446.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:#ff0013;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:url(#aa37);"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-728.12,424.491)" style="opacity:0.5; fill:url(#aa38);"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,237.13,53.9567)" style="opacity:0.81; fill:url(#aa39);"/>
+</g>
+<g transform="matrix(0.133816,0,0,0.133816,257.46,12.016)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-24.5,-444.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-27.5,-446.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:#ff0013;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:url(#aa40);"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-728.12,424.491)" style="opacity:0.5; fill:url(#aa41);"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,237.13,53.9567)" style="opacity:0.81; fill:url(#aa42);"/>
+</g>
+<g transform="matrix(0.133816,0,0,0.133816,269.46,18.94)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-24.5,-444.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-27.5,-446.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:#ff0013;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-29.5,-447.405)" style="fill:url(#aa43);"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-728.12,424.491)" style="opacity:0.5; fill:url(#aa44);"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,237.13,53.9567)" style="opacity:0.81; fill:url(#aa45);"/>
+</g>
+<path style="fill:none; stroke:black; stroke-width:1.08;" d="m 93.7,47.1 h 14.3"/>
+<text x="95.9" y="44.5" style="font-family:Arial; stroke-width:0.5px;">2</text>
+<text x="96.2" y="60.5" style="font-family:Arial; stroke-width:0.5px;">5</text>
+<path style="fill:none; stroke:black; stroke-width:1.08;" d="m 235.9,12.8 h 14.3"/>
+<text x="238.1" y="10.2" style="font-family:Arial; stroke-width:0.5px;">1</text>
+<text x="238.4" y="26.2" style="font-family:Arial; stroke-width:0.5px;">4</text>
+<path style="fill:none; stroke:black; stroke-width:1.08;" d="m 482.6,22.8 h 18.6"/>
+<text x="488.1" y="19.2" style="font-family:Arial; stroke-width:0.5px;">1</text>
+<text x="484.1" y="36.2" style="font-family:Arial; stroke-width:0.5px;">10</text>
+<text x="460.7" y="31.5" style="font-family:Arial; font-size:23.3px; stroke-width:0.5px;">=</text>
+<g transform="matrix(0.133816,0,0,0.133816,69.11,60.386)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-198.5,-444.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-201.5,-446.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-203.5,-447.405)" style="fill:#0200ff;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-203.5,-447.405)" style="fill:url(#aa46);"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-902.12,424.491)" style="opacity:0.5; fill:url(#aa47);"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,63.1296,53.9567)" style="opacity:0.81; fill:url(#aa48);"/>
+</g>
+<path style="fill:#19aeff; fill-opacity:0.23; stroke-width:0.5;" d="m 8.6,76.2 c 6.3,-5.1 19.8,-5.5 28,1.2 8.2,6.7 13,10.6 12.1,17.9 -0.9,7.3 -4.5,13.6 -23.6,14.1 -19.1,0.4 -23.5,-9.9 -24.8,-16.4 -1.3,-6.4 2,-11.6 8.3,-16.8 z"/>
+<text x="47.3" y="51.5" style="font-family:Arial; stroke-width:0.5px;">P(A) =</text>
+<text x="178.3" y="16.8" style="font-family:Arial; stroke-width:0.5px;">P(B|A) =</text>
+<text x="365.8" y="28.8" style="font-family:Arial; stroke-width:0.5px;">P(A) × P(B|A)</text>
+<g transform="matrix(0.133816,0,0,0.133816,207.27,24.038)">
+	<circle cx="254" cy="500.4" r="41" transform="translate(-198.5,-444.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-201.5,-446.043)" style="fill-opacity:0.38;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-203.5,-447.405)" style="fill:#0200ff;"/>
+	<circle cx="254" cy="500.4" r="41" transform="translate(-203.5,-447.405)" style="fill:url(#aa49);"/>
+	<circle cx="264.5" cy="486.9" r="13.5" transform="matrix(-0.042569,-1.13299,1.98231,-0.089043,-902.12,424.491)" style="opacity:0.5; fill:url(#aa50);"/>
+	<ellipse cx="-11" cy="-13" rx="27" ry="13" transform="matrix(1.14815,0,0,1.5,63.1296,53.9567)" style="opacity:0.81; fill:url(#aa51);"/>
+</g>
+</svg>

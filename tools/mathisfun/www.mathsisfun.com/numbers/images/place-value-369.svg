@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="165.719"
+   height="190.539"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="place-value-369.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview34"
+     showgrid="false"
+     inkscape:current-layer="svg32" />
+  <defs
+     id="defs2" />
+  <rect
+     x="44.5188"
+     y="84.6543"
+     ry="22.8"
+     width="121.2"
+     height="45.6"
+     style="color:#000000;overflow:visible;fill:#bce7ff;stroke-width:7"
+     id="rect4" />
+  <text
+     x="66.6188"
+     y="118.154"
+     style="color:#000000;font-size:32px;font-family:'Comic Sans MS';overflow:visible;fill:#c4a000;stroke-width:1px"
+     id="text6">3</text>
+  <text
+     x="92.9188"
+     y="118.154"
+     style="color:#000000;font-size:32px;font-family:'Comic Sans MS';overflow:visible;fill:#0065a4;stroke-width:1px"
+     id="text8">6</text>
+  <text
+     x="119.319"
+     y="118.154"
+     style="color:#000000;font-size:32px;font-family:'Comic Sans MS';overflow:visible;fill:#dc0000;stroke-width:1px"
+     id="text10">9</text>
+  <text
+     x="-2.28125"
+     y="189.054"
+     style="color:#000000;font-size:32px;font-family:'Comic Sans MS';overflow:visible;fill:#c4a000;stroke-width:1px"
+     id="text12">300</text>
+  <text
+     x="75.3187"
+     y="189.054"
+     style="color:#000000;font-size:32px;font-family:'Comic Sans MS';overflow:visible;fill:#0065a4;stroke-width:1px"
+     id="text14">60</text>
+  <text
+     x="136.419"
+     y="189.054"
+     style="color:#000000;font-size:32px;font-family:'Comic Sans MS';overflow:visible;fill:#dc0000;stroke-width:1px"
+     id="text16">9</text>
+  <path
+     style="fill:#c4a000;stroke:#c4a000;stroke-width:1.85"
+     d="m 68.8187,125.354 -29.2,33"
+     id="path18"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#000000;stroke:#267cb2;stroke-width:1.85"
+     d="m 97.3187,125.354 -5.6,33"
+     id="path22"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#dc0000;stroke-width:1.85"
+     d="m 129.119,125.354 14.6,33"
+     id="path24"
+     inkscape:connector-curvature="0" />
+  <text
+     x="-82.1543"
+     y="83.2188"
+     transform="rotate(-90)"
+     style="color:#000000;font-size:19.1px;font-family:Arial;overflow:visible;fill:#c4a000;stroke-width:1px"
+     id="text26">Hundreds</text>
+  <text
+     x="-83.9543"
+     y="109.319"
+     transform="rotate(-90)"
+     style="color:#000000;font-size:19.1px;font-family:Arial;overflow:visible;fill:#0065a4;stroke-width:1px"
+     id="text28">Tens</text>
+  <text
+     x="-82.8543"
+     y="135.419"
+     transform="rotate(-90)"
+     style="color:#000000;font-size:19.1px;font-family:Arial;overflow:visible;fill:#dc0000;stroke-width:1px"
+     id="text30">Ones</text>
+</svg>

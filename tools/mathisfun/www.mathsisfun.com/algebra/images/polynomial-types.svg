@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="406.938"
+   height="185.281"
+   version="1.1"
+   style="font-size:20px;font-family:'Comic Sans MS';fill:#c4a000;stroke-width:0.5px"
+   id="svg62"
+   sodipodi:docname="polynomial-types.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview64"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg62" />
+  <defs
+     id="defs2" />
+  <rect
+     x="254.038"
+     y="132.181"
+     rx="16.0361"
+     ry="16.0361"
+     width="152.9"
+     height="53.1"
+     style="opacity:1;fill:#ffe0ff;fill-opacity:1;stroke-width:1.24"
+     id="rect1750" />
+  <rect
+     x="254.038"
+     y="66.0905"
+     rx="16.0361"
+     ry="16.0361"
+     width="152.9"
+     height="53.1"
+     style="opacity:1;fill:#ffe0ff;fill-opacity:1;stroke-width:1.24"
+     id="rect1752" />
+  <rect
+     x="254.038"
+     y="0"
+     rx="16.0361"
+     ry="16.0361"
+     width="152.9"
+     height="53.1"
+     style="opacity:1;fill:#ffe0ff;fill-opacity:1;stroke-width:1.24"
+     id="rect4" />
+  <rect
+     x="14.9342"
+     y="92.293"
+     rx="9.9"
+     ry="9.9"
+     width="214.1"
+     height="41.7"
+     style="opacity:1;fill:#f8f8e1;fill-opacity:1;stroke-width:1.24"
+     id="rect10" />
+  <text
+     x="131.112"
+     y="120.861"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#5c3566"
+     id="text12">+ 5y</text>
+  <text
+     x="72.8422"
+     y="111.293"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#5c3566"
+     id="text14">2</text>
+  <text
+     x="173.226"
+     y="111.693"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#5c3566"
+     id="text16">3</text>
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:0.99"
+     d="m 35.1342,129.493 h 43.1"
+     id="path18" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:0.99"
+     d="m 103.135,129.493 h 22.899"
+     id="path20" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:0.99"
+     d="m 149.034,129.493 h 28.5"
+     id="path22" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:0.99"
+     d="m 200.534,129.493 h 18.801"
+     id="path24" />
+  <text
+     x="101.635"
+     y="174.793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#c4a000"
+     id="text26">terms</text>
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:0.99"
+     d="m 61.5342,130.093 47.7998,25.8"
+     id="path28" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:0.99"
+     d="m 117.134,129.593 0.6,26"
+     id="path30" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:0.99"
+     d="m 164.034,128.893 -35.2,25.9"
+     id="path32" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:0.99"
+     d="m 211.534,129.793 -66,25.8"
+     id="path34" />
+  <text
+     x="6.27735"
+     y="64.6336"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#ce5c00;stroke:none"
+     id="text36">exponents: 0,1,2,...</text>
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#ce5c00;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 57.5342,70.993 17.6,24.2"
+     id="path38" />
+  <path
+     style="fill:none;fill-opacity:0.75;stroke:#ce5c00;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 81.0342,70.993 87.1998,28"
+     id="path40" />
+  <text
+     x="51.1124"
+     y="25.0646"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#99bbee"
+     id="text42">Polynomials</text>
+  <text
+     x="310.473"
+     y="25.0771"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#204a87;stroke:#204a87;stroke-width:0.5"
+     id="text44">3xy</text>
+  <text
+     x="345.473"
+     y="17.0771"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#204a87;stroke:#204a87;stroke-width:0.5"
+     id="text46">2</text>
+  <text
+     x="303.813"
+     y="90.2771"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#204a87;stroke:#204a87;stroke-width:0.5"
+     id="text48">5x − 1</text>
+  <text
+     x="273.673"
+     y="158.677"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#204a87;stroke:#204a87;stroke-width:0.5"
+     id="text50">3x + 5y   − 3</text>
+  <text
+     x="344.859"
+     y="150.577"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#204a87;stroke:#204a87;stroke-width:0.5"
+     id="text52">2</text>
+  <text
+     x="268.673"
+     y="46.5771"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#6600cc"
+     id="text54">Monomial (1 term)</text>
+  <text
+     x="267.373"
+     y="112.577"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#6600cc"
+     id="text56">Binomial (2 terms)</text>
+  <text
+     x="263.973"
+     y="178.577"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#6600cc"
+     id="text58">Trinomial (3 terms)</text>
+  <text
+     x="37.8423"
+     y="120.861"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#5c3566"
+     id="text10321">5xy</text>
+  <text
+     x="84.4771"
+     y="120.861"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#5c3566"
+     id="text16851">− 3x</text>
+  <text
+     x="189.896"
+     y="120.861"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#5c3566"
+     id="text19951">− 3</text>
+</svg>

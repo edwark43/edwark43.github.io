@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="236.486"
+   height="103.6"
+   version="1.1"
+   id="svg46"
+   sodipodi:docname="greater-than-symbol.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata50">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview48"
+     showgrid="false"
+     inkscape:current-layer="svg46" />
+  <defs
+     id="defs18">
+    <marker
+       style="overflow:visible"
+       id="marker1537"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#c17d11;fill-opacity:1;fill-rule:evenodd;stroke:#c17d11;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1535" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1467"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#c17d11;fill-opacity:1;fill-rule:evenodd;stroke:#c17d11;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1465" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1409"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:#0084c8;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1407" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1351"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0084c8;fill-opacity:1;fill-rule:evenodd;stroke:#0084c8;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1349" />
+    </marker>
+  </defs>
+  <path
+     style="fill:none;stroke:#0084c8;stroke-width:10;stroke-linecap:round"
+     d="M 87.3863,5 193.786,51.2"
+     id="path20" />
+  <path
+     style="fill:none;stroke:#0084c8;stroke-width:10;stroke-linecap:round"
+     d="M 87.3863,98.6 193.786,52.4"
+     id="path22" />
+  <text
+     x="-3.97917"
+     y="66.631"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c17d11;stroke-width:1px"
+     id="text24">BIG</text>
+  <text
+     x="204.747"
+     y="57.5782"
+     style="font-size:13.6px;font-family:'Comic Sans MS';fill:#0084c8;stroke-width:1px"
+     id="text26">small</text>
+  <path
+     style="fill:none;stroke:#c17d11;stroke-width:1px"
+     d="m 65.4863,1.37087 h -39"
+     id="path28" />
+  <path
+     style="fill:none;stroke:#c17d11;stroke-width:1px"
+     d="m 65.4863,102.5 h -39"
+     id="path30" />
+  <path
+     style="fill:none;stroke:#c17d11;stroke-width:1;marker-end:url(#marker1537)"
+     d="M 35.0863,31.6 V 4"
+     id="path32" />
+  <path
+     style="fill:none;stroke:#c17d11;stroke-width:1;marker-end:url(#marker1467)"
+     d="M 35.0863,72.4 V 100"
+     id="path34" />
+  <path
+     style="fill:#ff9900;stroke:#0084c8;stroke-width:1px"
+     d="m 236.486,60.9 h -33.3"
+     id="path36" />
+  <path
+     style="fill:none;stroke:#0084c8;stroke-width:1;marker-end:url(#marker1409)"
+     d="m 221.127,90.9073 v -27.6"
+     id="path38" />
+  <path
+     style="fill:#ff9900;stroke:#0084c8;stroke-width:1px"
+     d="m 236.486,45.1 h -33.3"
+     id="path40" />
+  <path
+     style="fill:none;stroke:#0084c8;stroke-width:1;marker-end:url(#marker1351)"
+     d="m 221.127,15.3219 v 27.6"
+     id="path42" />
+</svg>

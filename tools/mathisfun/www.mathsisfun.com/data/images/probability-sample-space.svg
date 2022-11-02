@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="252.666"
+   height="125.224"
+   version="1.0"
+   style="font-size:16px;font-family:Georgia;fill:#000000;stroke-width:0.53"
+   id="svg82"
+   sodipodi:docname="probability-sample-space.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata86">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview84"
+     showgrid="false"
+     inkscape:current-layer="svg82" />
+  <defs
+     id="defs8">
+    <marker
+       id="aa1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#b5b500;stroke:#b5b500;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="aa2"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#0084c8;stroke:#0084c8;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <rect
+     x="18.9494"
+     y="33.2729"
+     width="233.407"
+     height="91.6417"
+     style="fill:#ffff3e;fill-opacity:0.23;stroke:#000000;stroke-width:0.618269"
+     id="rect10" />
+  <rect
+     x="201.728"
+     y="71.338"
+     rx="10.6"
+     ry="10.6"
+     width="31.8"
+     height="31.8"
+     style="fill:#fbf0ff;stroke:#000000"
+     id="rect22" />
+  <circle
+     cx="209.828"
+     cy="79.4379"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle24" />
+  <circle
+     cx="209.828"
+     cy="94.7377"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle26" />
+  <circle
+     cx="209.828"
+     cy="87.1378"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle28" />
+  <circle
+     cx="225.128"
+     cy="79.4379"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle30" />
+  <circle
+     cx="225.128"
+     cy="94.7377"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle32" />
+  <circle
+     cx="225.128"
+     cy="87.1378"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle34" />
+  <rect
+     x="168.228"
+     y="71.338"
+     rx="10.6"
+     ry="10.6"
+     width="31.8"
+     height="31.8"
+     style="fill:#fbf0ff;stroke:#000000"
+     id="rect36" />
+  <circle
+     cx="176.428"
+     cy="79.4379"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle38" />
+  <circle
+     cx="176.428"
+     cy="94.7377"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle40" />
+  <circle
+     cx="191.628"
+     cy="79.4379"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle42" />
+  <circle
+     cx="191.628"
+     cy="94.7377"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle44" />
+  <circle
+     cx="184.028"
+     cy="87.1378"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle46" />
+  <rect
+     x="134.17"
+     y="71.6938"
+     rx="10.6"
+     ry="10.6"
+     width="31.8"
+     height="31.8"
+     style="fill:#fbf0ff;stroke:#000000"
+     id="rect48" />
+  <circle
+     cx="142.27"
+     cy="79.7937"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle50" />
+  <circle
+     cx="142.27"
+     cy="95.0938"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle52" />
+  <circle
+     cx="157.57"
+     cy="79.7937"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle54" />
+  <circle
+     cx="157.57"
+     cy="95.0938"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle56" />
+  <rect
+     x="100.67"
+     y="71.6938"
+     rx="10.6"
+     ry="10.6"
+     width="31.8"
+     height="31.8"
+     style="fill:#fbf0ff;stroke:#000000"
+     id="rect58" />
+  <circle
+     cx="108.87"
+     cy="79.7937"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle60" />
+  <circle
+     cx="124.07"
+     cy="95.0938"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle62" />
+  <circle
+     cx="116.47"
+     cy="87.4937"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle64" />
+  <rect
+     x="67.1703"
+     y="71.6938"
+     rx="10.6"
+     ry="10.6"
+     width="31.8"
+     height="31.8"
+     style="fill:#fbf0ff;stroke:#000000"
+     id="rect66" />
+  <circle
+     cx="75.3703"
+     cy="79.7937"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle68" />
+  <circle
+     cx="90.5703"
+     cy="95.0938"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle70" />
+  <rect
+     x="33.6703"
+     y="71.6938"
+     rx="10.6"
+     ry="10.6"
+     width="31.8"
+     height="31.8"
+     style="fill:#fbf0ff;stroke:#000000"
+     id="rect72" />
+  <circle
+     cx="49.5703"
+     cy="87.4937"
+     r="2.64698"
+     style="stroke:#000000"
+     id="circle74" />
+  <text
+     x="0.0703125"
+     y="12.0938"
+     style="font-style:italic;fill:#d35aff;stroke-width:0.5px;-inkscape-font-specification:'Trebuchet MS, Italic';font-family:'Trebuchet MS';font-weight:normal;font-stretch:normal;font-variant:normal;font-size:16px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     id="text76">Sample Point</text>
+  <path
+     style="fill:none;stroke:#d35aff;stroke-width:1.98;marker-end:url(#aa2)"
+     d="m 52.6703,16.7937 28.9,57"
+     id="path78"
+     inkscape:connector-curvature="0" />
+  <text
+     x="86.4967"
+     y="48.8937"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#818100;stroke-width:0.5px"
+     id="text18">Sample Space</text>
+</svg>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="110.878"
+   height="84.2837"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="negative-67-angle.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg30" />
+  <defs
+     id="defs8">
+    <marker
+       id="id2"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ef2929;stroke:#ef2929;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       id="id1"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#007ad2;stroke:#007ad2;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5" />
+    </marker>
+    <marker
+       id="id2-3"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ef2929;stroke:#ef2929;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2-5" />
+    </marker>
+  </defs>
+  <path
+     style="color:#000000;overflow:visible;fill:#dc0000;fill-opacity:0.75;stroke:#dc0000;stroke-width:1.16"
+     d="M 50.4432,83.985 0.497161,0.8583"
+     id="path16"
+     sodipodi:nodetypes="cc" />
+  <text
+     x="71.2712"
+     y="45.2782"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5px;font-family:Arial;-inkscape-font-specification:Arial;overflow:visible;fill:#ef2929;fill-opacity:0.819608;stroke-width:0.2px"
+     id="text24">−67°</text>
+  <path
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#204a87;stroke-width:1.74;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     d="M 0.482161,0.87 H 110.878"
+     id="path24124" />
+  <path
+     style="color:#000000;font-variation-settings:normal;overflow:visible;opacity:0.82;vector-effect:none;fill:none;fill-opacity:1;stroke:#ef2929;stroke-width:2.54;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.6, 2.5;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-end:url(#id2);stop-color:#000000;stop-opacity:1"
+     id="path24265"
+     sodipodi:type="arc"
+     sodipodi:cx="0.497154"
+     sodipodi:cy="0.8583"
+     sodipodi:rx="69.0559"
+     sodipodi:ry="69.0559"
+     sodipodi:start="0"
+     sodipodi:end="0.976068"
+     sodipodi:arc-type="arc"
+     d="M 69.5531,0.8583 A 69.0559,69.0559 0 0 1 39.1881,58.0574"
+     sodipodi:open="true" />
+</svg>

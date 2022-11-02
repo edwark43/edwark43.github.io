@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="194.1" height="127" version="1.1">
+<defs>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="scale(-0.6,-0.6)" style="fill:#ff9900; stroke:#ff9900; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 c -1.7,2.4 -1.7,5.6 0,8 z"/>
+</marker>
+</defs>
+<text x="13.7" y="36.6" style="font-family:'Comic Sans MS'; font-size:34.7px; font-style:italic; color:black; overflow:visible; fill:#3465a4; stroke-width:1px;">4x</text>
+<text x="66.6" y="36.6" style="font-family:'Comic Sans MS'; font-size:34.7px; font-style:italic; color:black; overflow:visible; fill:#3465a4; stroke-width:1px;">+</text>
+<text x="92.8" y="36.6" style="font-family:'Comic Sans MS'; font-size:34.7px; font-style:italic; color:black; overflow:visible; fill:#3465a4; stroke-width:1px;">2x</text>
+<text x="150.2" y="36.6" style="font-family:'Comic Sans MS'; font-size:34.7px; font-style:italic; color:black; overflow:visible; fill:#3465a4; stroke-width:1px;">+</text>
+<text x="177" y="36.6" style="font-family:'Comic Sans MS'; font-size:34.7px; font-style:italic; color:black; overflow:visible; fill:#3465a4; stroke-width:1px;">1</text>
+<text x="64.8" y="115.5" style="font-family:'Comic Sans MS'; font-size:34.7px; font-style:italic; color:black; overflow:visible; fill:#3465a4; stroke-width:1px;">6x</text>
+<text x="142.2" y="115.5" style="font-family:'Comic Sans MS'; font-size:34.7px; font-style:italic; color:black; overflow:visible; fill:#3465a4; stroke-width:1px;">+</text>
+<text x="177" y="115.5" style="font-family:'Comic Sans MS'; font-size:34.7px; font-style:italic; color:black; overflow:visible; fill:#3465a4; stroke-width:1px;">1</text>
+<rect x="1" y="0.9" ry="21.6" width="143.7" height="46.1" style="color:black; overflow:visible; fill:none; stroke:#ff9900; stroke-width:1.85;"/>
+<rect x="55.8" y="79.6" ry="21.8" width="66" height="46.5" style="color:black; overflow:visible; fill:none; stroke:#ff9900; stroke-width:1.79;"/>
+<path style="color:black; marker-end:url(#id1); overflow:visible; fill:#ff9900; stroke:#ff9900; stroke-width:1.77;" d="m 87,46.6 v 29.4"/>
+</svg>

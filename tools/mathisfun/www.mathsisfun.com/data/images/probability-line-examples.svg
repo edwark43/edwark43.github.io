@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="408.8" height="118.1" version="1.1">
+<defs>
+<linearGradient id="id01">
+<stop offset="0" style="stop-color:#ff0000; stop-opacity:1;"/>
+<stop offset="1" style="stop-color:#0000ff; stop-opacity:1;"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0.518052,0,0,0.518052,-31.9353,-176.421)" xlink:href="#id01" x1="64" y1="458.4" x2="847.3" y2="458.4" gradientUnits="userSpaceOnUse" id="id03"/>
+</defs>
+<use transform="matrix(1,0,0,-1,94.174,121.404)" xlink:href="#id02"/>
+<path d="M 2.5,61.1 H 405.7" style="overflow:visible; fill:none; stroke:url(#id03); stroke-width:3.32;"/>
+<path d="m 3.8,42.3 v 19.2" style="overflow:visible; fill:#fb0003; stroke:#fa0004; stroke-width:2.54;"/>
+<path d="m 102.1,60.7 v 19.2" style="overflow:visible; fill:#bf0244; stroke:#e0001e; stroke-width:2.54;"/>
+<path d="m 204.2,42.3 v 19.2" style="overflow:visible; fill:#729fcf; stroke:#7b0083; stroke-width:2.54;"/>
+<path d="m 404.6,42.3 v 19.2" style="overflow:visible; fill:#729fcf; stroke:#0600f8; stroke-width:2.54;"/>
+<path d="m 302.5,60.7 v 19.2" style="overflow:visible; fill:#4400ba; stroke:#3400ca; stroke-width:2.54;"/>
+<text x="-0.6" y="32" style="font-family:'Comic Sans MS'; font-size:18.7px; overflow:visible; fill:#fc0002; stroke-width:1px;">0</text>
+<text x="401.5" y="33.1" style="font-family:'Comic Sans MS'; font-size:18.7px; overflow:visible; fill:#3e38ff; stroke-width:1px;">1</text>
+<text x="196.1" y="32.7" style="font-family:'Comic Sans MS'; font-size:24.9px; overflow:visible; fill:#7b0083; stroke-width:1px;">½</text>
+<text x="94.3" y="107.7" style="font-family:'Comic Sans MS'; font-size:24.9px; overflow:visible; fill:#bf0244; stroke-width:1px;">¼</text>
+<text x="295" y="107.2" style="font-family:'Comic Sans MS'; font-size:24.9px; overflow:visible; fill:#4400ba; stroke-width:1px;">¾</text>
+<g transform="matrix(0.518052,0,0,0.518052,-245.539,-452.694)" id="id02">
+<path d="m 524.4,911.3 c 10.8,-6.3 22.7,-10.4 33.9,-16.1 6.1,-2.9 12.5,-5.8 19.3,-6.8 4.6,-0.1 4.9,5.9 8.3,7.1 4.5,0.1 8.8,-1.2 13.1,-2.4 -1.2,0.3 -5.3,1.4 -1.9,0.4 7.2,-2.2 14.3,-4.7 21.4,-7.1 2.3,0.9 4.7,1.8 7,2.7 -12.5,4.2 -24.9,9.1 -38,11.4 -4,0.8 -9,0.2 -10.8,-4 -0.7,-2.3 -2.9,-3.4 -5,-2.1 1.3,-0.3 7.1,-2 2.9,-0.7 -10,3.7 -19.4,9 -29.2,13 -4.6,2 -9.3,4.1 -13.7,6.6 -2.4,-0.7 -4.8,-1.4 -7.2,-2.1 z" style="overflow:visible; opacity:0.85; fill:#edd400; stroke:#edd400; stroke-width:1.8;"/>
+<path d="m 537.4,891.7 c -1.5,3.5 -3.2,6.9 -5.3,10.1 -2.1,3.5 -4.3,6.8 -6.9,9.9 -0.5,0.7 -1.1,1.4 -1.6,2.1 -0.2,-1.5 -0.4,3.5 -0.7,1.2 -0.3,-1.8 2.9,-0.7 3.9,-1.3 4.4,-0.8 8.8,-1.5 13.2,-1.6 3,0 6,0.6 8.8,1.7 1.4,0.8 2.8,1.6 4.2,2.3 -2.1,1.4 -4.1,2.9 -6.2,4.3 -1.7,-0.9 -3.4,-2 -5.4,-2.3 -4.4,-1.1 -8.9,-0.2 -13.3,0.4 -3.4,0.6 -6.7,1.3 -10.2,1 -2.3,-0.4 -2.5,-3.2 -1.9,-5.1 0,-1.1 0.4,-2 1.2,-2.8 2.6,-3.3 5.3,-6.5 7.4,-10.1 1.7,-2.8 3.5,-5.6 4.8,-8.7 0.2,-1.1 0.9,-1.5 1.9,-1.2 2.1,0 4.2,0.1 6.2,0.2 z" style="overflow:visible; opacity:0.85; fill:#edd400; stroke:#edd400; stroke-width:1.8;"/>
+</g>
+<text x="91" y="16.7" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:21.3px; overflow:visible; fill:#edd400; stroke:#edd400; stroke-width:0.52px;">b</text>
+<text x="184.3" y="117.3" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:21.3px; overflow:visible; fill:#edd400; stroke:#edd400; stroke-width:0.52px;">d</text>
+<text x="272.1" y="14.2" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:21.3px; overflow:visible; fill:#edd400; stroke:#edd400; stroke-width:0.52px;">c</text>
+<text x="340.9" y="16.8" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:21.3px; overflow:visible; fill:#edd400; stroke:#edd400; stroke-width:0.52px;">a</text>
+<use transform="matrix(0.797323,0,0,1.00835,198.803,-0.563731)" xlink:href="#id02"/>
+<use transform="matrix(-0.834832,0,0,1.00673,417.928,3.38466)" xlink:href="#id02"/>
+</svg>

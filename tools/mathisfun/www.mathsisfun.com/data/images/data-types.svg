@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="351.4"
+   height="244.2"
+   version="1.1"
+   id="svg53"
+   sodipodi:docname="data-types.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview55"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg53" />
+  <defs
+     id="defs11">
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id01">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:black;stroke-width:1pt"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id02">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#ffc022;stroke:#ffc022;stroke-width:1pt"
+         id="path5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id03">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ffc022;stroke:#ffc022;stroke-width:1pt"
+         id="path8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id012038"
+       inkscape:stockid="id012038">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#005c94;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#005c94"
+         id="path962" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id012171"
+       inkscape:stockid="id012171">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#005c94;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#005c94"
+         id="path965" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id018336"
+       inkscape:stockid="id018336">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#005c94;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#005c94"
+         id="path968" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id018883"
+       inkscape:stockid="id018883">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#005c94;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#005c94"
+         id="path971" />
+    </marker>
+  </defs>
+  <text
+     x="117.73"
+     y="22.671"
+     style="font-size:31.2px;font-family:Verdana;fill:#005c94;stroke-width:0.5"
+     id="text13">Data</text>
+  <text
+     x="27.13"
+     y="105.671"
+     style="font-size:17.3px;font-family:Verdana;fill:#005c94;stroke-width:0.5"
+     id="text15">Qualitative</text>
+  <text
+     x="185.13"
+     y="105.671"
+     style="font-size:17.3px;font-family:Verdana;fill:#005c94;stroke-width:0.5"
+     id="text17">Quantitative</text>
+  <text
+     x="131.53"
+     y="186.071"
+     style="font-size:17.3px;font-family:Verdana;fill:#005c94;stroke-width:0.5"
+     id="text19">Discrete</text>
+  <text
+     x="254.63"
+     y="186.171"
+     style="font-size:17.3px;font-family:Verdana;fill:#005c94;stroke-width:0.5"
+     id="text21">Continuous</text>
+  <path
+     d="m 143.83,31.071 -56,50.4"
+     style="fill:none;stroke:#005c94;stroke-width:2.67;marker-end:url(#id018883)"
+     id="path23" />
+  <text
+     x="-1.86999"
+     y="127.171"
+     style="font-style:italic;font-size:17.3px;font-family:Verdana;fill:#19aeff;stroke-width:0.5"
+     id="text25">&quot;It was great fun&quot;</text>
+  <text
+     x="173.73"
+     y="227.871"
+     style="font-size:33.3px;font-family:Verdana;fill:#ba00ff;stroke-width:0.5"
+     id="text27">5</text>
+  <text
+     x="267.73"
+     y="213.771"
+     style="font-size:20.7px;font-family:Verdana;fill:#ffc022;stroke-width:0.5"
+     id="text29">3.265...</text>
+  <path
+     d="m 264.23,222.271 h 77.8"
+     style="fill:#ff4141;stroke:#ffc022;stroke-width:1.56;marker-start:url(#id02);marker-end:url(#id03)"
+     id="path31" />
+  <circle
+     cx="143.73"
+     cy="211.771"
+     r="3.51695"
+     style="fill:#ba00ff;stroke:#ba00ff;stroke-width:1.56"
+     id="circle33" />
+  <circle
+     cx="155.23"
+     cy="211.971"
+     r="3.51695"
+     style="fill:#ba00ff;stroke:#ba00ff;stroke-width:1.56"
+     id="circle35" />
+  <circle
+     cx="137.63"
+     cy="220.871"
+     r="3.51695"
+     style="fill:#ba00ff;stroke:#ba00ff;stroke-width:1.56"
+     id="circle37" />
+  <circle
+     cx="150.03"
+     cy="222.571"
+     r="3.51695"
+     style="fill:#ba00ff;stroke:#ba00ff;stroke-width:1.56"
+     id="circle39" />
+  <circle
+     cx="162.03"
+     cy="220.171"
+     r="3.51695"
+     style="fill:#ba00ff;stroke:#ba00ff;stroke-width:1.56"
+     id="circle41" />
+  <rect
+     x="262.43"
+     y="228.171"
+     width="82.3"
+     height="15.2"
+     style="fill:#009100;stroke:#009100;stroke-width:1.56"
+     id="rect43" />
+  <path
+     d="m 153.43,31.071 56,50.4"
+     style="fill:none;stroke:#005c94;stroke-width:2.67;marker-end:url(#id018336)"
+     id="path45" />
+  <path
+     d="m 226.73,114.571 -56,50.4"
+     style="fill:none;stroke:#005c94;stroke-width:2.67;marker-end:url(#id012171)"
+     id="path47" />
+  <path
+     d="m 236.43,114.571 56,50.4"
+     style="fill:none;stroke:#005c94;stroke-width:2.67;marker-end:url(#id012038)"
+     id="path49" />
+</svg>

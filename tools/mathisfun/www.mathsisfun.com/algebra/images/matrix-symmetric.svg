@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="198.042"
+   height="141.524"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="matrix-symmetric.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview24"
+     showgrid="false"
+     inkscape:current-layer="svg22"
+     showguides="false" />
+  <defs
+     id="defs2" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4"
+     d="m 13.3904,4.29797 c -3.39996,-0.9 -7.39996,-0.3 -10.59996,-0.5 2.8,-2.800001 1,3 1.5,4.9 -0.2,15.00003 -0.8,100.00003 -0.6,115.00003 0.2,4.8 -0.3,9.6 0.2,14.3 -1.2,-0.6 2.1,-0.2 3,-0.3 h 6.69996 c 0,1.6 1.1,4.4 -1.6,3.6 -3.19996,-0.2 -6.59996,0.3 -9.69996,-0.3 -3.3,-1.9 -1.800005,-6.2 -2.200005,-9.3 0,-16.5 0,-103 0.6,-119.6 0.2,-3.60003 -0.3,-7.20003 0.2,-10.70003 C 2.39044,-0.802031 5.39044,0.497969 7.69044,0.197969 c 1.9,0.2 5.49996,-0.7 6.09996,1.200001 0,1 -0.4,2 -0.3,3 z"
+     style="color:#000000;overflow:visible;fill:#0169c9;stroke:#636466;stroke-width:0.17;stroke-linejoin:round"
+     sodipodi:nodetypes="cccccccccccccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path6"
+     d="m 185.173,3.95497 c 3.4,-0.6 7.4,-0.2 10.6,-0.3 -3.2,-3.000001 -0.7,5.9 -1.6,8.00003 0,14.6 0.3,99.2 -0.3,113.8 -0.2,3.9 0.1,8.8 -0.3,12.3 1,-0.4 -2.2,-0.2 -3.1,-0.2 h -6.7 c 0,1.6 -1.2,4.4 1.6,3.6 3.2,-0.1 6.6,0.3 9.8,-0.2 3.4,-1.8 1.8,-6.5 2.3,-9.5 0.3,-15.6 0.7,-101.1 0.3,-116.7 -0.2,-4.4 0.5,-8.90003 0,-13.30003 -1.5,-2.200001 -4.5,-1.000001 -6.8,-1.300001 -2,0.2 -4.8,-0.5 -6.1,0.7 0.1,1.000001 0.3,2.300001 0.3,3.200001 z"
+     style="color:#000000;overflow:visible;fill:#0169c9;stroke:#636466;stroke-width:0.17;stroke-linejoin:round"
+     sodipodi:nodetypes="cccccscccccccccc" />
+  <text
+     id="text8"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     y="61.738"
+     x="25.275">2</text>
+  <text
+     id="text10"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     y="24.598"
+     x="25.5159">3</text>
+  <text
+     id="text12"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     y="24.598"
+     x="70.7678">2</text>
+  <text
+     id="text14"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     y="61.738"
+     x="108.988">-1</text>
+  <text
+     id="text16"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     y="24.598"
+     x="108.877">11</text>
+  <text
+     id="text18"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     y="61.738"
+     x="71.0086">9</text>
+  <text
+     x="17.5862"
+     y="98.878"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     id="text841">11</text>
+  <text
+     x="116.735"
+     y="98.878"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     id="text843">0</text>
+  <text
+     x="63.1897"
+     y="98.878"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     id="text845">-1</text>
+  <text
+     id="text11821"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     y="136.018"
+     x="25.1904">5</text>
+  <text
+     id="text11823"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     y="136.018"
+     x="116.449">7</text>
+  <text
+     id="text11825"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     y="136.018"
+     x="70.8199">6</text>
+  <text
+     x="162.248"
+     y="61.738"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     id="text11827">6</text>
+  <text
+     x="162.112"
+     y="24.598"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     id="text11829">5</text>
+  <text
+     id="text11831"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     y="98.878"
+     x="162.079">7</text>
+  <text
+     x="162.437"
+     y="136.018"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.666668px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';overflow:visible;fill:#fd3301;stroke-width:0.66"
+     id="text11833">9</text>
+</svg>

@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="630.135"
+   height="136.004"
+   version="1.1"
+   style="font-size:11.7px;font-family:'Comic Sans MS';fill:#f57900;stroke-width:1px"
+   id="svg216"
+   sodipodi:docname="length-continuum.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata220">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview218"
+     showgrid="false"
+     inkscape:current-layer="svg216" />
+  <defs
+     id="defs8">
+    <marker
+       id="aa14"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       id="aa13"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <text
+     x="21.1556"
+     y="107.175"
+     style="font-size:12.5px;fill:#73d216"
+     id="text10">-18</text>
+  <text
+     x="59.9556"
+     y="107.175"
+     style="font-size:12.5px;fill:#73d216"
+     id="text12">-15</text>
+  <text
+     x="98.7556"
+     y="107.275"
+     style="font-size:12.5px;fill:#73d216"
+     id="text14">-12</text>
+  <text
+     x="298.356"
+     y="107.175"
+     style="font-size:12.5px;fill:#729fcf"
+     id="text16">3</text>
+  <text
+     x="260.556"
+     y="107.175"
+     style="font-size:12.5px;fill:#2e3436"
+     id="text18">0</text>
+  <text
+     x="414.256"
+     y="107.275"
+     style="font-size:12.5px;fill:#729fcf"
+     id="text20">12</text>
+  <text
+     x="453.056"
+     y="107.175"
+     style="font-size:12.5px;fill:#729fcf"
+     id="text22">15</text>
+  <text
+     x="375.956"
+     y="107.175"
+     style="font-size:12.5px;fill:#729fcf"
+     id="text24">9</text>
+  <text
+     x="337.256"
+     y="107.175"
+     style="font-size:12.5px;fill:#729fcf"
+     id="text26">6</text>
+  <text
+     x="218.956"
+     y="107.175"
+     style="font-size:12.5px;fill:#73d216"
+     id="text28">-3</text>
+  <text
+     x="180.156"
+     y="107.175"
+     style="font-size:12.5px;fill:#73d216"
+     id="text30">-6</text>
+  <text
+     x="141.256"
+     y="107.175"
+     style="font-size:12.5px;fill:#73d216"
+     id="text32">-9</text>
+  <text
+     x="491.856"
+     y="107.175"
+     style="font-size:12.5px;fill:#729fcf"
+     id="text34">18</text>
+  <text
+     x="531.656"
+     y="107.275"
+     style="font-size:12.5px;fill:#729fcf"
+     id="text36">21</text>
+  <text
+     x="570.456"
+     y="107.275"
+     style="font-size:12.5px;fill:#729fcf"
+     id="text38">24</text>
+  <text
+     x="609.256"
+     y="107.275"
+     style="font-size:12.5px;fill:#729fcf"
+     id="text40">27</text>
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 17.8556,14.275 v 63.8"
+     id="path42"
+     inkscape:connector-curvature="0" />
+  <text
+     x="8.05557"
+     y="131.675"
+     style="color:#000000;overflow:visible;fill:#73d216"
+     id="text44">atto-</text>
+  <text
+     x="44.1556"
+     y="131.675"
+     style="color:#000000;overflow:visible;fill:#73d216"
+     id="text46">femto-</text>
+  <text
+     x="86.7556"
+     y="131.675"
+     style="color:#000000;overflow:visible;fill:#73d216"
+     id="text48">pico-</text>
+  <text
+     x="122.756"
+     y="131.675"
+     style="color:#000000;overflow:visible;fill:#73d216"
+     id="text50">nano-</text>
+  <text
+     x="160.756"
+     y="131.675"
+     style="color:#000000;overflow:visible;fill:#73d216"
+     id="text52">micro-</text>
+  <text
+     x="202.656"
+     y="131.675"
+     style="color:#000000;overflow:visible;fill:#73d216"
+     id="text54">milli-</text>
+  <text
+     x="235.656"
+     y="135.175"
+     style="color:#000000;font-size:13.7px;overflow:visible;fill:#2e3436"
+     id="text56">meter</text>
+  <text
+     x="283.556"
+     y="131.675"
+     style="color:#000000;overflow:visible;fill:#729fcf"
+     id="text58">kilo-</text>
+  <text
+     x="317.356"
+     y="131.675"
+     style="color:#000000;overflow:visible;fill:#729fcf"
+     id="text60">mega-</text>
+  <text
+     x="357.656"
+     y="131.675"
+     style="color:#000000;overflow:visible;fill:#729fcf"
+     id="text62">giga-</text>
+  <text
+     x="396.256"
+     y="131.675"
+     style="color:#000000;overflow:visible;fill:#729fcf"
+     id="text64">tera-</text>
+  <text
+     x="434.256"
+     y="131.675"
+     style="color:#000000;overflow:visible;fill:#729fcf"
+     id="text66">peta-</text>
+  <text
+     x="474.156"
+     y="131.675"
+     style="color:#000000;overflow:visible;fill:#729fcf"
+     id="text68">exa-</text>
+  <text
+     x="509.056"
+     y="131.675"
+     style="color:#000000;overflow:visible;fill:#729fcf"
+     id="text70">zetta-</text>
+  <text
+     x="549.456"
+     y="131.675"
+     style="color:#000000;overflow:visible;fill:#729fcf"
+     id="text72">yotta-</text>
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 79.7556,30.775 v 48.5"
+     id="path74"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 91.8556,61.275 v 18.2"
+     id="path76"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 129.956,45.275 v 34"
+     id="path78"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 140.556,33.075 v 46"
+     id="path80"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 155.856,52.575 v 26.8"
+     id="path82"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 192.156,34.275 v 44.8"
+     id="path84"
+     inkscape:connector-curvature="0" />
+  <path
+     style="color:#000000;overflow:visible;fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 206.556,56.875 v 22.6"
+     id="path86"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 237.556,49.275 v 30"
+     id="path88"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 273.356,54.275 v 25.2"
+     id="path90"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 297.256,30.375 v 48.8"
+     id="path92"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 310.156,46.475 v 34"
+     id="path94"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 346.956,20.475 v 58.7"
+     id="path96"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 372.756,34.875 v 44.2"
+     id="path98"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 397.056,57.675 v 21.5"
+     id="path100"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 465.456,40.975 v 38.2"
+     id="path102"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 476.656,53.775 v 25.7"
+     id="path104"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 526.856,39.875 v 39.3"
+     id="path106"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 599.656,39.475 v 39.7"
+     id="path108"
+     inkscape:connector-curvature="0" />
+  <text
+     x="6.05557"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#73d216;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text110">10</text>
+  <text
+     x="45.1556"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#73d216;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text112">10</text>
+  <text
+     x="84.2556"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#73d216;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text114">10</text>
+  <text
+     x="123.456"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#73d216;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text116">10</text>
+  <text
+     x="162.556"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#73d216;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text118">10</text>
+  <text
+     x="201.656"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#73d216;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text120">10</text>
+  <text
+     x="244.656"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#2e3436;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text122">10</text>
+  <text
+     x="283.756"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#729fcf;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text124">10</text>
+  <text
+     x="322.956"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#729fcf;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text126">10</text>
+  <text
+     x="358.156"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#729fcf;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text128">10</text>
+  <text
+     x="397.356"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#729fcf;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text130">10</text>
+  <text
+     x="436.456"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#729fcf;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text132">10</text>
+  <text
+     x="475.556"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#729fcf;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text134">10</text>
+  <text
+     x="514.756"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#729fcf;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text136">10</text>
+  <text
+     x="553.856"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#729fcf;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text138">10</text>
+  <text
+     x="592.956"
+     y="119.275"
+     style="color:#000000;font-size:15.6px;overflow:visible;fill:#729fcf;stroke-width:3.2;stroke-dasharray:12.8, 12.8"
+     id="text140">10</text>
+  <text
+     x="61.2556"
+     y="26.875"
+     id="text142">Proton</text>
+  <text
+     x="107.656"
+     y="42.775"
+     style="color:#000000;overflow:visible"
+     id="text144">Atom</text>
+  <text
+     x="144.656"
+     y="49.975"
+     style="color:#000000;overflow:visible"
+     id="text146">DNA</text>
+  <text
+     x="180.756"
+     y="29.675"
+     style="color:#000000;overflow:visible"
+     id="text148">Microbe</text>
+  <text
+     x="262.756"
+     y="49.675"
+     style="color:#000000;overflow:visible"
+     id="text150">House</text>
+  <text
+     x="300.256"
+     y="45.775"
+     style="color:#000000;overflow:visible"
+     id="text152">City</text>
+  <text
+     x="335.356"
+     y="16.575"
+     style="color:#000000;overflow:visible"
+     id="text154">Earth</text>
+  <text
+     x="385.156"
+     y="45.175"
+     style="color:#000000;overflow:visible"
+     id="text156">Earth</text>
+  <text
+     x="470.156"
+     y="51.375"
+     style="color:#000000;overflow:visible"
+     id="text158">Parsec</text>
+  <text
+     x="511.656"
+     y="25.575"
+     style="color:#000000;overflow:visible"
+     id="text160">Milky</text>
+  <text
+     x="4.93635"
+     y="11.575"
+     style="color:#000000;overflow:visible"
+     id="text162">Quark</text>
+  <text
+     x="119.456"
+     y="29.175"
+     style="color:#000000;overflow:visible"
+     id="text164">Molecule</text>
+  <text
+     x="194.956"
+     y="53.975"
+     style="color:#000000;overflow:visible"
+     id="text166">Hair</text>
+  <text
+     x="281.056"
+     y="27.975"
+     style="color:#000000;overflow:visible"
+     id="text168">Mountain</text>
+  <text
+     x="362.156"
+     y="30.975"
+     style="color:#000000;overflow:visible"
+     id="text170">Sun</text>
+  <text
+     x="436.456"
+     y="36.075"
+     style="color:#000000;overflow:visible"
+     id="text172">Lightyear</text>
+  <text
+     x="598.756"
+     y="24.475"
+     style="color:#000000;text-align:center;text-anchor:middle;overflow:visible"
+     id="text174">Observable</text>
+  <text
+     x="80.5556"
+     y="58.075"
+     style="color:#000000;overflow:visible"
+     id="text176">Nucleus</text>
+  <path
+     style="color:#000000;font-size:48px;overflow:visible;fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 261.256,11.775 v 66.9"
+     id="path178"
+     inkscape:connector-curvature="0" />
+  <text
+     x="248.556"
+     y="8.97495"
+     style="color:#000000;overflow:visible"
+     id="text180">Person</text>
+  <path
+     style="color:#000000;font-size:48px;overflow:visible;fill-opacity:0.75;stroke:#c4a000;stroke-width:1.27"
+     d="m 176.156,14.375 v 64.3"
+     id="path182"
+     inkscape:connector-curvature="0" />
+  <text
+     x="167.256"
+     y="10.275"
+     style="color:#000000;overflow:visible"
+     id="text184">Cell</text>
+  <text
+     x="218.656"
+     y="43.875"
+     style="color:#000000;overflow:visible"
+     id="text186">Finger</text>
+  <path
+     id="aa1"
+     style="fill:none;stroke:#000000;stroke-width:1.4"
+     d="m 25.8556,78.075 v 16.5"
+     inkscape:connector-curvature="0" />
+  <use
+     id="aa2"
+     transform="translate(38.56,1.00256e-5)"
+     xlink:href="#aa1"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     id="aa3"
+     transform="translate(77.121,1.00256e-5)"
+     xlink:href="#aa1"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     id="aa4"
+     transform="translate(115.682,1.00256e-5)"
+     xlink:href="#aa1"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     id="aa5"
+     transform="translate(154.242,1.00256e-5)"
+     xlink:href="#aa1"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     id="aa6"
+     transform="translate(154.242,1.00256e-5)"
+     xlink:href="#aa2"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     id="aa7"
+     transform="translate(154.242,1.00256e-5)"
+     xlink:href="#aa3"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     id="aa8"
+     transform="translate(154.242,1.00256e-5)"
+     xlink:href="#aa4"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     id="aa9"
+     transform="translate(154.242,1.00256e-5)"
+     xlink:href="#aa5"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     id="aa10"
+     transform="translate(154.242,1.00256e-5)"
+     xlink:href="#aa6"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     id="aa11"
+     transform="translate(154.242,1.00256e-5)"
+     xlink:href="#aa7"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     id="aa12"
+     transform="translate(154.242,1.00256e-5)"
+     xlink:href="#aa8"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     transform="translate(154.242,1.00256e-5)"
+     xlink:href="#aa9"
+     x="0"
+     y="0"
+     id="use200"
+     width="100%"
+     height="100%" />
+  <use
+     transform="translate(154.242,1.00256e-5)"
+     xlink:href="#aa10"
+     x="0"
+     y="0"
+     id="use202"
+     width="100%"
+     height="100%" />
+  <use
+     transform="translate(154.242,1.00256e-5)"
+     xlink:href="#aa11"
+     x="0"
+     y="0"
+     id="use204"
+     width="100%"
+     height="100%" />
+  <use
+     transform="translate(154.242,1.00256e-5)"
+     xlink:href="#aa12"
+     x="0"
+     y="0"
+     id="use206"
+     width="100%"
+     height="100%" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.019999px;marker-start:url(#aa13);marker-end:url(#aa14)"
+     d="M 1.98019,78.575 H 628.155"
+     id="path208"
+     inkscape:connector-curvature="0" />
+  <text
+     x="383.156"
+     y="57.175"
+     style="color:#000000;overflow:visible"
+     id="text210">to Sun</text>
+  <text
+     x="598.656"
+     y="36.475"
+     style="color:#000000;text-align:center;text-anchor:middle;overflow:visible"
+     id="text212">Universe</text>
+  <text
+     x="514.056"
+     y="37.575"
+     style="color:#000000;overflow:visible"
+     id="text214">Way</text>
+</svg>

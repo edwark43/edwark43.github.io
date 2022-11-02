@@ -1,0 +1,57 @@
+clr 0x000000
+thk 3
+alp 100
+char 21 50 (
+char 32 53 2
+char 54 52 x
+char 77 52 +
+char 103 51 3
+char 126 50 )
+char 143 50 (
+char 156 51 x
+char 174 53 z
+char 200 51 -
+char 218 52 a
+char 243 50 )
+clr 0x000000
+char 268 49 =
+start
+
+clr 0xF0A000
+line 316 8 315 10~to 315 14~to 315 17~to 315 20~to 314 22~to 313 25
+line 312 8 315 9~to 317 9~to 321 9~to 325 9~to 328 9~to 331 8
+line 315 14 317 16~to 320 17~to 322 18~to 325 17
+line 32 64 35 63~to 38 61~to 43 61~to 46 60~to 49 60~to 53 60~to 56 60~to 59 62~to 61 63
+line 151 64 155 61~to 158 60~to 162 60~to 165 60~to 168 60~to 172 60~to 176 60~to 179 61~to 181 62~to 184 63
+char 300 53 2
+char 319 52 x
+clr 0xF0A000
+line 336 31 338 29~to 341 28~to 343 27~to 344 30~to 343 35~to 340 36~to 337 37~to 341 37~to 344 37~to 346 39
+char 343 54 z
+clr 0x87C0E0
+line 414 9 411 9~to 408 10~to 406 13~to 405 15~to 405 19~to 406 21~to 408 24~to 411 25~to 414 25~to 417 24~to 419 21~to 420 19~to 420 15~to 419 13~to 417 10~to 415 9~to 412 8~to 410 9
+line 32 71 35 70~to 39 69~to 43 69~to 47 67~to 50 66~to 54 66~to 57 67~to 60 68~to 63 69
+line 209 69 213 67~to 217 65~to 219 64~to 223 63~to 226 62~to 229 63~to 233 64~to 235 65~to 238 66
+char 371 50 -
+char 394 53 2
+char 412 53 x
+char 429 53 a
+clr 0xF0D000
+clr 0xF0D000
+line 501 9 500 12~to 499 14~to 498 18~to 497 20~to 496 23
+line 493 9 496 9~to 499 8~to 502 8~to 506 8
+line 491 24 494 23~to 497 22~to 501 22~to 504 22
+line 93 62 97 60~to 99 60~to 102 59~to 107 59~to 111 59~to 113 60~to 116 60~to 120 62~to 122 63~to 125 65
+line 149 71 152 70~to 156 67~to 159 66~to 162 65~to 166 65~to 170 65~to 173 65~to 177 65~to 179 66
+char 460 51 +
+char 485 53 3
+char 506 53 x
+char 523 54 z
+clr 0x0000F0
+clr 0x0000F0
+line 592 9 592 11~to 590 14~to 589 16~to 588 19~to 587 21~to 587 24~to 590 23~to 593 23~to 597 23~to 600 23
+line 92 67 95 66~to 99 65~to 102 65~to 105 65~to 109 65~to 112 65~to 115 66~to 117 67
+line 213 74 215 71~to 218 71~to 222 70~to 224 69~to 228 69~to 231 69~to 234 70
+char 553 52 -
+char 573 52 3
+char 592 53 a

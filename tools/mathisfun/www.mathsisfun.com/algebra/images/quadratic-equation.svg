@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300.9"
+   height="33.1"
+   version="1.1"
+   style="font-family:'Comic Sans MS';font-size:34px;stroke-width:0.32px"
+   id="svg24"
+   sodipodi:docname="quadratic-equation.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview26"
+     showgrid="false"
+     inkscape:current-layer="svg24" />
+  <text
+     x="1.236"
+     y="31.63"
+     style="color:#000000;overflow:visible;fill:#c4a000"
+     id="text2">a</text>
+  <text
+     x="21.236"
+     y="31.63"
+     style="color:#000000;overflow:visible;fill:#204a87"
+     id="text4">x</text>
+  <text
+     x="41.336"
+     y="18.53"
+     style="color:#000000;font-size:24px;overflow:visible;fill:#204a87"
+     id="text6">2</text>
+  <text
+     x="71.836"
+     y="31.63"
+     style="overflow:visible;fill:#3465a4;"
+     id="text8">+</text>
+  <text
+     x="109.936"
+     y="31.63"
+     style="overflow:visible;fill:#729fcf"
+     id="text10">b</text>
+  <text
+     x="133.236"
+     y="31.63"
+     style="overflow:visible;fill:#204a87"
+     id="text12">x</text>
+  <text
+     x="171.036"
+     y="31.63"
+     style="overflow:visible;fill:#3465a4;"
+     id="text14">+</text>
+  <text
+     x="205.236"
+     y="31.63"
+     style="overflow:visible;fill:#c17d11"
+     id="text16">c</text>
+  <text
+     x="244.236"
+     y="31.63"
+     style="overflow:visible;fill:#3465a4;"
+     id="text18">=</text>
+  <text
+     x="281.236"
+     y="31.63"
+     style="overflow:visible;fill:#3465a4;"
+     id="text20">0</text>
+</svg>

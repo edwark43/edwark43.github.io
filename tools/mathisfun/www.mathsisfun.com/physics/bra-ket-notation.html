@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Main.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/physics/bra-ket-notation.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:52:07 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+
+
+<!-- #BeginEditable "doctitle" -->
+<title>Bra-Ket Notation</title>
+<meta name="description" content="Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.">
+
+  
+<style>
+
+.mat {
+  font: 20px Verdana, Arial, Trebuchet MS, Tahoma, Geneva, Verdana, sans-serif;
+	color: #f30;
+	
+  background-image: linear-gradient(#07c, #07c),
+    linear-gradient(#07c, #07c),
+    linear-gradient(#07c, #07c),
+    linear-gradient(#07c, #07c);
+  
+  background-repeat: no-repeat;
+  background-size: 7px 2px;
+  background-position: top left, top right, bottom left, bottom right;
+
+  border: solid #07c;
+  
+  border-width: 0 2px;
+  display: inline-block;
+  vertical-align: middle;
+
+  padding: 2px 9px 3px 9px;
+	
+	border-radius:3px;
+  
+}
+
+
+.cols1, .cols2, .cols3, .cols4 {
+	display: inline-grid;
+	grid-template-columns: max-content;
+	align-content: space-evenly;	
+	grid-gap: 4px 14px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.cols1 { grid-template-columns: max-content; }
+.cols2 { grid-template-columns: repeat(2, max-content); }
+.cols3 { grid-template-columns: repeat(3, max-content); }
+.cols4 { grid-template-columns: repeat(4, max-content); }
+
+.txt {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 3px 3px;
+	font: 20px Verdana, Geneva, sans-serif;
+	color: orange;
+	text-align: center;
+	min-width: 25px;
+}
+
+.bra::before {  content: "\2329"; font-size:120%; }
+.bra {color:orange;}
+.bra::after {  content: "|";  font-size:110%; }
+ 
+.ket::before {  content: "|";  font-size:110%; }
+.ket {color:orange;}
+.ket::after {  content: "\232A"; font-size:120%; }
+
+ 
+.braket::before {  content: "\2329"; font-size:120%; }
+.braket {color:orange;}
+.braket::after {  content: "\232A"; font-size:120%; }
+  
+  
+</style>  
+  
+  
+  
+  
+  <!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js"></script>
+<script>document.write(gTagHTML())</script>
+</head>
+
+<body id="bodybg">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+<h1 class="center">Bra-Ket Notation</h1>
+
+<p class="center"><i>Also called Dirac Notation.</i></p>
+ 
+
+
+<p>Bra-Ket is a way of writing special <a href="../algebra/vectors.html">vectors</a> used in Quantum Physics that looks like this:</p>
+   <p class="center large"><span class="braket">bra|ket</span></p>
+<p>Here is a vector in 3 dimensions:</p>
+<p class="center"><img src="../algebra/images/vector-3d-abc.svg" alt="vector in 3d"></p>
+  
+  <p>We can write this as a column vector like this:</p>
+
+<div style="text-align: center;">
+<div class="txt">r =</div>
+<div class="mat">
+<div class="cols1">
+<div>a</div>
+<div>b</div>
+<div>c</div>
+</div>
+</div>
+</div>
+
+  
+<p>Or we can write it as a "ket":</p>
+  
+<div style="text-align: center;">
+<div class="txt"><span class="ket">r</span> =</div>
+<div class="mat">
+<div class="cols1">
+<div>a</div>
+<div>b</div>
+<div>c</div>
+</div>
+</div>
+</div>
+ 
+  
+  
+<p class="large">But kets are special:</p>
+<ul>
+<li>The values (a, b and c above) are <a href="../numbers/complex-numbers.html">complex numbers</a> (they may be real numbers, imaginary numbers or a combination of both)</li>
+<li>A ket is a quantum state</li>
+<li>Kets can have any number of dimensions, including infinite dimensions!</li></ul>
+  
+  <p>The "bra" is similar, but the values are in a <b>row</b>, and each element is the complex <a href="../algebra/conjugate.html">conjugate</a> of the ket's elements.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="example">
+    <h3>Example: This ket:</h3>
+  
+<div style="text-align: center;">
+<div class="txt"><span class="ket">a</span> =</div>
+<div class="mat">
+<div class="cols1">
+<div>2−3i</div>
+<div>6+4i</div>
+<div>3−i</div>
+</div></div>
+</div>
+  <p>Has this bra:</p>
+  
+  <div style="text-align: center;">
+<div class="txt"><span class="bra">a</span> =</div>
+<div class="mat">
+<div class="cols3">
+<div>2+3i</div>
+<div>6−4i</div>
+<div>3+i</div>
+</div></div></div>
+  
+  
+  <p>The values are now in a row, and we also <b>changed the sign</b> (+ to −, and − to +) in the middle of each element.</p>
+
+  
+  
+  </div>
+  
+  <p>In "matrix language", changing a ket into a bra (or bra into a ket) is a "conjugate transpose":</p>
+<ul>
+<li>conjugate: 2−3i becomes 2+3i, etc...</li>
+<li>transpose: rows swap with columns</li></ul>
+<p>Read more at <a href="../algebra/matrix-types.html">Matrix Types</a>.</p>
+
+  <br>
+<h2>Multiplying</h2>
+<p>Multiplying a bra <span class="bra">a</span> and ket <span class="bra ket">b</span> looks like this:</p>
+<p class="center large"><span class="braket">a|b</span></p>
+<p>We use <a href="../algebra/matrix-multiplying.html">matrix multiplication</a>, in particluar the <a href="../algebra/vectors-dot-product.html">dot product</a>:</p>
+<div class="def">
+		<p>The "Dot Product" is where we <b>multiply matching members</b>, then sum up:</p>
+		<div style="text-align: center;">
+<div class="mat">
+<div class="cols3">
+<div>1</div>
+<div>2</div>
+<div>3</div>
+</div>
+</div>
+<div class="mat">
+<div class="cols1">
+<div>7</div>
+<div>9</div>
+<div>11</div>
+</div>
+</div>
+<div class="txt">= 1×7 + 2×9 + 3×11 = 58</div>
+</div>
+<!-- [1, 2, 3][7~9~11] = 1×7 + 2×9 + 3×11 --><p>We match the 1st members (1 and 7), multiply them, likewise for the
+ 2nd members (2 and 9) and the 3rd members (3 and 11), and finally sum 
+them up.</p>
+	</div>
+
+<p>In effect, the dot product "projects" one vector on to the other before multiplying the lengths:</p>
+<table style="border: 0; margin:auto;">
+	<tbody>
+<tr>		
+<td style="text-align:center;"><img src="../algebra/images/dot-product-right.svg" alt="dot product |a| cos(theta)"></td>
+		<td style="text-align:center; width:50px;">&nbsp;</td>
+		<td style="text-align:center;"><img src="../algebra/images/dot-product-light.svg" alt="dot product shine light"></td>
+	</tr>
+	<tr>
+		<td style="text-align:center;"><br>
+</td>
+<td style="text-align:center; width:50px;"><br>
+</td>
+		<td style="text-align:center;">Like shining a light to see<br>
+where the shadow lies</td>
+	</tr>
+</tbody></table><br>
+When the two vectors are at right angles the dot product is zero:<p class="center"><img src="../algebra/images/dot-product-light-right.svg" alt="dot product shine light right angles"><br>
+No shadow is cast!</p>
+<div class="example">
+    <h3>Example:</h3>
+
+<p class="center"><img src="images/quantum-space-simple.svg" alt="vectors in 2d"></p>
+
+<div style="text-align: center;">
+<div class="txt"><span class="ket">a</span> =</div>
+<div class="mat">
+<div class="cols1">
+<div>1</div>
+<div>0</div>
+</div>
+</div>
+<div class="txt">, and <span class="ket">b</span> =</div>
+<div class="mat">
+<div class="cols1">
+<div>0</div>
+<div>1</div>
+</div>
+</div>
+<div class="txt"></div>
+</div>
+<!-- a = [1~0] and b = [0~1]  -->
+  <p>So:</p>
+<div style="text-align: center;">
+<div class="txt"><span class="braket">a|b</span> =</div>
+  <div class="mat">
+<div class="cols2">
+<div>1</div>
+<div>0</div>
+</div>
+</div>
+<div class="mat">
+<div class="cols1">
+<div>0</div>
+<div>1</div>
+</div>
+</div>
+<div class="txt">= 1×0 + 0×1 = 0</div>
+</div>
+<!-- [1, 0][0~1] = 1×0 + 0×1 -->
+  
+ 
+  <p>This can be a simple test to see if vectors are <b>orthogonal</b> (the more general concept of "at right angles")</p></div>
+<p><br></p>
+<p>The dot product of a vector <b>with itself</b> is the length of the vector times the length of the vector. In other words it is <b>length<sup>2</sup></b>:</p>
+<p class="center"><img src="../algebra/images/dot-product-light-same.svg" alt="dot product shine light same vector"><br>
+Full shadow is cast!</p>
+<div class="example">
+    <h3>Example:</h3>
+  
+  <div style="text-align: center;">
+<div class="txt">c =</div>
+<div class="mat">
+<div class="cols1">
+<div>2</div>
+<div>1</div>
+</div>
+</div>
+</div>
+<!-- c = [2~1] -->
+  
+  <p>So:</p>
+  
+  <div style="text-align: center;">
+<div class="txt"><span class="braket">c|c</span> =</div>
+<div class="mat">
+<div class="cols2">
+<div>2</div>
+<div>1</div>
+</div></div>
+<div class="mat">
+<div class="cols1">
+<div>2</div>
+<div>1</div>
+</div></div>
+<div class="txt">= 2×2 + 1×1 = 5</div>
+</div>
+   <p>The dot product is <b>5</b></p>
+<p>And we can also work out <b>c</b>'s length to be <b>√5</b></p>
+ </div>
+   
+   <div class="example">
+    <h3>Example: What is the length of the vector [1, 2, −2, 5] ?</h3>
+
+<div style="text-align: center;">
+<div class="mat">
+<div class="cols4">
+<div>1</div>
+<div>2</div>
+<div>−2</div>
+<div>5</div>
+</div>
+</div>
+<div class="mat">
+<div class="cols1">
+<div>1</div>
+<div>2</div>
+<div>−2</div>
+<div>5</div>
+</div>
+</div>
+<div class="txt">= 1×1 + 2×2 + (−2)×(−2) + 5×5</div>
+  <div class="txt">= 1 + 4 + 4 + 25</div> 
+<div class="txt">= 34</div>
+</div>
+<!-- [1, 2, &minus;2, 5][1~2~&minus;2~5] = 1*1 + 2*2 + (&minus;2)*(&minus;2) + 5*5 = 1 + 4 + 4 + 25 -->
+     
+     <p>The dot product is 34, so the vector's length is <b>√34</b></p>
+<p><b><br>
+</b></p>
+     
+     <p>Note: we can also use <a href="../geometry/pythagoras-3d.html">Pythagoras' Theorem</a> to calculate its length:</p>
+<p class="center">√(1<sup>2</sup> + 2<sup>2</sup> + (−2)<sup>2</sup> + 5<sup>2</sup>) = √34</p>
+   
+ </div>
+
+<h2>Basis</h2>
+<p class="center"><img src="../algebra/images/vector-3d-abc.svg" alt="vector in 3d"></p>
+<h3>We can separate the parts of a vector like this:</h3>
+  
+<div style="text-align: center;">
+<div class="txt"><span class="ket">r</span> =</div>
+<div class="mat">
+<div class="cols1">
+<div>a</div>
+<div>b</div>
+<div>c</div>
+</div>
+</div>
+<div class="txt">= a</div>
+<div class="mat">
+<div class="cols1">
+<div>1</div>
+<div>0</div>
+<div>0</div>
+</div>
+</div>
+<div class="txt">+ b</div>
+<div class="mat">
+<div class="cols1">
+<div>0</div>
+<div>1</div>
+<div>0</div>
+</div>
+</div>
+<div class="txt">+ c</div>
+<div class="mat">
+<div class="cols1">
+<div>0</div>
+<div>0</div>
+<div>1</div>
+</div>
+</div>
+<div class="txt"></div>
+</div>
+<!-- b = [b_x~b_y~b_z] = b_x[1~0~0] + b_y[0~1~0] + b_z[0~0~1]  -->
+  
+  
+
+  
+    
+  <p>The vectors "1, 0, 0", "0, 1, 0" and "0, 0, 1" form the <b>basis</b>: the vectors that we
+ measure things against.</p>
+<p>In this case they are simple unit vectors, but 
+any set of vectors can be used when they are <b>independent</b> of each other (being at right angles achieves this) and can together <b>span</b> every part of the space.</p>
+<p><a href="../algebra/matrix-rank.html">Matrix Rank</a> has more details about linear dependence, span and more.</p>
+<h2>Orthonormal Basis</h2>
+<p>In most cases we want an <b>orthonormal</b> basis which is:<b></b></p>
+<ul>
+<li><b>Orthogonal</b>: each basis vector is at <b>right angles</b> to all others. <br>We can test it by making sure any pairing of basis vectors has a dot product <b>a·b = 0</b></li>
+<li><b>Normalized</b>: each basis vector has length <b>1</b></li></ul>
+<p>Our simple example from above works nicely:</p>
+<p class="center"><img src="images/quantum-space-simple.svg" alt="vectors in 2d"><br>
+The vectors are at right angles,<br>
+and each vector has a length of 1</p>
+
+<p>And this one also works:</p>
+<p><br></p>
+<p class="center"><img src="images/quantum-space-45.svg" alt="vectors in 2d"></p>
+
+<p>Let's check it!</p>Is the dot product zero?
+
+
+
+
+
+
+<p class="center large">a·b  = <span class="intbl"><em>1</em><strong>√2</strong></span>×<span class="intbl"><em>1</em><strong>√2</strong></span> + <span class="intbl"><em>1</em><strong>√2</strong></span>×<span class="intbl"><em>−1</em><strong>√2</strong></span></p>
+<p class="center large">= <span class="intbl"><em>1</em><strong>2</strong></span> − <span class="intbl"><em>1</em><strong>2</strong></span> = 0</p>
+<p>Is each length 1?</p>
+<p class="center large">|a|  = (<span class="intbl"><em>1</em><strong>√2</strong></span>)<sup>2</sup> + (<span class="intbl"><em>1</em><strong>√2</strong></span>)<sup>2</sup> = <span class="intbl"><em>1</em><strong>2</strong></span> + <span class="intbl"><em>1</em><strong>2</strong></span><span class="intbl"></span>= 1</p>
+
+<p class="center large">|b|  = (<span class="intbl"><em>1</em><strong>√2</strong></span>)<sup>2</sup> + (<span class="intbl"><em>−1</em><strong>√2</strong></span>)<sup>2</sup> = <span class="intbl"><em>1</em><strong>2</strong></span> + <span class="intbl"><em>1</em><strong>2</strong></span><span class="intbl"></span>= 1</p>
+
+  
+  <p>So yes it <b>is</b> an orthonormal basis!</p>
+<h2>Schrödinger's Cat</h2>
+<p style="float:right; margin: 0 0 5px 10px;"><img src="images/quantum-cat.svg" alt="dot product shine light same vector"></p>
+<p>A famous example is "Schrödinger's Cat": a thought experiment where a cat is in a box with a quantum-triggered container of gas. There is an equal chance of it being alive or dead (until we open the box).</p>
+<p>It can be 
+written like this:</p>
+<p class="center larger"><span class="ket">cat</span> = <span class="intbl"><em>1</em><strong>√2</strong></span><span class="ket">alive</span> + <span class="intbl"><em>1</em><strong>√2</strong></span><span class="ket">dead</span></p>
+<p>It says the state of the cat is in a <b>superposition</b> of the two states "alive" and "dead".</p>
+<p>But why the <span class="intbl"><em>1</em><strong>√2</strong></span> ?</p>
+<p>First let us illustrate it like this:</p>
+<p class="center"><img src="images/quantum-space-2d-cat.svg" alt="vector in 3d"></p>
+
+<p>The <b>basis</b> is the two vectors <b>alive</b> and <b>dead</b>. The cat is shown in that probability space as a vector with equal components a and d.</p>
+<p>Now let us normalize it!</p>
+  <div class="def">
+    
+  
+<h3>Normalized</h3>
+<p>A <b>normalized</b> vector has a length of 1.</p>
+<p>We know the dot product of a vector with itself is length<sup>2</sup>, so a normalized vector has:</p>
+<div style="text-align: center;">
+<div class="txt"><span class="braket">a|a</span> = 1<sup><span>2</span></sup> = 1</div>
+</div>
+  </div><br>
+<div class="example">
+    <h3>Example: Normalizing the cat vector</h3>
+  <p>&nbsp;If we assume a = d = 1 we get this:</p>
+  <div style="text-align: center;">
+<div class="txt"><span class="braket">cat|cat</span> =</div>
+<div class="mat">
+<div class="cols2">
+<div>1</div>
+<div>1</div>
+</div></div>
+<div class="mat">
+<div class="cols1">
+<div>1</div>
+<div>1</div>
+</div></div>
+<div class="txt">= 1×1 + 1×1 = 2</div>
+</div>
+
+  <p>But it <b>should be 1</b>, right?</p>
+<p>Let us try <span class="intbl"><em>1</em><strong>√2</strong></span>:</p>
+<div style="text-align: center;">
+<div class="txt"><span class="braket">cat|cat</span> =</div>
+<div class="mat">
+<div class="cols2">
+<div><span class="intbl"><em>1</em><strong>√2</strong></span></div>
+<div><span class="intbl"><em>1</em><strong>√2</strong></span></div>
+</div></div><div class="mat">
+<div class="cols1">
+<div><span class="intbl"><em>1</em><strong>√2</strong></span></div>
+<div><span class="intbl"><em>1</em><strong>√2</strong></span></div>
+</div></div><div class="txt">= <span class="intbl"><em>1</em><strong>2</strong></span> + <span class="intbl"><em>1</em><strong>2</strong></span><span class="intbl"><strong></strong></span>= 1</div>
+</div>
+<p>So a = d = <span class="intbl"><em>1</em><strong>√2</strong></span>, and we get:</p>
+<p class="center large"><span class="ket">cat</span> = <span class="intbl"><em>1</em><strong>√2</strong></span><span class="ket">alive</span> + <span class="intbl"><em>1</em><strong>√2</strong></span><span class="ket">dead</span></p>
+<p>And it now has a length of 1</p>
+    </div>
+  
+  
+  
+  <h2>Probability</h2>
+<p>Let us try to find the probability by adding the component lengths a and d:</p>
+<p class="center larger">Probability = <span class="intbl"><em>1</em><strong>√2</strong></span> + <span class="intbl"><em>1</em><strong>√2</strong></span><br>
+= <span class="intbl"><em>2</em><strong>√2</strong></span>
+  = <b>√2&nbsp; ???</b></p>
+<p>But that can't be right, probability <b>can't be greater than 1</b></p>
+<p>In fact we need to take the <b>magnitude</b> of each vector (shown using ||) and <b>square</b> it:</p>
+<p class="center larger">Probability = |<span class="intbl"><em>1</em><strong>√2</strong></span>|<sup>2</sup> + |<span class="intbl"><em>1</em><strong>√2</strong></span>|<sup>2</sup><br>
+&nbsp; &nbsp; = <span class="intbl"><em>1</em><strong>2</strong></span> + <span class="intbl"><em>1</em><strong>2</strong></span>
+  = <b>1</b> (yay!)</p>
+<p>This is a general rule in Quantum Physics:</p>
+<div class="def">The probability equals the amplitude magnitude squared, in other words:
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class="center">Probability = |Amplitude|<sup>2</sup></p>
+The ||  means  <a href="../algebra/vectors.html">magnitude of a vector</a>, not  absolute value.</div>
+
+<h2>Naming Kets</h2>
+<p>Notice how we are free to use any word or symbol inside the ket. In some cases numbers are also used, but they are used as labels so don't try to do arithmetic with them.</p>
+<h2>Many Dimensions</h2>
+
+<p style="float:right; margin: 0 0 5px 10px;"><img src="images/dice-pup.svg" alt="superposition of dice"></p>
+  <p>We can <b>easily</b> have many dimensions.</p>
+  
+ <p>Imagine "Quantum Dice" that are in a superposition of 1, 2, 3, 4, 5 and 6.</p>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>The ket looks like this:</p>
+<div style="text-align: center;">
+<div class="txt"><span class="ket">die</span> =</div>
+<div class="mat">
+<div class="cols1">
+<div>a</div>
+<div>b</div>
+<div>c</div>
+<div>d</div>
+<div>e</div>
+<div>f</div>
+</div>
+</div>
+</div>
+<!-- die = [a~b~c~d~e~f] -->
+
+<p>For a <a href="../geometry/fair-dice.html">fair die</a> all elements (a, b, c, d, e, f) are equal, but <b>your</b> dice may be loaded!</p>
+<h2>Why?</h2>
+<p>Why do we do all this?</p>
+<p>So we can "map" some real world case (usually one with probabilities)
+ onto a well-defined mathematical basis. This then gives us the power to
+ use all the math tools to study it.</p>
+<h2></h2>
+<h2>Conclusion</h2>
+The bra-ket notation is a simple way to refer to a vector with 
+complex elements, any number of dimensions, that represents one 
+state in a state space. The probability of any state equals the magnitude of its vector squared.
+
+
+
+
+<p><br></p>
+
+<div class="related">    
+  <a href="quantum-polar-filter.html">Quantum Polar Filter</a>    
+  <a href="index.html">Index</a>  
+</div>
+<!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2021 MathsIsFun.com</div>
+
+</div>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/physics/bra-ket-notation.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:52:10 GMT -->
+</html>

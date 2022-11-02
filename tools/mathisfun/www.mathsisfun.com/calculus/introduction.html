@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/calculus/introduction.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:48:54 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Introduction to Calculus</title>
+<script language="JavaScript" type="text/javascript">reSpell=[["meters","metres"],["traveling","travelling"]];</script>
+<meta name="Description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents.">
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+<meta name="referrer" content="always">
+	<link rel="preload" href="../images/style/font-champ-bold.ttf" as="font" type="font/ttf" crossorigin="">
+	<link rel="preload" href="../style4.css" as="style">
+	<link rel="preload" href="../main4.js" as="script">
+<link rel="stylesheet" href="../style4.css">
+<script src="../main4.js" defer="defer"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29771508-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29771508-1');
+</script>
+</head>
+
+<body id="bodybg" class="adv">
+
+	<div id="stt"></div>
+	<div id="adTop"></div>
+	<header>
+	<div id="hdr"></div>
+	<div id="tran"></div>
+	<div id="adHide"></div>
+	<div id="cookOK"></div>
+	</header>
+	
+	<div class="mid">
+
+	<nav>
+		<div id="menuWide" class="menu"></div>
+		<div id="logo"><a href="../index.html"><img src="../images/style/logo-adv.svg" alt="Math is Fun Advanced"></a></div>
+
+		<div id="search" role="search"></div>
+		<div id="linkto"></div>
+	
+		<div id="menuSlim" class="menu"></div>
+		<div id="menuTiny" class="menu"></div>
+	</nav>
+	
+	<div id="extra"></div>
+
+<article id="content" role="main">
+
+<!-- #BeginEditable "Body" -->
+
+<h1 class="center">Introduction to Calculus</h1>
+
+<p class="center">Calculus is all about  <i><b>changes</b></i>.</p>
+	<table width="100%">
+		<tbody>
+<tr>
+    <td><img src="images/speedometer-0.jpg" alt="speedometer" height="102" width="150"></td>
+    <td>
+<p>Sam and Alex are traveling in the car ... but the speedometer is broken.</p></td>
+  </tr>
+</tbody></table>
+  
+ 
+<div class="tbl">
+  
+  <div class="row">
+  <div class="lt">
+    Alex:
+  </div>
+  <div class="rtlt">
+    "Hey Sam! How fast are we going now?"
+  </div>
+  </div>  
+
+  <div class="row">
+  <div class="lt">
+    Sam:
+  </div>
+  <div class="rtlt">
+    <p>"Wait a minute ..."</p>
+	<p>"Well in the last minute we went 1.2 km, so we are going:"</p>
+			<p class="center large">1.2 km per minute x 60 minutes in an hour = <b>72 km/h</b></p>
+  </div>
+  </div> 
+  
+  <div class="row">
+  <div class="lt">
+    Alex:
+  </div>
+  <div class="rtlt">
+    <p>"No, Sam! Not our <b>average</b> for  the last minute, or even the last second, I want to know our speed RIGHT NOW."</p>
+  </div>
+  </div> 
+  
+  <div class="row">
+  <div class="lt">
+    Sam:
+  </div>
+  <div class="rtlt">
+    <p>"OK,  let us measure it  up here ... at this road sign... NOW!"</p>
+				<p class="center"><img src="images/road.jpg" alt="road" height="167" width="360"></p>
+				<p>"OK, we were AT the sign for <b>zero seconds</b>, and the distance was ... <b>zero meters</b>!"</p>
+				<p class="center">The speed is 0m / 0s = 0/0 = <b>I Don't Know</b>!</p>
+				<p>"I can't calculate it, Alex! I need to know <b>some</b> distance over <b>some</b> time, and you are saying the time should be zero? Can't be done."</p>
+  </div>
+  </div> 
+  
+    </div>
+  
+ 
+
+	<p>&nbsp;</p>
+	<div class="center80">
+		<p>That is pretty amazing ... you'd think it is easy to work out the speed of a car at any point in time, but it isn't.</p>
+	  <p>Even the speedometer of a car  just shows us an <b>average</b> of how fast we were going for the last (very short) amount of time.</p>
+  </div>
+	<h2>How About Getting Real Close</h2>
+    <p>But our story is not finished yet!</p>
+    <p>Sam and Alex get out of the car, because they have arrived on location. Sam is about to do a stunt:</p>
+    <table style="border: 0; margin:auto;">
+      <tbody>
+<tr>
+        <td><img src="images/jump-1.svg" alt="jump t=1" height="120" width="136"></td>
+        <td>&nbsp;</td>
+        <td>
+<h3>Sam will do a jump off a 20 m building.</h3>
+          <h3>Alex, as photographer, asks:</h3>
+          <h3 class="center">"How fast will you be falling after 1 second?"</h3></td>
+      </tr>
+</tbody></table>
+    <p>Sam uses this simplified formula to find <b>the distance fallen</b>:</p>
+    <p class="center"><span class="large">d = 5t<sup>2</sup></span></p>
+    <ul>
+      <li>d = distance fallen, in meters</li>
+      <li>t = time from jump, in seconds</li>
+  </ul>
+    <p><i>(Note: the formula&nbsp;is a simpler version  of falling due to <a href="../physics/gravity.html">gravity</a>: d = ½gt<sup>2</sup>)</i></p>
+    <div class="example">
+    	<p>Example: at 1 second Sam has fallen</p>
+      <p class="center"><b>d = 5t<sup>2</sup> = 5 × 1<sup>2</sup> = 5 m</b></p>
+    </div>
+    <p>But how <b>fast</b> is that? Speed is distance over time:</p>
+<p class="center large">Speed =	<span class="intbl"><em>distance</em><strong>time</strong></span></p>
+<p>So at 1 second:</p>
+ <p class="center large">Speed =	<span class="intbl"><em>5 m</em><strong>1 second</strong></span>	= 5 m/s</p>
+ <p>"BUT", says Alex, "again that is an <b>average speed</b>, since you started the jump, ... I want to know the speed at <b>exactly</b> 1 second, so I can set up the camera properly."</p>
+ <p style="float:left; margin: 0 10px 5px 0;"><img src="images/jump-2.svg" alt="jump from t=1 to  t=1" height="163" width="212"></p>
+ <p>&nbsp;</p>
+ <p class="center ">Well ... at <b>exactly 1 second</b> the speed is:</p>
+  <p class="center large">Speed = <span class="intbl"><em>5 − 5 m</em><strong>1 − 1 s</strong></span> = <span class="intbl"><em>0 m</em><strong>0 s</strong></span> = ???</p>
+<div style="clear:both"></div>
+    <p>So again Sam has a problem.</p>
+    <div class="center80">
+      <p>Think about it ... how do we figure out a speed at an exact instant in time?</p>
+      <p>What is the distance? What is the time difference?</p>
+      <p>They are both <b>zero</b>, giving us nothing to calculate with!</p>
+    </div>
+    <p>But Sam has  an idea ... invent a time <b>so short it won't matter</b>.</p>
+<p>Sam won't even give it a value, and will just call it "Δt" (called "delta t").</p>
+    <p>So Sam works out the difference in distance between <b>t</b> and <b>t+Δt</b></p>
+    <div class="center80">
+      <p>At <b>1  second</b> Sam has fallen</p>
+      <p class="center large">5t<sup>2</sup> = 5 × (1)<sup>2</sup> = 5 m</p>
+     
+      <p>&nbsp;</p>
+      <p>At <b>(1+Δt) seconds</b> Sam has fallen</p>
+      <p class="center large">5t<sup>2</sup> = 5 × (1+Δt)<sup>2</sup> m</p>
+      <p>&nbsp;</p>
+      <p>We can <a href="../algebra/expanding.html">expand</a> <b>(1+Δt)<sup>2</sup></b>:</p>
+<div class="tbl">
+<div class="row"><span class="left">(1+Δt)<sup>2</sup></span><span class="right">= (1+Δt)(1+Δt)</span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right">= 1 + 2Δt + (Δt)<sup>2</sup></span></div>
+</div>
+<p>&nbsp;</p>
+
+      <p>So at <b>(1+Δt) seconds</b> Sam has fallen</p>
+<div class="tbl">
+<div class="row"><span class="left">d</span><span class="right">= 5 × (1+2Δt+(Δt)<sup>2</sup>) m</span></div>
+<div class="row"><span class="left">d</span><span class="right">= <b>5 + 10Δt + 5(Δt)<sup>2</sup> m</b></span></div>
+</div>
+<p>&nbsp;</p>
+      
+      <p class="center"><img src="images/jump-4.svg" alt="jump from t=1 to  t=1 + delta t" height="163" width="308"></p>
+      <p>&nbsp;</p>
+      <p>In Summary:</p>
+      <div class="tbl">
+      	<div class="row"><span class="left">At 1 second:</span><span class="right">d = 5 m</span></div>
+      	<div class="row"><span class="left">At (1+Δt) seconds:</span><span class="right">d = <b>5 + 10Δt + 5(Δt)<sup>2</sup> m</b></span></div>
+     	</div>
+      <p>&nbsp;</p>
+      <p>So  between <b>1  second</b> and  <b>(1+Δt) seconds</b> we get:</p>
+<div class="tbl">
+<div class="row"><span class="left"><span class="center">Change in d</span></span><span class="right">= 5 + 10Δt + 5(Δt)<sup>2</sup> − 5 m </span></div>
+</div>
+<p>&nbsp;</p>
+      <p>Change in distance over time:</p>
+<div class="tbl">
+
+<div class="row"><span class="left">Speed</span><span class="right">
+						= <span class="intbl"><em>5 + 10Δt + 5(Δt)<sup>2</sup> − 5 m</em>						
+							<strong>Δt s</strong></span>
+					</span></div>
+
+<div class="row"><span class="left">&nbsp;</span><span class="right">
+						= <span class="intbl"><em>10Δt + 5(Δt)<sup>2</sup> m</em>						
+							<strong>Δt s</strong></span>
+					</span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right">= <b>10 + 5Δt</b> m/s</span></div>
+</div>
+<p>&nbsp;</p>
+			<p>So the speed is <span class="large">10 <span class="center">+ 5Δt </span>m/s</span>, and Sam thinks about that <b>Δt</b> value ...  he wants  <span class="center"><b>Δt</b></span> to be so small it won't matter ... so he imagines it shrinking towards <b>zero</b> and he gets:</p>
+			<p>&nbsp;</p>
+<p class="center large">Speed = 10 m/s</p> 
+<p>&nbsp;</p></div>
+    <p>Wow! Sam got an answer!</p>
+    <p>&nbsp;</p>
+    <p><b><i>Sam</i>:  "I will be falling at exactly 10 m/s"</b></p>
+    <p><b><i>Alex</i>: "I thought you said you couldn't calculate it?"</b></p>
+    <p><b><i>Sam</i>: "That was before I used Calculus!"</b></p>
+    <p>&nbsp;</p>
+    <p class="large">Yes, indeed, that was Calculus.</p>
+    <p style="float:left; margin: 0 10px 5px 0;"><img src="images/small-stones.jpg" alt="small stones" height="150" width="200"></p>
+    <p><b>The word Calculus comes from  Latin  meaning "small stone".</b></p>
+		<p>· <a href="derivatives-introduction.html">Differential Calculus</a> cuts something into small pieces to find how it  changes. <b><br>
+</b></p>
+		<p>· <a href="integration-introduction.html">Integral Calculus</a> joins (integrates) the small pieces together to find how much there is.</p>
+		<p>&nbsp;</p>
+<p>Sam used <b>Differential Calculus</b> to cut  time and distance into such  small pieces that a pure answer came out.</p>
+		<p class="fun">And Differential Calculus and Integral Calculus are like  <b>inverses</b> of each other, similar to how multiplication and division are inverses, but that is something for us to discover later!</p>
+<p>&nbsp;</p>
+<p>So ... was Sam's result  just  luck? Does it  work for other things?</p>
+<p><b>Let's try doing this for the function y = x<sup>3</sup></b></p>
+<p>This will be similar to the previous example, but we will just use a slope on a graph, no one has to jump for this one!</p>
+<div class="example">
+<p style="float:right; margin: 0 0 5px 10px;"><img src="images/graph-x3.svg" alt="graph of x^3" height="267" width="223"></p>  
+<h3>Example: What is the slope of the function y&nbsp;=&nbsp;x<sup>3</sup> at  x=1 ?</h3>
+
+
+  
+  <p>&nbsp;</p>
+<div class="tbl">
+<div class="row"><span class="left">At x = 1:</span><span class="right">y = 1<sup>3</sup> = 1</span></div>
+<div class="row"><span class="left">At x = (1+Δx):</span><span class="right">y = (1+Δx)<sup>3</sup></span></div>
+</div>
+<p><br>
+We can expand (1+Δx)<sup>3</sup> to 1 + 3Δx + 3(Δx)<sup>2</sup> + (Δx)<sup>3</sup>, and we get:</p>
+  <p class="center  large">y = 1 + 3Δx + 3(Δx)<sup>2</sup> + (Δx)<sup>3</sup></p>
+  <p>&nbsp;</p>
+  <p>And the difference between the y values from x = 1 to x = 1+Δx is:</p>
+<div class="tbl">
+<div class="row"><span class="left"><span class="center">Change in y </span></span><span class="right"><span class="center">=  1 + 3Δx + 3(Δx)<sup>2</sup> + (Δx)<sup>3</sup> − 1</span></span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right"><span class="center">= <b>3Δx + 3(Δx)<sup>2</sup> + (Δx)<sup>3</sup></b></span></span></div>
+</div>
+<p>&nbsp;</p>
+  <p>Now we can calculate slope:</p>
+<div class="tbl">
+<div class="row"><span class="left"><span class="large">Slope</span></span><span class="right">= <span class="large intbl">
+  			<em>3Δx + 3(Δx)<sup>2</sup> + (Δx)<sup>3</sup></em>
+  			<strong>Δx</strong>
+  		</span></span></div>
+<div class="row"><span class="left">&nbsp;</span><span class="right"><span class="large">= <b>3 + 3Δx + (Δx)<sup>2</sup></b></span></span></div>
+</div>
+<p>&nbsp;</p>
+  
+  <p>Once again, as  <b>Δx</b> shrinks towards zero we are left with:</p>
+  <p class="center large"><b>Slope = 3</b></p>
+<p>&nbsp;</p>
+    <p style="float:right; margin: 0 0 5px 10px;"><img src="images/graph-x3-slope.svg" alt="graph x^3 slope at (1, 1)" height="267" width="223"></p>
+    <p class="center">And here we see the graph of <b>y = x<sup>3</sup></b></p>
+		<p class="center">The slope is continually changing, but at the<br>
+point<b> (1, 1)</b> we can draw  a line tangent to  the curve</p>
+		<p class="center">and find the slope there <b>really is  3</b>.</p>
+		<p class="center">(Count the squares if you want!)</p>
+<div style="clear:both"></div>
+
+    <p>Question for you: what is the slope at the <b>point (2, 8)</b>?</p>
+</div>
+    <h2>Try It Yourself!</h2>
+    <p>Go to the <a href="slope-function-point.html">Slope of a Function</a> page, put in the formula "x^3", then try to find the slope at the point (1, 1).</p>
+    <p>Zoom in closer and closer and see what value the slope is heading towards.</p>
+    <h2>Conclusion</h2>
+    <p>Calculus is about changes.</p>
+    <p><b>Differential calculus</b> cuts something into small pieces to find how it  changes.</p>
+    <ul>
+    	<li>Learn more at <a href="derivatives-introduction.html">Introduction to Derivatives</a></li>
+    </ul>
+<p><b>      Integral calculus</b> joins (integrates) the small pieces together to find how much there is.</p>
+<ul>
+	<li>Learn more at <a href="integration-introduction.html">Introduction to Integration</a></li>
+</ul>
+<p>&nbsp;</p>
+
+<div class="questions">6750, 6751, 6752, 6753, 6754, 6755, 6756, 6757, 6758, 6759</div>
+
+<div class="related">    
+  <a href="slope-function-point.html">Slope of a Function</a>    
+  <a href="index.html">Calculus Index</a>
+</div>
+<!-- #EndEditable -->
+
+</article>
+
+<div id="adend" class="centerfull noprint"></div>
+<footer id="footer" class="centerfull noprint"></footer>
+<div id="copyrt">Copyright © 2021 MathsIsFun.com</div>
+
+</div>
+
+
+
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/calculus/introduction.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:48:55 GMT -->
+</html>

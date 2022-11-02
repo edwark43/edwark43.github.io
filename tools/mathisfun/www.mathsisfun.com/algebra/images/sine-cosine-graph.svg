@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   width="404.9"
+   height="183.6"
+   version="1.1"
+   style="font-family:'Comic Sans MS';font-size:14.7px;stroke-width:0.37"
+   id="svg255"
+   sodipodi:docname="sine-cosine-graph.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview257"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg255"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs5">
+    <marker
+       id="id24"
+       style="overflow:visible"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:black;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id247839"
+       inkscape:stockid="id247839">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#204a87;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#204a87"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2993" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       orient="auto"
+       id="id241283"
+       inkscape:stockid="id241283">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="stroke:#204a87;stroke-width:1pt;stroke-opacity:1;fill-opacity:1;fill:#204a87"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2996" />
+    </marker>
+  </defs>
+  <g
+     style="fill:none;stroke:currentColor;stroke-width:1"
+     transform="matrix(0.370815,0,0,0.370815,-27.0128,-56.4366)"
+     id="g7" />
+  <g
+     style="fill:none;stroke:#999999;stroke-width:1"
+     transform="matrix(0.370815,0,0,0.370815,-27.0128,-56.4366)"
+     id="g11">
+    <path
+       style="stroke:#999999;stroke-width:1"
+       d="m 177,531 h 946"
+       id="path9" />
+  </g>
+  <text
+     x="29.4"
+     y="145.3"
+     style="text-align:end;text-anchor:end;font-size:16px;fill:#3465a4"
+     id="text13"> -1 </text>
+  <g
+     style="fill:none;stroke:#999999;stroke-width:1"
+     transform="matrix(0.370815,0,0,0.370815,-27.0128,-56.4366)"
+     id="g17">
+    <path
+       style="stroke:#999999;stroke-width:1"
+       d="m 177,451 h 946"
+       id="path15" />
+  </g>
+  <text
+     x="29.4"
+     y="115.6"
+     style="text-align:end;text-anchor:end;font-size:16px;fill:#3465a4"
+     id="text19"> -0.5 </text>
+  <g
+     style="fill:none;stroke:currentColor;stroke-width:1"
+     transform="matrix(0.370815,0,0,0.370815,-27.0128,-56.4366)"
+     id="g23">
+    <path
+       style="stroke-width:1"
+       d="m 177,371 h 946"
+       id="path21" />
+  </g>
+  <text
+     x="29.4"
+     y="86"
+     style="text-align:end;text-anchor:end;font-size:16px;fill:#3465a4"
+     id="text25"> 0 </text>
+  <g
+     style="fill:none;stroke:#999999;stroke-width:1"
+     transform="matrix(0.370815,0,0,0.370815,-27.0128,-56.4366)"
+     id="g29">
+    <path
+       style="stroke:#999999;stroke-width:1"
+       d="m 177,291 h 946"
+       id="path27" />
+  </g>
+  <text
+     x="29.4"
+     y="56.3"
+     style="text-align:end;text-anchor:end;font-size:16px;fill:#3465a4"
+     id="text31"> 0.5 </text>
+  <g
+     style="fill:none;stroke:#999999;stroke-width:1"
+     transform="matrix(0.370815,0,0,0.370815,-27.0128,-56.4366)"
+     id="g35">
+    <path
+       style="stroke:#999999;stroke-width:1"
+       d="m 177,210 h 946"
+       id="path33" />
+  </g>
+  <text
+     x="29.4"
+     y="26.3"
+     style="text-align:end;text-anchor:end;font-size:16px;fill:#3465a4"
+     id="text37"> 1 </text>
+  <g
+     style="fill:none;stroke:#999999;stroke-width:1.35"
+     transform="matrix(0.370815,0,0,0.204261,-14.3384,10.98)"
+     id="g41">
+    <path
+       style="stroke:#999999;stroke-width:1.35"
+       d="M 286,692 V 50"
+       id="path39" />
+  </g>
+  <text
+     x="91.8"
+     y="167.6"
+     style="text-align:center;text-anchor:middle;fill:#204a87"
+     id="text43"> -3π/2 </text>
+  <g
+     style="fill:none;stroke:#999999;stroke-width:1.35"
+     transform="matrix(0.370815,0,0,0.204261,-17.7939,10.98)"
+     id="g47">
+    <path
+       style="stroke:#999999;stroke-width:1.35"
+       d="M 407,692 V 50"
+       id="path45" />
+  </g>
+  <text
+     x="133.3"
+     y="167.6"
+     style="text-align:center;text-anchor:middle;fill:#204a87"
+     id="text49"> -π </text>
+  <g
+     style="fill:none;stroke:#999999;stroke-width:1.35"
+     transform="matrix(0.370815,0,0,0.204261,-22.9783,11.2978)"
+     id="g53">
+    <path
+       style="stroke:#999999;stroke-width:1.35"
+       d="M 529,692 V 50"
+       id="path51" />
+  </g>
+  <text
+     x="173.3"
+     y="167.6"
+     style="text-align:center;text-anchor:middle;fill:#204a87"
+     id="text55"> -π/2 </text>
+  <g
+     style="fill:none;stroke:currentColor;stroke-width:1.35"
+     transform="matrix(0.370815,0,0,0.204261,-27.0128,11.2978)"
+     id="g59">
+    <path
+       style="stroke-width:1.35"
+       d="M 650,692 V 50"
+       id="path57" />
+  </g>
+  <text
+     x="214.7"
+     y="167.6"
+     style="text-align:center;text-anchor:middle;fill:#204a87"
+     id="text61"> 0 </text>
+  <g
+     style="fill:none;stroke:#999999;stroke-width:1.35"
+     transform="matrix(0.370815,0,0,0.204261,-30.9772,11.2978)"
+     id="g65">
+    <path
+       style="stroke:#999999;stroke-width:1.35"
+       d="M 771,692 V 50"
+       id="path63" />
+  </g>
+  <text
+     x="255"
+     y="167.6"
+     style="text-align:center;text-anchor:middle;fill:#204a87"
+     id="text67"> π/2</text>
+  <text
+     x="295"
+     y="167.6"
+     style="text-align:center;text-anchor:middle;fill:#204a87"
+     id="text69"> π </text>
+  <text
+     x="335.9"
+     y="167.6"
+     style="text-align:center;text-anchor:middle;fill:#204a87"
+     id="text71"> 3π/2 </text>
+  <g
+     style="fill:none;stroke:currentColor;stroke-width:4"
+     transform="matrix(0.370815,0,0,0.370815,-27.0128,-56.4366)"
+     id="g73" />
+  <g
+     style="fill:none;stroke:currentColor;stroke-width:4"
+     transform="matrix(0.370815,0,0,0.370815,-27.0128,-56.4366)"
+     id="g75" />
+  <g
+     style="fill:none;stroke:currentColor;stroke-width:4"
+     transform="matrix(0.370815,0,0,0.370815,-27.0128,-56.4366)"
+     id="g79" />
+  <text
+     x="375.9"
+     y="168"
+     style="text-align:center;text-anchor:middle;fill:#204a87"
+     id="text81"> 2π </text>
+  <g
+     style="fill:none;stroke:#999999;stroke-width:1.35"
+     transform="matrix(0.370815,0,0,0.204261,-53.5738,11.0345)"
+     id="g85">
+    <path
+       style="stroke:#999999;stroke-width:1.35"
+       d="M 286,692 V 50"
+       id="path83" />
+  </g>
+  <text
+     x="52.2"
+     y="167.7"
+     style="text-align:center;text-anchor:middle;fill:#204a87"
+     id="text87"> -2π </text>
+  <g
+     style="fill:none;stroke:#999999;stroke-width:1.35"
+     transform="matrix(0.370815,0,0,0.204261,89.657,11.2978)"
+     id="g91">
+    <path
+       style="stroke:#999999;stroke-width:1.35"
+       d="M 771,692 V 50"
+       id="path89" />
+  </g>
+  <g
+     style="fill:none;stroke:#999999;stroke-width:1.35"
+     transform="matrix(0.370815,0,0,0.204261,9.23377,11.2978)"
+     id="g95">
+    <path
+       style="stroke:#999999;stroke-width:1.35"
+       d="M 771,692 V 50"
+       id="path93" />
+  </g>
+  <g
+     style="fill:none;stroke:#999999;stroke-width:1.35"
+     transform="matrix(0.370815,0,0,0.204261,49.446,11.2978)"
+     id="g99">
+    <path
+       style="stroke:#999999;stroke-width:1.35"
+       d="M 771,692 V 50"
+       id="path97" />
+  </g>
+  <use
+     transform="matrix(0.370815,0,0,0.168676,310.652,61.5954)"
+     xlink:href="#id6"
+     x="-160"
+     y="0"
+     id="use101" />
+  <g
+     style="opacity:0.4"
+     transform="matrix(0.370815,0,0,0.370815,-439.399,262.63)"
+     id="g123">
+    <use
+       xlink:href="#id6"
+       x="-80"
+       y="0"
+       id="use103" />
+    <use
+       xlink:href="#id6"
+       x="-40"
+       y="0"
+       id="use105" />
+    <use
+       xlink:href="#id6"
+       x="40"
+       y="0"
+       id="use107" />
+    <use
+       xlink:href="#id6"
+       x="80"
+       y="0"
+       id="use109" />
+    <use
+       xlink:href="#id7"
+       x="0"
+       y="125.7"
+       id="use111" />
+    <use
+       xlink:href="#id7"
+       x="0"
+       y="62.8"
+       id="use113" />
+    <use
+       xlink:href="#id7"
+       x="0"
+       y="-62.8"
+       id="use115" />
+    <use
+       xlink:href="#id7"
+       x="0"
+       y="-125.7"
+       id="use117" />
+    <use
+       xlink:href="#id7"
+       x="0"
+       y="-188.5"
+       id="use119" />
+    <use
+       xlink:href="#id7"
+       x="0"
+       y="-251.3"
+       id="use121" />
+  </g>
+  <use
+     transform="matrix(0.370815,0,0,0.370815,-439.399,262.63)"
+     xlink:href="#id8"
+     x="111"
+     y="16"
+     id="use125" />
+  <use
+     transform="matrix(0.370815,0,0,0.370815,-439.399,262.63)"
+     xlink:href="#id9"
+     x="-6"
+     y="-149"
+     id="use127" />
+  <use
+     transform="matrix(0.370815,0,0,0.370815,-439.399,262.63)"
+     xlink:href="#id10"
+     x="15"
+     y="99"
+     id="use129" />
+  <use
+     transform="matrix(0.370815,0,0,0.370815,-439.399,262.63)"
+     xlink:href="#id11"
+     x="15"
+     y="-215"
+     id="use131" />
+  <g
+     style="stroke:white;stroke-width:350px;stroke-linejoin:round"
+     transform="matrix(0.370815,0,0,0.370815,-439.399,271.901)"
+     id="g141">
+    <use
+       xlink:href="#id12"
+       x="-80"
+       y="0"
+       id="use133" />
+    <use
+       xlink:href="#id13"
+       x="-40"
+       y="0"
+       id="use135" />
+    <use
+       xlink:href="#id14"
+       x="40"
+       y="0"
+       id="use137" />
+    <use
+       xlink:href="#id15"
+       x="80"
+       y="0"
+       id="use139" />
+  </g>
+  <g
+     style="stroke:white;stroke-width:350px;stroke-linejoin:round"
+     transform="matrix(0.370815,0,0,0.370815,-442.366,265.226)"
+     id="g155">
+    <use
+       xlink:href="#id16"
+       x="0"
+       y="125.7"
+       id="use143" />
+    <use
+       xlink:href="#id17"
+       x="0"
+       y="62.8"
+       id="use145" />
+    <use
+       xlink:href="#id18"
+       x="0"
+       y="-62.8"
+       id="use147" />
+    <use
+       xlink:href="#id19"
+       x="0"
+       y="-125.7"
+       id="use149" />
+    <use
+       xlink:href="#id20"
+       x="0"
+       y="-188.5"
+       id="use151" />
+    <use
+       xlink:href="#id21"
+       x="0"
+       y="-251.3"
+       id="use153" />
+  </g>
+  <use
+     transform="matrix(0.370815,0,0,0.370815,-439.399,262.63)"
+     xlink:href="#id8"
+     x="111"
+     y="16"
+     id="use157" />
+  <use
+     transform="matrix(0.370815,0,0,0.370815,-439.399,262.63)"
+     xlink:href="#id9"
+     x="-6"
+     y="-276"
+     id="use159" />
+  <g
+     transform="matrix(0.370815,0,0,0.370815,-439.399,271.901)"
+     id="g169">
+    <use
+       xlink:href="#id12"
+       x="-80"
+       y="0"
+       id="use161" />
+    <use
+       xlink:href="#id13"
+       x="-40"
+       y="0"
+       id="use163" />
+    <use
+       xlink:href="#id14"
+       x="40"
+       y="0"
+       id="use165" />
+    <use
+       xlink:href="#id15"
+       x="80"
+       y="0"
+       id="use167" />
+  </g>
+  <g
+     transform="matrix(0.370815,0,0,0.370815,-442.366,265.226)"
+     id="g183">
+    <use
+       xlink:href="#id16"
+       x="0"
+       y="125.7"
+       id="use171" />
+    <use
+       xlink:href="#id17"
+       x="0"
+       y="62.8"
+       id="use173" />
+    <use
+       xlink:href="#id18"
+       x="0"
+       y="-62.8"
+       id="use175" />
+    <use
+       xlink:href="#id19"
+       x="0"
+       y="-125.7"
+       id="use177" />
+    <use
+       xlink:href="#id20"
+       x="0"
+       y="-188.5"
+       id="use179" />
+    <use
+       xlink:href="#id21"
+       x="0"
+       y="-251.3"
+       id="use181" />
+  </g>
+  <g
+     transform="matrix(0.370815,0,0,0.370815,-439.399,262.63)"
+     id="g205">
+    <use
+       xlink:href="#id22"
+       x="-80"
+       y="0"
+       id="use185" />
+    <use
+       xlink:href="#id22"
+       x="-40"
+       y="0"
+       id="use187" />
+    <use
+       xlink:href="#id22"
+       x="40"
+       y="0"
+       id="use189" />
+    <use
+       xlink:href="#id22"
+       x="80"
+       y="0"
+       id="use191" />
+    <use
+       xlink:href="#id23"
+       x="0"
+       y="125.7"
+       id="use193" />
+    <use
+       xlink:href="#id23"
+       x="0"
+       y="62.8"
+       id="use195" />
+    <use
+       xlink:href="#id23"
+       x="0"
+       y="-62.8"
+       id="use197" />
+    <use
+       xlink:href="#id23"
+       x="0"
+       y="-125.7"
+       id="use199" />
+    <use
+       xlink:href="#id23"
+       x="0"
+       y="-188.5"
+       id="use201" />
+    <use
+       xlink:href="#id23"
+       x="0"
+       y="-251.3"
+       id="use203" />
+  </g>
+  <g
+     style="opacity:0.4"
+     transform="matrix(0.370815,0,0,0.370815,146.199,50.1721)"
+     id="g227">
+    <use
+       xlink:href="#id6"
+       x="-80"
+       y="0"
+       id="use207" />
+    <use
+       xlink:href="#id6"
+       x="-40"
+       y="0"
+       id="use209" />
+    <use
+       xlink:href="#id6"
+       x="40"
+       y="0"
+       id="use211" />
+    <use
+       xlink:href="#id6"
+       x="80"
+       y="0"
+       id="use213" />
+    <use
+       xlink:href="#id7"
+       x="0"
+       y="125.7"
+       id="use215" />
+    <use
+       xlink:href="#id7"
+       x="0"
+       y="62.8"
+       id="use217" />
+    <use
+       xlink:href="#id7"
+       x="0"
+       y="-62.8"
+       id="use219" />
+    <use
+       xlink:href="#id7"
+       x="0"
+       y="-125.7"
+       id="use221" />
+    <use
+       xlink:href="#id7"
+       x="0"
+       y="-188.5"
+       id="use223" />
+    <use
+       xlink:href="#id7"
+       x="0"
+       y="-251.3"
+       id="use225" />
+  </g>
+  <path
+     style="marker-end:url(#id247839);fill:#2e3436;fill-opacity:0.75;stroke:#204a87;stroke-width:1.11"
+     d="M 38.6,81.1 H 400"
+     id="path229" />
+  <path
+     style="marker-end:url(#id241283);fill:#2e3436;fill-opacity:0.75;stroke:#204a87;stroke-width:1.11"
+     d="M 213.9,153.1 V 2.2"
+     id="path231" />
+  <text
+     x="394.3"
+     y="98.6"
+     style="fill:#204a87;font-family:Trebuchet MS;font-size:20.8px;font-style:italic;font-weight:bold;stroke-width:0.37px"
+     id="text233">x</text>
+  <text
+     x="196.2"
+     y="13.1"
+     style="fill:#204a87;font-family:Trebuchet MS;font-size:20.8px;font-style:italic;font-weight:bold;stroke-width:0.37px"
+     id="text235">y</text>
+  <text
+     x="279.953"
+     y="38.9977"
+     style="font-style:italic;font-weight:bold;font-size:20px;font-family:'Trebuchet MS';fill:#edd400;stroke-width:0.37px"
+     id="text237">sin(x)</text>
+  <text
+     x="36.1"
+     y="183.5"
+     style="fill:#8f5902;font-family:Trebuchet MS;font-size:13.3px;stroke-width:1px"
+     id="text239">-360°</text>
+  <text
+     x="75.4"
+     y="183.5"
+     style="fill:#8f5902;font-family:Trebuchet MS;font-size:13.3px;stroke-width:1px"
+     id="text241">-270°</text>
+  <text
+     x="116.8"
+     y="183.5"
+     style="fill:#8f5902;font-family:Trebuchet MS;font-size:13.3px;stroke-width:1px"
+     id="text243">-180°</text>
+  <text
+     x="160.5"
+     y="183.5"
+     style="fill:#8f5902;font-family:Trebuchet MS;font-size:13.3px;stroke-width:1px"
+     id="text245">-90°</text>
+  <text
+     x="244.4"
+     y="183.5"
+     style="fill:#8f5902;font-family:Trebuchet MS;font-size:13.3px;stroke-width:1px"
+     id="text247">90°</text>
+  <text
+     x="280.3"
+     y="183.5"
+     style="fill:#8f5902;font-family:Trebuchet MS;font-size:13.3px;stroke-width:1px"
+     id="text249">180°</text>
+  <text
+     x="321.1"
+     y="183.5"
+     style="fill:#8f5902;font-family:Trebuchet MS;font-size:13.3px;stroke-width:1px"
+     id="text251">270°</text>
+  <text
+     x="361.4"
+     y="183.5"
+     style="fill:#8f5902;font-family:Trebuchet MS;font-size:13.3px;stroke-width:1px"
+     id="text253">360°</text>
+  <path
+     style="fill:none;stroke:#edd400;stroke-width:2"
+     d="m 38.6,110.8 c 1.1,-2.2 2.2,-4.5 3.3,-6.7 1,-2.9 2.3,-4.3 3,-7 1.4,-1.9 2.2,-4.8 3.3,-7 1.1,-2.7 2.5,-5.3 3.3,-8.2 1.3,-1.7 1.9,-4.5 3,-6.3 0.8,-2.2 1.9,-4.1 2.6,-6.3 1,-1.6 2,-4.4 3,-6.3 1,-2.1 1.9,-4.4 3,-6.3 1.1,-2.7 2.2,-4.8 3.3,-7 1.5,-2.6 2.4,-4.5 3.7,-7 1.2,-1.7 2.3,-3.6 3.3,-5.6 1.3,-1.6 2.7,-3.9 4.1,-5.6 1.7,-1.8 3,-4 5.2,-5.6 1.8,-1.3 3.3,-3.1 5.9,-3.3 1.8,-1.3 6.3,-0.9 8.5,0 2.2,0.9 4,2.2 5.6,3.7 1.8,1.3 3.3,3.4 4.8,5.2 1.5,1.9 3,3.9 4.1,5.9 1.4,1.7 2.5,4.2 3.7,5.9 1,2.2 2.7,4.9 3.7,7 1.1,2.5 2.6,4.2 3.3,7.4 1.1,1.6 2.1,3.4 2.6,5.6 1.3,1.6 1.7,4 3,5.9 0.8,2.4 2.3,4.7 3,7.4 1.2,1.6 1.6,3.8 2.6,5.6 1.1,2.7 2.6,5.8 3.7,8.5 1.3,2.8 2.4,5.8 3.7,8.2 0.8,2.6 2.2,4.2 3,7 1.2,1.6 1.9,3.8 3,5.6 1.1,2.3 2.3,4.7 3.7,7 1.1,2.3 2.6,4.2 3.7,6.3 1.1,1.8 2.7,3.6 3.7,5.6 1.4,1.4 2.7,2.9 4.1,4.5 2,1.6 3.1,3.2 5.6,4.1 1.8,1.7 5.4,1.6 8.9,1.5 1.5,-0.9 3.4,-1.5 4.8,-2.6 2.5,-1.4 3.8,-3.7 5.9,-5.2 1.1,-2.3 3.1,-3.8 4.1,-5.9 1.4,-1.7 2.7,-4 3.7,-5.9 1.2,-1.7 2.4,-4 3.3,-5.9 1.4,-2.5 3.2,-6.4 4.5,-8.9 1.2,-2.1 2.2,-4.8 3.3,-7 1.1,-2.5 2.2,-5.1 3.3,-7.4 1,-2.9 2.2,-4.3 3,-7.4 1.3,-1.7 1.9,-4.5 3,-6.3 1,-2.9 2.2,-4.3 3,-7.4 1.3,-1.6 1.7,-4 3,-5.9 0.8,-2.2 2,-4.6 3,-6.7 1.2,-2.6 3,-5.8 4.5,-9.3 1.2,-1.7 2.1,-4 3.3,-5.9 0.9,-2.1 2.5,-3.5 3.3,-5.9 1.5,-1.5 2.7,-3.6 4.1,-5.6 1.9,-1.9 3.2,-3.8 5.2,-5.2 1.8,-1.8 3.8,-2.6 5.9,-3.7 2.8,-0.8 7.3,-0.5 9.3,0.7 2.2,1 3.8,2.6 5.6,4.1 1.8,2.1 3.4,3.5 4.8,5.6 1.5,2.2 3,4 4.1,6.3 1.2,1.6 2.6,3.7 3.3,5.9 1.7,1.8 2.2,4 3.3,5.9 1.1,2.2 2.2,4.4 3.3,6.7 1,2.9 2.3,4.3 3,7 1.4,1.8 2.1,4.7 3.3,7 1.1,2.7 2.6,5.8 3.7,8.5 0.9,2.1 1.9,4 2.6,6.3 1.2,1.9 1.9,4.5 3,6.3 0.9,2.6 2.2,4.6 3,7 1,2.1 2,3.7 3,6.3 1.1,2.2 2.2,4.4 3.3,6.7 1.1,2.3 2.7,4.9 3.7,7 1.3,1.7 2.5,4.2 3.7,5.9 1.2,1.8 2.6,3.9 4.1,5.6 1.4,1.9 3,3.9 4.8,5.2 1.9,1.5 3.5,3 6.7,3.7 2.1,0.8 6,0.4 7.8,-0.4 2.4,-0.8 4.1,-2.7 6.3,-4.1 1.4,-1.7 3.1,-3.6 4.5,-5.2 1.1,-1.8 2.8,-3.6 3.7,-5.6 1.2,-1.7 2.3,-3.6 3.3,-5.6 1.5,-2.2 2.1,-4.3 3.7,-6.7 1.1,-2.4 2.5,-4.4 3.3,-7.4 1.2,-1.6 2.2,-4.1 3,-6.3 1.1,-1.5 2,-3.9 2.6,-5.6 0.9,-2 2.1,-3.8 2.6,-6.3 1.3,-1.7 2.2,-4.4 3,-6.7 1.3,-1.7 1.9,-4.5 3,-6.3 1.1,-3.1 2.7,-5.7 3.7,-8.9 1.1,-1.4 1.6,-3.8 2.6,-5.2 1.3,-3.3 2.5,-5.2 3.7,-7.8 -0.4,-0.8 0.8,0 0.4,-0.7"
+     id="path77" />
+  <text
+     x="151.9"
+     y="36.5"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:normal;font-family:'Trebuchet MS';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#729fcf;fill-opacity:1;stroke-width:0.37px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+     id="text237-0"
+     transform="translate(-19.7546,3.68411)">cos(x)</text>
+  <path
+     style="font-size:14.7px;font-family:'Comic Sans MS';fill:none;stroke:#729fcf;stroke-width:2"
+     d="m 38.1125,30.1673 c 1.5,-1.9 3.2,-3.4 5.2,-4.8 1.6,-1.1 3,-2.4 5.6,-2.6 1.8,-0.8 5.7,-0.5 7,0.4 2.5,0.6 4.2,2.4 5.9,3.7 1.8,1.2 3.2,3.5 4.8,5.2 1.4,2.2 3.1,3.9 4.5,6.7 1.6,1.9 2.3,3.8 3.7,5.9 1.2,2.5 2.4,4.8 4.1,7.8 1.1,2.6 2.3,4.9 3.3,7 0.8,2.1 1.9,3.8 2.6,5.9 1.1,2.3 2.4,4.7 3.3,7.8 1.3,1.7 1.9,4.5 3,6.3 1,2.3 1.6999,4.3 2.9999,6.7 0.7,2.4 2,3.9 2.6,6.7 1.2,1.4 1.5,3.6 2.6,5.2 0.7996,2.5997 2.1996,4.1997 2.9996,6.9997 1.2,1.6 1.9,3.8 3,5.6 1.1,2.6 2.6,4.5 3.3,7 1.3,1.3 1.9,3.3 3,4.8 1.4,2.4 2.7,4.2 4.1,6.3 1.5,1.9 2.6,3.9 4.5,5.2 0.5,2 2.9,2.8 4.1,4.1 1.9,1.3 3.8,2.6 6.7,3 3.9,0.4 7.1,-0.6 8.9,-2.2 2.1,-1.1 3.8,-2.6 5.2,-4.5 1.7,-1.4 2.8,-3.3 4.1,-4.8 1.4,-1.8 2.5,-3.8 3.7,-5.6 1.5,-2.7 2.7,-4.3 4.1,-7.4 1.2,-1.6 1.9,-3.8 3,-5.6 1.1,-2.4 2.3,-4.2 3.3,-7 1,-2 2.2,-4.2996 3,-6.6997 1.1,-1.6 1.8,-3.8 2.6,-5.6 0.9,-2 2,-4 2.6,-6.3 1.3,-1.7 1.9,-4.5 3,-6.3 1,-2.6 2.1,-5.2 3.3,-7.4 0.7,-2.8 2.3,-4.7 3,-7.4 1.2,-1.6 2,-4.4 3,-5.9 1.1,-2.5 2.3,-5 3.3,-7 0.9,-2.1 2.3,-4.2 3.3,-6.3 1.1,-2.1 2.6,-4.5 3.7,-6.3 1.3,-2.1 2.8,-4.3 4.1,-5.9 1.6,-2.1 3.3,-4.1 5.2,-5.6 1.3,-1.7 2.9,-2.6 5.2,-3.7 1.9,-1.5 7.3,-1.6 9.6,-0.4 2.5,1 4.2,2.3 5.9,3.7 1.4,2 3.5,3.2 4.8,5.6 1.5,1.7 3,4 4.5,6.3 1.1,1.9 2.6,4.2 3.7,6.3 1,2.3 2.7,4.2 3.3,6.7 1.2,1.7 2.5,4.5 3.3,7 1.3,1.6 2.2,4.8 3.3,6.7 1,2.7 2.4,5 3.3,7.8 1.2,2 2,5.2 3.3,7 0.7,2.8 1.9,5 3,7 0.6,2.5 2.1,4.1 2.6,6.7 1.1,1.4 1.6,3.8 2.6,5.2 0.9,2.7997 2.3,4.1997 3,6.9997 1.2,1.6 1.9,3.8 3,5.6 1.2,2.3 2.2,4.5 3.7,7 0.9,2 2.3,3.8 3.3,5.9 1.3,1.5 2.2,3.7 3.7,5.2 1.2,1.9 3.1,3.8 4.5,5.6 1.6,1.3 3,2.6 4.8,3.7 2.1,1.6 5.7,2.2 9.6,1.9 1.6,-0.9 3.7,-1.2 4.8,-2.6 1.7,-1 3.6,-2.5 4.8,-4.1 1.4,-1.7 2.9,-3 4.1,-5.2 1.3,-1.5 2.2,-3.2 3.3,-4.8 1.2,-2.1 2.4,-3.8 3.3,-5.9 1.2,-1.6 1.8,-3.5 3,-5.6 1.2,-2.3 2.3,-4.6 3.3,-6.7 1.1,-2 2.3,-5.1 3.3,-6.9997 1,-2.6 1.9,-4.5 3,-6.7 1,-2.9 2.2,-4.3 3,-7.4 1.2,-1.5 1.7,-3.7 2.6,-5.6 1.1,-2.5 2.3,-5 3.3,-7.8 1.1,-2.4 2.1,-4.5 3,-6.7 1.1,-2 1.9,-4.3 3,-6.3 1,-2.2 2.4,-4.6 3.3,-7.4 1.7,-1.9 2.2,-4 3.3,-5.9 1.4,-2.3 2.3,-4.1 3.7,-6.3 1.7,-2.8 3.2,-5 5.2,-7.4 1.3,-1.5 2.9,-3.8 4.5,-4.8 1.7,-1.3 3.5,-3.1 5.9,-3.7 2.2,-1.3 7,-0.8 9.3,0 1.6,1.1 3.4,2 4.8,3.3 1.4,1.1 2.7,2.3 3.7,3.7"
+     id="path79" />
+</svg>

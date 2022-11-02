@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="151.3" height="96.5" version="1.1" style="font-family:'Trebuchet MS'; stroke-width:1pt; fill:#204a87;">
+<defs>
+	<linearGradient id="aa1">
+		<stop offset="0" style="stop-color:#939393; stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:black; stop-opacity:1;"/>
+	</linearGradient>
+	<marker id="aa4" style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa5" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa2" style="overflow:visible;" orient="auto">
+		<path transform="matrix(0.4,0,0,0.4,4,0)" style="stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa3" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:#204a87;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g style="display:none;" transform="translate(1327.67,172.739)">
+	<image x="-1413.5" y="148.4" width="1305" height="787.4" xlink:href="../../Images/SVG/inkscape_pasted_image_20101001_094421.html"/>
+</g>
+<g transform="translate(1327.67,172.739)">
+	<rect x="-1215.7" y="-62" width="13.5" height="13.5" style="stop-color:black; fill:none; fill-opacity:0.1; stroke:#19aeff; stroke-width:1;"/>
+	<rect x="-1370.1" y="-183" width="93.6" height="56.5" transform="matrix(1,0,-0.352036,0.935987,0,0)" style="fill:#7166ff; fill-opacity:0.1; stroke:#00009a; stroke-width:3.09;"/>
+	<path style="marker-start:url(#aa2); marker-end:url(#aa3); fill:none; stroke:#204a87; stroke-width:1.8;" d="M -1199.9,-119 V -168.1"/>
+	<path style="marker-start:url(#aa4); marker-end:url(#aa5); fill:none; stroke:#204a87; stroke-width:1.8;" d="m -1323.5,-103.7 h 86.7"/>
+	<text x="-1189.2" y="-129.5" transform="scale(1.00056,0.999443)" style="font-size:28px; stroke-width:0.6;">h</text>
+	<text x="-1291.1" y="-76.5" transform="scale(1.00056,0.999443)" style="font-size:28px; stroke-width:0.6;">b</text>
+</g>
+</svg>

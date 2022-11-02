@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "/Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/algebra/sequences-finding-rule.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:48:51 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<!-- #BeginEditable "doctitle" -->
+<title>Sequences - Finding A Rule</title>
+<meta name="Description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents.">
+<!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+
+<meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=true;">
+<meta name="HandheldFriendly" content="true">
+<meta http-equiv="pics-label" content="(PICS-1.1 &quot;http://www.classify.org/safesurf/&quot; L gen true for &quot;http://www.mathsisfun.com&quot; r (SS~~000 1))">
+<link rel="stylesheet" type="text/css" href="../style3.css">
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun"></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran">
+<script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus">
+<script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort">
+<script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search">
+<script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+  
+						<h1 align="center">Sequences - Finding a Rule</h1>
+						
+						<p class="larger" align="center">To find a missing number in a Sequence, first we must have a<b> Rule</b></p>
+			<h2>Sequence</h2>
+			<p>A <a href="sequences-series.html">Sequence</a> is  a set of things (usually numbers) that are in order. </p>
+			<p class="center"><img src="images/sequence.svg" alt="Sequence"></p>
+			<p>Each number in the sequence is called a <b>term</b> (or sometimes "element" or "member"), read <a href="sequences-series.html">Sequences and Series</a> for a more in-depth discussion.</p>
+						<h2>Finding Missing Numbers</h2>
+						<p>To find a missing number, first find a <b>Rule</b> behind the Sequence. </p>
+			<p>Sometimes we can just look at the numbers and see a pattern:</p>
+						<div class="example">
+							<h3>Example: 1, 4, 9, 16, ?</h3>
+							<p>Answer: they are <a href="../square-root.html">Squares</a> (1<sup>2</sup>=1, 2<sup>2</sup>=4, 3<sup>2</sup>=9, 4<sup>2</sup>=16, ...)</p>
+							<p class="larger" align="center">Rule: <b>x<sub>n</sub> = n<sup>2</sup></b></p>
+						  <p>Sequence:  1, 4, 9, 16, <b>25, 36, 49, ...</b></p>
+			</div>
+						<p>Did you see how we wrote that rule using "x" and "n" ?</p>
+						<div class="center80">
+							<p align="center"><b>x<sub>n</sub></b> means "term number n", so term 3 is written <b>x<sub>3</sub></b></p>
+							<p align="center">&nbsp;</p>
+							<p align="center">And we can calculate term 3 using:</p>
+							<p class="large" align="center">x<sub>3</sub> = 3<sup>2</sup> = 9						</p>
+						</div>
+			<p>&nbsp;</p>
+						
+						<p>We can use a Rule  to find any term. For example, the 25th term can be found  by "plugging in" <b>25</b> wherever <b>n</b> is.</p>
+						<p class="large" align="center">x<sub>25</sub> = 25<sup>2</sup> = 625</p>
+						<p>&nbsp;</p>
+						<p>How about another example:</p>
+	<div class="example">
+		<h3>Example: 3, 5, 8, 13, 21, ?</h3>
+							<p>After 3 and 5 all the rest are the <b>sum of the two numbers before</b>, </p>
+							<p>That is 3 + 5 = 8, 5 + 8 = 13 etc, which  is  part of the <a href="../numbers/fibonacci-sequence.html">Fibonacci Sequence</a>:</p>
+							<p class="center">3, 5, 8, 13, 21, <b>34, 55, 89, ...</b></p>
+							<p>Which has this Rule:</p>
+							<p class="larger" align="center">Rule: <b>x<sub>n</sub> = x<sub>n-1</sub> + x<sub>n-2</sub></b>			</p>
+	</div>
+						<p>Now what does <b>x<sub>n-1</sub></b> mean? It  means "the previous term" as term number <b>n-1</b> is 1 less than term number <b>n</b>.</p>
+						<p>And <b>x<sub>n-2</sub></b> means the term <i>before that one</i>. </p>
+						<p>Let's try that Rule for the 6th term:</p>
+						<p class="large" align="center">x<sub>6</sub> = x<sub>6-1</sub> + x<sub>6-2</sub></p>
+						<p class="large" align="center">x<sub>6</sub> = x<sub>5</sub> + x<sub>4</sub></p>
+						<p>So term 6 equals term 5 plus term 4. We already know term 5 is 21 and term 4 is 13,  so:</p>
+						<p class="large" align="center">x<sub>6</sub> = 21<sub></sub> + 13 = 34						</p>
+						<h2>Many Rules</h2>
+						<p>One of the troubles with finding "the next number" in a sequence is that mathematics is so powerful we can find more than one Rule that works. </p>
+<div class="example">
+							<h3>What is the next number in the sequence 1, 2, 4, 7, ?</h3>
+							<p>Here are  three solutions (there can be more!):</p>
+							<p><br>
+						  </p>  
+						  <p class="large">Solution 1: Add 1, then add 2,  3, 4, ...							</p>
+						    <p>So, 1+<b>1</b>=2, 2+<b>2</b>=4, 4+<b>3</b>=7, 7+<b>4</b>=11, etc...</p>
+						    <p><b>Rule: x<sub>n</sub> = n(n-1)/2 + 1</b></p>
+						    <p>Sequence: 1, 2, 4, 7, <b>11, 16, 22,  ...</b></p>
+							<p>(That rule looks a bit complicated, but it works)</p>
+							<p>&nbsp;</p>
+						  <p class="large">Solution 2: After 1 and 2, add the two previous numbers, plus 1:							</p>
+			  <p><b>Rule: x<sub>n</sub> = x<sub>n-1</sub> + x<sub>n-2</sub> + 1</b></p>
+						  
+						  <p>Sequence: 1, 2, 4, 7, <b>12, 20, 33, ...</b></p>
+							<p>&nbsp;</p>  
+						  <p class="large">Solution 3: After 1, 2 and 4, add the three previous numbers							</p>
+			  <p><b>Rule: x<sub>n</sub> = x<sub>n-1</sub> + x<sub>n-2</sub> + x<sub>n-3</sub></b></p>
+						  
+						  <p>Sequence: 1, 2, 4, 7, <b>13, 24, 44, ...</b></p>
+	</div>
+						<p>So, we have three perfectly reasonable solutions, and they create totally different sequences.</p>
+						<p align="center">Which is right? <b>They are all right.</b> </p>
+						
+And there are other solutions ...
+
+<table border="0">
+                          <tbody>
+<tr>
+                            <td><img src="images/race.jpg" alt="race" height="72" width="150"></td>
+                            <td>&nbsp;</td>
+                            <td>
+<p>...  it may be a list of the winners' numbers ... so the next number could be ... anything! </p></td>
+                          </tr>
+  </tbody></table>
+						
+						<h2>Simplest Rule</h2>
+						<p>When in doubt choose the <b>simplest rule</b> that makes sense, but also mention that there are other solutions.</p>
+						<h2>Finding Differences</h2>
+						<p>Sometimes it helps to find the <b>differences</b> between each pair of numbers ... this can often reveal an underlying pattern.</p>
+						<p>Here is a simple case:</p>
+						<p align="center"><img src="images/sequences-first-differences.gif" alt="sequences first differences" height="83" width="218"></p>
+						<p>The differences are always 2, so we can guess that "2n" is part of the answer. </p>
+						<p>Let us try <b>2n</b>:</p>
+						<div class="simple">
+						  <table align="center" border="0">
+						    <tbody>
+<tr align="center">
+						      <th width="150">n:</th>
+							    <th width="40">1</th>
+							    <th width="40">2</th>
+							    <th width="40">3</th>
+							    <th width="40">4</th>
+							    <th width="40">5</th>
+						    </tr>
+						    <tr align="center">
+						      <th width="150">Terms (x<sub>n</sub>):</th>
+							    <td>7</td>
+							    <td>9</td>
+							    <td>11</td>
+							    <td>13</td>
+							    <td>15</td>
+						    </tr>
+						    <tr align="center">
+						      <th width="150">2n:</th>
+							    <td>2</td>
+							    <td>4</td>
+							    <td>6</td>
+							    <td>8</td>
+							    <td>10</td>
+						    </tr>
+						    <tr align="center">
+						      <th width="150">Wrong by:</th>
+							    <td>5</td>
+							    <td>5</td>
+							    <td>5</td>
+							    <td>5</td>
+							    <td>5</td>
+						    </tr>
+              </tbody></table>
+		    </div>
+						<p>The last row shows that we are always wrong by 5, so just add 5 and we are done:</p>
+						<p class="large" align="center">Rule: x<sub>n</sub> = 2n + 5</p>
+						<p>OK, we could have worked out "2n+5" by just playing around with the numbers a bit, but we want a <b>systematic</b> way to do it, for when the sequences get more complicated.</p>
+						<h2>Second Differences</h2>
+						<p>In the sequence <b>{1, 2, 4, 7, 11, 16, 22,  ...} </b>we need to find the differences ...</p>
+						<div class="indent50px">
+						  <p> ... and then find the differences of <b>those</b> (called <i>second differences</i>), like this:</p>
+		    </div>
+						<p align="center"><img src="images/sequences-second-differences.gif" alt="sequences second differences" height="141" width="296"></p>
+						<p>The <b>second differences</b> in this case are 1. </p>
+						<p class="larger" align="center">With second differences we multiply  by <span class="intbl larger"><em>n<sup>2</sup></em><strong>2</strong></span></p>
+						<p>In our case the difference is 1, so let us try just <span class="intbl larger"><em>n<sup>2</sup></em><strong>2</strong></span>:</p>
+						<div class="simple">
+						  <table align="center" border="0">
+						    <tbody>
+<tr align="center">
+						      <th width="150">n:</th>
+							    <th width="40">1</th>
+							    <th width="40">2</th>
+							    <th width="40">3</th>
+							    <th width="40">4</th>
+							    <th width="40">5</th>
+						    </tr>
+						    <tr align="center">
+						      <th width="150"><b>Terms (x<sub>n</sub>):</b></th>
+							    <td><b>1</b></td>
+							    <td><b>2</b></td>
+							    <td><b>4</b></td>
+							    <td><b>7</b></td>
+							    <td><b>11</b></td>
+						    </tr>
+						    <tr align="center">
+						      <th>&nbsp;</th>
+						      <td>&nbsp;</td>
+						      <td>&nbsp;</td>
+						      <td>&nbsp;</td>
+						      <td>&nbsp;</td>
+						      <td>&nbsp;</td>
+						    </tr>
+						    <tr align="center">
+                              <th><span class="intbl larger"><em>n<sup>2</sup></em><strong>2</strong></span>:</th>
+						      <td><b>0.5</b></td>
+						      <td><b>2</b></td>
+						      <td><b>4.5</b></td>
+						      <td><b>8</b></td>
+						      <td><b>12.5</b></td>
+						    </tr>
+						    <tr align="center">
+						      <th width="150">Wrong by:</th>
+							    <td>0.5</td>
+							    <td>0</td>
+							    <td>-0.5</td>
+							    <td>-1</td>
+							    <td>-1.5</td>
+						    </tr>
+              </tbody></table>
+		    </div>
+						<p>We are close, but seem to be drifting by 0.5, so let us try: <span class="larger"><span class="intbl"><em>n<sup>2</sup></em><strong>2</strong></span> − <span class="intbl"><em>n</em><strong>2</strong></span></span></p>
+						<div class="simple">
+						  <table align="center" border="0">
+
+
+                            <tbody>
+<tr align="center">
+                              <th><span class="intbl"><em>n<sup>2</sup></em><strong>2</strong></span> − <span class="intbl"><em>n</em><strong>2</strong></span></th>
+                              <td width="40"><b>0</b></td>
+                              <td width="40"><b>1</b></td>
+                              <td width="40"><b>3</b></td>
+                              <td width="40"><b>6</b></td>
+                              <td width="40"><b>10</b></td>
+                            </tr>
+                            <tr align="center">
+                              <th width="150">Wrong by:</th>
+                              <td>1</td>
+                              <td>1</td>
+                              <td>1</td>
+                              <td>1</td>
+                              <td>1</td>
+                            </tr>
+              </tbody></table>
+		    </div>
+						<p>Wrong by 1 now, so let us add 1:</p>
+						<div class="simple">
+						  <table align="center" border="0">
+                            <tbody>
+<tr align="center">
+                              <th><span class="intbl"><em>n<sup>2</sup></em><strong>2</strong></span> − <span class="intbl"><em>n</em><strong>2</strong></span> + 1</th>
+                              <td width="40"><b>1</b></td>
+                              <td width="40"><b>2</b></td>
+                              <td width="40"><b>4</b></td>
+                              <td width="40"><b>7</b></td>
+                              <td width="40"><b>11</b></td>
+                            </tr>
+                            <tr align="center">
+                              <th width="150">Wrong by:</th>
+                              <td>0</td>
+                              <td>0</td>
+                              <td>0</td>
+                              <td>0</td>
+                              <td>0</td>
+                            </tr>
+              </tbody></table>
+		    </div>
+						<p>We did it!</p>
+						<p>The formula <b><span class="intbl"><em>n<sup>2</sup></em><strong>2</strong></span> − <span class="intbl"><em>n</em><strong>2</strong></span> + 1</b> can be simplified to <b>n(n-1)/2 + 1</b></p>
+						<p>So by "trial-and-error" we discovered a rule that works:</p>
+						<p align="center"><span class="larger">Rule: <b>x<sub>n</sub> = n(n-1)/2 + 1</b></span></p>
+			<p>Sequence: 1, 2, 4, 7, 11, 16, 22, <b>29, 37,  ...</b></p>
+						<h2>Other Types of Sequences</h2>
+						<p>Read <a href="sequences-series.html">Sequences and Series</a> to learn about:</p>
+						<ul>
+						  <li><a href="sequences-sums-arithmetic.html">Arithmetic Sequences</a></li>
+						  <li><a href="sequences-sums-geometric.html">Geometric Sequences</a></li>
+						  <li><a href="../numbers/fibonacci-sequence.html">Fibonacci Sequence</a></li>
+		                  <li><a href="triangular-numbers.html">Triangular Sequence</a></li>
+			</ul>
+						<p>And there are also:</p>
+						<ul>
+						  <li><a href="../prime_numbers.html">Prime Numbers</a></li>
+						  <li><a href="../numbers/factorial.html">Factorial Numbers</a></li>
+			</ul>
+						<p>And many more! </p>
+						<p>In truth there are too many types of sequences to mention here, but if there is a special one you would like me to add just <a href="../contact.html">let me know</a>.</p>
+						<p>&nbsp;</p>
+                        <div class="questions"> 
+
+<script type="text/javascript">getQ(598, 3897, 3898, 1245, 599, 3013, 3899, 3014, 1246, 3900);</script>&nbsp;
+
+
+ </div>
+                        
+  <div class="related">
+                        <a href="../numberpatterns.html">Number Patterns</a>
+                        <a href="sequences-series.html">Sequences and Series</a>                        </div>
+<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright © 2017 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+
+
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/algebra/sequences-finding-rule.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:48:52 GMT -->
+</html>

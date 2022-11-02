@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="181" height="131.6" version="1.1" style="font-size:12.9px; stroke-width:0.5px;">
+<defs>
+	<marker id="id1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<rect x="0" y="0" width="181" height="131.6" style="color:black; overflow:visible; fill:white; stroke-width:5.42;"/>
+<rect x="31" y="57.6" width="78.9" height="52.5" style="color:black; overflow:visible; fill:none; stroke:black; stroke-width:0.24; stroke-dasharray:1.9, 1;"/>
+<g transform="matrix(0.171303,0,0,0.171303,-72.0487,-14.2497)">
+	<path style="fill:none; stroke:black; stroke-width:3;" d="m 603.6,683.7 v 73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 679.7,683.7 v 73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 755.9,683.7 v 73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 832,683.7 v 73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 908.2,683.7 v 73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 984.3,683.7 v 73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 1060.5,683.7 v 73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 1136.6,683.7 v 73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 1212.8,683.7 v 73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 1288.9,683.7 v 73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 1365.1,683.7 v 73.1"/>
+	<path style="marker-end:url(#id1); fill:#0000ff; fill-opacity:0.75; stroke:#0000ff; stroke-width:3.8;" d="m 601.4,724.8 h 862.7"/>
+</g>
+<g transform="matrix(0.171303,0,0,-0.171303,-205.677,183.434)">
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 1423.3,429 h -73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 1423.3,505.1 h -73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 1423.3,581.3 h -73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 1423.3,657.4 h -73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 1423.3,733.6 h -73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 1423.3,809.7 h -73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 1423.3,885.9 h -73.1"/>
+	<path style="fill:none; stroke:#0000ff; stroke-width:1px;" d="m 1423.3,962 h -73.1"/>
+	<path style="marker-end:url(#id1); fill:#0000ff; fill-opacity:0.75; stroke:#0000ff; stroke-width:3.8;" d="M 1382.2,429.4 V 1061"/>
+</g>
+<text x="8.8" y="13.4" style="font-family:Arial; font-size:24.7px; overflow:visible; fill:#0000ff;">y</text>
+<text x="161.8" y="131.6" style="font-family:Arial; font-size:24.7px; overflow:visible; fill:#0000ff;">x</text>
+<text x="27.6" y="127.2" style="font-family:Arial; color:black; overflow:visible; fill:black;">0</text>
+<text x="40.6" y="127.2" style="font-family:Arial; color:black; overflow:visible; fill:black;">1</text>
+<text x="53.6" y="127.2" style="font-family:Arial; color:black; overflow:visible; fill:black;">2</text>
+<text x="66.6" y="127.2" style="font-family:Arial; color:black; overflow:visible; fill:black;">3</text>
+<text x="79.6" y="127.2" style="font-family:Arial; color:black; overflow:visible; fill:black;">4</text>
+<text x="92.6" y="127.2" style="font-family:Arial; color:black; overflow:visible; fill:black;">5</text>
+<text x="118.5" y="127.2" style="font-family:Arial; color:black; overflow:visible; fill:black;">7</text>
+<text x="105.6" y="127.2" style="font-family:Arial; color:black; overflow:visible; fill:black;">6</text>
+<text x="131.5" y="127.2" style="font-family:Arial; color:black; overflow:visible; fill:black;">8</text>
+<text x="144.5" y="127.2" style="font-family:Arial; color:black; overflow:visible; fill:black;">9</text>
+<text x="14.3" y="114" style="font-family:Arial; color:black; overflow:visible; fill:black;">0</text>
+<text x="14.3" y="101" style="font-family:Arial; color:black; overflow:visible; fill:black;">1</text>
+<text x="14.3" y="87.9" style="font-family:Arial; color:black; overflow:visible; fill:black;">2</text>
+<text x="14.3" y="74.8" style="font-family:Arial; color:black; overflow:visible; fill:black;">3</text>
+<text x="14.3" y="61.8" style="font-family:Arial; color:black; overflow:visible; fill:black;">4</text>
+<text x="14.3" y="48.6" style="font-family:Arial; color:black; overflow:visible; fill:black;">5</text>
+<text x="14.3" y="35.6" style="font-family:Arial; color:black; overflow:visible; fill:black;">6</text>
+<text x="113.2" y="53.6" style="font-family:Arial; font-size:20.4px; color:black; overflow:visible; fill:black;">(6,4)</text>
+<path style="color:black; overflow:visible; fill:#ff9900; stroke-width:1.29;" d="m 113.3,58 a 3.5,3.5 0 1 1 0,-0.1"/>
+</svg>

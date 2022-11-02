@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="522.1" height="79.8" version="1.1">
+<defs>
+<marker id="id2" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:black; stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:black; stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<path style="fill:#fce94f; stroke:black; stroke-width:0.32px;" d="m 0,46.3 23.8,-6.2 190.9,11.3 -23.8,6.2 z"/>
+<path style="fill:#f57900; stroke:#cccccc; stroke-width:0.7;" d="M 236.6,0.2 346,6.9 289.8,21.1 180.7,14.6 Z"/>
+<path style="fill:#f57900; stroke:#cccccc; stroke-width:0.7;" d="M 289.9,21.1 346.1,6.9 V 65.2 l -56.2,14.1 z"/>
+<path style="fill:#f57900; stroke:#cccccc; stroke-width:0.7;" d="m 180.8,14.7 109.1,6.4 v 58.3 l -109.1,-6.4 z"/>
+<text x="193.2" y="38.6" transform="rotate(3.60726)" style="font-family:'Comic Sans MS'; font-size:21.5px; font-style:italic; color:black; overflow:visible; fill:white; stroke-width:1.07px;">g(x) = x</text>
+<text x="272" y="29.5" transform="rotate(3.60726)" style="font-family:'Comic Sans MS'; font-size:15px; font-style:italic; color:black; overflow:visible; fill:white; stroke-width:0.75px;">2</text>
+<text x="68.1" y="15.3" style="font-family:'Comic Sans MS'; font-size:15px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:0.75px;">Domain:</text>
+<text x="22.9" y="32.7" style="font-family:'Comic Sans MS'; font-size:15px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:0.75px;">{...,-3,-2,-1,0,1,2,3,...}</text>
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:1.71;" d="m 72.7,46.8 88.8,5.3"/>
+<path style="fill:#efefef; stroke:black; stroke-width:0.4;" d="m 302.7,34.1 32.1,-8.1 v 33.4 l -32.1,8.1 z"/>
+<path style="fill:#fce94f; stroke:black; stroke-width:0.32px;" d="m 302.7,64.6 v -7.6 l 219.3,13 -23.8,6.2 z"/>
+<text x="358.6" y="52.5" style="font-family:'Comic Sans MS'; font-size:15px; font-style:italic; color:black; overflow:visible; fill:black; stroke-width:0.75px;">Range: {0, 1, 4, 9, ...}</text>
+<path style="marker-end:url(#id2); fill:none; stroke:black; stroke-width:1.71;" d="m 343.4,63.7 88.8,5.3"/>
+</svg>

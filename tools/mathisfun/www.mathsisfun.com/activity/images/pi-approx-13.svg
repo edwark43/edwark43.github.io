@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="280.2" height="240.3" version="1.1">
+<defs/>
+<ellipse cx="108.1" cy="128.4" rx="107.4" ry="111.5" style="color:black; fill:#f1caff; stroke:#0e0000; stroke-width:0.67;"/>
+<text x="-1047.1" y="943.9" style="font-family:'Comic Sans MS'; font-size:9.4px; fill:black;"/>
+ &#160;
+<path style="fill:none; stroke:black; stroke-width:0.67;" d="m 109,16.2 -0.4,111.8"/>
+<path style="fill:none; stroke:black; stroke-width:0.67;" d="M 56.3,31.6 109.8,128.6"/>
+<path style="fill:none; stroke:black; stroke-width:0.67;" d="M 14.9,70.5 108,126.8"/>
+<path style="fill:none; stroke:black; stroke-width:0.67;" d="M 0,126.9 107.6,127.4"/>
+<path style="fill:none; stroke:black; stroke-width:0.67;" d="M 14.9,183.5 108.1,128"/>
+<path style="fill:none; stroke:black; stroke-width:0.67;" d="M 54.5,224.5 108.6,127.9"/>
+<path style="fill:none; stroke:black; stroke-width:0.67;" d="m 108.1,240.1 0.4,-111.7"/>
+<path style="fill:none; stroke:black; stroke-width:0.67;" d="M 162.6,225 109.2,128"/>
+<path style="fill:none; stroke:black; stroke-width:0.67;" d="m 202.2,183.1 -93,-56.3"/>
+<path style="fill:none; stroke:black; stroke-width:0.67;" d="M 216.2,127.7 108.6,127.3"/>
+<path style="fill:none; stroke:black; stroke-width:0.67;" d="M 202.2,71.7 108.7,127.3"/>
+<path style="fill:none; stroke:black; stroke-width:0.67;" d="M 162.6,31.8 108.3,128.4"/>
+<path style="fill:none; stroke:black; stroke-width:0.67;" d="M 138,20.2 109.7,128.1"/>
+<text x="244.9" y="17.2" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:20.2px; fill:#ba00ff;">Cut one</text>
+<path style="fill:#ba00ff; stroke:#ba00ff; stroke-width:2.41; stroke-dasharray:9.6, 2.4;" d="M 109.6,125.9 138,20.2"/>
+<path style="color:black; fill:#ba00ff;" d="m 146.8,2.5 c 0.1,0.5 0.2,1 0.2,1.5 0.1,0.7 0.2,1.3 0.2,2 0,0.7 -0.1,1.5 -0.2,2.2 -0.1,0.8 -0.2,1.6 -0.4,2.3 -0.2,0.7 -0.4,1.4 -0.5,2.1 0,0.2 -0.1,0.6 -0.2,0.7 0,-0.2 -0.3,-0.5 -0.3,-0.7 0.1,-0.3 0.5,-0.3 0.8,-0.4 0.4,-0.2 0.9,-0.4 1.4,-0.6 0.6,-0.3 1.2,-0.5 1.8,-0.8 0.8,-0.3 1.5,-0.6 2.2,-0.8 0.7,-0.3 1.5,-0.6 2.3,-0.8 0.9,-0.2 1.7,-0.4 2.6,-0.5 l -2.6,4.4 c -0.7,0.2 -1.5,0.4 -2.3,0.6 -0.7,0.3 -1.4,0.6 -2.1,0.8 -0.7,0.3 -1.4,0.6 -2.2,0.8 -0.6,0.2 -1.2,0.6 -1.9,0.8 -0.5,0.2 -1.1,0.4 -1.7,0.5 -0.4,0 -0.9,0.2 -1.4,0 -0.5,-0.3 -1,-0.8 -1.1,-1.4 -0.2,-0.5 -0.3,-1.1 -0.1,-1.6 0.1,-0.7 0.4,-1.4 0.4,-2.2 0.2,-0.7 0.4,-1.4 0.4,-2.2 0.1,-0.6 0.2,-1.3 0.2,-2 0.1,-0.6 0.1,-1.2 -0.1,-1.9 0,-0.4 0,-0.9 -0.1,-1.3 l 4.6,-1.9 z"/>
+<path style="color:black; fill:#ba00ff;" d="m 142.4,13.2 c 0.2,-0.3 0.4,-0.6 0.7,-0.9 0.4,-0.4 0.7,-0.8 1.1,-1.2 0.4,-0.4 0.7,-0.9 1.1,-1.2 0.4,-0.4 0.8,-0.8 1.1,-1.2 0.5,-0.4 1,-0.8 1.5,-1.2 1.6,-1.1 7.1,-4.2 1.7,-1 1.4,-0.8 2.9,-1.7 4.4,-2.5 0.5,-0.3 1.1,-0.6 1.6,-0.9 0.6,-0.3 1.2,-0.6 1.9,-0.9 0.7,-0.3 1.3,-0.5 2.1,-0.8 0.6,-0.3 1.3,-0.5 2,-0.7 0.7,-0.2 1.5,-0.4 2.3,-0.5 0.7,-0 1.4,-0.1 2.3,-0.2 0.7,-0 1.4,-0.1 2.2,-0.1 0.7,0 1.5,0 2.2,0.1 0.8,0 1.6,0.1 2.3,0.2 0.9,0 1.6,0.2 2.4,0.3 0.8,0.1 1.7,0.3 2.5,0.4 0.9,0.2 1.7,0.4 2.5,0.6 0.8,0.2 1.6,0.4 2.4,0.7 0.8,0.2 1.6,0.5 2.4,0.8 0.7,0.3 1.5,0.6 2.3,0.9 0.7,0.3 1.4,0.7 2.1,1.1 0.7,0.4 1.4,0.8 2.1,1.2 0.7,0.4 1.4,0.7 2.1,1.1 0.6,0.3 1.3,0.7 2,1.1 0.6,0.4 1.1,0.7 1.8,1.1 0.6,0.4 1.3,0.7 1.9,1 0.7,0.3 1.4,0.6 2,0.8 0.7,0.2 1.3,0.4 2,0.6 0.7,0.1 1.4,0.2 2.1,0.3 0.4,0 1.1,0.1 1.6,0.1 l -2.2,3 c -0.6,-0 -1.1,-0.2 -1.8,-0.3 -0.7,-0.1 -1.4,-0.2 -2.1,-0.4 -0.7,-0.2 -1.4,-0.4 -2.2,-0.7 -0.7,-0.3 -1.4,-0.6 -2,-0.9 -0.7,-0.3 -1.3,-0.7 -2,-1.1 -0.6,-0.3 -1.3,-0.7 -1.9,-1.1 -0.6,-0.4 -1.3,-0.7 -1.9,-1.1 -0.7,-0.4 -1.4,-0.7 -2,-1.1 -0.8,-0.4 -1.5,-0.8 -2.2,-1.2 -0.7,-0.4 -1.4,-0.7 -2.1,-1 -0.7,-0.3 -1.5,-0.6 -2.2,-0.9 -0.7,-0.3 -1.4,-0.6 -2.2,-0.8 -0.9,-0.2 -1.7,-0.5 -2.5,-0.7 -0.7,-0.2 -1.5,-0.4 -2.3,-0.5 -0.8,-0.2 -1.6,-0.3 -2.4,-0.4 -0.8,-0.1 -1.6,-0.2 -2.3,-0.3 -0.8,-0 -1.6,-0.1 -2.3,-0.2 -0.8,0 -1.5,-0 -2.2,0 -0.7,0 -1.4,0.1 -2.1,0.2 -0.7,0 -1.4,0.2 -2.2,0.3 -0.7,0.2 -1.3,0.3 -2,0.6 -0.7,0.2 -1.3,0.5 -2,0.7 -0.6,0.3 -1.3,0.5 -1.9,0.8 -0.6,0.3 -1.2,0.6 -1.7,0.9 -0.6,0.3 -1.2,0.6 -1.8,0.9 -0.3,0.2 -0.6,0.3 -0.9,0.5 -0.1,0 -0.4,0.2 -0.3,0.2 1.8,-1 3.2,-1.8 2,-1.2 -5.9,3.4 -2,1.2 -0.5,0.3 0.5,-0.3 -1.7,0.9 -1.1,0.6 -0.5,0.3 -0.9,0.6 -1.4,0.9 -0.4,0.4 -0.9,0.7 -1.2,1.1 -0.4,0.4 -0.8,0.7 -1.1,1.1 -0.3,0.4 -0.6,0.8 -1.1,1.2 -0.2,0.3 -0.4,0.5 -0.7,0.8 l -3.7,0.1 z"/>
+<text x="140.6" y="45.5" style="font-family:'Comic Sans MS'; font-size:19.8px; color:black; overflow:visible; fill:black; stroke-width:1px;">1</text>
+<text x="161.2" y="74.4" style="font-family:'Comic Sans MS'; font-size:19.8px; color:black; overflow:visible; fill:black; stroke-width:1px;">2</text>
+<text x="178" y="116" style="font-family:'Comic Sans MS'; font-size:19.8px; color:black; overflow:visible; fill:black; stroke-width:1px;">3</text>
+<text x="175.5" y="153.8" style="font-family:'Comic Sans MS'; font-size:19.8px; color:black; overflow:visible; fill:black; stroke-width:1px;">4</text>
+<text x="158.7" y="190.7" style="font-family:'Comic Sans MS'; font-size:19.8px; color:black; overflow:visible; fill:black; stroke-width:1px;">5</text>
+<text x="120.5" y="217.1" style="font-family:'Comic Sans MS'; font-size:19.8px; color:black; overflow:visible; fill:black; stroke-width:1px;">6</text>
+<text x="78.9" y="218" style="font-family:'Comic Sans MS'; font-size:19.8px; color:black; overflow:visible; fill:black; stroke-width:1px;">7</text>
+<text x="38.6" y="194.9" style="font-family:'Comic Sans MS'; font-size:19.8px; color:black; overflow:visible; fill:black; stroke-width:1px;">8</text>
+<text x="14.7" y="155.9" style="font-family:'Comic Sans MS'; font-size:19.8px; color:black; overflow:visible; fill:black; stroke-width:1px;">9</text>
+<text x="16" y="110.5" style="font-family:'Comic Sans MS'; font-size:19.8px; color:black; overflow:visible; fill:black; stroke-width:1px;">10</text>
+<text x="40.7" y="75.3" style="font-family:'Comic Sans MS'; font-size:19.8px; color:black; overflow:visible; fill:black; stroke-width:1px;">11</text>
+<text x="76.8" y="50.1" style="font-family:'Comic Sans MS'; font-size:19.8px; color:black; overflow:visible; fill:black; stroke-width:1px;">12</text>
+<text x="110.8" y="38.8" style="font-family:'Comic Sans MS'; font-size:19.8px; color:black; overflow:visible; fill:black; stroke-width:1px;">13</text>
+<text x="244.9" y="37.6" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:20.2px; fill:#ba00ff;">sector</text>
+<text x="244.9" y="59.2" style="font-family:'Comic Sans MS'; text-align:center; text-anchor:middle; font-size:20.2px; fill:#ba00ff;">in half</text>
+</svg>

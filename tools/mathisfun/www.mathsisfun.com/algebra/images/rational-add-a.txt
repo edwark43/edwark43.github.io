@@ -1,0 +1,67 @@
+clr 0x000000
+thk 3
+alp 100
+char 37 31 a
+line 28 44 63 44
+char 37 83 b
+char 79 49 +
+char 117 32 c
+line 111 45 140 45
+char 113 82 d
+char 158 50 =
+start
+
+clr 0x0000F0
+char 200 31 a
+line 195 45 224 45
+char 200 82 b
+clr 0x0000F0
+char 235 44 .
+clr 0xF0D000
+thk 35
+alp 20
+line 108 73 112 72~to 116 71~to 119 71~to 122 71~to 125 71~to 129 71~to 132 70~to 135 70~to 138 71
+thk 3
+alp 100
+char 247 34 d
+line 244 44 275 45
+char 246 80 d
+clr 0x0000F0
+char 289 48 +
+char 331 32 c
+line 320 43 349 43
+char 323 77 d
+char 361 43 .
+clr 0xA0D0E0
+thk 35
+alp 20
+line 30 71 33 71~to 37 71~to 40 71~to 43 71~to 47 71~to 49 71~to 53 71~to 55 72~to 58 73
+thk 3
+alp 100
+char 377 37 b
+line 371 44 396 44
+char 375 81 b
+clr 0x0000F0
+char 415 48 =
+char 460 31 a
+char 482 32 d
+line 452 42 507 42
+char 460 79 b
+char 479 78 d
+char 528 46 +
+char 570 36 b
+char 590 34 c
+line 561 43 607 43
+char 566 81 b
+char 584 79 d
+clr 0xF0A000
+char 415 128 =
+char 464 119 a
+char 488 119 d
+char 522 117 +
+char 554 123 b
+char 576 120 c
+char 564 137 NaN
+line 453 130 596 130
+char 496 168 b
+char 516 167 d

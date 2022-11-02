@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en"><!-- #BeginTemplate "../Templates/Advanced.dwt" --><!-- DW6 -->
+
+<!-- Mirrored from www.mathsisfun.com/algebra/partial-sums.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:36:44 GMT -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+<!-- #BeginEditable "doctitle" -->
+<title>Partial Sums</title>
+<meta name="Description" content="Math explained in easy language, plus puzzles, games, quizzes, worksheets and a forum. For K-12 kids, teachers and parents.">
+
+  <style>
+.intto {text-align:left; width:20px; font: 16px Arial; margin: 0 0 -5px 13px;} 
+.intsymb {font: 270% Georgia;}
+.intfrom {text-align:left; width:30px; overflow:visible; font: 16px Arial; margin: -7px 0 0 5px;}
+.inttext {font-size: 110%; display:inline-block; position: relative;  margin-left: -5px; transform: translateY(-110%);}
+</style> 
+  
+  <!-- #EndEditable -->
+<meta name="keywords" content="math, maths, mathematics, school, homework, education">
+
+<meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=true;">
+<meta name="HandheldFriendly" content="true">
+<meta http-equiv="pics-label" content="(PICS-1.1 &quot;http://www.classify.org/safesurf/&quot; L gen true for &quot;http://www.mathsisfun.com&quot; r (SS~~000 1))">
+<link rel="stylesheet" type="text/css" href="../style3.css">
+<script src="../main3.js" type="text/javascript"></script>
+</head>
+
+<body id="bodybg" class="adv">
+<div class="bg">
+	<div id="stt"></div>
+	<div id="hdr"></div>
+	<div id="logo"><a href="../index.html"><img src="../images/style/logo.svg" alt="Math is Fun"></a></div>
+	<div id="advText">Advanced</div>
+	<div id="gtran">
+<script type="text/javascript">document.write(getTrans());</script></div>
+	<div id="gplus">
+<script type="text/javascript">document.write(getGPlus());</script></div>
+	<div id="adTopOuter" class="centerfull noprint">
+		<div id="adTop"> 
+			<script type="text/javascript">document.write(getAdTop());</script> 
+		</div>
+	</div>
+	<div id="adHide">
+		<div id="showAds1"><a href="javascript:showAds()">Show Ads</a></div>
+		<div id="hideAds1"><a href="javascript:hideAds()">Hide Ads</a><br>
+			<a href="../about-ads.html">About Ads</a></div>
+	</div>
+	<div id="menuWide" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(0));</script> 
+	</div>
+	<div id="linkto">
+		<div id="linktort">
+<script type="text/javascript">document.write(getLinks());</script></div>
+	</div>
+	<div id="search" role="search">
+<script type="text/javascript">document.write(getSearch());</script></div>
+	<div id="menuSlim" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(1));</script> 
+	</div>
+	<div id="menuTiny" class="menu"> 
+		<script type="text/javascript">document.write(getMenu(2));</script> 
+	</div>
+	<div id="extra"></div>
+</div>
+<div id="content" role="main"><!-- #BeginEditable "Body" -->
+  
+	<h1 align="center">Partial Sums</h1>
+	<p>A Partial Sum is a  <b>Sum</b> of <b>Part</b> of a  <a href="sequences-series.html">Sequence</a>.</p>
+	<div class="example">
+	  <h3>Example: </h3>
+	  <p>This is the <b>Sequence</b> of even numbers from 2 onwards: <span class="large">{2, 4, 6, 8, 10, 12, ...}</span></p>
+	  <p>This is the <b>Partial Sum</b> of the first 4 terms of that sequence: <span class="large">2+4+6+8 = 20</span></p>
+  </div>
+	<p>Let us define things a little better now:</p>
+	
+	 
+	    <p class="dotpoint">A <b>Sequence</b> is  a set of things (usually numbers) that are in order.	    </p>
+	    <p class="center"><img src="images/sequence.svg" alt="Sequence"></p>
+	    <p class="dotpoint">A <b>Partial Sum</b> is the sum of <b>part</b> of the sequence.</p>
+	    <p>&nbsp;</p>
+	    <div class="words">
+	    <p>The sum of  <b>infinite</b> terms is an <a href="infinite-series.html">Infinite Series</a>.</p>
+	    <p>And Partial Sums are sometimes called <b>"Finite Series"</b>.<br>
+	    </p>
+	</div>
+	  	<p>&nbsp;</p>
+	  <h2>Sigma</h2>
+  <p>Partial Sums are often written  using <span class="times" style="font-size:200%;">&Sigma;</span> to mean "add them all up":</p>
+	<div class="center def"><span class="times" style="font-size:400%; vertical-align:middle;">&Sigma;</span> &nbsp; This symbol (called <a href="sigma-notation.html">Sigma</a>) means "sum up"</div>
+<br>	<p>So <span class="times" style="font-size:200%;">&Sigma;</span> means to sum things up ...</p>
+<table align="center" border="0">
+				<tbody>
+<tr>					
+<td colspan="3">
+<h3>Sum What?</h3></td>
+				</tr>
+				<tr>
+					<td>
+<p>Sum  whatever is after the Sigma:</p></td>
+					<td>&nbsp;</td>
+					<td style="background-color: #def;">
+<div style="display:inline-block; text-align:center;">
+							<div class="intto">&nbsp;</div>
+							<div class="intsymb">&Sigma;</div>
+							<div class="intfrom">&nbsp;</div>
+						</div>
+						<div class="inttext">n</div>
+          </td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>so we sum <span class="number"><i><b>n</b></i></span>
+				</td></tr>
+				<tr>
+					<td colspan="3">
+<h3>But What Values of <i><b>n</b></i> ?</h3></td>
+				</tr>
+				<tr>
+					<td>
+<p align="right">The  values are shown below<br>
+							and above the Sigma:</p></td>
+					<td>&nbsp;</td>
+					<td style="background-color: #def;">
+<div style="display:inline-block; text-align:center;">
+							<div class="intto">4</div>
+							<div class="intsymb">&Sigma;</div>
+							<div class="intfrom">n=1</div>
+						</div>
+						<div class="inttext">n</div>
+          </td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td> it says <span class="number"><i>n</i></span> goes from 1 to 4,<br>
+						which is <b>1</b>, <b>2</b>, <b>3</b> and <b>4</b>
+				</td></tr>
+				<tr>
+					<td colspan="3">
+<h3>OK, Let's Go ...</h3></td>
+				</tr>
+				<tr>
+					<td>
+<p align="right">So now we add up 1,2,3 and 4:</p></td>
+					<td>&nbsp;</td>
+					<td style="background-color: #def;">
+<div style="display:inline-block; text-align:center;">
+							<div class="intto">4</div>
+							<div class="intsymb">&Sigma;</div>
+							<div class="intfrom">n=1</div>
+						</div>
+						<div class="inttext">n = 1 + 2 + 3 + 4 = <b>10</b></div>
+          </td>
+				</tr>
+			</tbody></table><p>Here it is in one diagram:</p>
+	<p align="center"><img src="images/sigma-notation.svg" alt="Sigma Notation"></p>
+	<h2>More Powerful</h2>
+	<p>But <span style="font-size:150%; font-family: 'Times New Roman', Times, serif; ">&Sigma;</span> can do more powerful things than that!</p>We can square <span class="number"><i>n</i></span> each time and sum the result:
+
+
+
+<div class="center">
+    <div style="display:inline-block; text-align:center;">
+							<div class="intto">4</div>
+							<div class="intsymb">&Sigma;</div>
+							<div class="intfrom">n=1</div>
+						</div>
+						<div class="inttext" style="transform: translateY(-100%);">n<sup>2</sup> = 1<sup>2</sup> + 2<sup>2</sup> + 3<sup>2</sup> + 4<sup>2</sup> = 30</div>
+  </div>
+			<p align="center">&nbsp;</p>
+			<p>We can add up the first four terms in the <a href="sequences-series.html">sequence</a> <b>2n+1</b>:</p>
+<div class="center">
+    <div style="display:inline-block; text-align:center;">
+							<div class="intto">4</div>
+							<div class="intsymb">&Sigma;</div>
+							<div class="intfrom">n=1</div>
+						</div>
+						<div class="inttext">(2n+1) = 3 + 5 + 7 + 9 = 24</div>
+  </div>
+			<p>&nbsp;</p>
+			<p>And we can use other letters, here we use <span class="larger">i</span> and sum up <span class="larger">i &times; (i+1)</span>, going from <b>1</b> to <b>3</b>:</p>
+<div class="center">
+    <div style="display:inline-block; text-align:center;">
+							<div class="intto">3</div>
+							<div class="intsymb">&Sigma;</div>
+							<div class="intfrom">i=1</div>
+						</div>
+						<div class="inttext">i(i+1) = 1&times;2 + 2&times;3 + 3&times;4 = 20</div>
+  </div>
+			<p>&nbsp;</p>
+			<p>And we can start and end with any number. Here we go from <b>3</b> to <b>5</b>:</p>
+<div class="center">
+    <div style="display:inline-block; text-align:center;">
+							<div class="intto">5</div>
+							<div class="intsymb">&Sigma;</div>
+							<div class="intfrom">i=3</div>
+						</div>
+						<div class="inttext" style="transform: translateY(-70%);"><span class="intbl"><em>i</em><strong>i + 1</strong></span> = <span class="intbl"><em>3</em><strong>4</strong></span> + <span class="intbl"><em>4</em><strong>5</strong></span> + <span class="intbl"><em>5</em><strong>6</strong></span></div>
+  </div>&nbsp;
+  <h2>
+    Properties
+
+  </h2>	
+<p>Partial Sums have some useful properties that can help us do the calculations.</p>
+	<h3>Multiplying by a Constant Property</h3>
+	<p>Say we have something we want to sum up,  let's call it <span class="large">a<sub>k</sub></span></p>
+	<p class="center80" align="center"><span class="large">a<sub>k</sub></span> could be <b>k<sup>2</sup></b>, or <b>k(k-7)+2</b>, or ... anything really</p>
+	<p>And <b>c</b> is some constant value (like <b>2</b>, or <b>-9.1</b>, etc), then:</p>
+	<p align="center"><img src="images/partial-sum-a.gif" alt="Sigma" height="56" width="161"></p>
+	<p>In other words: if every term we are summing is multiplied by a constant, we can "pull" the constant outside the  sigma.</p>
+	<div class="example">
+      <h3>Example: </h3>
+	  <p align="center"><img src="images/partial-sum-a1.gif" alt="Sigma" height="56" width="163"></p>
+	  <p>So instead of summing <b>6k<sup>2</sup></b> we can sum <b>k<sup>2</sup></b> and then multiply the whole result by <b>6</b></p>
+  </div>
+	<h3>&nbsp;</h3>
+	<h3>Adding or Subtracting Property</h3>
+	<p>Here is another useful fact: </p>
+	<p align="center"><img src="images/partial-sum-b.gif" alt="Sigma" height="56" width="266"></p>
+	<p>Which means that when two terms are added together, and we want to sum them up, we can actually sum them <b>separately</b> and then <b>add </b>the results.</p>
+	<div class="example">
+      <h3>Example: </h3>
+	  <p src="images/partial-sum-b2.gif" align="center"><img src="images/partial-sum-b2.gif" alt="Sigma" height="56" width="257"></p>
+	  <p>It is going to be easier to do the two sums and then add them at the end.</p>
+  </div>
+	<p>Note this also works for subtraction:</p>
+	<p align="center"><img src="images/partial-sum-b3.gif" alt="Sigma" height="56" width="267"></p>
+	<h2>Useful Shortcuts</h2>
+	<p>And here are some useful shortcuts that make the sums <b>a lot easier</b>.</p>
+	<p>In each case we are trying to  sum from <b>1</b> to some value <b>n</b>.</p>
+	<table align="center" border="0">
+      <tbody>
+<tr>
+        <td><img src="images/partial-sum-c.svg" alt="Sigma"></td>
+        <td>&nbsp;</td>
+        <td>Summing <b>1</b> <i>equals</i> <b>n</b></td>
+      </tr>
+      <tr>
+        <td><img src="images/partial-sum-d.svg" alt="Sigma"></td>
+        <td>&nbsp;</td>
+        <td>Summing the constant <b>c</b> <i>equals</i> <b>c</b> times <b>n</b></td>
+      </tr>
+      <tr>
+        <td><img src="images/partial-sum-e.svg" alt="Sigma"></td>
+        <td>&nbsp;</td>
+        <td>A shortcut when summing <b>k</b></td>
+      </tr>
+
+      <tr>
+        <td><img src="images/partial-sum-f.svg" alt="Sigma"></td>
+        <td>&nbsp;</td>
+        <td>A shortcut when summing <b>k<sup>2</sup></b></td>
+      </tr>
+      <tr>
+        <td><img src="images/partial-sum-g.svg" alt="Sigma"></td>
+        <td>&nbsp;</td>
+        <td>A shortcut when summing <b>k<sup>3</sup></b></td>
+      </tr>
+      <tr>
+      	<td><img src="images/partial-sum-g2.svg" alt="Sigma"></td>
+      	<td>&nbsp;</td>
+      	<td>Also true when summing <b>k<sup>3</sup></b></td>
+   	</tr>
+      <tr>
+        <td><img src="images/partial-sum-odd.svg" alt="Sigma"></td>
+        <td>&nbsp;</td>
+        <td>Summing odd numbers</td>
+      </tr>
+  </tbody></table>
+	<p>Let's  use some of those:</p>
+	<div class="example">
+      <h3>Example 1: You sell concrete blocks for landscaping. </h3>
+	  <p>A customer says they will buy the entire "pyramid" of blocks you keep out front. The stack is 14 blocks high.</p>
+	  <p>How many blocks are in there?</p>
+	  <p style="float:left; margin: 0 10px 5px 0;"><img src="images/partial-sum-ex1-a.svg" alt="Sigma"></p>
+	  <p>Each layer is a square, so the calculation is:</p>
+		<p class="larger" align="center">1<sup>2</sup> + 2<sup>2</sup> + 3<sup>2</sup> + ... + 14<sup>2</sup></p>
+		<p>But this can be written <b>much more easily</b> as:</p>
+		<p align="center"><img src="images/partial-sum-ex1-b.gif" alt="Sigma" height="59" width="55"></p>
+		
+	  <p>We can use the formula for <b>k<sup>2</sup></b> from above:</p>
+	  <p align="center"><img src="images/partial-sum-ex1-c.gif" alt="Sigma" height="59" width="329"></p>
+	  <p>That was a lot easier than adding up <b>1<sup>2</sup> + 2<sup>2</sup> + 3<sup>2</sup> + ... + 14<sup>2</sup></b>.</p>
+  </div>
+	<p>And here is a more complicated example:</p>
+	<div class="example">
+      <h3>Example 2: The customer wants a better price. </h3>
+	  <p>The customer says the blocks on the outside of the pyramid should be cheaper, as they need cleaning. </p>
+	  <p>You agree to:</p>
+	  <ul>
+        <li>$7 for outer blocks </li>
+	    <li>and $11 for  inner blocks.</li>
+    </ul>
+	  <p>What is the total cost?</p>
+	  <p style="float:right; margin: 0 0 5px 10px;"><img src="images/partial-sum-ex2-a.svg" alt="Sigma"></p>
+	  <p>You can calculate how many "inner" and "outer" blocks in any layer (except the first) using</p>
+		<ul>
+			<li>outer blocks = <b>4&times;(size-1)</b></li>
+			<li>inner blocks = <b>(size-2)<sup>2</sup></b></li>
+		</ul>
+	  
+	  <p>And so the cost per layer is:</p>
+	  <ul>
+        <li>cost (outer blocks) = $7 &times; 4(size-1)</li>
+	    <li>cost (inner blocks) = $11 &times; (size-2)<sup>2</sup></li>
+    </ul>
+	  
+	  <p>So all layers together (except first)  will cost:</p>
+	  <p align="center"><img src="images/partial-sum-ex2-b.gif" alt="Sigma" height="59" width="304"></p>
+	  <p>Now we have the sum, let us try to make the calculations easier!</p>
+	  <p>&nbsp;</p>
+	  <p>Using the "Addition Property" from above:</p>
+	  <p align="center"><img src="images/partial-sum-ex2-c.gif" alt="Sigma" height="59" width="315"></p>
+	  <p>Using the "Multiply by Constant Property" from above:</p>
+	  <p align="center"><img src="images/partial-sum-ex2-d.gif" alt="Sigma" height="55" width="312"></p>
+	  <p>That is good ... but we can't use any shortcuts as it is, as we are going from <b>i=2</b> instead of<b> i=1</b></p>
+	  <p>HOWEVER, if we invent two new variables:</p>
+	  <ul>
+        <li>j = i-1</li>
+	    <li>k = i-2</li>
+    </ul>
+	  <p>We have:</p>
+	  <p align="center"><img src="images/partial-sum-ex2-e.gif" alt="Sigma" height="59" width="205"></p>
+	  <p>(I dropped the k=0 case, because I know that 0<sup>2</sup>=0)</p>
+	  <p>&nbsp;</p>
+	  <p>And now we can use the shortcuts:</p>
+	  <p align="center"><img src="images/partial-sum-ex2-f.gif" alt="Sigma" height="49" width="337"></p>
+	  <p>After a little calculation:</p>
+	  <p class="large" align="center">$7 &times; 364 + $11 &times; 650 = $9,698.00</p>
+	  <p>Oh! And don't forget the top layer (size=1) which is just one block. Maybe you can give them that one for free, you are so generous!</p>
+	  <p>&nbsp;</p>
+	  <p><i>Note: as a check, when we add the "outer" and "inner" blocks, plus the one on top, we get</i></p>
+	  <p align="center"><i><b> 364 + 650 + 1 = 1015</b></i></p>
+	  <p><i>Which is the same number we got for the "total blocks" before ... yay!</i></p>
+  </div>
+		<p>&nbsp;</p>
+    
+    <div class="questions"> 
+
+<script type="text/javascript">getQ(602, 1249, 3019, 3020, 3021, 603, 1250, 8351, 8352, 8353);</script>&nbsp;
+
+</div>
+    
+	<div class="related"><a href="infinite-series.html">Infinite Series</a> 
+<a href="index.html">Algebra Index</a></div>
+<!-- #EndEditable --></div>
+<div id="adend" class="centerfull noprint"> 
+	<script type="text/javascript">document.write(getAdEnd());</script> 
+</div>
+<div id="footer" class="centerfull noprint">
+<script type="text/javascript">document.write(getFooter());</script>
+</div>
+<div id="copyrt">
+Copyright &copy; 2017 MathsIsFun.com
+</div>
+
+<script type="text/javascript">document.write(getBodyEnd());</script>
+</body><!-- #EndTemplate -->
+<!-- Mirrored from www.mathsisfun.com/algebra/partial-sums.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 29 Oct 2022 00:36:49 GMT -->
+</html>
