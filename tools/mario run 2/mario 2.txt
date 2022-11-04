@@ -1,0 +1,41 @@
+Super Mario Run 2
+
+A new kind of Mario game that you can play with one hand, to rescue the princess and save the world. You have to time your taps to pull off stylish jumps, midair spins, and wall jumps to gather coins and reach the goal…
+Buy new characters on shop and play all levels to find the princess.
+
+Genre:	arcade , Runner, game, music, Mario, MarioRun, infinite
+
+Age Rating:	All
+Keywords:	Mario,run,2,html5,kiz10,runner,endless,score,bonus
+Requires:	HTML5
+File Size:	7MB
+Game Dimensions:	All dimensions, scalable
+
+
+	
+Short Description: A new kind of Mario game that you can play with one hand, to rescue the princess and save the world
+
+Gameplay: https://youtu.be/t7MOqHGeHHc
+
+
+
+iFrame URL :
+
+//cdn.kiz10.com/upload/games/htmlgames/super-mario-rush-2-2018/1517411248/index.html
+
+
+Desktop iframe embed code [you can change size width x height of container] :
+
+<iframe src="//cdn.kiz10.com/upload/games/htmlgames/super-mario-rush-2-2018/1517411248/index.html" scrolling="no" style="width:100%;height:100%;border:0;overflow:hidden;"></iframe>
+
+Mobile iframe embed code [fullscreen] :
+
+<iframe src="//cdn.kiz10.com/upload/games/htmlgames/super-mario-rush-2-2018/1517411248/index.html" scrolling="no" style="border:0;height: 1px; min-height: 100%;width: 1px; min-width: 100%;"></iframe> 
+
+
+
+
+
+
+
+
