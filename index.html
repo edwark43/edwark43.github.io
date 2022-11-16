@@ -14,28 +14,17 @@
       <link rel="stylesheet" href="styles/button.css">
     </head>
     <body>
+        <ul>
+            <li><a class="active" href="/index.html">Home</a></li>
+            <li><a href="/sitemap.html">Sitemap</a></li>
+            <li><a href="/404.html">WIP</a></li>
+            <li><a href="/404.html">WIP</a></li>
+          </ul>        
         <h2>Home</h2>
         <img src="imgs/zuck.jpg" alt="Mark Zuckerberg Chilling" style="width:300px;height:300px;" srcset="" class="broider">
         <p class="double">Welcome to my Website.</p>
         <a href='https://www.geometrytools.ga'><button class="button">Home</button></a>
         <a href='sitemap.html'><button class="button">Sitemap</button></a>
-        <nav>
-            <ul>
-                <li><a href="home.html">Home</a></li>
-                <li>
-                    <a href="test1.html">Test1 <span class="carrot"></span></a>
-                    <div>
-                        <ul>
-                            <li><a href="test#testA">TestA</a></li>
-                            <li><a href="test.html#B">TestB</a></li>
-                            <li><a href="teset.C">TestC</a></li>
-                        </ul>
-                    </div>
-                </li>
-                <li><a href="test2.html">Test2</a></li>
-                <li><a href="test3.html">Test3</a></li>
-            </ul>
-        </nav>
     </body>
     <style>
     html, body {
@@ -62,18 +51,35 @@
   }
     </style>
     <style>
-   nav {
-background-color: #fff;
-border: 1px solid #dedede;
-border-radius: 4px;
-box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.055);
-color: #888;
-display: block;
-margin: 8px 22px 8px 22px;
-overflow: hidden;
-width: 100%; 
-margin: 0;
-padding: 0;
+        ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+body{
+ margin: 0px;
 }
     </style>
 </html>
