@@ -28,28 +28,34 @@
         <a hidden href='/sitemap.html'><button class="button">Sitemap</button></a>
     </body>
     <style>
-    html, body {
-    width: 100%;
-    height:100%;
-  }
-  
-  body {
-      background: linear-gradient(-45deg, #1700e6, #00e5ff, #00ff1e, #38904e);
-      background-size: 400% 400%;
-      animation: gradient 15s ease infinite;
-  }
-  
-  @keyframes gradient {
-      0% {
-          background-position: 0% 50%;
-      }
-      50% {
-          background-position: 100% 50%;
-      }
-      100% {
-          background-position: 0% 50%;
-      }
-  }
+      html {
+  --s:67px; /* shape size */
+  --m:4px;  /* line thickness */
+
+  --v1: #fff 119.5deg, #0000 120.5deg;
+  --v2: #000  119.5deg, #0000 120.5deg;
+  background:
+    conic-gradient(at var(--m)              calc(var(--s)*0.5777), transparent 270deg, #000 0deg),
+    conic-gradient(at calc(100% - var(--m)) calc(var(--s)*0.5777), #000 90deg,  transparent 0deg),
+    conic-gradient(from -60deg at 50% calc(var(--s)*0.8662)             , var(--v1)),
+    conic-gradient(from -60deg at 50% calc(var(--s)*0.8662 + 2*var(--m)), var(--v2)),
+    conic-gradient(from 120deg at 50% calc(var(--s)*1.4435 + 3*var(--m)), var(--v1)),
+    conic-gradient(from 120deg at 50% calc(var(--s)*1.4435 +   var(--m)), var(--v2)),
+    linear-gradient(90deg, #fff calc(50% - var(--m)),#000 0 calc(50% + var(--m)), #fff 0);
+  background-size: calc(var(--s) + 2*var(--m)) calc(var(--s)*1.732 + 3*var(--m)); 
+  mix-blend-mode:lighten;
+}
+html:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:linear-gradient(90deg,red,blue,green) left/400% 100%;
+  animation:f 2s infinite alternate linear;
+}
+
+@keyframes f {
+  100% {background-position:right}
+}
     </style>
     <style>
         ul {
