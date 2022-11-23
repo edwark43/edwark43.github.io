@@ -22,11 +22,11 @@ ul {
   }
   
   li a:hover:not(.active) {
-    background-color: #080753;
+    background-color: #080754;
   }
   
   .active {
-    background-color: #1100ff;
+    background-color: #1b0aff;
   }
   body{
    margin: 0px;
