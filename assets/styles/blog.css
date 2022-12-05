@@ -2,12 +2,6 @@
     box-sizing: border-box;
   }
   
-  body {
-    font-family: Arial;
-    padding: px;
-    background: #868686;
-  }
-  
   /* Header/Blog Title */
   .header {
     padding: 30px;
