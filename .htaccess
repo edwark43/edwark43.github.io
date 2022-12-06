@@ -1,6 +1,1 @@
 ErrorDocument 404 /404.html
-
-AuthType Basic 
-AuthName "Development Folder" 
-AuthUserFile /.htpasswd 
-require valid-user
