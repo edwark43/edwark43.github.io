@@ -1,5 +1,5 @@
 .broider {
-    border-image:  url("/assets/imgs/border.png") 28 /  28px / 0 round;
-    border-width:  28px;
-    border-style:  solid;
+    border-image: url("/assets/imgs/border.png") 28 / 28px / 0 round;
+    border-width: 28px;
+    border-style: solid;
 }
