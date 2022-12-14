@@ -57,10 +57,6 @@ body {
   text-align: center;
   background: #ddd;
   margin-top: 20px;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
 }
 
 .image {
