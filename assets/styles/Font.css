@@ -11,14 +11,6 @@
 
 }
 
-p {
-    font-family: jetbrains_monoregular;
-}
-
-h1 {
-    font-family: jetbrains_monoregular;
-}
-
-h2 {
+body {
     font-family: jetbrains_monoregular;
 }
