@@ -13,6 +13,8 @@
 body {
   padding: px;
   background: #868686;
+  position: relative;
+  min-height: 100vh;
 }
 
 /* Create two unequal columns that floats next to each other */
