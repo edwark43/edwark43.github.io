@@ -14,3 +14,7 @@
 body {
     font-family: jetbrains_monoregular;
 }
+
+a {
+    font-size: 8px;
+}
