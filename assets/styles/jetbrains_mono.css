@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'jetbrains_monoregular';
-    src: url('/assets/styles/fonts/Font/jetbrainsmono-variablefont_wght-webfont.woff2') format('woff2'),
+    src: url('/assets/styles/fonts/jetbrainsmono/JetBrainsMono-Regular.woff2') format('woff2'),
          url('/assets/styles/fonts/Font/jetbrainsmono-variablefont_wght-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
