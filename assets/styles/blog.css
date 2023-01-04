@@ -11,7 +11,6 @@
 }
 
 body {
-  font-family: jetbrains_monoregular;
   padding: px;
   background: #868686;
 }
@@ -50,14 +49,6 @@ body {
   content: "";
   display: table;
   clear: both;
-}
-
-/* Footer */
-.footer {
-  padding: 20px;
-  text-align: center;
-  background: #ddd;
-  margin-top: 20px;
 }
 
 .image {
