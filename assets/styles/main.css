@@ -2,7 +2,6 @@
   box-sizing: border-box;
 }
 
-/* Header/Blog Title */
 .header {
   padding: 30px;
   font-size: 40px;
@@ -13,10 +12,11 @@
 body {
   padding: px;
   background: #868686;
+  margin: 0;
+  overflow-x: hidden;
+  font-family: jetbrains_monoregular;
 }
 
-/* Create two unequal columns that floats next to each other */
-/* Left column */
 .leftcolumn {
   margin: auto;
   padding: 10px;
@@ -24,27 +24,23 @@ body {
   width: 75%;
 }
 
-/* Right column */
 .rightcolumn {
   float: left;
   width: 25%;
   padding-left: 20px;
 }
 
-/* Fake image */
 .fakeimg {
   background-color: #aaa;
   width: 100%;
 }
 
-/* Add a card effect for articles */
 .card {
   background-color: white;
   padding: 20px;
   margin-top: 20px;
 }
 
-/* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
@@ -56,7 +52,32 @@ body {
   max-height: 100%;
 }
 
-/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+.borderimg {
+  border-image: url("/assets/imgs/border.png") 28 / 28px / 0 round;
+  border-width: 28px;
+  border-style: solid;
+}
+
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;
+}
+
+#footer {
+  padding: 20px;
+  text-align: center;
+  background: rgb(221, 221, 221);
+  margin-top: 20px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  font-size: 11px;
+}
+
 @media screen and (max-width: 800px) {
 
   .leftcolumn,
@@ -64,4 +85,13 @@ body {
     width: 100%;
     padding: 0;
   }
+}
+
+@font-face {
+  font-family: 'jetbrains_monoregular';
+  src: url('/assets/styles/Font/jetbrainsmono-regular-webfont.woff2') format('woff2'),
+    url('/assets/styles/Font/jetbrainsmono-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
 }
