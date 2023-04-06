@@ -4,7 +4,7 @@
 
 body {
   padding: px;
-  background: #868686;
+  background: #989898;
   margin: 0;
   overflow-x: hidden;
   font-family: sans-serif;
@@ -27,6 +27,8 @@ body {
 
 #content-wrap {
   padding-bottom: 2.5rem;
+  margin-top: 15px;
+  margin-left: 20px;
 }
 
 #footer {
@@ -82,22 +84,71 @@ body {
 }
 
 .material-symbols-rounded {
-  font-variation-settings:
-  'FILL' 0,
-  'wght' 700,
-  'GRAD' 200,
-  'opsz' 48
+  font-variation-settings: "FILL" 0, "wght" 700, "GRAD" 200, "opsz" 48;
 }
-.materialtext{
+.materialtext {
   font-size: 19.2px;
 }
 .imglink {
-  width: 51.5px;
-  height: 51.5px;
-  background-color: rgb(255, 255, 255);
-  float: right;
+  width: 50px;
+  height: 50px;
+  margin-left: 10px;
 }
 .img {
-  width: 51.5px;
-  height: 51.5px;
+  height: 50px;
+  width: 50px;
+}
+.about {
+  background-color: white;
+  width: 250px;
+  height: 250px;
+  border-radius: 50px;
+  float: right;
+  margin-right: 40px;
+}
+.aboutext {
+  font-size: x-large;
+  text-align: center;
+}
+
+#aboutpg {
+  background-color: white;
+  width: 70%;
+  height: 100%;
+  border-radius: 25px;
+  float: left;
+}
+#pgt {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+ul {
+  list-style-type: none;
+  margin: auto;
+  padding: auto;
+  overflow: hidden;
+  background-color: hsl(0, 0%, 0%);
+  width: 98%;
+  border-radius: 50px;
+  margin-top: 5px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: hsl(241, 85%, 18%);
+}
+
+.active {
+  background-color: hsl(244, 100%, 52%);
 }
