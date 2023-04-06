@@ -92,9 +92,8 @@ body {
   font-size: 19.2px;
 }
 .imglink {
-  display: block;
-  width: 103px;
-  height: 103px;
-  background-color: black;
-  margin-left: auto;
+  width: 51.5px;
+  height: 51.5px;
+  background-color: rgb(255, 255, 255);
+  float: right;
 }
