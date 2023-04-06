@@ -91,3 +91,9 @@ body {
 .materialtext{
   font-size: 19.2px;
 }
+.imglink {
+  width: 32px;
+  height: 32px;
+  background-color: black;
+  float: left;
+}
