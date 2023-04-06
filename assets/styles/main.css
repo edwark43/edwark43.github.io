@@ -92,8 +92,9 @@ body {
   font-size: 19.2px;
 }
 .imglink {
+  display: block;
   width: 103px;
   height: 103px;
   background-color: black;
-  float: right;
+  margin-left: auto;
 }
