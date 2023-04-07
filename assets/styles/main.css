@@ -88,9 +88,6 @@ body {
   -webkit-font-smoothing: antialiased;
   font-feature-settings: "liga";
 }
-.font {
-  
-}
 .material-symbols-rounded {
   font-variation-settings: "FILL" 0, "wght" 700, "GRAD" 200, "opsz" 48;
 }
