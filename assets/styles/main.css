@@ -57,7 +57,13 @@ body {
   font-weight: normal;
   font-style: normal;
 }
-
+@font-face {
+  font-family: "notosans";
+  src: url("/assets/styles/Font/NotoSans.woff2") format("woff2"),
+    url("/assets/styles/Font/NotoSans.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
 @font-face {
   font-family: "Material Symbols Rounded";
   font-style: normal;
@@ -82,7 +88,9 @@ body {
   -webkit-font-smoothing: antialiased;
   font-feature-settings: "liga";
 }
-
+.font {
+  
+}
 .material-symbols-rounded {
   font-variation-settings: "FILL" 0, "wght" 700, "GRAD" 200, "opsz" 48;
 }
@@ -110,7 +118,6 @@ body {
   font-size: x-large;
   text-align: center;
 }
-
 #aboutpg {
   background-color: white;
   width: 70%;
@@ -132,11 +139,9 @@ ul {
   border-radius: 50px;
   margin-top: 5px;
 }
-
 li {
   float: left;
 }
-
 li a {
   display: block;
   color: white;
@@ -144,11 +149,93 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
-
 li a:hover:not(.active) {
   background-color: hsl(241, 85%, 18%);
 }
-
 .active {
   background-color: hsl(244, 100%, 52%);
+}
+.noscroll {
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #3c3c3c;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.button:hover {
+  background-color: #000000;
+}
+.button:active {
+  background-color: #000000;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.bg {
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  right: -50%;
+  bottom: -50%;
+  width: 200%;
+  height: 200vh;
+  z-index: -1;
+  background: transparent url("/assets/imgs/noise-transparent.png") repeat 0 0;
+  background-repeat: repeat;
+  animation: bg-animation 0.2s infinite;
+  opacity: 0.9;
+  visibility: visible;
+}
+@keyframes bg-animation {
+  0% {
+    transform: translate(0, 0);
+  }
+
+  10% {
+    transform: translate(-5%, -5%);
+  }
+
+  20% {
+    transform: translate(-10%, 5%);
+  }
+
+  30% {
+    transform: translate(5%, -10%);
+  }
+
+  40% {
+    transform: translate(-5%, 15%);
+  }
+
+  50% {
+    transform: translate(-10%, 5%);
+  }
+
+  60% {
+    transform: translate(15%, 0);
+  }
+
+  70% {
+    transform: translate(0, 10%);
+  }
+
+  80% {
+    transform: translate(-15%, 0);
+  }
+
+  90% {
+    transform: translate(10%, 5%);
+  }
+
+  100% {
+    transform: translate(5%, 0);
+  }
 }
