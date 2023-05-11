@@ -21,7 +21,6 @@ body {
 }
 
 #page-container {
-  position: relative;
   min-height: 100vh;
 }
 
@@ -92,7 +91,7 @@ body {
   font-variation-settings: "FILL" 0, "wght" 700, "GRAD" 200, "opsz" 48;
 }
 .materialtext {
-  font-size: 17px;
+  font-size: 20px;
 }
 .imglink {
   width: 50px;
@@ -104,23 +103,28 @@ body {
   width: 50px;
 }
 .about {
-  background-color: white;
+  background-color: #989898;
   width: 250px;
   height: 250px;
-  border-radius: 50px;
+  border-radius: 10px;
   float: right;
-  margin-right: 40px;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: -1px;
+  margin-right: -1px;
 }
 .aboutext {
   font-size: x-large;
   text-align: center;
 }
 #aboutpg {
-  background-color: white;
-  width: 70%;
-  height: 100%;
+  background-color: #eeeeee;
+  width: 99%;
+  height: 300px;
   border-radius: 25px;
-  float: left;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 1px;
 }
 #pgt {
   margin-left: 25px;
@@ -134,7 +138,7 @@ ul {
   background-color: hsl(0, 0%, 0%);
   width: 98%;
   border-radius: 50px;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 li {
   float: left;
@@ -187,11 +191,11 @@ li a:hover:not(.active) {
   z-index: -1;
   background: transparent url("/assets/imgs/noise-transparent.png") repeat 0 0;
   background-repeat: repeat;
-  animation: bg-animation 0.2s infinite;
+  animation: shake 0.2s infinite;
   opacity: 0.9;
   visibility: visible;
 }
-@keyframes bg-animation {
+@keyframes shake {
   0% {
     transform: translate(0, 0);
   }
