@@ -14,7 +14,7 @@ body {
   font-size: large;
 }
 
-.borderimg {
+.border {
   border-image: url("/assets/imgs/border.png") 28 / 28px / 0 round;
   border-width: 28px;
   border-style: solid;
@@ -28,17 +28,6 @@ body {
   padding-bottom: 2.5rem;
   margin-top: 15px;
   margin-left: 20px;
-}
-
-#footer {
-  padding: 20px;
-  text-align: center;
-  background: rgb(221, 221, 221);
-  margin-top: 20px;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  font-size: 11px;
 }
 
 @media screen and (max-width: 800px) {
@@ -96,17 +85,19 @@ body {
 .imglink {
   width: 50px;
   height: 50px;
-  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  float: right;
 }
 .img {
   height: 50px;
   width: 50px;
 }
 .about {
-  background-color: #989898;
-  width: 250px;
-  height: 250px;
-  border-radius: 10px;
+  background-color: #eeeeee;
+  width: 20%;
+  height: 300px;
+  border-radius: 25px;
   float: right;
   border-style: solid;
   border-width: 1px;
@@ -119,7 +110,7 @@ body {
 }
 #aboutpg {
   background-color: #eeeeee;
-  width: 99%;
+  width: 80%;
   height: 300px;
   border-radius: 25px;
   border-color: #000000;
