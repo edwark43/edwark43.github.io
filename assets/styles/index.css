@@ -1,0 +1,17 @@
+.welcome {
+    font-size: large;
+    color: #eeeeee;
+    margin-left: 10px;
+  }
+  
+  #terminal {
+    width: 98%;
+    height: 60px;
+    background-color: #000000;
+  }
+  
+  .border {
+    border-image: url("/assets/imgs/border.png") 28 / 28px / 0 round;
+    border-width: 28px;
+    border-style: solid;
+  }

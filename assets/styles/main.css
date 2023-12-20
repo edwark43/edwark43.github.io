@@ -10,14 +10,66 @@ body {
   font-family: sans-serif;
 }
 
-.welcome {
-  font-size: large;
+.bg {
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  right: -50%;
+  bottom: -50%;
+  width: 200%;
+  height: 200vh;
+  z-index: -1;
+  background: transparent url("/assets/imgs/noise-transparent.png") repeat 0 0;
+  background-repeat: repeat;
+  animation: shake 0.2s infinite;
+  opacity: 0.9;
+  visibility: visible;
 }
 
-.border {
-  border-image: url("/assets/imgs/border.png") 28 / 28px / 0 round;
-  border-width: 28px;
-  border-style: solid;
+@keyframes shake {
+  0% {
+    transform: translate(0, 0);
+  }
+
+  10% {
+    transform: translate(-5%, -5%);
+  }
+
+  20% {
+    transform: translate(-10%, 5%);
+  }
+
+  30% {
+    transform: translate(5%, -10%);
+  }
+
+  40% {
+    transform: translate(-5%, 15%);
+  }
+
+  50% {
+    transform: translate(-10%, 5%);
+  }
+
+  60% {
+    transform: translate(15%, 0);
+  }
+
+  70% {
+    transform: translate(0, 10%);
+  }
+
+  80% {
+    transform: translate(-15%, 0);
+  }
+
+  90% {
+    transform: translate(10%, 5%);
+  }
+
+  100% {
+    transform: translate(5%, 0);
+  }
 }
 
 #page-container {
@@ -76,51 +128,15 @@ body {
   -webkit-font-smoothing: antialiased;
   font-feature-settings: "liga";
 }
+
 .material-symbols-rounded {
   font-variation-settings: "FILL" 0, "wght" 700, "GRAD" 200, "opsz" 48;
 }
+
 .materialtext {
   font-size: 20px;
 }
-.imglink {
-  width: 50px;
-  height: 50px;
-  margin-right: 10px;
-  margin-bottom: 10px;
-  float: right;
-}
-.img {
-  height: 50px;
-  width: 50px;
-}
-.about {
-  background-color: #eeeeee;
-  width: 20%;
-  height: 300px;
-  border-radius: 25px;
-  float: right;
-  border-style: solid;
-  border-width: 1px;
-  margin-top: -1px;
-  margin-right: -1px;
-}
-.aboutext {
-  font-size: x-large;
-  text-align: center;
-}
-#aboutpg {
-  background-color: #eeeeee;
-  width: 80%;
-  height: 300px;
-  border-radius: 25px;
-  border-color: #000000;
-  border-style: solid;
-  border-width: 1px;
-}
-#pgt {
-  margin-left: 25px;
-  margin-right: 25px;
-}
+
 ul {
   list-style-type: none;
   margin: auto;
@@ -131,9 +147,11 @@ ul {
   border-radius: 50px;
   margin-top: 10px;
 }
+
 li {
   float: left;
 }
+
 li a {
   display: block;
   color: white;
@@ -141,16 +159,20 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+
 li a:hover:not(.active) {
   background-color: hsl(241, 85%, 18%);
 }
+
 .active {
   background-color: hsl(244, 100%, 52%);
 }
+
 .noscroll {
   overflow-x: hidden;
   overflow-y: hidden;
 }
+
 .button {
   padding: 15px 25px;
   font-size: 24px;
@@ -170,64 +192,4 @@ li a:hover:not(.active) {
   background-color: #000000;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
-}
-.bg {
-  position: fixed;
-  top: -50%;
-  left: -50%;
-  right: -50%;
-  bottom: -50%;
-  width: 200%;
-  height: 200vh;
-  z-index: -1;
-  background: transparent url("/assets/imgs/noise-transparent.png") repeat 0 0;
-  background-repeat: repeat;
-  animation: shake 0.2s infinite;
-  opacity: 0.9;
-  visibility: visible;
-}
-@keyframes shake {
-  0% {
-    transform: translate(0, 0);
-  }
-
-  10% {
-    transform: translate(-5%, -5%);
-  }
-
-  20% {
-    transform: translate(-10%, 5%);
-  }
-
-  30% {
-    transform: translate(5%, -10%);
-  }
-
-  40% {
-    transform: translate(-5%, 15%);
-  }
-
-  50% {
-    transform: translate(-10%, 5%);
-  }
-
-  60% {
-    transform: translate(15%, 0);
-  }
-
-  70% {
-    transform: translate(0, 10%);
-  }
-
-  80% {
-    transform: translate(-15%, 0);
-  }
-
-  90% {
-    transform: translate(10%, 5%);
-  }
-
-  100% {
-    transform: translate(5%, 0);
-  }
 }

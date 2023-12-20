@@ -1,0 +1,44 @@
+.social-link {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float: right;
+}
+
+.img {
+    height: 50px;
+    width: 50px;
+}
+
+.links {
+    background-color: #eeeeee;
+    width: 20%;
+    height: 300px;
+    border-radius: 25px;
+    float: right;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: -1px;
+    margin-right: -1px;
+}
+
+.links-title {
+    font-size: x-large;
+    text-align: center;
+}
+
+#about-div {
+    background-color: #eeeeee;
+    width: 80%;
+    height: 300px;
+    border-radius: 25px;
+    border-color: #000000;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#about-description {
+    margin-left: 25px;
+    margin-right: 25px;
+}
