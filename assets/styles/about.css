@@ -7,8 +7,7 @@
 }
 
 .img {
-    height: 50px;
-    width: 50px;
+    max-width: 100%;
 }
 
 .links {
@@ -24,7 +23,7 @@
 }
 
 .links-title {
-    font-size: x-large;
+    font-size: 2vw;
     text-align: center;
 }
 
@@ -41,4 +40,5 @@
 #about-description {
     margin-left: 25px;
     margin-right: 25px;
+    font-size: 1.2vw;
 }
