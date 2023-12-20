@@ -3,11 +3,6 @@
   <head>
     <title>Home</title>
     <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="/assets/Favicons/Base_Favicon/apple-touch-icon.png"
-    />
-    <link
       rel="icon"
       type="image/png"
       sizes="32x32"
@@ -23,14 +18,13 @@
       rel="manifest"
       href="/assets/Favicons/Base_Favicon/site.webmanifest"
     />
-    <link
-      rel="mask-icon"
-      href="/assets/Favicons/Base_Favicon/safari-pinned-tab.svg"
-      color="#5bbad5"
-    />
-    <meta name="msapplication-TileColor" content="#da532c" />
-    <meta name="theme-color" content="#ff0000" />
+    <meta charset="UTF-8" />
+    <meta name="description" content="edwark43's Website" />
+    <meta name="keywords" content="edwark43, website, github" />
+    <meta author="edwark43" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/assets/styles/main.css" />
+    <link rel="stylesheet" href="/assets/styles/index.css" />
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
   </head>
   <body>
@@ -52,22 +46,25 @@
           srcset=""
           class="border"
         />
-        <p class="welcome"><span class="auto-type"></span></p>
+        <div id="terminal">
+          <p class="welcome">>&nbsp;<span class="auto-type"></span></p>
+        </div>
       </div>
     </div>
     <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
     <script>
       var typed = new Typed(".auto-type", {
         strings: [
-          "echo \"Hello.\"^1000 <br>`Hello.`",
-          "echo \"Welcome to my Website.\"^1000 <br>`Welcome to my Website.`",
-          "echo \"This is uneccessary.\"^1000 <br>`This is uneccessary.`",
-          "echo \"This is just filler.\"^1000 <br>`This is just filler.`",
+          'echo "Hello."^1000 <br>`Hello.`',
+          'echo "Welcome to my Website."^1000 <br>`Welcome to my Website.`',
+          'echo "This is uneccessary."^1000 <br>`This is uneccessary.`',
+          'echo "This is just filler."^1000 <br>`This is just filler.`',
         ],
         typeSpeed: 50,
-        backSpeed: 50,
+        fadeOut: true,
         loop: true,
-        cursorChar: "<",
+        cursorChar: "█",
+        smartBackspace: false,
       });
     </script>
   </body>
