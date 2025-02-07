@@ -1,11 +1,8 @@
-ErrorDocument 404 404.html
-ErrorDocument 401 401.html
-ErrorDocument 500 500.html
-ErrorDocument 502 502.html
-ErrorDocument 410 410.html
-RewriteEngine On
-#RewriteCond %{HTTP:X-Forwarded-Proto} !https
-#RewriteCond %{HTTPS} off
-#RewriteCond %{HTTP:CF-Visitor} !{"scheme":"https"}
-#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-#RewriteRule ^(.*)$ http://yourwebsitename.con/expired_page $1 [R=410,L] 
+ErrorDocument 400 /p/errors/400.html
+ErrorDocument 401 /p/errors/401.html
+ErrorDocument 403 /p/errors/403.html
+ErrorDocument 404 /p/errors/404.html
+ErrorDocument 410 /p/errors/410.html
+ErrorDocument 500 /p/errors/500.html
+ErrorDocument 502 /p/errors/502.html
+IndexIgnore ..
